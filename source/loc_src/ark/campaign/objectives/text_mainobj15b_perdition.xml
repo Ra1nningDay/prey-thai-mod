@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG />
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12270</WindowHeight>
+  <WindowWidth>26625</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1 />
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders />
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior />
+   <NumberFormat />
+   <Protection />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="LocStuff">
+  <Table x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="210"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">KEY</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ORIGINAL TEXT</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">TRANSLATED TEXT</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">CHARACTER LIMIT</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630561</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หายนะ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หายนะ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630562</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลายสถานีอวกาศ Talos I หากเกิดการระบาดของ Typhon และนั่นคือสถานการณ์ที่ผมกำลังเผชิญอยู่ ผมได้ Arming Key มาแล้ว ตอนนี้ที่ต้องทำก็แค่ใช้กุญแจทั้งสองดอกเตรียมเตาปฏิกรณ์เพื่อทำลายตัวเองใน Power Plant แล้วสั่งเปิดใช้งานจาก Bridge</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลายสถานีอวกาศ Talos I หากเกิดการระบาดของ Typhon และนั่นคือสถานการณ์ที่ผมกำลังเผชิญอยู่ ผมได้ Arming Key มาแล้ว ตอนนี้ที่ต้องทำก็แค่ใช้กุญแจทั้งสองดอกเตรียมเตาปฏิกรณ์เพื่อทำลายตัวเองใน Power Plant แล้วสั่งเปิดใช้งานจาก Bridge</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630563</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลายสถานีอวกาศ Talos I หากเกิดการระบาดของ Typhon และนั่นคือสถานการณ์ที่ผมกำลังเผชิญอยู่ ผมเพิ่งเปิดระบบทำลายตัวเองของสถานี ภายในไม่กี่นาทีทุกอย่างในระยะรัศมีจะถูกกลืนกินด้วยลูกไฟพลาสมา ถ้าผมไปถึง Shuttle Bay ทันเวลา ผมอาจหนีรอดไปได้</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลายสถานีอวกาศ Talos I หากเกิดการระบาดของ Typhon และนั่นคือสถานการณ์ที่ผมกำลังเผชิญอยู่ ผมเพิ่งเปิดระบบทำลายตัวเองของสถานี ภายในไม่กี่นาทีทุกอย่างในระยะรัศมีจะถูกกลืนกินด้วยลูกไฟพลาสมา ถ้าผมไปถึง Shuttle Bay ทันเวลา ผมอาจหนีรอดไปได้</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630564</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">I left myself instructions to destroy the Talos I space station if the Typhon broke out. That&apos;s the current situation I find myself in. I&apos;ve activated the station&apos;s self destruct mechanism. Within minutes everything within a few clicks will be engulfed in a ball of plasma. &lt;br&gt;&lt;br&gt;January was programmed to keep me on the station if I had too much Typhon material inside my head. Former me intended that I sacrifice myself and go down with the station.</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองให้ทำลายสถานีอวกาศ Talos I หาก Typhon หลุดออกมา นี่คือสถานการณ์ปัจจุบันที่ผมกำลังเผชิญอยู่ ผมได้เปิดใช้งานกลไกทำลายตัวเองของสถานีแล้ว ภายในไม่กี่นาที ทุกสิ่งในระยะไม่กี่คลิกจะถูกกลืนกินด้วยลูกบอลพลาสมา <br><br>January ถูกตั้งโปรแกรมไว้ให้ผมอยู่บนสถานี หากผมมีสาร Typhon มากเกินไปในหัว ตัวผมคนก่อนตั้งใจให้ผมเสียสละตัวเองและจมไปพร้อมกับสถานี</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630565</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลายสถานีอวกาศ Talos I หากเกิดการระบาดของ Typhon และนั่นคือสถานการณ์ที่ผมกำลังเผชิญอยู่ ผมเพิ่งเปิดระบบทำลายตัวเองของสถานี ภายในไม่กี่นาทีทุกอย่างในระยะรัศมีจะถูกกลืนกินด้วยลูกไฟพลาสมา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลายสถานีอวกาศ Talos I หากเกิดการระบาดของ Typhon และนั่นคือสถานการณ์ที่ผมกำลังเผชิญอยู่ ผมเพิ่งเปิดระบบทำลายตัวเองของสถานี ภายในไม่กี่นาทีทุกอย่างในระยะรัศมีจะถูกกลืนกินด้วยลูกไฟพลาสมา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630566</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">I left myself instructions to destroy the Talos I space station if the Typhon broke out. That&apos;s the current situation I find myself in. I&apos;ve activated the station&apos;s self destruct mechanism. Within minutes everything within a few clicks will be engulfed in a ball of plasma. &lt;br&gt;&lt;br&gt;January was programmed to keep me on the station if I had too much Typhon material in my head. There was a shuttle waiting for me, but January impersonated my voice to send it away.</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองให้ทำลายสถานีอวกาศ Talos I หาก Typhon หลุดออกมา นี่คือสถานการณ์ปัจจุบันที่ผมกำลังเผชิญอยู่ ผมได้เปิดใช้งานกลไกทำลายตัวเองของสถานีแล้ว ภายในไม่กี่นาที ทุกสิ่งในระยะไม่กี่คลิกจะถูกกลืนกินด้วยลูกบอลพลาสมา <br><br>January ถูกตั้งโปรแกรมไว้ให้ผมอยู่บนสถานี หากผมมีสาร Typhon มากเกินไปในหัว มี Shuttle รอผมอยู่ แต่ January ปลอมเสียงผมเพื่อส่งมันออกไป</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630567</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ช่องรับกุญแจ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ช่องรับกุญแจ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630568</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ใช้ Arming Key ใน Power Plant</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ใช้ Arming Key ใน Power Plant</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630569</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เทอร์มินัลทำลายตัวเอง</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เทอร์มินัลทำลายตัวเอง</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630570</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">สั่งทำลายตัวเองของสถานี</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">สั่งทำลายตัวเองของสถานี</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630571</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ที่นั่ง</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ที่นั่ง</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630572</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">สละชีวิตตัวเองเพื่อปกป้องโลก</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">สละชีวิตตัวเองเพื่อปกป้องโลก</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630573</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">กระสวยหลบภัยของ Alex</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">กระสวยหลบภัยของ Alex</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630574</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ใช้กุญแจกระสวยหลบภัยของ Alex เพื่อหนีจาก Talos</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ใช้กุญแจกระสวยหลบภัยของ Alex เพื่อหนีจาก Talos</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630575</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">กระสวย</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">กระสวย</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630576</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ไปที่กระสวยเพื่อหนีจาก Talos I</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ไปที่กระสวยเพื่อหนีจาก Talos I</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630577</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">กระสวย</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">กระสวย</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630578</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เข้าไปในกระสวยและนั่งข้าง Dahl</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เข้าไปในกระสวยและนั่งข้าง Dahl</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630579</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ระบบทำลายตัวเองของ Talos เริ่มทำงาน</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ระบบทำลายตัวเองของ Talos เริ่มทำงาน</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630580</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หาทางอื่นเพื่อหนีจากสถานี</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หาทางอื่นเพื่อหนีจากสถานี</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_6732635291233575428</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เข้าถึงคอนโซลทำลายตัวเอง</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เข้าถึงคอนโซลทำลายตัวเอง</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_6732635291233575498</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">คอนโซลเตาปฏิกรณ์</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">คอนโซลเตาปฏิกรณ์</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_13856881013230495626</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">การทำลายตัวเองของ Talos</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">การทำลายตัวเองของ Talos</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_13856881013230495736</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">การออกเดินทางของกระสวย</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">การออกเดินทางของกระสวย</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_844024417328378474</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">The arming keys can always be fabricated if they get lost.</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Arming Key สามารถ Fabricate ได้เสมอหากมันหายไป</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">loc_13856881013234545486</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">การออกเดินทางของกระสวย</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">การออกเดินทางของกระสวย</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced />
+   <Selected />
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>25</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:ExcelWorkbook />
+</Workbook>

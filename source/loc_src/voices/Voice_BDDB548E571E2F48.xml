@@ -1,0 +1,850 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="Sheet1">
+    <Table>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">KEY</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ORIGINAL TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TRANSLATED TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">LOCKED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">CHARACTER LIMIT</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E2FD1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hey!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เฮ้!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E2FD7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hey, over here!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เฮ้ ทางนี้!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3111</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Listen. You run into any other fellas wearing an green jumpsuit ... watch your ass.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฟังนะ ถ้าคุณเจอไอ้พวกที่ใส่ชุดจั๊มสูทสีเขียว... ระวังตัวให้ดีล่ะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3189</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Are you a scientist?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณเป็นนักวิทยาศาสตร์เหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E318F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">My name's Aaron. Aaron Ingram. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมชื่อ Aaron. Aaron Ingram.</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3196</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Come... come closer.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มา... เข้ามาใกล้ๆ หน่อย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E319B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ah, hell, uh.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อ่า ให้ตายสิ เอ่อ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E31A2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Let's talk.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มาคุยกัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E31B8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You need guns? Ammo? I saw one of them science types go into that armory. Saw him punch in the code. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณต้องการปืนเหรอ? กระสุนล่ะ? ผมเห็นพวกนักวิทยาศาสตร์คนนึงเข้าไปในคลังอาวุธนั่น เห็นเขากดรหัสด้วย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E31BF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You get me out of here, I'll let you have it. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้าคุณปล่อยผมออกไปจากที่นี่ ผมจะบอกรหัสให้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E31E0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Find anything good in that armory?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เจออะไรดีๆ ในคลังอาวุธนั่นบ้างไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E31EB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I was gonna give you the code, but I guess you don't need it. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมว่าจะให้รหัสคุณนะ แต่ดูเหมือนคุณคงไม่ต้องการแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E31F5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Still, I sure would appreciate being let out of here!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถึงอย่างนั้น ผมก็ยังอยากให้คุณปล่อยผมออกไปจากที่นี่อยู่ดี!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3346</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No reason to keep me locked up in here anymore.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่มีเหตุผลอะไรที่จะต้องขังผมไว้ที่นี่อีกแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3358</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">C'mon, now, goddammit. Let me out!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มาเถอะน่า ให้ตายสิ ปล่อยผมออกไป!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3361</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All you gotta do is open the door.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">สิ่งที่คุณต้องทำก็แค่เปิดประตู</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3371</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Most of the other fellas were Russian. I speak a little, but as you can tell I ain't from there.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไอ้พวกที่เหลือส่วนใหญ่เป็นคนรัสเซีย ผมพูดได้นิดหน่อย แต่คุณก็คงรู้ว่าผมไม่ได้มาจากที่นั่น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E337B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">As you might'ave guessed.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อย่างที่คุณอาจจะเดาได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E33A6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You know I used to be a reverend? Training for it anyways.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณรู้ไหมว่าผมเคยเป็นบาทหลวง? อย่างน้อยก็กำลังฝึกอยู่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E33B2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Till I got locked up. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">จนกระทั่งผมถูกขัง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E33BE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Behold, the wicked man conceives evil, is pregnant with mischief and gives birth to lies.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ดูเถิด คนชั่วคิดชั่ว ตั้งครรภ์ด้วยความชั่วร้าย และให้กำเนิดคำโกหก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E33CE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Does that sound like anybody you know?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฟังดูเหมือนใครที่คุณรู้จักบ้างไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E33F1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I know my life ain't worth two dead crickets, but nobody deserves this. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมรู้ว่าชีวิตผมไม่มีค่าอะไรเลย แต่ไม่มีใครสมควรได้รับสิ่งนี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E33FB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Y'all really shit and fell backwards in it, huh?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พวกคุณนี่มันทำเรื่องแย่ๆ แล้วก็ซวยซ้ำซวยซ้อนจริงๆ สินะ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3403</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Sigh)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(ถอนหายใจ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E342A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hey! Oh- whoa, whoa, whoa! Just what the hell are you doing?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เฮ้! โอ้ว- โว้ว โว้ว โว้ว! คุณกำลังทำบ้าอะไรเนี่ย?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E344B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What's that thing doing in there, huh?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไอ้ตัวนั้นมันทำอะไรอยู่ในนั้นน่ะ หือ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E346C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Don't do it. Please, God, don't do it - I'm begging you. One human being to another, don't do it!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อย่าทำนะ ได้โปรดเถอะพระเจ้า อย่าทำเลย - ผมขอร้องคุณ ในฐานะมนุษย์คนหนึ่ง อย่าทำเลย!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E347C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I know what it's like to cross that line. There ain't no coming back. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมรู้ว่าการก้าวข้ามเส้นนั้นมันเป็นยังไง มันไม่มีทางย้อนกลับได้หรอก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3488</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Godammit show me some mercy, you sick sonuvabitch.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ให้ตายสิ แสดงความเมตตาให้ผมบ้างสิ ไอ้สารเลวโรคจิต!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3504</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Shit! You- I told you not to do it! Oh shit!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">บ้าเอ๊ย! คุณ- ผมบอกคุณแล้วว่าอย่าทำ! โอ้ บ้าจริง!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3514</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Now that's what I'm talking about! Some human decency, friend.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่แหละที่ผมพูดถึง! ความเป็นมนุษย์หน่อยสิเพื่อน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3528</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You're the one person that showed me any real kindness, and you can believe I won't forget it.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณเป็นคนเดียวที่แสดงความเมตตาที่แท้จริงให้ผมเห็น และคุณเชื่อได้เลยว่าผมจะไม่มีวันลืม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E3534</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If you still want that code, it's 8714.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้าคุณยังต้องการรหัส มันคือ 8714</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E35A2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">They ain't all decent human beings like me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พวกเขาไม่ได้เป็นคนดีมีน้ำใจเหมือนผมทุกคนหรอก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E35BA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'll just lay low for a bit. Plan a route outta here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมจะหลบซ่อนตัวสักพัก แล้ววางแผนหาทางออกจากที่นี่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E35D9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You look kind of familiar. You sure you ain't been here before?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณดูคุ้นๆ นะ คุณแน่ใจเหรอว่าไม่เคยมาที่นี่มาก่อน?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E35E6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I never seen creatures like that. Where'd they get 'em? Bottom of the ocean or something?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมไม่เคยเห็นสิ่งมีชีวิตแบบนั้นเลย พวกเขาไปเอามาจากไหน? ก้นมหาสมุทรหรือไง?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571E37BD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oh! Lots of good stuff in here. Maybe there's a spare pistol.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอ้! ของดีๆ เต็มไปหมดเลยในนี้ บางทีอาจจะมีปืนพกสำรองก็ได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B7FFE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I know there's something over there...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมรู้ว่ามีอะไรบางอย่างอยู่ตรงนั้น...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B8016</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ah, shit.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อ่า แย่แล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B801E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What was that?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นั่นอะไรน่ะ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B803E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You can't hide forever.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณซ่อนตัวตลอดไปไม่ได้หรอก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B8056</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">C'mon now. Let's see what you got.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มาเถอะน่า มาดูกันว่าคุณมีอะไร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B80A2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Where in...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ที่ไหนกัน...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B80EE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oh, shit! That ain't right.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอ้ แย่แล้ว! นั่นมันไม่ถูกต้อง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B8170</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Lord have mercy. What kind of devil have you got inside you?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พระเจ้าทรงเมตตาเถิด คุณมีปีศาจอะไรอยู่ในตัวกันแน่?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B822D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You sure there ain't some numbers scratched on your forehead? Add up to eighteen?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณแน่ใจนะว่าไม่มีตัวเลขขีดเขียนอยู่บนหน้าผากคุณ? รวมกันได้สิบแปด?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B8262</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What are you doin'?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณกำลังทำอะไรน่ะ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B82B1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Can't say I understand your motive.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมบอกไม่ได้ว่าผมเข้าใจแรงจูงใจของคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B82D5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Sigh)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(ถอนหายใจ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B8346</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I thought we were square!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมคิดว่าเราเคลียร์กันแล้วนะ!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B83D4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You left me no choice.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณไม่เหลือทางเลือกให้ผมเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B83E5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">There it is!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อยู่นั่นไง!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B8414</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You damn son of a-!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แก ไอ้ลูก-!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B85E1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Gone now.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไปแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B860C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Woo! Whooped his ass good.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">วู้! อัดมันซะน่วมเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B8629</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Probably ain't the last time.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คงไม่ใช่ครั้งสุดท้ายหรอก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B88C9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Cry of Relief) Somebody must be watchin' over me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(ร้องด้วยความโล่งอก) ต้องมีใครสักคนคุ้มครองผมอยู่แน่ๆ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B88EC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oh, I got a real bad feelin'.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอ้ ผมรู้สึกไม่ดีเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B88FB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I expect we ain't gonna like what's comin'.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมว่าเราคงไม่ชอบสิ่งที่กำลังจะมาถึงหรอก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572B893A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Kill it!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฆ่ามัน!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A7808</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I seen one of the other volunteers come through here. A big guy. Bastard wouldn't let me out and now I'm glad he didn't.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมเห็นอาสาสมัครอีกคนผ่านมาทางนี้ ตัวใหญ่เชียว ไอ้สารเลวนั่นไม่ยอมปล่อยผมออกไป และตอนนี้ผมก็ดีใจที่เขาไม่ปล่อย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A7812</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Watched him bash some poor sucker's head in with a wrench. Kept going on and on about... black eggs and whatnot. Real disturbed.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เห็นเขาทุบหัวไอ้โง่คนหนึ่งด้วยประแจ พูดพร่ำถึง... ไข่สีดำอะไรทำนองนั้น ดูผิดปกติมาก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A7896</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Being here, you start to miss things. Things you gladly said good riddance to. Like this miniature poodle I used to have. Ugly as sin.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อยู่ที่นี่ คุณจะเริ่มคิดถึงสิ่งต่างๆ สิ่งที่คุณเคยโล่งใจที่กำจัดไปได้ อย่างพุดเดิ้ลพันธุ์เล็กที่ผมเคยเลี้ยง น่าเกลียดสุดๆ เลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A78B5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Little shit used to chew holes in my boots. (Sigh) Wonder what he's doin' now?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไอ้ตัวเล็กนั่นชอบกัดรองเท้าบูทผมเป็นรู (ถอนหายใจ) สงสัยว่าตอนนี้มันกำลังทำอะไรอยู่?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A88E8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hey, what you reading? My rap sheet? Huh?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เฮ้ คุณกำลังอ่านอะไรน่ะ? ประวัติอาชญากรรมของผมเหรอ? หือ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A89AA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'm telling you, on my momma's grave that is a stack of lies meant to make pushing that button easier on you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมบอกคุณเลยนะ สาบานต่อหลุมศพแม่ผมว่านั่นมันเป็นกองเรื่องโกหกที่สร้างขึ้นมาเพื่อให้คุณกดปุ่มนั้นได้ง่ายขึ้น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A89C1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ok fine, listen - I want to be honest - some of it probably is true.  I done some wrong in my days.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอเคก็ได้ ฟังนะ - ผมอยากจะซื่อสัตย์ - บางส่วนมันอาจจะจริง ผมเคยทำผิดมาบ้างในชีวิต</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A89CA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">But this ain't right, now. C'mon, y'all got to let me out of here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แต่ตอนนี้มันไม่ถูกต้องนะ มาเถอะ พวกคุณต้องปล่อยผมออกไปจากที่นี่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A95E3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I never did anything to those kids. I was just gettin'em out of a bad spot. That's all.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมไม่เคยทำอะไรเด็กพวกนั้นเลยนะ ผมแค่พาพวกเขาออกจากสถานการณ์แย่ๆ เท่านั้นเอง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A966A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">The real criminals - they didn't like how I was chipping away at their pile of rubles.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อาชญากรตัวจริงน่ะ - พวกเขาไม่ชอบที่ผมค่อยๆ แย่งเงินรูเบิลของพวกเขาไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A9674</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">They got their claw sunk deep in the government. Got me shipped off to the gulag. That's how I ended up here. See?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พวกเขามีอิทธิพลลึกซึ้งในรัฐบาล ส่งผมไปที่กูลัก นั่นแหละที่ทำให้ผมมาอยู่ที่นี่ เห็นไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A9B66</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I thought they wasn't gonna to let me in at first. On account of this volunteer get up.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตอนแรกผมคิดว่าพวกเขาจะไม่ยอมให้ผมเข้ามาซะอีก เพราะเรื่องการเป็นอาสาสมัครนี่แหละ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579A9B8B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ha, ha! Thanks again for lettin' me out. I won't forget it. You're a real decent human being, Morgan Yu.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฮ่าๆ! ขอบคุณอีกครั้งที่ปล่อยผมออกมา ผมจะไม่มีวันลืมเลย คุณเป็นคนดีมีน้ำใจจริงๆ Morgan Yu</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

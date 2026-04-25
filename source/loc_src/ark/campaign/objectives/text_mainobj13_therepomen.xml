@@ -1,0 +1,422 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG />
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11400</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1 />
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders />
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior />
+   <NumberFormat />
+   <Protection />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="LocStuff">
+  <Table x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">KEY</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ORIGINAL TEXT</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">TRANSLATED TEXT</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">CHARACTER LIMIT</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630525</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">คนทวงหนี้</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">คนทวงหนี้</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630526</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หลังจากที่ผมสแกน Coral ให้ Alex การส่งข้อมูลก็ถูกขัดจังหวะโดยผู้บัญชาการ Walther Dahl &quot;ที่ปรึกษา HR&quot; จากบอร์ดบริหารของ TranStar Alex จะไม่พบผมเพราะเจ้าหน้าที่เทคนิคของ Dahl ล็อกเขาออกจากระบบ ยานบัญชาการของ Dahl น่าจะมีข้อมูลว่าเจ้าหน้าที่เทคนิคนั้นอยู่ที่ไหน</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หลังจากที่ผมสแกน Coral ให้ Alex การส่งข้อมูลก็ถูกขัดจังหวะโดยผู้บัญชาการ Walther Dahl &quot;ที่ปรึกษา HR&quot; จากบอร์ดบริหารของ TranStar Alex จะไม่พบผมเพราะเจ้าหน้าที่เทคนิคของ Dahl ล็อกเขาออกจากระบบ ยานบัญชาการของ Dahl น่าจะมีข้อมูลว่าเจ้าหน้าที่เทคนิคนั้นอยู่ที่ไหน</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630527</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หลังจากที่ผมสแกน Coral ให้ Alex การส่งข้อมูลถูกขัดจังหวะโดยผู้บัญชาการ Walther Dahl &quot;ที่ปรึกษา HR&quot; จากบอร์ดบริหารของ TranStar Alex จะไม่พบผมเพราะเจ้าหน้าที่เทคนิคของ Dahl ล็อกเขาออกจากระบบ ยานบัญชาการของ Dahl มีข้อมูลตำแหน่งของเจ้าหน้าที่เทคนิค และหลักฐานว่าคำสั่งของ Dahl มาจากพ่อของผมโดยตรง ผมต้องตามหาเจ้าหน้าที่คนนี้และตัดการเชื่อมต่อของเขาซะ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หลังจากที่ผมสแกน Coral ให้ Alex การส่งข้อมูลถูกขัดจังหวะโดยผู้บัญชาการ Walther Dahl &quot;ที่ปรึกษา HR&quot; จากบอร์ดบริหารของ TranStar Alex จะไม่พบผมเพราะเจ้าหน้าที่เทคนิคของ Dahl ล็อกเขาออกจากระบบ ยานบัญชาการของ Dahl มีข้อมูลตำแหน่งของเจ้าหน้าที่เทคนิค และหลักฐานว่าคำสั่งของ Dahl มาจากพ่อของผมโดยตรง ผมต้องตามหาเจ้าหน้าที่คนนี้และตัดการเชื่อมต่อของเขาซะ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630528</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หลังจากที่ผมสแกน Coral ให้ Alex การส่งข้อมูลถูกขัดจังหวะโดยผู้บัญชาการ Walther Dahl &quot;ที่ปรึกษา HR&quot; จากบอร์ดบริหารของ TranStar Alex จะไม่พบผมเพราะเจ้าหน้าที่เทคนิคของ Dahl ล็อกเขาออกจากระบบ ยานบัญชาการของ Dahl มีข้อมูลตำแหน่งของเจ้าหน้าที่เทคนิค ปรากฏว่าเจ้าหน้าที่นั่นคือ Operator ที่ชื่อ Kaspar ผมกำจัดมันไปแล้ว ตอนนี้ผมไปพบ Alex ได้แล้ว</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หลังจากที่ผมสแกน Coral ให้ Alex การส่งข้อมูลถูกขัดจังหวะโดยผู้บัญชาการ Walther Dahl &quot;ที่ปรึกษา HR&quot; จากบอร์ดบริหารของ TranStar Alex จะไม่พบผมเพราะเจ้าหน้าที่เทคนิคของ Dahl ล็อกเขาออกจากระบบ ยานบัญชาการของ Dahl มีข้อมูลตำแหน่งของเจ้าหน้าที่เทคนิค ปรากฏว่าเจ้าหน้าที่นั่นคือ Operator ที่ชื่อ Kaspar ผมกำจัดมันไปแล้ว ตอนนี้ผมไปพบ Alex ได้แล้ว</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630529</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เลิกใช้ ตอนนี้คุณเข้าถึงยานบัญชาการของ Dahl ได้แล้ว ให้ค้นหาเบาะแสตำแหน่งเจ้าหน้าที่เทคนิคของเขา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เลิกใช้ ตอนนี้คุณเข้าถึงยานบัญชาการของ Dahl ได้แล้ว ให้ค้นหาเบาะแสตำแหน่งเจ้าหน้าที่เทคนิคของเขา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630530</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ยานบัญชาการ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ยานบัญชาการ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630531</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เข้าถึงยานบัญชาการของ Dahl</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เข้าถึงยานบัญชาการของ Dahl</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630532</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ยานบัญชาการ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ยานบัญชาการ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630533</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ค้นหายานของ Dahl เพื่อหาเบาะแสตำแหน่งเจ้าหน้าที่เทคนิคของเขา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ค้นหายานของ Dahl เพื่อหาเบาะแสตำแหน่งเจ้าหน้าที่เทคนิคของเขา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630534</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630535</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">จัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งใน G.U.T.S.</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">จัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งใน G.U.T.S.</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630536</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630537</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">จัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งใน Trauma Center</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">จัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งใน Trauma Center</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630538</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630539</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">จัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งใน Cargo Bay</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">จัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งใน Cargo Bay</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630540</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630541</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">จัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งใน Hardware Labs</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">จัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งใน Hardware Labs</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630542</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630543</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">จัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งใน Neuromod Division</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">จัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งใน Neuromod Division</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630544</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630545</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">จัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งด้านนอกสถานี</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">จัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งด้านนอกสถานี</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630546</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เจ้าหน้าที่เทคนิค</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630547</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ตามล่าและจัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งใน Psychotronics</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ตามล่าและจัดการเจ้าหน้าที่เทคนิคของ Dahl ที่ซ่อนอยู่ที่ไหนสักแห่งใน Psychotronics</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced />
+   <Selected />
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:ExcelWorkbook />
+</Workbook>

@@ -1,0 +1,1558 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="Sheet1">
+    <Table>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">KEY</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ORIGINAL TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TRANSLATED TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">LOCKED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">CHARACTER LIMIT</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55CB6E84</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Commander. We found the access panel. Biometric authentication.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผู้บัญชาการ เราเจอแผงควบคุมแล้ว ต้องยืนยันตัวตนด้วยไบโอเมตริกซ์</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55CB715B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All done.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เสร็จเรียบร้อย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55CB77E4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All units report no sign of Morgan Yu.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ทุกหน่วยรายงานว่าไม่พบ Morgan Yu</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55CB780B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Affirmative.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">รับทราบ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E569E4DE5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yes, commander.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ครับ ผู้บัญชาการ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E569E4E5D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Establishing defensive perimeter.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังสร้างแนวป้องกัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A018A3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan? Is that you?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan? นั่นคุณหรือเปล่า?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01908</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Primary target is in the kill zone. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เป้าหมายหลักอยู่ในเขตสังหาร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01968</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A019AB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Back here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตรงนี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A019EC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Over here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตรงนี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A019F7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don't think I can move.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมคิดว่าผมขยับไม่ได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A019FF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hurry up, man.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เร็วเข้าสิเพื่อน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01A07</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I need some help.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมต้องการความช่วยเหลือ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01A0F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hey!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เฮ้!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01A1A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'm in the ICU.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมอยู่ใน ICU</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01A24</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">My arm's broken.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แขนผมหัก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01A2C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Back here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตรงนี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01A3B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It's me! Luther!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมเอง! Luther!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01BD5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Open fire.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เปิดฉากยิง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A04499</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Gathering...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังรวบรวม...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A04555</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Relaying order.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังส่งต่อคำสั่ง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2612C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I've got a blip. Investigate. 
+</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมตรวจพบบลิป ตรวจสอบ
+</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A26132</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Possible echo on the radar...   </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อาจเป็น echo บนเรดาร์...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A26138</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Notify. Something just splashed my scanners.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แจ้งเตือน มีบางอย่างปรากฏบนเครื่องสแกนของผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2613E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Possible threat.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อาจมีภัยคุกคาม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A26148</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Notify. Might have an echo.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แจ้งเตือน อาจมี echo</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2614E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Interrupt. I've got suspicious pingback. 
+</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ขัดจังหวะ ผมตรวจพบสัญญาณตอบกลับที่น่าสงสัย
+</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A26507</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Contact.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตรวจพบ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A26517</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Echo found. Echo found.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พบ echo พบ echo</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A26526</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Engaging.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังเข้าปะทะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A26535</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Visual contact.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตรวจพบด้วยสายตา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2658A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Echo painted.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ระบุตำแหน่ง echo แล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A265A8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Alarm Sounding)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงสัญญาณเตือนดังขึ้น)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A265B8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Got her.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เจอตัวแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A265E1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Got him.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เจอตัวแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2671A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Weapons hot.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พร้อมยิง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2674E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Firing.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังยิง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A26757</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Notify. Cleared hot.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แจ้งเตือน ได้รับอนุญาตให้ยิงแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2676D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Full burn.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เร่งเต็มที่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A26773</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Firing angle zero.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มุมยิงศูนย์</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A26779</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Lights on.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เปิดไฟ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2677E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Fox seven. Fox seven.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฟ็อกซ์เซเว่น ฟ็อกซ์เซเว่น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A26894</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Lasers on.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เปิดเลเซอร์</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A268D1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Lasing echos.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังเล็ง echo</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A26DF9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Green to kill.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ได้รับอนุญาตให้สังหาร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A270BD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">A-star in progress. Will report.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">A-star กำลังดำเนินการ จะรายงานให้ทราบ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A270CD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Looking for echo contacts.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังมองหา echo</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A270D5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Instruments wide open.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เครื่องมือทำงานเต็มที่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A270DB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Perimeter check.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตรวจสอบแนวป้องกัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A270E5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Zone sweep. Checking angles of attack.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กวาดล้างพื้นที่ ตรวจสอบมุมโจมตี</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A270EC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Greenlight on sierra delta.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไฟเขียวสำหรับ Sierra Delta</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A270FB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Bracketing area for clean sweep.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังกำหนดพื้นที่เพื่อกวาดล้าง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A27174</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Checking three, six, nine, and noon.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตรวจสอบตำแหน่งสาม, หก, เก้า และเที่ยง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A271B0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If you are TranStar personnel, please stand down. I am a rescue Operator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หากคุณเป็นบุคลากรของ TranStar โปรดหยุดการเคลื่อนไหว ผมคือ Operator กู้ภัย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A271BB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please show yourself so I can assist you.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โปรดแสดงตัวเพื่อที่ผมจะได้ช่วยเหลือคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A271C8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Don't hide. I'm programmed to assist Talos I crew in evacutation procedures.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อย่าหลบซ่อน ผมถูกตั้งโปรแกรมมาเพื่อช่วยเหลือลูกเรือ Talos I ในขั้นตอนการอพยพ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A271DC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'm not a threat. I am a search and rescue Operator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมไม่ใช่ภัยคุกคาม ผมคือ Operator ค้นหาและกู้ภัย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A273FD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Scanning)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator กำลังสแกน)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A27451</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Sweep turned up zero.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">การกวาดล้างไม่พบอะไร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A27459</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Nothing found.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่พบอะไร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2745F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No echos. That's a negative.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่พบ echo นั่นคือไม่พบ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A27466</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Zone is clean. No echos.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พื้นที่สะอาด ไม่มี echo</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2746D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Nothing. Sensor charlie foxtrot.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่มีอะไร Sensor charlie foxtrot</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A27475</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Stop search. Point of origin... unknown.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หยุดค้นหา จุดกำเนิด... ไม่ทราบ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2747C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No sign. Breaking off.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่พบสัญญาณ ถอนกำลัง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A274DE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Lost visual on the echo.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มองไม่เห็น echo แล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A274E4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hostile is out of sensor range.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ศัตรูอยู่นอกระยะเซ็นเซอร์</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A274F0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Contact lost. I repeat, contact lost.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ขาดการติดต่อ ขอย้ำ ขาดการติดต่อ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A274F6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No contact. Disengaging. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่มีการติดต่อ ถอนกำลัง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A274FF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Echo is out of bounds. Dropping combat.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Echo อยู่นอกพื้นที่ ยกเลิกการต่อสู้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2750A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Weapons cold. Nothing to burn.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อาวุธหยุดทำงาน ไม่มีอะไรให้ยิง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2750E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Contact faded.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">สัญญาณจางหาย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A27593</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Maintain a personal perimeter of one meter.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">รักษาระยะห่างส่วนบุคคลหนึ่งเมตร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A27743</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Buffering.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังบัฟเฟอร์</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A27749</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Stand at safe distance.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ยืนในระยะปลอดภัย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2774E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You are too close.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณอยู่ใกล้เกินไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A277BC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Notify Dahl. Morgan Yu eliminated.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แจ้ง Dahl Morgan Yu ถูกกำจัดแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A277C2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Echo down. Echo down.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Echo ถูกกำจัด Echo ถูกกำจัด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A277CC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Threat level zulu.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ระดับภัยคุกคาม Zulu</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A277FA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Malfunction Beep, Mechanical Noises)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียง Operator ทำงานผิดปกติ, เสียงกลไก)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2781C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Malfunction Beep, Mechanical Noises)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียง Operator ทำงานผิดปกติ, เสียงกลไก)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A297DC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Subject Morgan Yu approaching.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เป้าหมาย Morgan Yu กำลังเข้าใกล้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A297EB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Verifying IFF. Morgan Yu is off the echo list.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังยืนยัน IFF Morgan Yu ไม่อยู่ในรายชื่อ echo</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A297F1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Weapons Safe. Do not engage.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อาวุธปลอดภัย ห้ามเข้าปะทะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A29846</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Alpha check. Affirmative.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตรวจสอบ Alpha รับทราบ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2984B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Instrument IFF. Typhon class echos... validated.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เครื่องมือ IFF ตรวจพบ Typhon class echos... ยืนยันแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A29852</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cleared for Sierra and Delta actions.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ได้รับอนุญาตสำหรับการดำเนินการ Sierra และ Delta</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A29857</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Perimeter secure. Resume.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แนวป้องกันปลอดภัย ดำเนินการต่อ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2985E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Flying CAP. Status as fragged. Over.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังบิน CAP สถานะตามที่ได้รับมอบหมาย จบการสื่อสาร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A29864</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Zone tagged and stamped. Resume.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พื้นที่ถูกระบุและประทับตราแล้ว ดำเนินการต่อ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2986A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All units. Pingback and authenticate.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ทุกหน่วย ส่งสัญญาณตอบกลับและยืนยันตัวตน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A29870</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All clear.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ปลอดภัยทั้งหมด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A29875</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Instruments clean. No echos. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เครื่องมือสะอาด ไม่มี echo</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C633FA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Insruments- (Operator Voice Malfunctioning) I am an instrument.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เครื่องมือ- (เสียง Operator ทำงานผิดปกติ) ผมคือเครื่องมือ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63445</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">IFF look up- (Operator Voice Malfunctioning) - new table loaded.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ค้นหา IFF- (เสียง Operator ทำงานผิดปกติ) - โหลดตารางใหม่แล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C6345A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All units. Pingback and authenticate-ate-ate-ate.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ทุกหน่วย ส่งสัญญาณตอบกลับและยืนยันตัวตน-ตน-ตน-ตน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C6348C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You're not Co-co-co-commander Dahl. Comply. Complying.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณไม่ใช่ผู้-ผู้-ผู้-ผู้บัญชาการ Dahl ปฏิบัติตาม กำลังปฏิบัติตาม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C634E0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Echos-os-os-os [machine malfunctioning]. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Echos-os-os-os [เครื่องทำงานผิดปกติ]</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C6351C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Status check. As fragged. (Operator Malfunctioning Noises) Secure perimter.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตรวจสอบสถานะ ตามที่ได้รับมอบหมาย (เสียง Operator ทำงานผิดปกติ) รักษาแนวป้องกัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63598</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">New CO. Direct comm. Inaudible.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">CO คนใหม่ สื่อสารโดยตรง ไม่ได้ยิน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C635CC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Moving.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังเคลื่อนที่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C635E3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Moving- (Operator Voice Malfunctioning) </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังเคลื่อนที่- (เสียง Operator ทำงานผิดปกติ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63637</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Possible threat. Possible Morgan- (Operator Voice Malfunctioning) -Yu. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อาจมีภัยคุกคาม อาจเป็น Morgan- (เสียง Operator ทำงานผิดปกติ) -Yu</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63670</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Notify. Suspicious activity.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แจ้งเตือน กิจกรรมน่าสงสัย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C636BA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Scanners got an echo-o-o-o (Operator Voice Malfunctioning)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เครื่องสแกนตรวจพบ echo-o-o-o (เสียง Operator ทำงานผิดปกติ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C636CE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Interrupt.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ขัดจังหวะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C636EA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Contact.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตรวจพบ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C636ED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Alarm Beeps)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงสัญญาณเตือนของ Operator)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C637DF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Lost visual. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มองไม่เห็นแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C637F4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hostile is out of ran- (Operator Voice Malfunctioning)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ศัตรูอยู่นอกระ- (เสียง Operator ทำงานผิดปกติ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63806</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Weapons col-col-col-cold.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อาวุธหยุดทำ-ทำ-ทำ-ทำงาน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C6380C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No contact.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่มีการติดต่อ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C6384F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">New commander is pleased.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผู้บัญชาการคนใหม่พอใจ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C6385C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mission accom-om-om-omplished.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ภารกิจสำ-สำ-สำ-สำเร็จ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63871</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All echoes cleared [machine malfunctioning].</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Echoes ทั้งหมดถูกกำจัดแล้ว [เครื่องทำงานผิดปกติ]</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C638B7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Voice Malfunctioning) </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียง Operator ทำงานผิดปกติ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C638D0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Voice Malfunctioning) </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียง Operator ทำงานผิดปกติ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C638EA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Explodes) </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator ระเบิด)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63920</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I would like to rescue you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมต้องการช่วยเหลือคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C6393D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I am a rescue- (Operator Voice Malfunctioning) -erator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมคือผู้กู้- (เสียง Operator ทำงานผิดปกติ) -ภัย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63958</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'm not a threat. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมไม่ใช่ภัยคุกคาม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C6398F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Search and rescue protocols active. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โปรโตคอลค้นหาและกู้ภัยทำงานแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C639C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Target re-re-re-rescued.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เป้าหมายถูกกู้-กู้-กู้-กู้ภัยแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C639FB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Don't hide. I'm- (Operator Voice Malfunctioning) -to assist you in evacuation.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อย่าหลบซ่อน ผม- (เสียง Operator ทำงานผิดปกติ) -จะช่วยเหลือคุณในการอพยพ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63A45</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I will assist you until you have- (Operator Voice Malfunctioning) -no vital signs.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมจะช่วยเหลือคุณจนกว่าคุณจะ- (เสียง Operator ทำงานผิดปกติ) -ไม่มีสัญญาณชีพ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63A8E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I won't haaaaarm you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมจะไม่ทำร้าาาายคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63AA5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Zero targets to rescue.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่มีเป้าหมายให้กู้ภัย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63ABB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No survivors f-f-f-found.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่พบผู้รอดชีวิต-วิ-วิ-ชีวิต</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63AD4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Stop search. (Machine Error Beep)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หยุดค้นหา (เสียงเครื่องผิดพลาด)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63B0F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No more signal. Breaking off.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่มีสัญญาณแล้ว ถอนกำลัง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63B54</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Initiate rescue.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เริ่มการกู้ภัย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63B62</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'm here to (Operator Voice Malfunctioning) help.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมมาที่นี่เพื่อ (เสียง Operator ทำงานผิดปกติ) ช่วยเหลือ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63B92</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Help is on the way.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ความช่วยเหลือกำลังมา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63B98</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Remain ca-ca-ca-calm.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โปรดใจเ-ย็-ย็-ย็-เย็น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63BDD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I can assist.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมสามารถช่วยเหลือได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63BF8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Machine Malfunctioning, Beeps Loudly)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เครื่องทำงานผิดปกติ, มีเสียงบี๊บดัง)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57576E8C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57576E9D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hey!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เฮ้!</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

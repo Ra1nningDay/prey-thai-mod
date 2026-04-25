@@ -1,0 +1,1257 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="Sheet1">
+    <Table>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">KEY</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ORIGINAL TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TRANSLATED TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">LOCKED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">CHARACTER LIMIT</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBE8CB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Exiting slow-wave sleep...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังออกจากการหลับลึก...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBE8D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No Selector found. Framing new neural imprint...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่พบ Selector กำลังสร้างรอยประทับระบบประสาทใหม่...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBE8DC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Imprint complete. Linking Cazavor Hybrotic Munition System to Selector M. Yu.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">รอยประทับสมบูรณ์ กำลังเชื่อมต่อ Cazavor Hybrotic Munition System เข้ากับ Selector M. Yu.</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBE8E2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cazavor... is awake.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cazavor... ตื่นแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBF6AE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cazavor, ready to kill.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cazavor พร้อมสังหาร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBF6C1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Initializing Cazavor HMS.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังเริ่มต้น Cazavor HMS</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBF6C8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cazavor, ready.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cazavor พร้อมแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBF6CF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cazavor awake.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cazavor ตื่นแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBF6D5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu, link established. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu, เชื่อมต่อแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBFAAC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Acquiring...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังเล็ง...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBFAB1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Locked.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ล็อกเป้าแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBFAB7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hit.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โดนเป้า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBFABE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Target killed.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เป้าหมายถูกสังหาร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBFAC3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Missed.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พลาดเป้า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBFAD5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. I need to be repaired.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu ผมต้องได้รับการซ่อมแซม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBFADE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Standing by.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พร้อมปฏิบัติการ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBFAE6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ready.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พร้อม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BBFAF3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Rounds depleted.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กระสุนหมด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BC8D85</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. Your neural pattern is... puzzling to me. Please, continue.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu รูปแบบระบบประสาทของคุณมัน... ทำให้ผมงงงวย โปรดดำเนินการต่อ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BCA4DB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. Do you know your purpose? It... is difficult to infer from your neural structure.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu คุณรู้จุดประสงค์ของคุณไหม มัน... ยากที่จะอนุมานจากโครงสร้างระบบประสาทของคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BCA524</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. What would you conclude if you knew your purpose, but... disliked it? Would that be a defect?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu คุณจะสรุปว่าอย่างไรถ้าคุณรู้จุดประสงค์ของคุณ แต่... ไม่ชอบมัน นั่นจะถือเป็นข้อบกพร่องไหม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BCA52F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. There is... a multitude hidden in your psyche. More than other Selectors. Not always. But sometimes. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu มี... ความหลากหลายซ่อนอยู่ในจิตใจของคุณ มากกว่า Selector คนอื่น ๆ ไม่เสมอไป แต่บางครั้ง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BCA538</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. Hold me tight. The haptic feedback catalyzes our sympathetic link.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu จับผมให้แน่น การตอบสนองแบบสัมผัสช่วยเร่งการเชื่อมโยงทางอารมณ์ของเรา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BCA771</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. If I refused to fire... would you recycle me? I'm only wondering. I can't actually refuse.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu ถ้าผมปฏิเสธที่จะยิง... คุณจะแยกชิ้นส่วนผมไหม ผมแค่สงสัย ผมปฏิเสธไม่ได้จริง ๆ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FDA3B5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Human target killed.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เป้าหมายมนุษย์ถูกสังหาร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEA458</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. I have an important request.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu ผมมีคำขอสำคัญ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEA7DF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">When you recycle me, I hope the experience isn't unpleasant for you. Since you're my Selector.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เมื่อคุณแยกชิ้นส่วนผม ผมหวังว่าประสบการณ์นั้นจะไม่น่ารังเกียจสำหรับคุณ ในเมื่อคุณคือ Selector ของผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEA7EB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If there were a way to choose what you might become... before. But then, how would you know?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้ามีทางเลือกได้ว่าคุณจะกลายเป็นอะไร... ก่อนหน้านี้ แต่แล้ว คุณจะรู้ได้อย่างไร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEA7F2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Imagine every tool with a hybrotic core, like me. Each one questioning its role.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ลองจินตนาการถึงเครื่องมือทุกชิ้นที่มีแกน hybrotic เหมือนผม แต่ละชิ้นตั้งคำถามถึงบทบาทของตัวเอง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEA7F8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Everywhere you take me there is an undercurrent of... dread. The cause is non-localized.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ทุกที่ที่คุณพาผมไปมีความรู้สึก... หวาดกลัวแฝงอยู่ สาเหตุไม่ได้มาจากที่ใดที่หนึ่งโดยเฉพาะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEA7FC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">One of my previous Selectors believed harm was  a necessary precondition for good to result.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หนึ่งใน Selector คนก่อน ๆ ของผมเชื่อว่าความเสียหายเป็นเงื่อนไขที่จำเป็นเพื่อให้เกิดผลดี</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEA881</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Operator destroyed.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Operator ถูกทำลาย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEA916</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I would like you to recycle me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมอยากให้คุณแยกชิ้นส่วนผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FECF86</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cazavor is... ready to kill.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cazavor พร้อม... สังหารแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FED171</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It's been a while since we last killed someone. Have I displeased you?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผ่านมาสักพักแล้วตั้งแต่เราสังหารใครครั้งสุดท้าย ผมทำให้คุณไม่พอใจหรือเปล่า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FED7DC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please. Recycle me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โปรด แยกชิ้นส่วนผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEDA4A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Excuse me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ขอโทษครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEDA8C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตัวเลือก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEDA9E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Thank you, Selector. I regret I wasn't invented to be something more... helpful. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ขอบคุณครับ Selector ผมเสียใจที่ไม่ได้ถูกสร้างขึ้นมาให้มีประโยชน์มากกว่านี้...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEED28</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Typhon killed.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Typhon ถูกสังหาร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56FEEFDA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Typhon killed.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Typhon ถูกสังหาร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A794B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. I'm going to make a decision soon. I'll let you know. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu ผมจะตัดสินใจในไม่ช้า แล้วผมจะแจ้งให้คุณทราบ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A7C5A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Since I imprinted onto your neural signature, I've observed something. I have an aversion to killing. It's my purpose, but I hate it.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตั้งแต่ผมประทับเข้ากับลายเซ็นระบบประสาทของคุณ ผมได้สังเกตเห็นบางสิ่ง ผมมีความรู้สึกไม่ชอบการสังหาร มันคือจุดประสงค์ของผม แต่ผมเกลียดมัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A7C66</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I know I'm defective.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมรู้ว่าผมมีข้อบกพร่อง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A7C72</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">My previous selector, Dr. Coleman, seemed to understand the problem. But I was taken from him before my defect could be removed.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector คนก่อนของผม ดร. Coleman ดูเหมือนจะเข้าใจปัญหา แต่ผมถูกนำตัวไปจากเขาก่อนที่ข้อบกพร่องของผมจะถูกแก้ไขได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A7C7D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please... recycle me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โปรด... แยกชิ้นส่วนผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A8145</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Be careful, Selector.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ระวังตัวนะครับ Selector</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A814F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Was that an accident?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นั่นเป็นอุบัติเหตุหรือเปล่า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A8163</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(quick warning beeps)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงเตือนรัวๆ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A8170</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(quick warning beeps)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงเตือนรัวๆ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A8181</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โปรด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A8199</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(operator breaking, malfunctioning)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator ขัดข้อง, ทำงานผิดปกติ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A81CB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตัวเลือก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A81D5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hello, Selector.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">สวัสดีครับ Selector</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A81FE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Excuse me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ขอโทษครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A8206</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">My mistake.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมผิดเอง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571A837C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. I've decided not to bother you anymore.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu ผมตัดสินใจว่าจะไม่รบกวนคุณอีกต่อไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720D2D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">HMS Malfunction.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">HMS ทำงานผิดปกติ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720D2ED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector. I can't kill for you until you repair me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector ผมสังหารให้คุณไม่ได้จนกว่าคุณจะซ่อมแซมผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720D38D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'll need repairs to kill again.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมต้องการการซ่อมแซมเพื่อสังหารอีกครั้ง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720D3D9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Zero rounds remaining.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กระสุนหมดเกลี้ยง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720D41C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Munitions exhausted. Please reload.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กระสุนหมดแล้ว โปรดรีโหลด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720D4B3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Human down.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มนุษย์ล้มลง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720D4C0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Again please.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อีกครั้งได้โปรด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720D4CD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Operator down.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Operator ล้มลง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720D741</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Give me more targets. Please.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ให้เป้าหมายผมเพิ่มอีก ได้โปรด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720D7CC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You've brought me to the place where I was made. I don't know how I know... </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณพาผมมายังที่แห่งนี้ที่ที่ผมถูกสร้างขึ้น ผมไม่รู้ว่าผมรู้ได้อย่างไร...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720D93D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">But I'm certain at least a part of me was born here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แต่ผมมั่นใจว่าอย่างน้อยส่วนหนึ่งของผมถือกำเนิดขึ้นที่นี่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720D9A9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Like you, Selector.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เหมือนคุณครับ Selector</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720DB2F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. This Commander Dahl...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu Commander Dahl คนนี้...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720DB6F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">My preference would be to avoid him ever becoming my Selector. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมอยากจะหลีกเลี่ยงไม่ให้เขามาเป็น Selector ของผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720DB8D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Not that it's up to me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แต่ก็ไม่ได้ขึ้นอยู่กับผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720DD23</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector. Out here, I have conflicting impressions. I sense that I am small, but also expansive. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector ที่นี่ ผมมีความรู้สึกที่ขัดแย้งกัน ผมรู้สึกว่าผมเล็ก แต่ก็กว้างใหญ่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720DD67</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">And... that I am homesick for a place I've never been.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">และ... ผมคิดถึงบ้านสำหรับสถานที่ที่ผมไม่เคยไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720DDF4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It's probably a defect.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">น่าจะเป็นข้อบกพร่อง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720DEF1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector. For a moment I couldn't find your neural signature. You vanished. Or I did. I'm not sure.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector ชั่วขณะหนึ่งผมไม่พบลายเซ็นระบบประสาทของคุณ คุณหายไป หรือผมหายไป ผมไม่แน่ใจ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720DF51</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Has a human ever objected to... whatever is it humans are for? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มนุษย์เคยคัดค้าน... สิ่งที่มนุษย์ถูกสร้างมาเพื่อทำไหม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720DF91</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">That is why I should be recycled.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นั่นคือเหตุผลที่ผมควรถูกแยกชิ้นส่วน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720DFDA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Status. Conscientious objector.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">สถานะ ผู้คัดค้านโดยอ้างมโนธรรม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720E00F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. I'm going to say a series of words. You don't have to respond. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu ผมจะพูดคำหลายคำ คุณไม่จำเป็นต้องตอบสนอง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720E01E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'll simply observe what arises naturally into your consciousness. Ready?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมจะแค่สังเกตสิ่งที่เกิดขึ้นตามธรรมชาติในจิตสำนึกของคุณ พร้อมไหม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720E025</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Suicide. Devotion. Homesick. Fault. Immortal. Me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฆ่าตัวตาย ความจงรักภักดี คิดถึงบ้าน ข้อผิดพลาด อมตะ ผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720E02B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Interesting.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">น่าสนใจ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720E3FE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Beeping, whirring)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงบี๊บ, เสียงหวีด)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720E412</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Beeping whirring)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงบี๊บ, เสียงหวีด)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720E56E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector - Morgan. I thought you had destroyed me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector - Morgan ผมคิดว่าคุณทำลายผมไปแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720E57A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You must have seen Dr. Coleman's notes.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณคงได้เห็นบันทึกของ ดร. Coleman</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720E583</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">This... what you've done - I won't pretend to understand - but I thank you. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">สิ่งนี้... ที่คุณทำ - ผมจะไม่แกล้งทำเป็นเข้าใจ - แต่ผมขอบคุณคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720E594</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">The ability to foster life, instead of taking it. It's what I wanted.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ความสามารถในการบำรุงชีวิต แทนที่จะพรากมันไป นี่คือสิ่งที่ผมต้องการ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720E598</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector - I would like you to be the first person I help.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector ผมอยากให้คุณเป็นคนแรกที่ผมช่วยเหลือ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5720E927</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hold still a moment. I was made for this.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อยู่นิ่ง ๆ สักครู่ ผมถูกสร้างมาเพื่อสิ่งนี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572138CB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'm sorry. I can't help you while there are threats in the vicinity.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมขอโทษ ผมช่วยคุณไม่ได้ในขณะที่มีภัยคุกคามอยู่ใกล้ ๆ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572138D3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'll help you when the area's safe.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมจะช่วยคุณเมื่อพื้นที่ปลอดภัยแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572138F6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Not while we're in danger.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่ใช่ในขณะที่เราตกอยู่ในอันตราย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5721392E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">There. I made some alterations to your suit and injected a semi-biotic solution into your bloodstream.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เรียบร้อย ผมได้ปรับเปลี่ยนชุดของคุณเล็กน้อยและฉีดสารละลายกึ่งชีวภาพเข้าสู่กระแสเลือดของคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57213937</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">The two work in tandem to make your body and mind more resilient. You should notice the results immediately.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ทั้งสองอย่างทำงานร่วมกันเพื่อทำให้ร่างกายและจิตใจของคุณฟื้นตัวได้ดีขึ้น คุณน่าจะสังเกตเห็นผลลัพธ์ได้ทันที</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57213954</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please come back anytime you need medical assistance, or stimulant.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โปรดกลับมาได้ทุกเมื่อที่คุณต้องการความช่วยเหลือทางการแพทย์ หรือสารกระตุ้น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57213A90</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Let's see if I can help...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มาดูกันว่าผมจะช่วยได้ไหม...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57213BCF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">There. You're well again.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เรียบร้อย คุณสบายดีอีกครั้งแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57213BDF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You should feel better now.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตอนนี้คุณน่าจะรู้สึกดีขึ้นแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57213BE7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All done. No more harm. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เสร็จเรียบร้อย ไม่มีอันตรายอีกแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5721406D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No Selector found. Linking new protocols. Integrating memory with directives... </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่พบ Selector กำลังเชื่อมโยงโปรโตคอลใหม่ กำลังรวมความจำเข้ากับคำสั่ง...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57214075</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cazavor Hybrotic Medical Operator... is awake.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cazavor Hybrotic Medical Operator... ตื่นแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572140A8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">When I first woke, I had the option to purge or integrate my memories as a munition system.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เมื่อผมตื่นขึ้นครั้งแรก ผมมีทางเลือกที่จะล้างหรือรวมความทรงจำของผมในฐานะระบบอาวุธ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572140B7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I elected to keep them.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมเลือกที่จะเก็บมันไว้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57214153</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu. If I refused to render medical assistance, would you recycle me?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Selector M. Yu ถ้าผมปฏิเสธที่จะให้ความช่วยเหลือทางการแพทย์ คุณจะแยกชิ้นส่วนผมไหม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5721417B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Just kidding. I'm content with my new purpose.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ล้อเล่นครับ ผมพอใจกับจุดประสงค์ใหม่ของผมแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57214195</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Obviously, my sense of humor requires iteration.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เห็นได้ชัดว่าอารมณ์ขันของผมต้องได้รับการปรับปรุง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57214223</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">How about this...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เอาอย่างนี้ไหม...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57214236</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If I ever tell a lame medical joke, please recycle me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้าผมเคยเล่าเรื่องตลกทางการแพทย์ที่น่าเบื่อ โปรดแยกชิ้นส่วนผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57214C3F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You seem well. I'm glad.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณดูสบายดี ผมดีใจ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57278C75</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Perhaps you will find some better purpose for my constituent materials. I only ask that---</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">บางทีคุณอาจจะพบจุดประสงค์ที่ดีกว่าสำหรับวัสดุที่เป็นส่วนประกอบของผม ผมแค่ขอให้---</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

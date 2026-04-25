@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="Sheet1">
+    <Table>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">KEY</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ORIGINAL TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TRANSLATED TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">LOCKED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">CHARACTER LIMIT</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563C9FC4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Commander Dahl. This is Kaspar. Status report. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Commander Dahl นี่คือ Kaspar รายงานสถานะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563CA005</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All major servers and terminals are locked down. Rip and Intecept Protocols are in operation.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เซิร์ฟเวอร์และเทอร์มินัลหลักทั้งหมดถูกล็อกแล้ว Rip and Intercept Protocols กำลังทำงาน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563CA23E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Searching access patterns within the last three hours. Progress estimate. Sixty three percent. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังค้นหารูปแบบการเข้าถึงภายในสามชั่วโมงที่ผ่านมา ประมาณการความคืบหน้า หกสิบสามเปอร์เซ็นต์</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563CA26F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Affirmative. Resuming.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ยืนยัน ดำเนินการต่อ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563CA3DA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Commander Dahl. This is Kaspar. Morgan Yu sighted. I repeat Morgan Yu sighted. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Commander Dahl นี่คือ Kaspar พบ Morgan Yu ขอย้ำ พบ Morgan Yu</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563CA4DB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Commander Dahl, do you copy? Commander Dahl...?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Commander Dahl ได้ยินไหม Commander Dahl...?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563CA63B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Server Arx F30 through F37 ripped. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เซิร์ฟเวอร์ Arx F30 ถึง F37 ถูกดึงข้อมูลแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563CA649</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Index cluster. Null mask reference. Deleted. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คลัสเตอร์ดัชนี การอ้างอิง Null mask ถูกลบแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563CA659</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ghost job InterceptD operational. Sensitives routing to shuttle cache.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ghost job InterceptD ทำงานแล้ว ข้อมูลสำคัญกำลังส่งไปยังแคชกระสวย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563CA687</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Machine Sounds)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Machine Sounds)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563CA6BC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Machine Sounds)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Machine Sounds)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A0F4DE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Servers Arx F13 through F21 ripped.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เซิร์ฟเวอร์ Arx F13 ถึง F21 ถูกดึงข้อมูลแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A0F623</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Psychotronics data. Priority tag. Delivery node Occam LSDS-3.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ข้อมูล Psychotronics แท็กความสำคัญ โหนดส่ง Occam LSDS-3</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A0F76C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Data vault  DVM-3. Prior ejection.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ห้องเก็บข้อมูล DVM-3 ถูกดีดออกก่อนหน้า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A164B2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I read you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมได้ยินคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A164D7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Holding. Small group of survivors still present. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังรอ กลุ่มผู้รอดชีวิตเล็กๆ ยังคงอยู่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A16520</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Network is still locked down. Alex has no means of access.    </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เครือข่ายยังคงถูกล็อก Alex ไม่มีทางเข้าถึง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A1652F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Installing Rip and Intercept protocols. Thirty five percent complete.   </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังติดตั้ง Rip and Intercept protocols เสร็จสมบูรณ์สามสิบห้าเปอร์เซ็นต์</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A16604</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Negative. The encryption is trivial, but another user is employing countermeasures against me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่ การเข้ารหัสเป็นเรื่องง่ายดาย แต่ผู้ใช้อื่นกำลังใช้มาตรการตอบโต้กับผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A16615</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I would like dedicate more processing power to it.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมต้องการทุ่มเทพลังประมวลผลเพิ่มขึ้นให้กับมัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A16654</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">There is no person aboard Talos I who can perform operations as fast-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่มีใครบน Talos I ที่สามารถปฏิบัติการได้เร็วเท่า-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A166EE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Improbable. There are none like me.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่น่าเป็นไปได้ ไม่มีใครเหมือนผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A17483</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oxygen nearly depleted. I expect loss of consciousness momentarily.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ออกซิเจนใกล้หมดแล้ว ผมคาดว่าจะหมดสติในไม่ช้า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57437EE4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Killphrase. Navarre, Orange, Delilah.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">รหัสสังหาร Navarre, Orange, Delilah</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57437EEC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Initiate.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เริ่ม</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

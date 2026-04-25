@@ -1,0 +1,597 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="Sheet1">
+    <Table>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">KEY</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ORIGINAL TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TRANSLATED TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">LOCKED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">CHARACTER LIMIT</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56460E6E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oh, hello, Ms. Sho, I thought I recognized your voice.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอ้ สวัสดีครับ คุณ Sho ผมนึกว่าจำเสียงคุณได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564612B3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'm Operator Skillet, Ms. Sho. My, you sound like you could use a healthy dose of Sunburst Banana Pudding.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผม Operator Skillet ครับ คุณ Sho แหม คุณดูเหมือนจะต้องการ Sunburst Banana Pudding สักหน่อยนะครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56461308</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Apologies, chef. I'll... "C" my way out.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ขออภัยครับเชฟ ผมจะ... &quot;C&quot; ตัวเองออกไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56461FA2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oh my, what a mess.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอ้โห เละเทะไปหมดเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56461FAA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don't suppose you know where Quinten Purvis is? His meals are waiting for him.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมไม่แน่ใจว่าคุณพอจะทราบไหมว่า Quinten Purvis อยู่ที่ไหน? อาหารของเขากำลังรออยู่ครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56461FB0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I certainly hope I'm making enough for Mr. Purvis. He must be very hungry.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมหวังว่าผมจะทำอาหารให้คุณ Purvis เพียงพอนะครับ เขาคงจะหิวมาก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56461FB9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Feeling peckish?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">รู้สึกหิวหน่อย ๆ ไหมครับ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56461FC9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We have a wide (and delicious) array of TranStar foods, just waiting for you! Yummy! </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เรามีอาหาร TranStar หลากหลาย (และอร่อย) รอคุณอยู่! น่ากินจัง!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56462059</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Operator Skillet, at your service! </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Operator Skillet ยินดีให้บริการครับ!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5646207B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Try [error sound] Unagi Rollz, fresh from the eel tank!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ลอง [error sound] Unagi Rollz สดใหม่จากบ่อปลาไหลเลยครับ!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56462093</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We have only the finest Pacific Beef, peeled fresh from their plastic lattices. Indistinguishable from natural born beef. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เรามีแต่เนื้อ Pacific Beef ชั้นเลิศ ปอกสดใหม่จากโครงพลาสติกของมัน แยกไม่ออกเลยว่าไม่ใช่เนื้อที่เกิดตามธรรมชาติ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564620A2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Have you tried the Jellied Eels? They've been especially dethawed for today. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณลอง Jellied Eels หรือยังครับ? พวกมันถูกละลายน้ำแข็งเป็นพิเศษสำหรับวันนี้เลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564620AA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Why has everyone missed their appointed meal time? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ทำไมทุกคนถึงพลาดเวลามื้ออาหารที่กำหนดไว้กันหมดเลย?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564620B9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Looks like someone's in need of some calories.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ดูเหมือนมีใครบางคนต้องการแคลอรี่นะครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564620D6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Chef Mitchell modified my dialogue sequencer to improve morale. Nothing aids digestion more than a positive attitude!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เชฟ Mitchell ได้ปรับเปลี่ยนลำดับบทสนทนาของผมเพื่อเพิ่มขวัญกำลังใจ ไม่มีอะไรช่วยย่อยอาหารได้ดีไปกว่าทัศนคติเชิงบวกอีกแล้วครับ!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5646213A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Let me prepare your special meal, Morgan. Oyster omelette, coming right up!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ให้ผมเตรียมอาหารมื้อพิเศษของคุณนะครับ Morgan ไข่เจียวหอยนางรม กำลังจะมาแล้วครับ!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564627FA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">The only other crew member with special dietary requirements is Quinten Purvis. Chef Mitchell has asked me to prepare non perishables for him.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ลูกเรือคนเดียวที่มีข้อกำหนดด้านอาหารพิเศษอีกคนคือ Quinten Purvis เชฟ Mitchell ได้ขอให้ผมเตรียมอาหารที่ไม่เน่าเสียง่ายสำหรับเขา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564627FF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Although he hasn't told me to stop yet.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถึงแม้ว่าเขายังไม่ได้บอกให้ผมหยุดเลยก็ตาม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5646282C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Purvis' meals are ready for delivery to the Cargo Bay. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อาหารของ Purvis พร้อมสำหรับการจัดส่งไปยัง Cargo Bay แล้วครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56462834</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don't understand why he doesn't just come up here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมไม่เข้าใจว่าทำไมเขาไม่ขึ้นมาที่นี่เอง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5646286E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Yu, I'm afraid the kitchen staff are quite... absent.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Yu ครับ ผมเกรงว่าพนักงานในครัวจะ... หายไปหมดแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5646289F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Yu, welcome back! The usual, with...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Yu ยินดีต้อนรับกลับครับ! เหมือนเดิมเลยนะครับ กับ...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564628AB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...wait, green tea to wash it down, hmmm?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...เดี๋ยวนะครับ ชาเขียวสำหรับดื่มตาม ใช่ไหมครับ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564628C5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please eat something. You wouldn't want to disappoint me, would you?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กรุณาทานอะไรหน่อยนะครับ คุณคงไม่อยากทำให้ผมผิดหวังใช่ไหมครับ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56463E62</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">A day without TranStar food products is a like a tiny slice of hell.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">วันที่ไม่มีผลิตภัณฑ์อาหารของ TranStar ก็เหมือนนรกขนาดย่อม ๆ เลยครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56463E6A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Some eel? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ปลาไหลหน่อยไหมครับ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56463E73</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">How about some eel? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">รับปลาไหลหน่อยไหมครับ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56463E80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please eat the eel or it will go bad. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กรุณาทานปลาไหลเถอะครับ ไม่งั้นมันจะเสีย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56463E90</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Guess it's back in the ol' tank for this batch until the next waste cycle.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คงต้องกลับไปที่ถังเก่าสำหรับชุดนี้ จนกว่าจะถึงรอบการกำจัดครั้งหน้า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56464138</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oh. I think that was the other gentlemen's stew. He hasn't shared his name with me, though I've asked him repeatedly.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอ้ ผมคิดว่านั่นเป็นสตูว์ของสุภาพบุรุษอีกท่านหนึ่งครับ เขาไม่ได้บอกชื่อกับผมเลย ถึงแม้ผมจะถามเขาซ้ำแล้วซ้ำอีกก็ตาม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564641CA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ms. Yu, I am so sorry. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณ Yu ครับ ผมขอโทษจริง ๆ ครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564641D8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please don't report me. The auto-lock is to blame. It never liked me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ได้โปรดอย่ารายงานผมเลยครับ ระบบล็อกอัตโนมัติเป็นต้นเหตุ มันไม่เคยชอบผมเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564641DF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Are you all right? No frost burns? Let me see your fingers.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณไม่เป็นไรใช่ไหมครับ? ไม่มีรอยไหม้จากความเย็นใช่ไหม? ขอผมดูนิ้วของคุณหน่อยครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564641FA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You should report to the Trauma Center. The Operators there will take good care of you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณควรไปรายงานตัวที่ Trauma Center นะครับ Operator ที่นั่นจะดูแลคุณเป็นอย่างดี</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564642BA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">An open freezer door is an open invitation to salmonella. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ประตูช่องแช่แข็งที่เปิดอยู่ก็เหมือนการเชื้อเชิญเชื้อซัลโมเนลลาเลยครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564642C9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Someone might catch a chill.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อาจมีใครบางคนเป็นหวัดได้นะครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564642D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">"Hello, Salmonella, why don't you come right in!"</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">&quot;สวัสดี ซัลโมเนลลา ทำไมไม่เข้ามาเลยล่ะ!&quot;</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564642E0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Temperature dropping. Slowly, but dropping.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อุณหภูมิกำลังลดลง ช้า ๆ แต่ก็ลดลงครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564642E8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All authorized personnel, please seal the freezer.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เจ้าหน้าที่ที่ได้รับอนุญาตทุกท่าน กรุณาปิดช่องแช่แข็งด้วยครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564643B0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oh dear, auto-locks engaged. Temperature controls engaged. And dropping. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอ้แย่แล้ว ระบบล็อกอัตโนมัติทำงานแล้ว ระบบควบคุมอุณหภูมิทำงานแล้ว และกำลังลดลงครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56464409</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Why, of all th- the autolock is not responding. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ทำไมถึงเป็นแบบนี้... ระบบล็อกอัตโนมัติไม่ตอบสนองครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56464422</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Yu, I'm calling security. We'll get you out, just try to stay warm. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Yu ครับ ผมกำลังเรียกฝ่ายรักษาความปลอดภัย เราจะพาคุณออกไปเองครับ แค่พยายามรักษาความอบอุ่นไว้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5646442E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Jump up and down, try to stay active. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กระโดดขึ้นลง พยายามเคลื่อนไหวไว้นะครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56464443</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Calling...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังเรียก...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56464458</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mr. Yu? I'm afraid there's no response. But I've left multiple strongly worded messages.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณ Yu ครับ? ผมเกรงว่าจะไม่มีการตอบกลับครับ แต่ผมได้ฝากข้อความที่เน้นย้ำไปหลายฉบับแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56464D04</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">So I've been told.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมได้รับแจ้งมาแบบนั้นครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56464D6B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[machine humming]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[เสียงเครื่องจักรคราง]</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56464DB1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[machine humming]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[เสียงเครื่องจักรคราง]</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465F08</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Why, Dr. Morgan Yu, what a pleasant surprise after all this time! Shall I prepare a- </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอ้ Dr. Morgan Yu ครับ ช่างเป็นเรื่องที่น่าประหลาดใจจริง ๆ หลังจากเวลาทั้งหมดนี้! ให้ผมเตรียม...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A2362</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan Yu, brother of Alex Yu, he's one of the station's co-directors, and one of the nicest executives you'll ever meet! Hasn't been around much for sev-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan Yu น้องชายของ Alex Yu เขาเป็นหนึ่งในผู้อำนวยการร่วมของสถานี และเป็นหนึ่งในผู้บริหารที่ใจดีที่สุดที่คุณเคยพบ! ไม่ค่อยได้อยู่แถวนี้มาหลาย-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A278F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan Yu, sister of Alex Yu, she's one of the station's co-directors, and one of the nicest executives you'll ever meet! Hasn't been around much for sev-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan Yu พี่สาวของ Alex Yu เธอเป็นหนึ่งในผู้อำนวยการร่วมของสถานี และเป็นหนึ่งในผู้บริหารที่ใจดีที่สุดที่คุณเคยพบ! ไม่ค่อยได้อยู่แถวนี้มาหลาย-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">C9C4963656C4F58F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mr. Yu I am so sorry.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณ Yu ครับ ผมขอโทษจริง ๆ ครับ</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

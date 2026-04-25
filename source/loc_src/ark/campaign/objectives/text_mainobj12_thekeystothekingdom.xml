@@ -1,0 +1,523 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG />
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12270</WindowHeight>
+  <WindowWidth>26625</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1 />
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders />
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior />
+   <NumberFormat />
+   <Protection />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="LocStuff">
+  <Table x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="195.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="273"/>
+   <Column ss:AutoFitWidth="0" ss:Width="228.75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">KEY</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ORIGINAL TEXT</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">TRANSLATED TEXT</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">CHARACTER LIMIT</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630476</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">กุญแจสู่อาณาจักร</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">กุญแจสู่อาณาจักร</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630477</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมได้แผนผังการผลิตสำหรับดอกของตัวเองมาแล้ว แต่การจะเอาของ Alex มาคงไม่ง่ายแบบนั้น</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมได้แผนผังการผลิตสำหรับดอกของตัวเองมาแล้ว แต่การจะเอาของ Alex มาคงไม่ง่ายแบบนั้น</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630480</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมได้แผนผังการผลิตดอกของตัวเองมาแล้ว แต่ Alex ซ่อนตัวอยู่จนกว่าจะจัดการกับ Dahl และเจ้าหน้าที่เทคนิคของเขาได้</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมได้แผนผังการผลิตดอกของตัวเองมาแล้ว แต่ Alex ซ่อนตัวอยู่จนกว่าจะจัดการกับ Dahl และเจ้าหน้าที่เทคนิคของเขาได้</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630483</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมได้แผนผังการผลิตดอกของตัวเองมาแล้ว และ Alex บอกว่าจะให้ดอกของเขา ถ้าผมช่วยเขาในขั้นตอนแรกของแผนสำรอง ที่ดูเหมือนผมจะเป็นคนคิดขึ้นเอง</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมได้แผนผังการผลิตดอกของตัวเองมาแล้ว และ Alex บอกว่าจะให้ดอกของเขา ถ้าผมช่วยเขาในขั้นตอนแรกของแผนสำรอง ที่ดูเหมือนผมจะเป็นคนคิดขึ้นเอง</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630486</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมได้แผนผังการผลิตดอกของตัวเองมาแล้ว และ Alex กำลังรอผมอยู่ที่ Arboretum เพื่อจะให้ดอกของเขา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมได้แผนผังการผลิตดอกของตัวเองมาแล้ว และ Alex กำลังรอผมอยู่ที่ Arboretum เพื่อจะให้ดอกของเขา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630487</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมได้แผนผังการผลิตดอกของตัวเองมาแล้ว แต่ Alex มีชีวิตอยู่ไม่นานพอจะให้ของเขา ถ้าผมค้นตัวเขา บางทีอาจจะเจอก็ได้</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมได้แผนผังการผลิตดอกของตัวเองมาแล้ว แต่ Alex มีชีวิตอยู่ไม่นานพอจะให้ของเขา ถ้าผมค้นตัวเขา บางทีอาจจะเจอก็ได้</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630489</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมสร้างดอกของผมจากแผนผังที่ซ่อนไว้ได้แล้ว ตอนนี้ผมมีของ Alex แล้ว เหลือแค่เอามันไปใช้</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมสร้างดอกของผมจากแผนผังที่ซ่อนไว้ได้แล้ว ตอนนี้ผมมีของ Alex แล้ว เหลือแค่เอามันไปใช้</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630490</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมได้แผนผังการผลิตดอกของตัวเองมาแล้ว ถึงแม้ Alex จะซ่อนตัวพร้อมกับดอกของเขา แต่ Dahl กำลังเข้าใกล้ตำแหน่งเขาแล้ว และผมคิดว่าเขาคงมีเวลาไม่มาก</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองทำลาย Talos I หากเกิดการระบาดของ Typhon ขั้นตอนนี้ต้องใช้ Arming Key สองดอก ดอกของผมและของพี่ชาย ผมได้แผนผังการผลิตดอกของตัวเองมาแล้ว ถึงแม้ Alex จะซ่อนตัวพร้อมกับดอกของเขา แต่ Dahl กำลังเข้าใกล้ตำแหน่งเขาแล้ว และผมคิดว่าเขาคงมีเวลาไม่มาก</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630492</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">กุญแจ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">กุญแจ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630493</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">สร้าง Arming Key ของคุณ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">สร้าง Arming Key ของคุณ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630494</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">กุญแจทำลายตัวเอง</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">กุญแจทำลายตัวเอง</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630495</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ชิง Arming Key ของ Alex มา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ชิง Arming Key ของ Alex มา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630496</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ห้องทำงานของ Alex</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ห้องทำงานของ Alex</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630497</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ไปฟังสิ่งที่ Alex จะพูดในห้องทำงานของเขา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ไปฟังสิ่งที่ Alex จะพูดในห้องทำงานของเขา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630498</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">สแกน Coral สำหรับ Alex</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">สแกน Coral สำหรับ Alex</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630499</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Alex จะซ่อนตัวจนกว่า Dahl และเจ้าหน้าที่เทคนิคของเขาจะถูกจัดการ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Alex จะซ่อนตัวจนกว่า Dahl และเจ้าหน้าที่เทคนิคของเขาจะถูกจัดการ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630500</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">พบกับ Alex ใน Arboretum ที่ (เลิกใช้)</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">พบกับ Alex ใน Arboretum ที่ (เลิกใช้)</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630501</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Alex Yu</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Alex Yu</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630502</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Alex พร้อมที่จะพบคุณใน Arboretum แล้ว</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Alex พร้อมที่จะพบคุณใน Arboretum แล้ว</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630503</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">พี่ชายของคุณ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">พี่ชายของคุณ</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630504</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เก็บ Arming Key ของ Alex มาจากศพเขา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">เก็บ Arming Key ของ Alex มาจากศพเขา</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630505</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ปกป้อง Alex จาก Dahl</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">ปกป้อง Alex จาก Dahl</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630506</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">บังเกอร์</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">บังเกอร์</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630507</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หยุด Dahl ก่อนที่เขาจะแฮ็กเข้าบังเกอร์ของ Alex ได้</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หยุด Dahl ก่อนที่เขาจะแฮ็กเข้าบังเกอร์ของ Alex ได้</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_15373294129891630508</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Alex น่าจะอยู่ในห้องทำงานของเขาที่ Arboretum</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Alex น่าจะอยู่ในห้องทำงานของเขาที่ Arboretum</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_13680621263408025953</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หยุด Dahl</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">หยุด Dahl</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell>
+     <Data ss:Type="String">loc_844024417328378002</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Arming Key สามารถสร้างใหม่ได้เสมอหากสูญหาย</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Arming Key สามารถสร้างใหม่ได้เสมอหากสูญหาย</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">LOCKED</Data>
+    </Cell>
+    <Cell ss:Index="6">
+     <Data ss:Type="String"/>
+    </Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced />
+   <Selected />
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>31</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:ExcelWorkbook />
+</Workbook>

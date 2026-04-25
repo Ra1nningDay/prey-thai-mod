@@ -1,0 +1,346 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12300</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="LocStuff">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="45" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="127.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="603"/>
+   <Column ss:AutoFitWidth="0" ss:Width="452.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KEY</Data></Cell>
+    <Cell><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String">CHARACTER LIMIT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630164</Data></Cell>
+    <Cell><Data ss:Type="String">Traumatized</Data></Cell>
+    <Cell><Data ss:Type="String">บาดเจ็บ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630165</Data></Cell>
+    <Cell><Data ss:Type="String">I have a traumatic injury. A medical operator can help get rid of it, or I can find some pharmas.</Data></Cell>
+    <Cell><Data ss:Type="String">ผมมีอาการบาดเจ็บ Operator ทางการแพทย์สามารถช่วยรักษาได้ หรือผมจะหายามาใช้ก็ได้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630166</Data></Cell>
+    <Cell><Data ss:Type="String">A medical operator healed my traumatic injury.</Data></Cell>
+    <Cell><Data ss:Type="String">Operator ทางการแพทย์รักษาอาการบาดเจ็บของผมแล้ว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630167</Data></Cell>
+    <Cell><Data ss:Type="String">I used a pharma to get rid of my trauma.</Data></Cell>
+    <Cell><Data ss:Type="String">ผมใช้ยาเพื่อรักษาอาการบาดเจ็บของผม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630168</Data></Cell>
+    <Cell><Data ss:Type="String">I used a Medkit (after upping my medical skill with a Neuromod) to get rid of my trauma.</Data></Cell>
+    <Cell><Data ss:Type="String">ผมใช้ Medkit (หลังจากเพิ่มทักษะทางการแพทย์ด้วย Neuromod) เพื่อรักษาอาการบาดเจ็บของผม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630169</Data></Cell>
+    <Cell><Data ss:Type="String">I managed to recover from my trauma.</Data></Cell>
+    <Cell><Data ss:Type="String">ผมฟื้นตัวจากอาการบาดเจ็บได้แล้ว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630170</Data></Cell>
+    <Cell><Data ss:Type="String">Cure Your Trauma</Data></Cell>
+    <Cell><Data ss:Type="String">รักษาอาการบาดเจ็บของคุณ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630171</Data></Cell>
+    <Cell><Data ss:Type="String">Trauma Center</Data></Cell>
+    <Cell><Data ss:Type="String">Trauma Center</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630172</Data></Cell>
+    <Cell><Data ss:Type="String">Go to the Trauma Center</Data></Cell>
+    <Cell><Data ss:Type="String">ไปที่ Trauma Center</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630173</Data></Cell>
+    <Cell><Data ss:Type="String">Find a Medical Operator</Data></Cell>
+    <Cell><Data ss:Type="String">หา Operator ทางการแพทย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630174</Data></Cell>
+    <Cell><Data ss:Type="String">Medical Dispenser</Data></Cell>
+    <Cell><Data ss:Type="String">เครื่องจ่ายเวชภัณฑ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630175</Data></Cell>
+    <Cell><Data ss:Type="String">Summon a Medical Operator</Data></Cell>
+    <Cell><Data ss:Type="String">เรียก Operator ทางการแพทย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630176</Data></Cell>
+    <Cell><Data ss:Type="String">Medical Bay</Data></Cell>
+    <Cell><Data ss:Type="String">ห้องพยาบาล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630177</Data></Cell>
+    <Cell><Data ss:Type="String">Use a Medical Operator</Data></Cell>
+    <Cell><Data ss:Type="String">ใช้ Operator ทางการแพทย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630178</Data></Cell>
+    <Cell><Data ss:Type="String">Traumas can be cured with certain medical supplies or by visiting a medical operator. </Data></Cell>
+    <Cell><Data ss:Type="String">อาการบาดเจ็บสามารถรักษาได้ด้วยเวชภัณฑ์บางชนิด หรือโดยการไปหา Operator ทางการแพทย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630179</Data></Cell>
+    <Cell><Data ss:Type="String">There's a medical operator in the trauma center, located in the main Lobby.</Data></Cell>
+    <Cell><Data ss:Type="String">มี Operator ทางการแพทย์ใน Trauma Center ซึ่งอยู่ใน Lobby หลัก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630180</Data></Cell>
+    <Cell><Data ss:Type="String">There's a medical operator in the trauma center, located in the main Lobby.</Data></Cell>
+    <Cell><Data ss:Type="String">มี Operator ทางการแพทย์ใน Trauma Center ซึ่งอยู่ใน Lobby หลัก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630181</Data></Cell>
+    <Cell><Data ss:Type="String">Use a Fabricator</Data></Cell>
+    <Cell><Data ss:Type="String">ใช้ Fabricator</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630182</Data></Cell>
+    <Cell><Data ss:Type="String">I found a fabrication plan. I should find a fabricator in order to create the object. </Data></Cell>
+    <Cell><Data ss:Type="String">ผมพบแผนการผลิต ผมควรหา Fabricator เพื่อสร้างวัตถุนั้น</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630183</Data></Cell>
+    <Cell><Data ss:Type="String">I've found a fabricator. I should find a fabrication plan to utilize it.</Data></Cell>
+    <Cell><Data ss:Type="String">ผมพบ Fabricator แล้ว ผมควรหาแผนการผลิตเพื่อใช้งานมัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630184</Data></Cell>
+    <Cell><Data ss:Type="String">Find a Fabricator</Data></Cell>
+    <Cell><Data ss:Type="String">หา Fabricator</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630185</Data></Cell>
+    <Cell><Data ss:Type="String">Fabricator</Data></Cell>
+    <Cell><Data ss:Type="String">เครื่องสร้าง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630186</Data></Cell>
+    <Cell><Data ss:Type="String">Use a Fabricator to create an object</Data></Cell>
+    <Cell><Data ss:Type="String">ใช้ Fabricator เพื่อสร้างวัตถุ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630187</Data></Cell>
+    <Cell><Data ss:Type="String">Find a Fabrication Plan</Data></Cell>
+    <Cell><Data ss:Type="String">หาแผนการผลิต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630188</Data></Cell>
+    <Cell><Data ss:Type="String">PreventDahlFromEscaping</Data></Cell>
+    <Cell><Data ss:Type="String">ป้องกัน Dahl จากการหลบหนี</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630189</Data></Cell>
+    <Cell><Data ss:Type="String">[DEPRECATED]  Prevent Dahl's escape</Data></Cell>
+    <Cell><Data ss:Type="String">[DEPRECATED] ป้องกันการหลบหนีของ Dahl</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630190</Data></Cell>
+    <Cell><Data ss:Type="String">Dahl</Data></Cell>
+    <Cell><Data ss:Type="String">Dahl</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630191</Data></Cell>
+    <Cell><Data ss:Type="String">[DEPRECATED] Dahl is in Shuttle Bay preparing to escape on the shuttle.</Data></Cell>
+    <Cell><Data ss:Type="String">[DEPRECATED] Dahl อยู่ใน Shuttle Bay เตรียมพร้อมที่จะหลบหนีด้วยกระสวย</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630192</Data></Cell>
+    <Cell><Data ss:Type="String">Zero G Propulsion System</Data></Cell>
+    <Cell><Data ss:Type="String">ระบบขับเคลื่อนไร้แรงโน้มถ่วง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630193</Data></Cell>
+    <Cell><Data ss:Type="String">There's an Artax Propulsion System fabrication plan somewhere in the Machine Shop of Hardware Labs.</Data></Cell>
+    <Cell><Data ss:Type="String">มีแผนการผลิต Artax Propulsion System อยู่ที่ไหนสักแห่งใน Machine Shop ของ Hardware Labs</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630194</Data></Cell>
+    <Cell><Data ss:Type="String">I need to upgrade my suit with an Artax Propulsion System to enter maneuver outside the space station. There's a fabrication plan somewhere in the Machine Shop of the Hardware Labs.</Data></Cell>
+    <Cell><Data ss:Type="String">ผมต้องอัปเกรดชุดของผมด้วย Artax Propulsion System เพื่อออกไปเคลื่อนที่นอกสถานีอวกาศ มีแผนการผลิตอยู่ที่ไหนสักแห่งใน Machine Shop ของ Hardware Labs</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630195</Data></Cell>
+    <Cell><Data ss:Type="String">I found the Artax Propulsion System fabrication plan. Now I need to fabricate and equip it to gain access to the station exterior.</Data></Cell>
+    <Cell><Data ss:Type="String">ผมพบแผนการผลิต Artax Propulsion System แล้ว ตอนนี้ผมต้องผลิตและสวมใส่เพื่อออกไปด้านนอกสถานี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630196</Data></Cell>
+    <Cell><Data ss:Type="String">I upgraded my suit with an Artax Propulsion System. I can use it to glide in normal gravity or maneuver when in a zero gravity environment.</Data></Cell>
+    <Cell><Data ss:Type="String">ผมอัปเกรดชุดของผมด้วย Artax Propulsion System แล้ว ผมสามารถใช้มันร่อนในสภาวะแรงโน้มถ่วงปกติได้ หรือเคลื่อนที่ในสภาวะไร้แรงโน้มถ่วง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630197</Data></Cell>
+    <Cell><Data ss:Type="String">Artax Fabrication Plan</Data></Cell>
+    <Cell><Data ss:Type="String">แผนการผลิต Artax</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630198</Data></Cell>
+    <Cell><Data ss:Type="String">Find an Artax Propulsion System fabrication plan.</Data></Cell>
+    <Cell><Data ss:Type="String">หาแผนการผลิต Artax Propulsion System</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630199</Data></Cell>
+    <Cell><Data ss:Type="String">Fabricator</Data></Cell>
+    <Cell><Data ss:Type="String">เครื่องสร้าง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630200</Data></Cell>
+    <Cell><Data ss:Type="String">Fabricate the Artax Propulsion System.</Data></Cell>
+    <Cell><Data ss:Type="String">ผลิต Artax Propulsion System</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630201</Data></Cell>
+    <Cell><Data ss:Type="String">Platform</Data></Cell>
+    <Cell><Data ss:Type="String">แพลตฟอร์ม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630202</Data></Cell>
+    <Cell><Data ss:Type="String">Glide to the cargo platform</Data></Cell>
+    <Cell><Data ss:Type="String">ร่อนไปที่แพลตฟอร์มขนส่งสินค้า</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630203</Data></Cell>
+    <Cell><Data ss:Type="String">Locate Crew Member</Data></Cell>
+    <Cell><Data ss:Type="String">ระบุตำแหน่งลูกเรือ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630204</Data></Cell>
+    <Cell><Data ss:Type="String">When I tag a crew member from a security station, I get the location of their tracking bracelet. I can use this to find missing crew.</Data></Cell>
+    <Cell><Data ss:Type="String">เมื่อผมระบุตัวลูกเรือจากสถานีรักษาความปลอดภัย ผมจะได้รับตำแหน่งของกำไลติดตามตัวของพวกเขา ผมสามารถใช้สิ่งนี้เพื่อค้นหาลูกเรือที่หายไปได้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630205</Data></Cell>
+    <Cell><Data ss:Type="String">Crew Member</Data></Cell>
+    <Cell><Data ss:Type="String">ลูกเรือ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891630206</Data></Cell>
+    <Cell><Data ss:Type="String">Locate crew member</Data></Cell>
+    <Cell><Data ss:Type="String">ระบุตำแหน่งลูกเรือ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315039387</Data></Cell>
+    <Cell><Data ss:Type="String">I've successfully used a fabricator to create something from a fabrication plan.</Data></Cell>
+    <Cell><Data ss:Type="String">ผมใช้ Fabricator ได้สำเร็จแล้วเพื่อสร้างบางสิ่งจากแผนการผลิต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>34</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:ExcelWorkbook/>
+</Workbook>

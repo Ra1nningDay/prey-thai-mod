@@ -1,0 +1,773 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Susan Kath</LastAuthor>
+  <LastSaved>2017-01-09T02:39:23Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11400</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="LocStuff">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="105" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15">
+   <Column ss:Index="2" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="567.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="522.75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KEY</Data></Cell>
+    <Cell><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String">CHARACTER LIMIT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561148</Data></Cell>
+    <Cell><Data ss:Type="String">Apex Tendril</Data></Cell>
+    <Cell><Data ss:Type="String">หนวด Apex</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561149</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;ERROR: UNABLE TO CONNECT TO PSYCHOTRONICS DATABASE&lt;/b&gt;&lt;br&gt;No entries found. Please contact Dr. Hans Kelstrup, Director of Psychotronics.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;A tiny part of the Apex. Intent on devouring everything in its path. Attracted to movement. No way to permanently kill these. Use Nullwave or Q-beam to beat them back.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อผิดพลาด: ไม่สามารถเชื่อมต่อกับฐานข้อมูล PSYCHOTRONICS ได้</b><br>ไม่พบข้อมูล โปรดติดต่อ ดร. Hans Kelstrup, ผู้อำนวยการ Psychotronics<br><br><b>บันทึกของ Morgan:</b><br>ส่วนเล็ก ๆ ของ Apex มุ่งมั่นที่จะกลืนกินทุกสิ่งขวางหน้า ดึงดูดด้วยการเคลื่อนไหว ไม่มีทางที่จะฆ่าพวกมันได้อย่างถาวร ใช้ Nullwave หรือ Q-beam เพื่อขับไล่พวกมันกลับไป</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561150</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;ERROR: UNABLE TO CONNECT TO PSYCHOTRONICS DATABASE&lt;/b&gt;&lt;br&gt;No entries found. Please contact Dr. Hans Kelstrup, Director of Psychotronics.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;A tiny part of the Apex. Intent on devouring everything in its path. Attracted to movement. No way to permanently kill these. Use Nullwave or Q-beam to beat them back.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อผิดพลาด: ไม่สามารถเชื่อมต่อกับฐานข้อมูล PSYCHOTRONICS ได้</b><br>ไม่พบข้อมูล โปรดติดต่อ ดร. Hans Kelstrup, ผู้อำนวยการ Psychotronics<br><br><b>บันทึกของ Morgan:</b><br>ส่วนเล็ก ๆ ของ Apex มุ่งมั่นที่จะกลืนกินทุกสิ่งขวางหน้า ดึงดูดด้วยการเคลื่อนไหว ไม่มีทางที่จะฆ่าพวกมันได้อย่างถาวร ใช้ Nullwave หรือ Q-beam เพื่อขับไล่พวกมันกลับไป</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561151</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESS:&lt;/b&gt;&lt;br&gt;Nullwave&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;NONE</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>Nullwave<br><br><b>ภูมิคุ้มกัน:</b><br>ไม่มี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561152</Data></Cell>
+    <Cell><Data ss:Type="String">Coral Node</Data></Cell>
+    <Cell><Data ss:Type="String">โหนด Coral</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561153</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PROJECT AXIOM ARCHIVE:&lt;/b&gt;&lt;br&gt;Observation log #2057-050565&lt;br&gt;Researcher: Louis Sullivan&lt;br&gt;&lt;br&gt;Out of all the samples recovered from the &lt;i&gt;Vorona I&lt;/i&gt; site, none have proven as perplexing as the Coral. It's unclear at the moment whether this is some sort of new Typhon species or something as simple as waste material from the Weavers. Further study is warranted.&lt;br&gt;&lt;br&gt;&lt;b&gt;RAW SCAN DATA SUMMARY:&lt;/b&gt; Microscopic elements demonstrate STRONG correlation between patterns of connections within the Coral and Connectomes of volunteers, employees, and guests found in TranStar's database. Recommend exhaustive pattern matching. Early conjecture: the Psyche of Typhon victims is recreated... or STORED within the Coral. Purpose unknown.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากเอกสารเก่าของ PROJECT AXIOM:</b><br>บันทึกการสังเกตการณ์ #2057-050565<br>นักวิจัย: Louis Sullivan<br><br>จากตัวอย่างทั้งหมดที่กู้คืนจากพื้นที่ <i>Vorona I</i> ไม่มีสิ่งใดที่สร้างความสับสนได้เท่ากับ Coral ขณะนี้ยังไม่ชัดเจนว่านี่เป็น Typhon สายพันธุ์ใหม่ หรือเป็นเพียงของเสียจาก Weavers จำเป็นต้องมีการศึกษาเพิ่มเติม<br><br><b>สรุปข้อมูลการสแกนดิบ:</b> องค์ประกอบระดับจุลภาคแสดงความสัมพันธ์ที่แข็งแกร่งระหว่างรูปแบบการเชื่อมต่อภายใน Coral กับ Connectomes ของอาสาสมัคร พนักงาน และแขกที่พบในฐานข้อมูลของ TranStar แนะนำให้จับคู่รูปแบบอย่างละเอียด ข้อสันนิษฐานเบื้องต้น: จิตวิญญาณของผู้ที่ตกเป็นเหยื่อ Typhon ถูกสร้างขึ้นใหม่... หรือถูกจัดเก็บไว้ภายใน Coral วัตถุประสงค์ไม่ทราบแน่ชัด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561154</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PROJECT AXIOM ARCHIVE:&lt;/b&gt;&lt;br&gt;Observation log #2057-050565&lt;br&gt;Researcher: Louis Sullivan&lt;br&gt;&lt;br&gt;Out of all the samples recovered from the &lt;i&gt;Vorona I&lt;/i&gt; site, none have proved as perplexing as the Coral. It's unclear at the moment whether this is some sort of new Typhon species or something as simple as waste material from the Weavers. Preliminary research shows a surprising similarity to neural networks, but further study is warranted.&lt;br&gt;&lt;br&gt;&lt;b&gt;RAW SCAN DATA SUMMARY:&lt;/b&gt; Microscopic elements demonstrate STRONG correlation between patterns of connections within the Coral and Connectomes of volunteers, employees, and guests found in TranStar's database. Recommend exhaustive pattern matching. Early conjecture: the Psyche of Typhon victims is recreated... or STORED within the Coral. Purpose unknown.&lt;br&gt;&lt;br&gt;&lt;b&gt;RAW SCAN DATA SUMMARY:&lt;/b&gt; Macrolevel analysis of the Coral ALSO shows resemblance to a neural network - like a vast disembodied nervous system. Evidence of increasingly frequent and rapid SIGNALING between elements, as well as broadcasting neotic signatures OUTSIDE itself. &lt;br&gt;&lt;br&gt;Requesting exhaustive database comparison... &lt;br&gt;ERROR... Deep Storage server Arx-F30 not responding.&lt;br&gt;ERROR... Deep Storage server Arx-F31 not responding.&lt;br&gt;Remote connection timed out. Manual upload required.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;One big Typhon communication beacon. But who is it calling?</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากเอกสารเก่าของ PROJECT AXIOM:</b><br>บันทึกการสังเกตการณ์ #2057-050565<br>นักวิจัย: Louis Sullivan<br><br>จากตัวอย่างทั้งหมดที่กู้คืนจากพื้นที่ <i>Vorona I</i> ไม่มีสิ่งใดที่สร้างความสับสนได้เท่ากับ Coral ขณะนี้ยังไม่ชัดเจนว่านี่เป็น Typhon สายพันธุ์ใหม่ หรือเป็นเพียงของเสียจาก Weavers การวิจัยเบื้องต้นแสดงให้เห็นความคล้ายคลึงกับโครงข่ายประสาทอย่างน่าประหลาดใจ แต่จำเป็นต้องมีการศึกษาเพิ่มเติม<br><br><b>สรุปข้อมูลการสแกนดิบ:</b> องค์ประกอบระดับจุลภาคแสดงความสัมพันธ์ที่แข็งแกร่งระหว่างรูปแบบการเชื่อมต่อภายใน Coral กับ Connectomes ของอาสาสมัคร พนักงาน และแขกที่พบในฐานข้อมูลของ TranStar แนะนำให้จับคู่รูปแบบอย่างละเอียด ข้อสันนิษฐานเบื้องต้น: จิตวิญญาณของผู้ที่ตกเป็นเหยื่อ Typhon ถูกสร้างขึ้นใหม่... หรือถูกจัดเก็บไว้ภายใน Coral วัตถุประสงค์ไม่ทราบแน่ชัด<br><br><b>สรุปข้อมูลการสแกนดิบ:</b> การวิเคราะห์ Coral ในระดับมหภาคยังแสดงให้เห็นความคล้ายคลึงกับโครงข่ายประสาท - เหมือนระบบประสาทขนาดใหญ่ที่ไร้ร่างกาย มีหลักฐานการส่งสัญญาณที่ถี่ขึ้นและรวดเร็วขึ้นระหว่างองค์ประกอบต่าง ๆ รวมถึงการแพร่กระจายสัญญาณ neotic ออกไปภายนอก <br><br>กำลังร้องขอการเปรียบเทียบฐานข้อมูลอย่างละเอียด... <br>ข้อผิดพลาด... เซิร์ฟเวอร์ Deep Storage Arx-F30 ไม่ตอบสนอง<br>ข้อผิดพลาด... เซิร์ฟเวอร์ Deep Storage Arx-F31 ไม่ตอบสนอง<br>การเชื่อมต่อระยะไกลหมดเวลา จำเป็นต้องอัปโหลดด้วยตนเอง<br><br><b>บันทึกของ Morgan:</b><br>มันคือสัญญาณสื่อสาร Typhon ขนาดใหญ่ แต่กำลังเรียกหาใครกันแน่?</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561155</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESS:&lt;/b&gt;&lt;br&gt;None&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;None</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>ไม่มี<br><br><b>ภูมิคุ้มกัน:</b><br>ไม่มี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561156</Data></Cell>
+    <Cell><Data ss:Type="String">Corrupted Operator</Data></Cell>
+    <Cell><Data ss:Type="String">Operator ที่เสียหาย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561157</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM TRANSTAR SECURITY RECORDS:&lt;/b&gt;&lt;br&gt;Incident report #1258-011835&lt;br&gt;Classification: Equipment malfunction&lt;br&gt;Reporting officer: Patricia Wang&lt;br&gt;&lt;br&gt;Incident summary: I was called to the scene by Carlos Popinga, who requested assistance with another haywire Operator near the Arboretum lift. Popinga explained he had been sent to fix the main lift, which had been malfunctioning. He claims his Engineering Operator appeared to malfunction upon approaching the lift and became hostile when Popinga attempted to deactivate it. I used an EMP charge to neutralize the Operator. Popinga was sent to Trauma with severe burns. &lt;br&gt;&lt;br&gt;The engineers down in Hardware Labs have already checked out the Operator. They tell me it's been physically rewired and completely reprogrammed, just like the last four cases. This looks like sabotage to me.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากบันทึกความปลอดภัยของ TRANSTAR:</b><br>รายงานเหตุการณ์ #1258-011835<br>การจัดประเภท: อุปกรณ์ทำงานผิดปกติ<br>เจ้าหน้าที่รายงาน: Patricia Wang<br><br>สรุปเหตุการณ์: ผมถูกเรียกไปยังที่เกิดเหตุโดย Carlos Popinga ซึ่งขอความช่วยเหลือเกี่ยวกับ Operator ที่ทำงานผิดปกติอีกตัวใกล้ลิฟต์ Arboretum Popinga อธิบายว่าเขาถูกส่งไปซ่อมลิฟต์หลักที่ทำงานผิดปกติ เขาอ้างว่า Engineering Operator ของเขาดูเหมือนจะทำงานผิดปกติเมื่อเข้าใกล้ลิฟต์ และกลายเป็นศัตรูเมื่อ Popinga พยายามปิดการทำงาน ผมใช้ประจุ EMP เพื่อทำให้ Operator เป็นกลาง Popinga ถูกส่งไปที่ Trauma ด้วยอาการบาดเจ็บจากการถูกไฟไหม้อย่างรุนแรง <br><br>วิศวกรใน Hardware Labs ได้ตรวจสอบ Operator แล้ว พวกเขาบอกผมว่ามันถูกเดินสายใหม่และตั้งโปรแกรมใหม่ทั้งหมด เช่นเดียวกับสี่กรณีที่ผ่านมา สำหรับผมแล้ว นี่ดูเหมือนการก่อวินาศกรรม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561158</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM TRANSTAR SECURITY RECORDS:&lt;/b&gt;&lt;br&gt;Incident report #1258-011835&lt;br&gt;Classification: Equipment malfunction&lt;br&gt;Reporting officer: Patricia Wang&lt;br&gt;&lt;br&gt;Incident summary: I was called to the scene by Carlos Popinga, who requested assistance with another haywire Operator near the Arboretum lift. Popinga explained he had been sent to fix the main lift, which had been malfunctioning. He claims his Engineering Operator appeared to malfunction upon approaching the lift and became hostile when Popinga attempted to deactivate it. I used an EMP charge to neutralize the Operator. Popinga was sent to Trauma with severe burns. &lt;br&gt;&lt;br&gt;The engineers down in Hardware Labs have already checked out the Operator. They tell me it's been physically rewired and completely reprogrammed, just like the last four cases. This looks like sabotage to me.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Corrupted by some sort of Typhon ability. Will try to incinerate you at close range. Keep away. Either freeze in place with GLOO cannon or knock out with EMP. Metal body shrugs off most rounds.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากบันทึกความปลอดภัยของ TRANSTAR:</b><br>รายงานเหตุการณ์ #1258-011835<br>การจัดประเภท: อุปกรณ์ทำงานผิดปกติ<br>เจ้าหน้าที่รายงาน: Patricia Wang<br><br>สรุปเหตุการณ์: ผมถูกเรียกไปยังที่เกิดเหตุโดย Carlos Popinga ซึ่งขอความช่วยเหลือเกี่ยวกับ Operator ที่ทำงานผิดปกติอีกตัวใกล้ลิฟต์ Arboretum Popinga อธิบายว่าเขาถูกส่งไปซ่อมลิฟต์หลักที่ทำงานผิดปกติ เขาอ้างว่า Engineering Operator ของเขาดูเหมือนจะทำงานผิดปกติเมื่อเข้าใกล้ลิฟต์ และกลายเป็นศัตรูเมื่อ Popinga พยายามปิดการทำงาน ผมใช้ประจุ EMP เพื่อทำให้ Operator เป็นกลาง Popinga ถูกส่งไปที่ Trauma ด้วยอาการบาดเจ็บจากการถูกไฟไหม้อย่างรุนแรง <br><br>วิศวกรใน Hardware Labs ได้ตรวจสอบ Operator แล้ว พวกเขาบอกผมว่ามันถูกเดินสายใหม่และตั้งโปรแกรมใหม่ทั้งหมด เช่นเดียวกับสี่กรณีที่ผ่านมา สำหรับผมแล้ว นี่ดูเหมือนการก่อวินาศกรรม<br><br><b>บันทึกของ Morgan:</b><br>เสียหายจากความสามารถ Typhon บางอย่าง จะพยายามเผาคุณในระยะประชิด อยู่ห่าง ๆ ไว้ ไม่ว่าจะตรึงมันไว้ด้วย GLOO Cannon หรือทำให้มันหมดสภาพด้วย EMP ตัวโลหะของมันสามารถทนทานต่อกระสุนส่วนใหญ่ได้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561159</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;Electric&lt;br&gt;EMP&lt;br&gt;Explosive&lt;br&gt;GLOO&lt;br&gt;Melee&lt;br&gt;Recycler&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITIES:&lt;/b&gt;&lt;br&gt;Psychic&lt;br&gt;Nullwave&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Machine Mind I&lt;/i&gt;&lt;br&gt;&lt;i&gt;Remote Manipulation I&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>ไฟฟ้า<br>EMP<br>ระเบิด<br>GLOO<br>ประชิด<br>Recycler<br><br><b>ภูมิคุ้มกัน:</b><br>พลังจิต<br>Nullwave<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Machine Mind I</i><br><i>Remote Manipulation I</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561160</Data></Cell>
+    <Cell><Data ss:Type="String">Cystoid</Data></Cell>
+    <Cell><Data ss:Type="String">Cystoid</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561161</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PROJECT AXIOM ARCHIVE:&lt;/b&gt;&lt;br&gt;Observation log #1824-122864&lt;br&gt;Researcher: Louis Sullivan&lt;br&gt;&lt;br&gt;It's fortunate the Weaver produces so many of these because keeping Cystoids alive for long outside of those nests has proven to be exceptionally difficult. Despite the lack of any visible sensory organs, each Cystoid seems capable of detecting us through unknown means, detonating on proximity. If we can figure out what it uses to &quot;see,&quot; we may be able find a way to &quot;blind&quot; it long enough to get a closer look.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Attracted to movement. Throw something to distract them. Try to group them up to take them out with fewer shots. Releases a burst of radiation on death.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากเอกสารเก่าของ PROJECT AXIOM:</b><br>บันทึกการสังเกตการณ์ #1824-122864<br>นักวิจัย: Louis Sullivan<br><br>เป็นเรื่องโชคดีที่ Weaver ผลิตสิ่งเหล่านี้ออกมามากมาย เพราะการรักษา Cystoids ให้มีชีวิตรอดนอกรังเหล่านั้นเป็นเรื่องที่ยากอย่างยิ่ง แม้จะไม่มีอวัยวะรับความรู้สึกที่มองเห็นได้ แต่ Cystoid แต่ละตัวดูเหมือนจะสามารถตรวจจับเราได้ด้วยวิธีการที่ไม่รู้จัก และจะระเบิดเมื่อเข้าใกล้ หากเราสามารถหาสิ่งที่มันใช้ในการ &quot;มองเห็น&quot; ได้ เราอาจหาวิธี &quot;ทำให้มันตาบอด&quot; ได้นานพอที่จะเข้าไปดูใกล้ ๆ<br><br><b>บันทึกของ Morgan:</b><br>ดึงดูดด้วยการเคลื่อนไหว โยนบางสิ่งเพื่อเบี่ยงเบนความสนใจพวกมัน พยายามรวมพวกมันเข้าด้วยกันเพื่อกำจัดด้วยกระสุนที่น้อยลง ปล่อยรังสีออกมาเมื่อตาย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561162</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESS:&lt;/b&gt;&lt;br&gt;None&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;None&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Kinetic Blast I&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>ไม่มี<br><br><b>ภูมิคุ้มกัน:</b><br>ไม่มี<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Kinetic Blast I</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561163</Data></Cell>
+    <Cell><Data ss:Type="String">Cystoid Nest</Data></Cell>
+    <Cell><Data ss:Type="String">รัง Cystoid</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561164</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PROJECT AXIOM ARCHIVE:&lt;/b&gt;&lt;br&gt;Observation log #2042-010265&lt;br&gt;Researcher: Louis Sullivan&lt;br&gt;&lt;br&gt;The outer layer of each Cystoid nest appears to be made of an exceptionally thin layer of the same material that makes up most Typhon. Indeed, the nest appears to be just as fragile as the Cystoids themselves, making it less of a protective structure and more like a living mine. It's possible that the Weaver uses these to mark and even defend its territory from any kind of intruder. Initial scans reveal they are constantly leaking lethal levels of radiation. &lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Don't touch unless you want a cystoid swarm.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากเอกสารเก่าของ PROJECT AXIOM:</b><br>บันทึกการสังเกตการณ์ #2042-010265<br>นักวิจัย: Louis Sullivan<br><br>ชั้นนอกของรัง Cystoid แต่ละรังดูเหมือนจะทำจากวัสดุที่บางเป็นพิเศษ ซึ่งเป็นวัสดุเดียวกับที่ประกอบเป็น Typhon ส่วนใหญ่ อันที่จริง รังนี้ดูเปราะบางพอ ๆ กับ Cystoids เอง ทำให้มันไม่ใช่โครงสร้างป้องกัน แต่เป็นเหมือนกับทุ่นระเบิดมีชีวิต เป็นไปได้ว่า Weaver ใช้สิ่งเหล่านี้เพื่อทำเครื่องหมายและแม้กระทั่งป้องกันอาณาเขตของมันจากผู้บุกรุกทุกชนิด การสแกนเบื้องต้นเผยให้เห็นว่าพวกมันปล่อยรังสีในระดับอันตรายถึงชีวิตออกมาอย่างต่อเนื่อง <br><br><b>บันทึกของ Morgan:</b><br>อย่าแตะต้องมัน เว้นแต่คุณอยากเจอฝูง Cystoid</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561165</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PROJECT AXIOM ARCHIVE:&lt;/b&gt;&lt;br&gt;Observation log #2042-010265&lt;br&gt;Researcher: Louis Sullivan&lt;br&gt;&lt;br&gt;The outer layer of each Cystoid nest appears to be made of an exceptionally thin layer of the same material that makes up most Typhon. Indeed, the nest appears to be just as fragile as the Cystoids themselves, making it less of a protective structure and more like a living mine. It's possible that the Weaver uses these to mark and even defend its territory from any kind of intruder. Initial scans reveal they are constantly leaking lethal levels of radiation. &lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Steer clear unless you want radiation sickness or a swarm of cystoids after you.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากเอกสารเก่าของ PROJECT AXIOM:</b><br>บันทึกการสังเกตการณ์ #2042-010265<br>นักวิจัย: Louis Sullivan<br><br>ชั้นนอกของรัง Cystoid แต่ละรังดูเหมือนจะทำจากวัสดุที่บางเป็นพิเศษ ซึ่งเป็นวัสดุเดียวกับที่ประกอบเป็น Typhon ส่วนใหญ่ อันที่จริง รังนี้ดูเปราะบางพอ ๆ กับ Cystoids เอง ทำให้มันไม่ใช่โครงสร้างป้องกัน แต่เป็นเหมือนกับทุ่นระเบิดมีชีวิต เป็นไปได้ว่า Weaver ใช้สิ่งเหล่านี้เพื่อทำเครื่องหมายและแม้กระทั่งป้องกันอาณาเขตของมันจากผู้บุกรุกทุกชนิด การสแกนเบื้องต้นเผยให้เห็นว่าพวกมันปล่อยรังสีในระดับอันตรายถึงชีวิตออกมาอย่างต่อเนื่อง <br><br><b>บันทึกของ Morgan:</b><br>อยู่ให้ห่าง เว้นแต่คุณอยากเป็นโรครังสีหรือโดนฝูง Cystoid ไล่ตาม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561166</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESS:&lt;/b&gt;&lt;br&gt;None&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;None</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>ไม่มี<br><br><b>ภูมิคุ้มกัน:</b><br>ไม่มี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561167</Data></Cell>
+    <Cell><Data ss:Type="String">Human</Data></Cell>
+    <Cell><Data ss:Type="String">มนุษย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561168</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Human &lt;br&gt;Scientific Name: &lt;i&gt;Homo sapiens&lt;/i&gt;&lt;br&gt;&lt;br&gt;Humans, like most mammals, possess a low natural psychoactive potential. Attempts to alter brain function through artificial means are usually temporary at best, or harmful and addictive at worst. The addition of the [REDACTED], derived from the Typhon organisms, temporarily weakens the elasticity of human neuron connections and allows for the addition of new, synthetic neurons to catalyze changes in the subject's brain.&lt;br&gt;&lt;br&gt;Removal of this serum will cause the human body to reject the new neurons and connections, effectively resetting the brain back to its original state. This process may result in memory loss and other as of yet undiscovered side-effects.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: มนุษย์ <br>ชื่อวิทยาศาสตร์: <i>Homo sapiens</i><br><br>มนุษย์ เช่นเดียวกับสัตว์เลี้ยงลูกด้วยนมส่วนใหญ่ มีศักยภาพทางจิตประสาทตามธรรมชาติที่ต่ำ ความพยายามที่จะเปลี่ยนแปลงการทำงานของสมองด้วยวิธีการเทียมมักจะเป็นเพียงชั่วคราวในกรณีที่ดีที่สุด หรือเป็นอันตรายและเสพติดในกรณีที่เลวร้ายที่สุด การเพิ่ม [ข้อมูลปกปิด] ซึ่งได้มาจากสิ่งมีชีวิต Typhon จะทำให้ความยืดหยุ่นของการเชื่อมต่อเซลล์ประสาทของมนุษย์อ่อนแอลงชั่วคราว และช่วยให้สามารถเพิ่มเซลล์ประสาทสังเคราะห์ใหม่เพื่อเร่งการเปลี่ยนแปลงในสมองของสิ่งมีชีวิตได้<br><br>การถอดเซรั่มนี้ออกจะทำให้ร่างกายมนุษย์ปฏิเสธเซลล์ประสาทและการเชื่อมต่อใหม่ ทำให้สมองกลับสู่สภาพเดิมอย่างมีประสิทธิภาพ กระบวนการนี้อาจส่งผลให้เกิดการสูญเสียความทรงจำและผลข้างเคียงอื่น ๆ ที่ยังไม่ถูกค้นพบ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561169</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Human &lt;br&gt;Scientific Name: &lt;i&gt;Homo sapiens&lt;/i&gt;&lt;br&gt;&lt;br&gt;Humans, like most mammals, possess a low natural psychoactive potential. Attempts to alter brain function through artificial means are usually temporary at best, or harmful and addictive at worst. The addition of the [REDACTED], derived from the Typhon organisms, temporarily weakens the elasticity of human neuron connections and allows for the addition of new, synthetic neurons to catalyze changes in the subject's brain.&lt;br&gt;&lt;br&gt;Removal of this serum will cause the human body to reject the new neurons and connections, effectively resetting the brain back to its original state. This process may result in memory loss and other as of yet undiscovered side-effects.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: มนุษย์ <br>ชื่อวิทยาศาสตร์: <i>Homo sapiens</i><br><br>มนุษย์ เช่นเดียวกับสัตว์เลี้ยงลูกด้วยนมส่วนใหญ่ มีศักยภาพทางจิตประสาทตามธรรมชาติที่ต่ำ ความพยายามที่จะเปลี่ยนแปลงการทำงานของสมองด้วยวิธีการเทียมมักจะเป็นเพียงชั่วคราวในกรณีที่ดีที่สุด หรือเป็นอันตรายและเสพติดในกรณีที่เลวร้ายที่สุด การเพิ่ม [ข้อมูลปกปิด] ซึ่งได้มาจากสิ่งมีชีวิต Typhon จะทำให้ความยืดหยุ่นของการเชื่อมต่อเซลล์ประสาทของมนุษย์อ่อนแอลงชั่วคราว และช่วยให้สามารถเพิ่มเซลล์ประสาทสังเคราะห์ใหม่เพื่อเร่งการเปลี่ยนแปลงในสมองของสิ่งมีชีวิตได้<br><br>การถอดเซรั่มนี้ออกจะทำให้ร่างกายมนุษย์ปฏิเสธเซลล์ประสาทและการเชื่อมต่อใหม่ ทำให้สมองกลับสู่สภาพเดิมอย่างมีประสิทธิภาพ กระบวนการนี้อาจส่งผลให้เกิดการสูญเสียความทรงจำและผลข้างเคียงอื่น ๆ ที่ยังไม่ถูกค้นพบ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561170</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;GLOO&lt;br&gt;Psychic&lt;br&gt;Stun&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;EMP</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>GLOO<br>พลังจิต<br>สตัน<br><br><b>ภูมิคุ้มกัน:</b><br>EMP</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561171</Data></Cell>
+    <Cell><Data ss:Type="String">Mimic</Data></Cell>
+    <Cell><Data ss:Type="String">Mimic</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561172</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Mimic &lt;br&gt;Scientific Name: &lt;i&gt;Typhon cacoplasmus&lt;/i&gt;&lt;br&gt;&lt;br&gt;One of the first Typhon discovered during the &lt;i&gt;Vorona I&lt;/i&gt; incident in 1960, Mimics are capable of imitating nearby objects. &lt;br&gt;&lt;br&gt;During incident case #0648-040163, it was observed that Mimics use other living organisms as a reproduction medium, killing their prey in the process. &lt;br&gt;&lt;br&gt;In accordance with the Pobeg Protocol, Mimic specimens are not to be released in environments with a containment rating of less than S4.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Mimic <br>ชื่อวิทยาศาสตร์: <i>Typhon cacoplasmus</i><br><br>หนึ่งใน Typhon กลุ่มแรกที่ถูกค้นพบระหว่างเหตุการณ์ <i>Vorona I</i> ในปี 1960 Mimics สามารถเลียนแบบวัตถุที่อยู่ใกล้เคียงได้ <br><br>ในระหว่างกรณีเหตุการณ์ #0648-040163 มีการสังเกตว่า Mimics ใช้อินทรีย์สิ่งมีชีวิตอื่นเป็นสื่อกลางในการสืบพันธุ์ โดยฆ่าเหยื่อในกระบวนการนั้น <br><br>ตามระเบียบปฏิบัติ Pobeg ห้ามปล่อยตัวอย่าง Mimic ในสภาพแวดล้อมที่มีระดับการกักกันต่ำกว่า S4</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561173</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Mimic &lt;br&gt;Scientific Name: &lt;i&gt;Typhon cacoplasmus&lt;/i&gt;&lt;br&gt;&lt;br&gt;One of the first Typhon discovered during the &lt;i&gt;Vorona I&lt;/i&gt; incident in 1960, Mimics are capable of imitating nearby objects. &lt;br&gt;&lt;br&gt;During incident case #0648-040163, it was observed that Mimics use other living organisms as a reproduction medium, killing their prey in the process. &lt;br&gt;&lt;br&gt;In accordance with the Pobeg Protocol, Mimic specimens are not to be released in environments with a containment rating of less than S4.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Imitation power seems limited to objects roughly the mass of the mimic itself. Could the psychoscope be modified somehow to detect hidden ones? Get to high ground and immobilize with GLOO cannon.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Mimic <br>ชื่อวิทยาศาสตร์: <i>Typhon cacoplasmus</i><br><br>หนึ่งใน Typhon กลุ่มแรกที่ถูกค้นพบระหว่างเหตุการณ์ <i>Vorona I</i> ในปี 1960 Mimics สามารถเลียนแบบวัตถุที่อยู่ใกล้เคียงได้ <br><br>ในระหว่างกรณีเหตุการณ์ #0648-040163 มีการสังเกตว่า Mimics ใช้อินทรีย์สิ่งมีชีวิตอื่นเป็นสื่อกลางในการสืบพันธุ์ โดยฆ่าเหยื่อในกระบวนการนั้น <br><br>ตามระเบียบปฏิบัติ Pobeg ห้ามปล่อยตัวอย่าง Mimic ในสภาพแวดล้อมที่มีระดับการกักกันต่ำกว่า S4<br><br><b>บันทึกของ Morgan:</b><br>พลังการเลียนแบบดูเหมือนจะจำกัดอยู่แค่วัตถุที่มีมวลใกล้เคียงกับ Mimic เอง Psychoscope สามารถปรับเปลี่ยนเพื่อตรวจจับตัวที่ซ่อนอยู่ได้หรือไม่? ขึ้นที่สูงและตรึงมันไว้ด้วย GLOO Cannon</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561174</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;GLOO&lt;br&gt;Q-Beam&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;EMP&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Mimic Matter I, II, III&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>GLOO<br>Q-Beam<br><br><b>ภูมิคุ้มกัน:</b><br>EMP<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Mimic Matter I, II, III</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561175</Data></Cell>
+    <Cell><Data ss:Type="String">Greater Mimic</Data></Cell>
+    <Cell><Data ss:Type="String">Greater Mimic</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561176</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PROJECT AXIOM ARCHIVE:&lt;/b&gt;&lt;br&gt;Observation log #2042-052465&lt;br&gt;Researcher: Louis Sullivan&lt;br&gt;&lt;br&gt;A preliminary observation reveals that specimen 14 is moderately larger than any of the other Mimic specimens collected from the &lt;i&gt;Kletka&lt;/i&gt; incident, but a far more fascinating aspect is what appears to be its advanced mimicry ability. Specimen 14 has on numerous occasions demonstrated the capability of reproducing objects whose size and complexity far outstrip the abilities of any of the other specimens. What's more, many of these reproductions appear to be fully functioning.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากเอกสารเก่าของ PROJECT AXIOM:</b><br>บันทึกการสังเกตการณ์ #2042-052465<br>นักวิจัย: Louis Sullivan<br><br>การสังเกตเบื้องต้นเผยให้เห็นว่าตัวอย่างที่ 14 มีขนาดใหญ่กว่าตัวอย่าง Mimic อื่น ๆ ที่เก็บรวบรวมจากเหตุการณ์ <i>Kletka</i> เล็กน้อย แต่สิ่งที่น่าสนใจยิ่งกว่าคือความสามารถในการเลียนแบบขั้นสูงของมัน ตัวอย่างที่ 14 ได้แสดงให้เห็นถึงความสามารถในการสร้างวัตถุที่มีขนาดและความซับซ้อนเกินกว่าความสามารถของตัวอย่างอื่น ๆ หลายครั้ง ยิ่งไปกว่านั้น การสร้างซ้ำเหล่านี้จำนวนมากดูเหมือนจะทำงานได้อย่างสมบูรณ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561177</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PROJECT AXIOM ARCHIVE:&lt;/b&gt;&lt;br&gt;Observation log #2042-052465&lt;br&gt;Researcher: Louis Sullivan&lt;br&gt;&lt;br&gt;A preliminary observation reveals that specimen 14 is moderately larger than any of the other Mimic specimens collected from the Kletka incident, but a far more fascinating aspect is what appears to be its advanced mimicry ability. Specimen 14 has on numerous occasions demonstrated the capability of reproducing objects whose size and complexity far outstrip the abilities of any of the other specimens. What's more, many of these reproductions appear to be fully functioning.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Can mimic turrets and Operators. Will attempt to go directly for the face. Stay away and immobilize with GLOO.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากเอกสารเก่าของ PROJECT AXIOM:</b><br>บันทึกการสังเกตการณ์ #2042-052465<br>นักวิจัย: Louis Sullivan<br><br>การสังเกตเบื้องต้นเผยให้เห็นว่าตัวอย่างที่ 14 มีขนาดใหญ่กว่าตัวอย่าง Mimic อื่น ๆ ที่เก็บรวบรวมจากเหตุการณ์ Kletka เล็กน้อย แต่สิ่งที่น่าสนใจยิ่งกว่าคือความสามารถในการเลียนแบบขั้นสูงของมัน ตัวอย่างที่ 14 ได้แสดงให้เห็นถึงความสามารถในการสร้างวัตถุที่มีขนาดและความซับซ้อนเกินกว่าความสามารถของตัวอย่างอื่น ๆ หลายครั้ง ยิ่งไปกว่านั้น การสร้างซ้ำเหล่านี้จำนวนมากดูเหมือนจะทำงานได้อย่างสมบูรณ์<br><br><b>บันทึกของ Morgan:</b><br>สามารถเลียนแบบป้อมปืนและ Operators ได้ จะพยายามโจมตีที่ใบหน้าโดยตรง อยู่ห่าง ๆ และตรึงมันไว้ด้วย GLOO</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561178</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;GLOO&lt;br&gt;Q-Beam&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;EMP&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Mimic Matter I, II, III&lt;br&gt;Regeneration I&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>GLOO<br>Q-Beam<br><br><b>ภูมิคุ้มกัน:</b><br>EMP<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Mimic Matter I, II, III<br>Regeneration I</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561179</Data></Cell>
+    <Cell><Data ss:Type="String">Phantom</Data></Cell>
+    <Cell><Data ss:Type="String">Phantom</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561180</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Phantom &lt;br&gt;Scientific Name: &lt;i&gt;Typhon anthrophantasmus&lt;/i&gt;&lt;br&gt;&lt;br&gt;Phantoms are not wholly alien. Created by Weavers using human remains, Phantoms have been known to exhibit human-like neural patterns at times. But as noted in observation log #1621-041477, while Phantoms may also attempt to reproduce human phrases, they do not appear to retain any form of actual speech or human comprehension.&lt;br&gt;&lt;br&gt;Due to the specimen's explosive speed, Phantom must be subdued or enclosures purged before attempting to enter.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Phantom <br>ชื่อวิทยาศาสตร์: <i>Typhon anthrophantasmus</i><br><br>Phantoms ไม่ใช่สิ่งมีชีวิตต่างดาวโดยสมบูรณ์ สร้างขึ้นโดย Weavers โดยใช้ซากศพมนุษย์ Phantoms เป็นที่ทราบกันดีว่าบางครั้งแสดงรูปแบบเซลล์ประสาทคล้ายมนุษย์ แต่ตามที่ระบุไว้ในบันทึกการสังเกตการณ์ #1621-041477 แม้ว่า Phantoms อาจพยายามเลียนแบบวลีของมนุษย์ แต่ดูเหมือนว่าจะไม่สามารถรักษาการพูดจริงหรือความเข้าใจของมนุษย์ได้<br><br>เนื่องจากความเร็วในการระเบิดของตัวอย่าง Phantom จะต้องถูกปราบหรือพื้นที่กักกันจะต้องถูกทำความสะอาดก่อนที่จะพยายามเข้าไป</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561181</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Phantom &lt;br&gt;Scientific Name: &lt;i&gt;Typhon anthrophantasmus&lt;/i&gt;&lt;br&gt;&lt;br&gt;Phantoms are not wholly alien. Created by Weavers using human remains, Phantoms have been known to exhibit human-like neural patterns at times. But as noted in observation log #1621-041477, while Phantoms may also attempt to reproduce human phrases, they do not appear to retain any form of actual speech or human comprehension.&lt;br&gt;&lt;br&gt;Due to the specimen's explosive speed, Phantoms must be subdued or enclosures purged before attempting to enter.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Use GLOO to slow them down. Telekinetic projectiles pack a big-ass punch but can be dodged. Better to get in close and personal. Tracking bracelets on them are still active.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Phantom <br>ชื่อวิทยาศาสตร์: <i>Typhon anthrophantasmus</i><br><br>Phantoms ไม่ใช่สิ่งมีชีวิตต่างดาวโดยสมบูรณ์ สร้างขึ้นโดย Weavers โดยใช้ซากศพมนุษย์ Phantoms เป็นที่ทราบกันดีว่าบางครั้งแสดงรูปแบบเซลล์ประสาทคล้ายมนุษย์ แต่ตามที่ระบุไว้ในบันทึกการสังเกตการณ์ #1621-041477 แม้ว่า Phantoms อาจพยายามเลียนแบบวลีของมนุษย์ แต่ดูเหมือนว่าจะไม่สามารถรักษาการพูดจริงหรือความเข้าใจของมนุษย์ได้<br><br>เนื่องจากความเร็วในการระเบิดของตัวอย่าง Phantoms จะต้องถูกปราบหรือพื้นที่กักกันจะต้องถูกทำความสะอาดก่อนที่จะพยายามเข้าไป<br><br><b>บันทึกของ Morgan:</b><br>ใช้ GLOO เพื่อทำให้พวกมันช้าลง กระสุนพลังจิตมีพลังทำลายล้างสูง แต่สามารถหลบได้ ควรเข้าใกล้และโจมตีระยะประชิด สร้อยข้อมือติดตามตัวของพวกมันยังคงทำงานอยู่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561182</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESS:&lt;/b&gt;&lt;br&gt;GLOO&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;EMP&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Kinetic Blast I, II&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>GLOO<br><br><b>ภูมิคุ้มกัน:</b><br>EMP<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Kinetic Blast I, II</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561183</Data></Cell>
+    <Cell><Data ss:Type="String">Etheric Phantom</Data></Cell>
+    <Cell><Data ss:Type="String">Etheric Phantom</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561184</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Etheric Phantom &lt;br&gt;Scientific Name: &lt;i&gt;Typhon anthrophantasmus psychoetheric&lt;/i&gt;&lt;br&gt;&lt;br&gt;It is unclear at this time what prompts a Weaver to invest additional resources in the creation of these more powerful phantoms. However, testing has revealed that these Phantom specimens are much more durable and more dangerous than their weaker cousins.&lt;br&gt;&lt;br&gt;&lt;b&gt;ADDENDUM:&lt;/b&gt;&lt;br&gt;Of particular note is the Etheric Phantom, which produces a particulate cloud that is highly toxic and disruptive to normal matter. The Phantom is capable of manipulating this particulate to create a duplicate of itself for short periods as demonstrated in test log #1629-0231.&lt;br&gt;&lt;br&gt;Please note that in addition to standard purge procedures required for Phantom study, any enclosure used to house an Etheric Phantom must have its atmosphere cycled.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Etheric Phantom <br>ชื่อวิทยาศาสตร์: <i>Typhon anthrophantasmus psychoetheric</i><br><br>ขณะนี้ยังไม่ชัดเจนว่าอะไรเป็นสาเหตุที่ทำให้ Weaver ลงทุนทรัพยากรเพิ่มเติมในการสร้าง Phantoms ที่ทรงพลังเหล่านี้ อย่างไรก็ตาม การทดสอบเผยให้เห็นว่าตัวอย่าง Phantom เหล่านี้มีความทนทานและอันตรายกว่าญาติที่อ่อนแอของพวกมันมาก<br><br><b>ภาคผนวก:</b><br>สิ่งที่น่าสังเกตเป็นพิเศษคือ Etheric Phantom ซึ่งสร้างกลุ่มอนุภาคที่เป็นพิษสูงและรบกวนสสารปกติ Phantom สามารถควบคุมอนุภาคนี้เพื่อสร้างร่างจำลองของตัวเองได้ในช่วงเวลาสั้น ๆ ดังที่แสดงในบันทึกการทดสอบ #1629-0231<br><br>โปรดทราบว่านอกเหนือจากขั้นตอนการทำความสะอาดมาตรฐานที่จำเป็นสำหรับการศึกษา Phantom แล้ว กรงใด ๆ ที่ใช้กักเก็บ Etheric Phantom จะต้องมีการหมุนเวียนบรรยากาศ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561185</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Etheric Phantom &lt;br&gt;Scientific Name: &lt;i&gt;Typhon anthrophantasmus psychoetheric&lt;/i&gt;&lt;br&gt;&lt;br&gt;It is unclear at this time what prompts a Weaver to invest additional resources in the creation of these more powerful phantoms. However, testing has revealed that these Phantom specimens are much more durable and more dangerous than their weaker cousins.&lt;br&gt;&lt;br&gt;&lt;b&gt;ADDENDUM:&lt;/b&gt;&lt;br&gt;Of particular note is the Etheric Phantom, which produces a particulate cloud that is highly toxic and disruptive to normal matter. The Phantom is capable of manipulating this particulate to create a duplicate of itself for short periods as demonstrated in test log #1629-0231.&lt;br&gt;&lt;br&gt;Please note that in addition to standard purge procedures required for Phantom study, any enclosure used to house an Etheric Phantom must have its atmosphere cycled.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Prefers close combat. Given the chance, will split into a weaker duplicate. GLOO down or use Nullwave to stop this. Try to attack from a distance. Avoid ether clouds.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Etheric Phantom <br>ชื่อวิทยาศาสตร์: <i>Typhon anthrophantasmus psychoetheric</i><br><br>ขณะนี้ยังไม่ชัดเจนว่าอะไรเป็นสาเหตุที่ทำให้ Weaver ลงทุนทรัพยากรเพิ่มเติมในการสร้าง Phantoms ที่ทรงพลังเหล่านี้ อย่างไรก็ตาม การทดสอบเผยให้เห็นว่าตัวอย่าง Phantom เหล่านี้มีความทนทานและอันตรายกว่าญาติที่อ่อนแอของพวกมันมาก<br><br><b>ภาคผนวก:</b><br>สิ่งที่น่าสังเกตเป็นพิเศษคือ Etheric Phantom ซึ่งสร้างกลุ่มอนุภาคที่เป็นพิษสูงและรบกวนสสารปกติ Phantom สามารถควบคุมอนุภาคนี้เพื่อสร้างร่างจำลองของตัวเองได้ในช่วงเวลาสั้น ๆ ดังที่แสดงในบันทึกการทดสอบ #1629-0231<br><br>โปรดทราบว่านอกเหนือจากขั้นตอนการทำความสะอาดมาตรฐานที่จำเป็นสำหรับการศึกษา Phantom แล้ว กรงใด ๆ ที่ใช้กักเก็บ Etheric Phantom จะต้องมีการหมุนเวียนบรรยากาศ<br><br><b>บันทึกของ Morgan:</b><br>ชอบการต่อสู้ระยะประชิด หากมีโอกาส มันจะแยกตัวออกเป็นร่างจำลองที่อ่อนแอลง ใช้ GLOO หรือ Nullwave เพื่อหยุดสิ่งนี้ พยายามโจมตีจากระยะไกล หลีกเลี่ยงกลุ่มควัน Ether</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561186</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESS:&lt;/b&gt;&lt;br&gt;Q-Beam&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;None&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Phantom Shift I, II&lt;br&gt;Ether Resistance&lt;br&gt;Ether Absorption&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>Q-Beam<br><br><b>ภูมิคุ้มกัน:</b><br>ไม่มี<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Phantom Shift I, II<br>Ether Resistance<br>Ether Absorption</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561191</Data></Cell>
+    <Cell><Data ss:Type="String">Thermal Phantom</Data></Cell>
+    <Cell><Data ss:Type="String">Thermal Phantom</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561192</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Thermal Phantom &lt;br&gt;Scientific Name: &lt;i&gt;Typhon anthrophantasmus psychothermal&lt;/i&gt;&lt;br&gt;&lt;br&gt;It is unclear at this time what prompts a Weaver to invest additional resources in the creation of these more powerful phantoms. However, testing has revealed that these Phantom specimens are much more durable and more dangerous than their weaker cousins.&lt;br&gt;&lt;br&gt;&lt;b&gt;ADDENDUM:&lt;/b&gt;&lt;br&gt;As its name implies, this phantom manipulates thermal radiation. Infrared analysis showed it was able to radiate lethal levels of infrared energy as a defensive measure when threatened. Its most dangerous ability however, is the spontaneous eruption of superheated plasma from a distance. Range is uncertain due to the small scale of the enclosures. </Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Thermal Phantom <br>ชื่อวิทยาศาสตร์: <i>Typhon anthrophantasmus psychothermal</i><br><br>ขณะนี้ยังไม่ชัดเจนว่าอะไรเป็นสาเหตุที่ทำให้ Weaver ลงทุนทรัพยากรเพิ่มเติมในการสร้าง Phantoms ที่ทรงพลังเหล่านี้ อย่างไรก็ตาม การทดสอบเผยให้เห็นว่าตัวอย่าง Phantom เหล่านี้มีความทนทานและอันตรายกว่าญาติที่อ่อนแอของพวกมันมาก<br><br><b>ภาคผนวก:</b><br>ตามชื่อของมัน Phantom ตัวนี้ควบคุมรังสีความร้อน การวิเคราะห์อินฟราเรดแสดงให้เห็นว่ามันสามารถแผ่พลังงานอินฟราเรดในระดับอันตรายถึงชีวิตออกมาเพื่อป้องกันตัวเมื่อถูกคุกคาม อย่างไรก็ตาม ความสามารถที่อันตรายที่สุดของมันคือการพ่นพลาสมาที่ร้อนจัดออกมาจากระยะไกลอย่างกะทันหัน ระยะทำการไม่แน่นอนเนื่องจากขนาดของกรงที่เล็ก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561193</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Thermal Phantom &lt;br&gt;Scientific Name: &lt;i&gt;Typhon anthrophantasmus psychothermal&lt;/i&gt;&lt;br&gt;&lt;br&gt;It is unclear at this time what prompts a Weaver to invest additional resources in the creation of these more powerful phantoms. However, testing has revealed that these Phantom specimens are much more durable and more dangerous than their weaker cousins.&lt;br&gt;&lt;br&gt;&lt;b&gt;ADDENDUM:&lt;/b&gt;&lt;br&gt;As its name implies, this phantom manipulates thermal radiation. Infrared analysis showed it was able to radiate lethal levels of infrared energy as a defensive measure when threatened. Its most dangerous ability however, is the spontaneous eruption of superheated plasma from a distance. Range is uncertain due to the small scale of the enclosures. &lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Running up to this thing is a bad idea. You'll burn. Appears to have an interaction with the Mimics - can temporarily charge them with the same thermal radiation. Flaming Mimics. Great.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Thermal Phantom <br>ชื่อวิทยาศาสตร์: <i>Typhon anthrophantasmus psychothermal</i><br><br>ขณะนี้ยังไม่ชัดเจนว่าอะไรเป็นสาเหตุที่ทำให้ Weaver ลงทุนทรัพยากรเพิ่มเติมในการสร้าง Phantoms ที่ทรงพลังเหล่านี้ อย่างไรก็ตาม การทดสอบเผยให้เห็นว่าตัวอย่าง Phantom เหล่านี้มีความทนทานและอันตรายกว่าญาติที่อ่อนแอของพวกมันมาก<br><br><b>ภาคผนวก:</b><br>ตามชื่อของมัน Phantom ตัวนี้ควบคุมรังสีความร้อน การวิเคราะห์อินฟราเรดแสดงให้เห็นว่ามันสามารถแผ่พลังงานอินฟราเรดในระดับอันตรายถึงชีวิตออกมาเพื่อป้องกันตัวเมื่อถูกคุกคาม อย่างไรก็ตาม ความสามารถที่อันตรายที่สุดของมันคือการพ่นพลาสมาที่ร้อนจัดออกมาจากระยะไกลอย่างกะทันหัน ระยะทำการไม่แน่นอนเนื่องจากขนาดของกรงที่เล็ก <br><br><b>บันทึกของ Morgan:</b><br>การวิ่งเข้าไปหาสิ่งนี้เป็นความคิดที่ไม่ดี คุณจะถูกเผา ดูเหมือนจะมีการโต้ตอบกับ Mimics – สามารถชาร์จพวกมันด้วยรังสีความร้อนเดียวกันได้ชั่วคราว Mimics ลุกเป็นไฟ ยอดเยี่ยมไปเลย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561194</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESS:&lt;/b&gt;&lt;br&gt;Psychic&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;Fire&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Superthermal I, II, III&lt;br&gt;Thermal Resistance&lt;br&gt;Thermal Absorption&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>พลังจิต<br><br><b>ภูมิคุ้มกัน:</b><br>ไฟ<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Superthermal I, II, III<br>Thermal Resistance<br>Thermal Absorption</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561195</Data></Cell>
+    <Cell><Data ss:Type="String">Voltaic Phantom</Data></Cell>
+    <Cell><Data ss:Type="String">Voltaic Phantom</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561196</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;ERROR: UNKNOWN TYPHON ORGANISM&lt;/b&gt;&lt;br&gt;No entries found. Please contact Dr. Hans Kelstrup, Director of Psychotronics.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อผิดพลาด: สิ่งมีชีวิต TYPHON ไม่ทราบชนิด</b><br>ไม่พบข้อมูล โปรดติดต่อ ดร. Hans Kelstrup, ผู้อำนวยการ Psychotronics</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561197</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;ERROR: UNKNOWN TYPHON ORGANISM&lt;/b&gt;&lt;br&gt;No entries found. Please contact Dr. Hans Kelstrup, Director of Psychotronics.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Never created in the lab - until now. Weaver's abilities must be adapting. Electromagnetic fields disrupt everything around it. Electrocutes anything dumb enough to get close. Like the thermal, keep as far away as possible. Looks like it can super-charge Mimics too.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อผิดพลาด: สิ่งมีชีวิต TYPHON ไม่ทราบชนิด</b><br>ไม่พบข้อมูล โปรดติดต่อ ดร. Hans Kelstrup, ผู้อำนวยการ Psychotronics<br><br><b>บันทึกของ Morgan:</b><br>ไม่เคยถูกสร้างขึ้นในห้องทดลอง – จนกระทั่งบัดนี้ ความสามารถของ Weaver ต้องกำลังปรับตัว สนามแม่เหล็กไฟฟ้าของมันรบกวนทุกสิ่งรอบตัว ช็อตไฟฟ้าทุกสิ่งที่โง่พอที่จะเข้าใกล้ เช่นเดียวกับ Thermal ให้รักษาระยะห่างให้มากที่สุด ดูเหมือนว่ามันจะสามารถชาร์จ Mimics ให้มีพลังงานสูงขึ้นได้ด้วย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561198</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;EMP&lt;br&gt;Nullwave&lt;br&gt;Psychic&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITIES:&lt;/b&gt;&lt;br&gt;Electric&lt;br&gt;Stun&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Electrostatic Burst I, II, III&lt;br&gt;Electrostatic Resistance&lt;br&gt;Electrostatic Absorption&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>EMP<br>Nullwave<br>พลังจิต<br><br><b>ภูมิคุ้มกัน:</b><br>ไฟฟ้า<br>สตัน<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Electrostatic Burst I, II, III<br>Electrostatic Resistance<br>Electrostatic Absorption</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561199</Data></Cell>
+    <Cell><Data ss:Type="String">Mind-Controlled Human</Data></Cell>
+    <Cell><Data ss:Type="String">มนุษย์ที่ถูกควบคุมจิตใจ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561200</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM TRANSTAR SECURITY RECORDS:&lt;/b&gt;&lt;br&gt;Incident report #1546-031433&lt;br&gt;Classification: Containment breach&lt;br&gt;Reporting officer: Cory Richard&lt;br&gt;&lt;br&gt;Incident summary: I was on duty at about 1420 hours when I received a request from Dr. Hans Kelstrup for assistance in Live Exam. Upon arriving on the scene, I witnessed Dr. Trevor Young slamming lab instruments into some of the Typhon enclosures. When it became clear that he intended to break containment, I was forced to discharge my stun gun to subdue him. During my subsequent interview with Dr. Young, he seemed immensely distraught and unaware of my presence unless I came too close, whereupon he would turn violent. He has been turned over to the Trauma team and placed in quarantine for his and others' safety.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากบันทึกความปลอดภัยของ TRANSTAR:</b><br>รายงานเหตุการณ์ #1546-031433<br>การจัดประเภท: การละเมิดการกักกัน<br>เจ้าหน้าที่รายงาน: Cory Richard<br><br>สรุปเหตุการณ์: ผมเข้าเวรอยู่ประมาณ 14:20 น. เมื่อได้รับคำขอจาก ดร. Hans Kelstrup ให้ช่วยเหลือใน Live Exam เมื่อไปถึงที่เกิดเหตุ ผมเห็น ดร. Trevor Young ทุบเครื่องมือห้องแล็บใส่กรง Typhon บางส่วน เมื่อชัดเจนว่าเขามีเจตนาที่จะทำลายการกักกัน ผมจึงถูกบังคับให้ใช้ปืนช็อตไฟฟ้าเพื่อปราบเขา ระหว่างการสัมภาษณ์ ดร. Young ในภายหลัง เขาดูลนลานอย่างมากและไม่รับรู้ถึงการมีอยู่ของผม เว้นแต่ผมจะเข้าใกล้เกินไป ซึ่งเมื่อนั้นเขาจะแสดงความรุนแรง เขาถูกส่งตัวให้ทีม Trauma และถูกกักกันเพื่อความปลอดภัยของเขาและผู้อื่น</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561201</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM TRANSTAR SECURITY RECORDS:&lt;/b&gt;&lt;br&gt;Incident report #1546-031433&lt;br&gt;Classification: Containment breach&lt;br&gt;Reporting officer: Cory Richard&lt;br&gt;&lt;br&gt;Incident summary: I was on duty at about 1420 hours when I received a request from Dr. Hans Kelstrup for assistance in Live Exam. Upon arriving on the scene, I witnessed Dr. Trevor Young slamming lab instruments into some of the Typhon enclosures. When it became clear that he intended to break containment, I was forced to discharge my stun gun to subdue him. During my subsequent interview with Dr. Young, he seemed immensely distraught and unaware of my presence unless I came too close, whereupon he would turn violent. He has been turned over to the Trauma team and placed in quarantine for his and others' safety.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Connected to the Typhon Telepaths. Should avoid getting too close. Triggers a strong kinetic blast that knocks out psi abilities -  ends up killing them. Stun gun might take them out long enough to sneak past. Might be able to free them from Typhon control somehow.  </Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากบันทึกความปลอดภัยของ TRANSTAR:</b><br>รายงานเหตุการณ์ #1546-031433<br>การจัดประเภท: การละเมิดการกักกัน<br>เจ้าหน้าที่รายงาน: Cory Richard<br><br>สรุปเหตุการณ์: ผมเข้าเวรอยู่ประมาณ 14:20 น. เมื่อได้รับคำขอจาก ดร. Hans Kelstrup ให้ช่วยเหลือใน Live Exam เมื่อไปถึงที่เกิดเหตุ ผมเห็น ดร. Trevor Young ทุบเครื่องมือห้องแล็บใส่กรง Typhon บางส่วน เมื่อชัดเจนว่าเขามีเจตนาที่จะทำลายการกักกัน ผมจึงถูกบังคับให้ใช้ปืนช็อตไฟฟ้าเพื่อปราบเขา ระหว่างการสัมภาษณ์ ดร. Young ในภายหลัง เขาดูลนลานอย่างมากและไม่รับรู้ถึงการมีอยู่ของผม เว้นแต่ผมจะเข้าใกล้เกินไป ซึ่งเมื่อนั้นเขาจะแสดงความรุนแรง เขาถูกส่งตัวให้ทีม Trauma และถูกกักกันเพื่อความปลอดภัยของเขาและผู้อื่น<br><br><b>บันทึกของ Morgan:</b><br>เชื่อมต่อกับ Typhon Telepaths ควรหลีกเลี่ยงการเข้าใกล้เกินไป กระตุ้นการระเบิดพลังงานจลน์ที่รุนแรงซึ่งทำให้ความสามารถ Psi หมดสภาพ – และสุดท้ายก็ฆ่าพวกมัน ปืนช็อตไฟฟ้าอาจทำให้พวกมันหมดสภาพได้นานพอที่จะแอบผ่านไป อาจจะสามารถปลดปล่อยพวกมันจากการควบคุมของ Typhon ได้ไม่ทางใดก็ทางหนึ่ง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561202</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;GLOO&lt;br&gt;Nullwave&lt;br&gt;Psychic&lt;br&gt;Stun&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;EMP&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Psychoshock I&lt;br&gt;Mindjack I&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>GLOO<br>Nullwave<br>พลังจิต<br>สตัน<br><br><b>ภูมิคุ้มกัน:</b><br>EMP<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Psychoshock I<br>Mindjack I</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561203</Data></Cell>
+    <Cell><Data ss:Type="String">Nightmare</Data></Cell>
+    <Cell><Data ss:Type="String">Nightmare</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561204</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;ERROR: UNKNOWN TYPHON ORGANISM&lt;/b&gt;&lt;br&gt;No entries found. Please contact Dr. Hans Kelstrup, Director of Psychotronics.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;The Typhon response to an anomaly in their ecology - something that's like them.. but isn't. Me. Only purpose seems to be to hunt me down. Seems unstoppable.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อผิดพลาด: สิ่งมีชีวิต TYPHON ไม่ทราบชนิด</b><br>ไม่พบข้อมูล โปรดติดต่อ ดร. Hans Kelstrup, ผู้อำนวยการ Psychotronics<br><br><b>บันทึกของ Morgan:</b><br>การตอบสนองของ Typhon ต่อความผิดปกติในระบบนิเวศของพวกมัน – บางสิ่งที่คล้ายพวกมัน... แต่ไม่ใช่ ผมเอง ดูเหมือนว่าจุดประสงค์เดียวคือการตามล่าผม ดูเหมือนจะหยุดยั้งไม่ได้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561205</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;ERROR: UNKNOWN TYPHON ORGANISM&lt;/b&gt;&lt;br&gt;No entries found. Please contact Dr. Hans Kelstrup, Director of Psychotronics.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;The Typhon response is an anomaly in their ecology - something that's like them.. but isn't. Me. Only purpose seems to be to hunt me down. Seems unstoppable.&lt;br&gt;&lt;br&gt;&lt;b&gt;SUPPLEMENTARY NOTES:&lt;/b&gt;&lt;br&gt;Psychic terror field can punch through psychoscope shielding. Appears to be resistant to most forms of physical damage. Energy weapons or psi abilities might work. If all else fails, &lt;i&gt;run&lt;/i&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อผิดพลาด: สิ่งมีชีวิต TYPHON ไม่ทราบชนิด</b><br>ไม่พบข้อมูล โปรดติดต่อ ดร. Hans Kelstrup, ผู้อำนวยการ Psychotronics<br><br><b>บันทึกของ Morgan:</b><br>การตอบสนองของ Typhon เป็นความผิดปกติในระบบนิเวศของพวกมัน – บางสิ่งที่คล้ายพวกมัน... แต่ไม่ใช่ ผมเอง ดูเหมือนว่าจุดประสงค์เดียวคือการตามล่าผม ดูเหมือนจะหยุดยั้งไม่ได้<br><br><b>บันทึกเพิ่มเติม:</b><br>สนามพลังจิตแห่งความหวาดกลัวสามารถทะลุเกราะป้องกันของ Psychoscope ได้ ดูเหมือนจะทนทานต่อความเสียหายทางกายภาพส่วนใหญ่ อาวุธพลังงานหรือความสามารถ Psi อาจได้ผล หากทุกอย่างล้มเหลว <i>จงหนี</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561206</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESS:&lt;/b&gt;&lt;br&gt;Psychic&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITIES:&lt;/b&gt;&lt;br&gt;EMP&lt;br&gt;Stun&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Backlash I, II, III&lt;br&gt;Fear Resistance I&lt;br&gt;Kinetic Blast I, II, III&lt;br&gt;Regeneration I, II&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>พลังจิต<br><br><b>ภูมิคุ้มกัน:</b><br>EMP<br>สตัน<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Backlash I, II, III<br>Fear Resistance I<br>Kinetic Blast I, II, III<br>Regeneration I, II</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561207</Data></Cell>
+    <Cell><Data ss:Type="String">Engineering Operator</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกร Operator</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561208</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM TRANSTAR OPERATOR BROCHURE:&lt;/b&gt;&lt;br&gt;Designed with precision craftsmanship for the dangerous vacuum of space, few utility robots can measure up to the TranStar &lt;i&gt;Kobold&lt;/i&gt; 410 Engineering Class Operator. Equipped with two GenSENSE manipulators and a swappable utility arm with a full array of tools, there's little the Engineering Operator can't fix.&lt;br&gt;&lt;br&gt;For more heavy duty work, each Engineering Operator comes standard with industrial-grade OMNI navigational systems capable of deftly maneuvering cargo containers in zero-g environments.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Can be found wandering the station, especially on the lower decks. Good for patching up holes in my suit.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากโบรชัวร์ OPERATOR ของ TRANSTAR:</b><br>ออกแบบด้วยฝีมืออันประณีตสำหรับสภาพสุญญากาศอันตรายในอวกาศ มีหุ่นยนต์อเนกประสงค์เพียงไม่กี่ตัวที่จะเทียบเท่า TranStar <i>Kobold</i> 410 Engineering Class Operator ได้ ติดตั้งแขนกล GenSENSE สองข้างและแขนอเนกประสงค์ที่ถอดเปลี่ยนได้พร้อมเครื่องมือครบครัน Engineering Operator แทบจะซ่อมแซมได้ทุกอย่าง<br><br>สำหรับงานหนัก Engineering Operator แต่ละตัวมาพร้อมกับระบบนำทาง OMNI ระดับอุตสาหกรรมที่สามารถเคลื่อนย้ายตู้คอนเทนเนอร์ขนส่งในสภาพไร้แรงโน้มถ่วงได้อย่างคล่องแคล่ว<br><br><b>บันทึกของ Morgan:</b><br>สามารถพบได้ทั่วไปในสถานี โดยเฉพาะบนดาดฟ้าชั้นล่าง ดีสำหรับการปะรูในชุดของผม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561209</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM TRANSTAR OPERATOR BROCHURE:&lt;/b&gt;&lt;br&gt;Designed with precision craftsmanship for the dangerous vacuum of space, few utility robots can measure up to the TranStar &lt;i&gt;Kobold&lt;/i&gt; 410 Engineering Class Operator. Equipped with two GenSENSE manipulators and a swappable utility arm with a full array of tools, there's little the Engineering Operator can't fix.&lt;br&gt;&lt;br&gt;For more heavy duty work, each Engineering Operator comes standard with industrial-grade OMNI navigational systems capable of deftly maneuvering cargo containers in zero-g environments.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Can be found wandering the station, especially on the lower decks. Good for patching up holes in my suit.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากโบรชัวร์ OPERATOR ของ TRANSTAR:</b><br>ออกแบบด้วยฝีมืออันประณีตสำหรับสภาพสุญญากาศอันตรายในอวกาศ มีหุ่นยนต์อเนกประสงค์เพียงไม่กี่ตัวที่จะเทียบเท่า TranStar <i>Kobold</i> 410 Engineering Class Operator ได้ ติดตั้งแขนกล GenSENSE สองข้างและแขนอเนกประสงค์ที่ถอดเปลี่ยนได้พร้อมเครื่องมือครบครัน Engineering Operator แทบจะซ่อมแซมได้ทุกอย่าง<br><br>สำหรับงานหนัก Engineering Operator แต่ละตัวมาพร้อมกับระบบนำทาง OMNI ระดับอุตสาหกรรมที่สามารถเคลื่อนย้ายตู้คอนเทนเนอร์ขนส่งในสภาพไร้แรงโน้มถ่วงได้อย่างคล่องแคล่ว<br><br><b>บันทึกของ Morgan:</b><br>สามารถพบได้ทั่วไปในสถานี โดยเฉพาะบนดาดฟ้าชั้นล่าง ดีสำหรับการปะรูในชุดของผม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561210</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;Electric&lt;br&gt;EMP&lt;br&gt;Explosive&lt;br&gt;Melee&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITIES:&lt;/b&gt;&lt;br&gt;Nullwave&lt;br&gt;Psychic</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>ไฟฟ้า<br>EMP<br>ระเบิด<br>ประชิด<br><br><b>ภูมิคุ้มกัน:</b><br>Nullwave<br>พลังจิต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561211</Data></Cell>
+    <Cell><Data ss:Type="String">Medical Operator</Data></Cell>
+    <Cell><Data ss:Type="String">การแพทย์ Operator</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561212</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM TRANSTAR OPERATOR BROCHURE:&lt;/b&gt;&lt;br&gt;A vast anatomical database coupled with a top-of-the-line compact surgical toolset makes the TranStar &lt;i&gt;Pyramid&lt;/i&gt; class 490 medical series Operator the finest in automated healthcare, rivaling even the most skilled surgeon. Patients concerned with safety and privacy can also rest assured. With its patented Panacea Governor technology, the TranStar Medical Operator is programmed to be minimally invasive and fully discreet. &lt;br&gt;&lt;br&gt;This latest iteration in TranStar technology also boasts an increased 98.2% diagnosis accuracy rating as well as the introduction of a &quot;bedside manner&quot; protocol designed to improve rapport with patients.&lt;br&gt;&lt;br&gt;&lt;b&gt;Morgan's Notes:&lt;/b&gt;&lt;br&gt;Most medical facilities on station have these in the operator dispensers. Can handle just about any trauma. If only they didn't tell stupid jokes.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากโบรชัวร์ OPERATOR ของ TRANSTAR:</b><br>ฐานข้อมูลกายวิภาคขนาดใหญ่ผนวกกับชุดเครื่องมือผ่าตัดขนาดกะทัดรัดระดับสุดยอด ทำให้ TranStar <i>Pyramid</i> class 490 Medical series Operator เป็นหุ่นยนต์ดูแลสุขภาพอัตโนมัติที่ดีที่สุด เทียบเท่าแม้กระทั่งศัลยแพทย์ที่เชี่ยวชาญที่สุด ผู้ป่วยที่กังวลเรื่องความปลอดภัยและความเป็นส่วนตัวก็สามารถวางใจได้ ด้วยเทคโนโลยี Panacea Governor ที่จดสิทธิบัตร TranStar Medical Operator ถูกตั้งโปรแกรมให้มีการรุกล้ำน้อยที่สุดและเป็นส่วนตัวอย่างสมบูรณ์ <br><br>นวัตกรรมล่าสุดในเทคโนโลยีของ TranStar นี้ยังภูมิใจนำเสนออัตราความแม่นยำในการวินิจฉัยที่เพิ่มขึ้นถึง 98.2% รวมถึงการนำโปรโตคอล &quot;มารยาทข้างเตียง&quot; มาใช้เพื่อปรับปรุงความสัมพันธ์กับผู้ป่วย<br><br><b>บันทึกของ Morgan:</b><br>สถานพยาบาลส่วนใหญ่ในสถานีมีสิ่งเหล่านี้อยู่ในเครื่องจ่าย Operator สามารถจัดการกับอาการบาดเจ็บได้เกือบทุกชนิด ถ้าเพียงแต่พวกมันไม่เล่าเรื่องตลกโง่ ๆ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561213</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM TRANSTAR OPERATOR BROCHURE:&lt;/b&gt;&lt;br&gt;A vast anatomical database coupled with a top-of-the-line compact surgical toolset makes the TranStar &lt;i&gt;Pyramid&lt;/i&gt; class 490 medical series Operator the finest in automated healthcare, rivaling even the most skilled surgeon. Patients concerned with safety and privacy can also rest assured. With its patented Panacea Governor technology, the TranStar Medical Operator is programmed to be minimally invasive and fully discreet. &lt;br&gt;&lt;br&gt;This latest iteration in TranStar technology also boasts an increased 98.2% diagnosis accuracy rating as well as the introduction of a &quot;bedside manner&quot; protocol designed to improve rapport with patients.&lt;br&gt;&lt;br&gt;&lt;b&gt;Morgan's Notes:&lt;/b&gt;&lt;br&gt;Most medical facilities on station have these in the operator dispensers. Can handle just about any trauma. If only they didn't tell stupid jokes.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากโบรชัวร์ OPERATOR ของ TRANSTAR:</b><br>ฐานข้อมูลกายวิภาคขนาดใหญ่ผนวกกับชุดเครื่องมือผ่าตัดขนาดกะทัดรัดระดับสุดยอด ทำให้ TranStar <i>Pyramid</i> class 490 Medical series Operator เป็นหุ่นยนต์ดูแลสุขภาพอัตโนมัติที่ดีที่สุด เทียบเท่าแม้กระทั่งศัลยแพทย์ที่เชี่ยวชาญที่สุด ผู้ป่วยที่กังวลเรื่องความปลอดภัยและความเป็นส่วนตัวก็สามารถวางใจได้ ด้วยเทคโนโลยี Panacea Governor ที่จดสิทธิบัตร TranStar Medical Operator ถูกตั้งโปรแกรมให้มีการรุกล้ำน้อยที่สุดและเป็นส่วนตัวอย่างสมบูรณ์ <br><br>นวัตกรรมล่าสุดในเทคโนโลยีของ TranStar นี้ยังภูมิใจนำเสนออัตราความแม่นยำในการวินิจฉัยที่เพิ่มขึ้นถึง 98.2% รวมถึงการนำโปรโตคอล &quot;มารยาทข้างเตียง&quot; มาใช้เพื่อปรับปรุงความสัมพันธ์กับผู้ป่วย<br><br><b>บันทึกของ Morgan:</b><br>สถานพยาบาลส่วนใหญ่ในสถานีมีสิ่งเหล่านี้อยู่ในเครื่องจ่าย Operator สามารถจัดการกับอาการบาดเจ็บได้เกือบทุกชนิด ถ้าเพียงแต่พวกมันไม่เล่าเรื่องตลกโง่ ๆ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561214</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;Electric&lt;br&gt;EMP&lt;br&gt;Explosive&lt;br&gt;Melee&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITIES:&lt;/b&gt;&lt;br&gt;Psychic&lt;br&gt;Nullwave</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>ไฟฟ้า<br>EMP<br>ระเบิด<br>ประชิด<br><br><b>ภูมิคุ้มกัน:</b><br>พลังจิต<br>Nullwave</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561215</Data></Cell>
+    <Cell><Data ss:Type="String">Military Operator</Data></Cell>
+    <Cell><Data ss:Type="String">ทหาร Operator</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561216</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM TRANSTAR OPERATOR BROCHURE:&lt;/b&gt;&lt;br&gt;The N-CN9 &lt;i&gt;Blackbox&lt;/i&gt; Military Operator is the world's most advanced unmanned multi-role fighter. Armed with a state-of-the-art MAG-directed energy weapon and an OMNI navigation systems, the Military Operator is never short on firepower. From assault operations to security detail, the innovative &lt;i&gt;Synthetic Hyperdynamic Neural Network&lt;/i&gt; ensures the Military Operator is quick to respond to developing and dangerous situations.&lt;br&gt;&lt;br&gt;&lt;b&gt;Morgan's Notes:&lt;/b&gt;&lt;br&gt;TranStar's been covering their tracks about these. Don't want to look like an arms-tech company. They're probably wired into &lt;i&gt;Talos I&lt;/i&gt;'s security system. Could track me using the station's security rosters. Might be a way to get rid of my tracking bracelet.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากโบรชัวร์ OPERATOR ของ TRANSTAR:</b><br>N-CN9 <i>Blackbox</i> Military Operator คือเครื่องบินรบไร้คนขับอเนกประสงค์ที่ล้ำสมัยที่สุดในโลก ติดตั้งอาวุธพลังงานนำวิถี MAG ที่ล้ำสมัยและระบบนำทาง OMNI ทำให้ Military Operator ไม่เคยขาดแคลนอำนาจการยิง ตั้งแต่ปฏิบัติการจู่โจมไปจนถึงงานรักษาความปลอดภัย <i>Synthetic Hyperdynamic Neural Network</i> ที่เป็นนวัตกรรมใหม่ช่วยให้ Military Operator ตอบสนองต่อสถานการณ์ที่กำลังพัฒนาและอันตรายได้อย่างรวดเร็ว<br><br><b>บันทึกของ Morgan:</b><br>TranStar พยายามปกปิดร่องรอยเกี่ยวกับสิ่งเหล่านี้ ไม่อยากดูเหมือนบริษัทเทคโนโลยีอาวุธ พวกมันน่าจะเชื่อมต่อกับระบบรักษาความปลอดภัยของ <i>Talos I</i> สามารถติดตามผมได้โดยใช้บัญชีรายชื่อความปลอดภัยของสถานี อาจมีวิธีที่จะกำจัดสร้อยข้อมือติดตามตัวของผม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561217</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM TRANSTAR OPERATOR BROCHURE:&lt;/b&gt;&lt;br&gt;The N-CN9 &lt;i&gt;Blackbox&lt;/i&gt; Military Operator is the world's most advanced unmanned multi-role fighter. Armed with a state-of-the-art MAG-directed energy weapon and an OMNI navigation systems, the Military Operator is never short on firepower. From assault operations to security detail, the innovative &lt;i&gt;Synthetic Hyperdynamic Neural Network&lt;/i&gt; ensures the Military Operator is quick to respond to developing and dangerous situations.&lt;br&gt;&lt;br&gt;&lt;b&gt;Morgan's Notes:&lt;/b&gt;&lt;br&gt;TranStar's been covering their tracks about these. Don't want to look like an arms-tech company. They're probably wired into &lt;i&gt;Talos I&lt;/i&gt;'s security system. Could track me using the station's security rosters. Might be a way to get rid of my tracking bracelet.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากโบรชัวร์ OPERATOR ของ TRANSTAR:</b><br>N-CN9 <i>Blackbox</i> Military Operator คือเครื่องบินรบไร้คนขับอเนกประสงค์ที่ล้ำสมัยที่สุดในโลก ติดตั้งอาวุธพลังงานนำวิถี MAG ที่ล้ำสมัยและระบบนำทาง OMNI ทำให้ Military Operator ไม่เคยขาดแคลนอำนาจการยิง ตั้งแต่ปฏิบัติการจู่โจมไปจนถึงงานรักษาความปลอดภัย <i>Synthetic Hyperdynamic Neural Network</i> ที่เป็นนวัตกรรมใหม่ช่วยให้ Military Operator ตอบสนองต่อสถานการณ์ที่กำลังพัฒนาและอันตรายได้อย่างรวดเร็ว<br><br><b>บันทึกของ Morgan:</b><br>TranStar พยายามปกปิดร่องรอยเกี่ยวกับสิ่งเหล่านี้ ไม่อยากดูเหมือนบริษัทเทคโนโลยีอาวุธ พวกมันน่าจะเชื่อมต่อกับระบบรักษาความปลอดภัยของ <i>Talos I</i> สามารถติดตามผมได้โดยใช้บัญชีรายชื่อความปลอดภัยของสถานี อาจมีวิธีที่จะกำจัดสร้อยข้อมือติดตามตัวของผม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561218</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;Electric&lt;br&gt;EMP&lt;br&gt;Explosive&lt;br&gt;Melee&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITIES:&lt;/b&gt;&lt;br&gt;Nullwave&lt;br&gt;Psychic</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>ไฟฟ้า<br>EMP<br>ระเบิด<br>ประชิด<br><br><b>ภูมิคุ้มกัน:</b><br>Nullwave<br>พลังจิต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561219</Data></Cell>
+    <Cell><Data ss:Type="String">Science Operator</Data></Cell>
+    <Cell><Data ss:Type="String">นักวิทยาศาสตร์ Operator</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561220</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM TRANSTAR OPERATOR BROCHURE:&lt;/b&gt;&lt;br&gt;In the world of scientific progress, nothing is more important than accuracy and safety. This is why all TranStar laboratories are equipped with &lt;i&gt;Sybil&lt;/i&gt; 495 science class Operators.&lt;br&gt;&lt;br&gt;The latest in TranStar's line of Operators, the Science Operator combines unprecedented access to TranStar's scientific databases with two highly customizable utility arms to make an unrivaled laboratory assistant.&lt;br&gt;&lt;br&gt;&lt;b&gt;Morgan's Notes:&lt;/b&gt;&lt;br&gt;Can be found floating around Psychotronics. Helps restore psi potential.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากโบรชัวร์ OPERATOR ของ TRANSTAR:</b><br>ในโลกแห่งความก้าวหน้าทางวิทยาศาสตร์ ไม่มีสิ่งใดสำคัญไปกว่าความแม่นยำและความปลอดภัย นี่คือเหตุผลที่ห้องปฏิบัติการ TranStar ทั้งหมดติดตั้ง <i>Sybil</i> 495 Science class Operators<br><br>Science Operator ซึ่งเป็นรุ่นล่าสุดในสายผลิตภัณฑ์ Operator ของ TranStar ผสมผสานการเข้าถึงฐานข้อมูลทางวิทยาศาสตร์ของ TranStar อย่างไม่เคยมีมาก่อนเข้ากับแขนอเนกประสงค์ที่ปรับแต่งได้สูงสองข้าง เพื่อสร้างผู้ช่วยห้องปฏิบัติการที่ไม่มีใครเทียบได้<br><br><b>บันทึกของ Morgan:</b><br>สามารถพบได้ลอยอยู่รอบ ๆ Psychotronics ช่วยฟื้นฟูศักยภาพ Psi</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561221</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM TRANSTAR OPERATOR BROCHURE:&lt;/b&gt;&lt;br&gt;In the world of scientific progress, nothing is more important than accuracy and safety. This is why all TranStar laboratories are equipped with &lt;i&gt;Sybil&lt;/i&gt; 495 science class Operators.&lt;br&gt;&lt;br&gt;The latest in TranStar's line of Operators, the Science Operator combines unprecedented access to TranStar's scientific databases with two highly customizable utility arms to make an unrivaled laboratory assistant.&lt;br&gt;&lt;br&gt;&lt;b&gt;Morgan's Notes:&lt;/b&gt;&lt;br&gt;Can be found floating around Psychotronics. Helps restore psi potential.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากโบรชัวร์ OPERATOR ของ TRANSTAR:</b><br>ในโลกแห่งความก้าวหน้าทางวิทยาศาสตร์ ไม่มีสิ่งใดสำคัญไปกว่าความแม่นยำและความปลอดภัย นี่คือเหตุผลที่ห้องปฏิบัติการ TranStar ทั้งหมดติดตั้ง <i>Sybil</i> 495 Science class Operators<br><br>Science Operator ซึ่งเป็นรุ่นล่าสุดในสายผลิตภัณฑ์ Operator ของ TranStar ผสมผสานการเข้าถึงฐานข้อมูลทางวิทยาศาสตร์ของ TranStar อย่างไม่เคยมีมาก่อนเข้ากับแขนอเนกประสงค์ที่ปรับแต่งได้สูงสองข้าง เพื่อสร้างผู้ช่วยห้องปฏิบัติการที่ไม่มีใครเทียบได้<br><br><b>บันทึกของ Morgan:</b><br>สามารถพบได้ลอยอยู่รอบ ๆ Psychotronics ช่วยฟื้นฟูศักยภาพ Psi</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561222</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;Electric&lt;br&gt;EMP&lt;br&gt;Explosive&lt;br&gt;Melee&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITIES:&lt;/b&gt;&lt;br&gt;Psychic&lt;br&gt;Nullwave</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>ไฟฟ้า<br>EMP<br>ระเบิด<br>ประชิด<br><br><b>ภูมิคุ้มกัน:</b><br>พลังจิต<br>Nullwave</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561223</Data></Cell>
+    <Cell><Data ss:Type="String">Poltergeist</Data></Cell>
+    <Cell><Data ss:Type="String">Poltergeist</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561224</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Poltergeist&lt;br&gt;Scientific Name: &lt;i&gt;Typhon dysmorpha&lt;/i&gt;&lt;br&gt;&lt;br&gt;Poltergeists are not a normal part of the Typhon ecology. Instead, they appear to be a result of a rare mutation that occurs in less than 5% of Phantom genesis cases. The Poltergeist is also the only known Typhon to possess the ability to render themselves invisible, undetectable even to Psychoscope scanning. The exact mechanism is unknown at this time as their limited numbers make adequate study difficult.&lt;br&gt;&lt;br&gt;Please note that any enclosure used for Phantom genesis studies must be subjected to a full purge to avoid overlooked Poltergeist specimens.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Poltergeist<br>ชื่อวิทยาศาสตร์: <i>Typhon dysmorpha</i><br><br>Poltergeists ไม่ใช่ส่วนปกติของระบบนิเวศ Typhon แต่พวกมันดูเหมือนจะเป็นผลมาจากการกลายพันธุ์ที่หายากซึ่งเกิดขึ้นในกรณีการกำเนิด Phantom น้อยกว่า 5% Poltergeist ยังเป็น Typhon ชนิดเดียวที่ทราบว่ามีความสามารถในการทำให้ตัวเองล่องหน ตรวจจับไม่ได้แม้กระทั่งการสแกนด้วย Psychoscope กลไกที่แน่นอนยังไม่ทราบในขณะนี้ เนื่องจากจำนวนที่จำกัดทำให้การศึกษาอย่างเพียงพอเป็นเรื่องยาก<br><br>โปรดทราบว่ากรงใด ๆ ที่ใช้สำหรับการศึกษาการกำเนิด Phantom จะต้องถูกทำความสะอาดอย่างสมบูรณ์เพื่อหลีกเลี่ยงการมองข้ามตัวอย่าง Poltergeist</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561225</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Poltergeist&lt;br&gt;Scientific Name: &lt;i&gt;Typhon dysmorpha&lt;/i&gt;&lt;br&gt;&lt;br&gt;Poltergeists are not a normal part of the Typhon ecology. Instead, they appear to be a result of a rare mutation that occurs in less than 5% of Phantom genesis cases. The Poltergeist is also the only known Typhon to possess the ability to render themselves invisible, undetectable even to Psychoscope scanning. The exact mechanism is unknown at this time as their limited numbers make adequate study difficult.&lt;br&gt;&lt;br&gt;Please note that any enclosure used for Phantom genesis studies must be subjected to a full purge to avoid overlooked Poltergeist specimens.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Prefers to ambush prey. Uses psychokinetic action to throw objects. Stunted legs make it slow. Use a Typhon Lure to help detect it or wait for it to attack.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Poltergeist<br>ชื่อวิทยาศาสตร์: <i>Typhon dysmorpha</i><br><br>Poltergeists ไม่ใช่ส่วนปกติของระบบนิเวศ Typhon แต่พวกมันดูเหมือนจะเป็นผลมาจากการกลายพันธุ์ที่หายากซึ่งเกิดขึ้นในกรณีการกำเนิด Phantom น้อยกว่า 5% Poltergeist ยังเป็น Typhon ชนิดเดียวที่ทราบว่ามีความสามารถในการทำให้ตัวเองล่องหน ตรวจจับไม่ได้แม้กระทั่งการสแกนด้วย Psychoscope กลไกที่แน่นอนยังไม่ทราบในขณะนี้ เนื่องจากจำนวนที่จำกัดทำให้การศึกษาอย่างเพียงพอเป็นเรื่องยาก<br><br>โปรดทราบว่ากรงใด ๆ ที่ใช้สำหรับการศึกษาการกำเนิด Phantom จะต้องถูกทำความสะอาดอย่างสมบูรณ์เพื่อหลีกเลี่ยงการมองข้ามตัวอย่าง Poltergeist<br><br><b>บันทึกของ Morgan:</b><br>ชอบซุ่มโจมตีเหยื่อ ใช้พลังจิตเคลื่อนย้ายสิ่งของเพื่อขว้างวัตถุ ขาที่แคระแกร็นทำให้มันเคลื่อนที่ช้า ใช้ Typhon Lure เพื่อช่วยตรวจจับมัน หรือรอให้มันโจมตี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561226</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESS:&lt;/b&gt;&lt;br&gt;Fire&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;None&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Remote Manipulation I, II&lt;br&gt;Lift Field I, II&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>ไฟ<br><br><b>ภูมิคุ้มกัน:</b><br>ไม่มี<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Remote Manipulation I, II<br>Lift Field I, II</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561227</Data></Cell>
+    <Cell><Data ss:Type="String">Turret</Data></Cell>
+    <Cell><Data ss:Type="String">ป้อมปืน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561228</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM THE ENGINEERING DATABASE:&lt;/b&gt;&lt;br&gt;Testing log #1008-010435&lt;br&gt;Product: Eradicator Auto-Turret v0.7.6&lt;br&gt;Observer: Franklin Goode&lt;br&gt;&lt;br&gt;The accuracy grade for this newest turret iteration is a significant improvement over the last generation, with a marked 17% increase. The jamming issues when transitioning to portability mode also seem to have been resolved. Stability is still shit. &lt;br&gt;&lt;br&gt;The Psychoscope element works well, but I recommend tuning the sensitivity down somewhat. I've received complaints from Psychotronics that some of the prototypes we sent down for testing are a little high-strung.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Easy to upgrade and repair. Base model is weak against some of the larger Typhon. Be careful around them with Neuromods. Does not like &lt;i&gt;any&lt;/i&gt; Typhon material around.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล ENGINEERING:</b><br>บันทึกการทดสอบ #1008-010435<br>ผลิตภัณฑ์: Eradicator Auto-Turret v0.7.6<br>ผู้สังเกตการณ์: Franklin Goode<br><br>ระดับความแม่นยำของป้อมปืนรุ่นล่าสุดนี้มีการปรับปรุงอย่างมีนัยสำคัญเมื่อเทียบกับรุ่นก่อนหน้า โดยเพิ่มขึ้นถึง 17% ปัญหาการติดขัดเมื่อเปลี่ยนไปสู่โหมดพกพาก็ดูเหมือนจะได้รับการแก้ไขแล้ว ความเสถียรยังคงแย่ <br><br>องค์ประกอบ Psychoscope ทำงานได้ดี แต่ผมแนะนำให้ปรับความไวลงเล็กน้อย ผมได้รับเรื่องร้องเรียนจาก Psychotronics ว่าต้นแบบบางส่วนที่เราส่งไปทดสอบนั้นค่อนข้างตึงเครียด<br><br><b>บันทึกของ Morgan:</b><br>อัปเกรดและซ่อมแซมได้ง่าย รุ่นพื้นฐานอ่อนแอต่อ Typhon ขนาดใหญ่บางตัว ระมัดระวังเมื่ออยู่ใกล้พวกมันพร้อม Neuromods ไม่ชอบวัสดุ Typhon <i>ใด ๆ</i> ที่อยู่รอบ ๆ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561229</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM THE ENGINEERING DATABASE:&lt;/b&gt;&lt;br&gt;Testing log #1008-010435&lt;br&gt;Product: Eradicator Auto-Turret v0.7.6&lt;br&gt;Observer: Franklin Goode&lt;br&gt;&lt;br&gt;The accuracy grade for this newest turret iteration is a significant improvement over the last generation, with a marked 17% increase. The jamming issues when transitioning to portability mode also seem to have been resolved. Stability is still shit. &lt;br&gt;&lt;br&gt;The Psychoscope element works well, but I recommend tuning the sensitivity down somewhat. I've received complaints from Psychotronics that some of the prototypes we sent down for testing are a little high-strung.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Easy to upgrade and repair. Base model is weak against some of the larger Typhon. Be careful around them with Neuromods. Does not like &lt;i&gt;any&lt;/i&gt; Typhon material around.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล ENGINEERING:</b><br>บันทึกการทดสอบ #1008-010435<br>ผลิตภัณฑ์: Eradicator Auto-Turret v0.7.6<br>ผู้สังเกตการณ์: Franklin Goode<br><br>ระดับความแม่นยำของป้อมปืนรุ่นล่าสุดนี้มีการปรับปรุงอย่างมีนัยสำคัญเมื่อเทียบกับรุ่นก่อนหน้า โดยเพิ่มขึ้นถึง 17% ปัญหาการติดขัดเมื่อเปลี่ยนไปสู่โหมดพกพาก็ดูเหมือนจะได้รับการแก้ไขแล้ว ความเสถียรยังคงแย่ <br><br>องค์ประกอบ Psychoscope ทำงานได้ดี แต่ผมแนะนำให้ปรับความไวลงเล็กน้อย ผมได้รับเรื่องร้องเรียนจาก Psychotronics ว่าต้นแบบบางส่วนที่เราส่งไปทดสอบนั้นค่อนข้างตึงเครียด<br><br><b>บันทึกของ Morgan:</b><br>อัปเกรดและซ่อมแซมได้ง่าย รุ่นพื้นฐานอ่อนแอต่อ Typhon ขนาดใหญ่บางตัว ระมัดระวังเมื่ออยู่ใกล้พวกมันพร้อม Neuromods ไม่ชอบวัสดุ Typhon <i>ใด ๆ</i> ที่อยู่รอบ ๆ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561230</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;Electric&lt;br&gt;EMP&lt;br&gt;Explosive&lt;br&gt;Melee&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITIES:&lt;/b&gt;&lt;br&gt;Psychic&lt;br&gt;Nullwave</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>ไฟฟ้า<br>EMP<br>ระเบิด<br>ประชิด<br><br><b>ภูมิคุ้มกัน:</b><br>พลังจิต<br>Nullwave</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561231</Data></Cell>
+    <Cell><Data ss:Type="String">Technopath</Data></Cell>
+    <Cell><Data ss:Type="String">Technopath</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561232</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM THE ENGINEERING DATABASE:&lt;/b&gt;&lt;br&gt;Maintenance log #1546-011735&lt;br&gt;Filed by: Carlos Popinga&lt;br&gt;&lt;br&gt;It took forever, but repairs to Arboretum airlock doors are finally complete. I think someone's been tampering with the electronics up there. When I popped open the control box, the whole thing looked like someone had been at it with a soldering iron, just a bunch of crossed wires - stuff that's not even supposed to be in there. The programming was all wonky, too. I had to wipe it clean and reinstall.&lt;br&gt;&lt;br&gt;I'll have to bring up an Engineering Operator to clean up the rest of this. I'm filing a report with security about this, too. We have enough junk malfunctioning around here.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล ENGINEERING:</b><br>บันทึกการบำรุงรักษา #1546-011735<br>ผู้ยื่น: Carlos Popinga<br><br>ใช้เวลานานมาก แต่การซ่อมแซมประตูแอร์ล็อก Arboretum ก็เสร็จสมบูรณ์ในที่สุด ผมคิดว่ามีคนไปยุ่งกับอุปกรณ์อิเล็กทรอนิกส์ที่นั่น เมื่อผมเปิดกล่องควบคุม ทุกอย่างดูเหมือนมีคนใช้หัวแร้งจัดการ มันเป็นแค่สายไฟที่พันกันยุ่งเหยิง – สิ่งที่ไม่ควรจะอยู่ในนั้นเลย การตั้งโปรแกรมก็ผิดเพี้ยนไปหมดด้วย ผมต้องล้างข้อมูลและติดตั้งใหม่ทั้งหมด<br><br>ผมจะต้องนำ Engineering Operator ขึ้นมาจัดการส่วนที่เหลือนี้ ผมจะยื่นรายงานต่อฝ่ายรักษาความปลอดภัยเกี่ยวกับเรื่องนี้ด้วย เรามีขยะที่ทำงานผิดปกติมากพอแล้วที่นี่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561233</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM THE ENGINEERING DATABASE:&lt;/b&gt;&lt;br&gt;Maintenance log #1546-011735&lt;br&gt;Filed by: Carlos Popinga&lt;br&gt;&lt;br&gt;It took forever, but repairs to Arboretum airlock doors are finally complete. I think someone's been tampering with the electronics up there. When I popped open the control box, the whole thing looked like someone had been at it with a soldering iron, just a bunch of crossed wires - stuff that's not even supposed to be in there. The programming was all wonky, too. I had to wipe it clean and reinstall.&lt;br&gt;&lt;br&gt;I'll have to bring up an Engineering Operator to clean up the rest of this. I'm filing a report with security about this, too. We have enough junk malfunctioning around here.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Takes control of nearby tech. If this thing gets ahold of turrets, you're dead. Shrugs off GLOO. Prefers to keep away from enemies. Stun or Nullwave it to get in close.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล ENGINEERING:</b><br>บันทึกการบำรุงรักษา #1546-011735<br>ผู้ยื่น: Carlos Popinga<br><br>ใช้เวลานานมาก แต่การซ่อมแซมประตูแอร์ล็อก Arboretum ก็เสร็จสมบูรณ์ในที่สุด ผมคิดว่ามีคนไปยุ่งกับอุปกรณ์อิเล็กทรอนิกส์ที่นั่น เมื่อผมเปิดกล่องควบคุม ทุกอย่างดูเหมือนมีคนใช้หัวแร้งจัดการ มันเป็นแค่สายไฟที่พันกันยุ่งเหยิง – สิ่งที่ไม่ควรจะอยู่ในนั้นเลย การตั้งโปรแกรมก็ผิดเพี้ยนไปหมดด้วย ผมต้องล้างข้อมูลและติดตั้งใหม่ทั้งหมด<br><br>ผมจะต้องนำ Engineering Operator ขึ้นมาจัดการส่วนที่เหลือนี้ ผมจะยื่นรายงานต่อฝ่ายรักษาความปลอดภัยเกี่ยวกับเรื่องนี้ด้วย เรามีขยะที่ทำงานผิดปกติมากพอแล้วที่นี่<br><br><b>บันทึกของ Morgan:</b><br>เข้าควบคุมเทคโนโลยีใกล้เคียง ถ้าสิ่งนี้ควบคุมป้อมปืนได้ คุณตายแน่ ไม่สะทกสะท้านต่อ GLOO ชอบที่จะอยู่ห่างจากศัตรู สตันหรือ Nullwave มันเพื่อเข้าใกล้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561234</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;Electric&lt;br&gt;Explosive&lt;br&gt;Psychic&lt;br&gt;EMP&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Electrostatic Burst I, II, III&lt;br&gt;Remote Manipulation I, II, III&lt;br&gt;Machine Mind I, II, III&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>ไฟฟ้า<br>ระเบิด<br>พลังจิต<br>EMP<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Electrostatic Burst I, II, III<br>Remote Manipulation I, II, III<br>Machine Mind I, II, III</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561235</Data></Cell>
+    <Cell><Data ss:Type="String">Telepath</Data></Cell>
+    <Cell><Data ss:Type="String">Telepath</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561236</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Telepath &lt;br&gt;Scientific Name: &lt;i&gt;Typhon psychocratis&lt;/i&gt;&lt;br&gt;&lt;br&gt;The Telepath is considered to be one of the most dangerous known Typhon. Capable of psychically controlling weaker-willed organisms and even people, it is almost impossible to contain for further study.&lt;br&gt;&lt;br&gt;WARNING: Please note that subsequent to incident case #1405-031433, the creation/containment of Telepath-class specimens is no longer permitted. All personnel entering Psychotronics are required to wear a psychoscope in addition to regular safety equipment.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Telepath <br>ชื่อวิทยาศาสตร์: <i>Typhon psychocratis</i><br><br>Telepath ถือเป็นหนึ่งใน Typhon ที่อันตรายที่สุดเท่าที่รู้จัก มีความสามารถในการควบคุมสิ่งมีชีวิตที่มีจิตใจอ่อนแอและแม้กระทั่งผู้คนด้วยพลังจิต ทำให้แทบจะเป็นไปไม่ได้เลยที่จะกักกันเพื่อการศึกษาเพิ่มเติม<br><br>คำเตือน: โปรดทราบว่าหลังจากเหตุการณ์ #1405-031433 การสร้าง/การกักกันตัวอย่างประเภท Telepath ไม่ได้รับอนุญาตอีกต่อไป บุคลากรทุกคนที่เข้าสู่ Psychotronics จะต้องสวม Psychoscope นอกเหนือจากอุปกรณ์ความปลอดภัยปกติ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561237</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Telepath &lt;br&gt;Scientific Name: &lt;i&gt;Typhon psychocratis&lt;/i&gt;&lt;br&gt;&lt;br&gt;The Telepath is considered to be one of the most dangerous known Typhon. Capable of psychically controlling weaker-willed organisms and even people, it is almost impossible to contain for further study.&lt;br&gt;&lt;br&gt;WARNING: Please note that subsequent to incident case #1405-031433, the creation/containment of Telepath-class specimens is no longer permitted. All personnel entering Psychotronics are required to wear a psychoscope in addition to regular safety equipment.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Powers not just limited to mind control. Watch out for the homing spheres. Can emit a powerful wave that nullifies other psychic abilities around it. Getting too close will get you mangled by another powerful blast. GLOO doesn't seem to work well. Should keep away from it. Stick to long-range weapons or a nullwave device.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Telepath <br>ชื่อวิทยาศาสตร์: <i>Typhon psychocratis</i><br><br>Telepath ถือเป็นหนึ่งใน Typhon ที่อันตรายที่สุดเท่าที่รู้จัก มีความสามารถในการควบคุมสิ่งมีชีวิตที่มีจิตใจอ่อนแอและแม้กระทั่งผู้คนด้วยพลังจิต ทำให้แทบจะเป็นไปไม่ได้เลยที่จะกักกันเพื่อการศึกษาเพิ่มเติม<br><br>คำเตือน: โปรดทราบว่าหลังจากเหตุการณ์ #1405-031433 การสร้าง/การกักกันตัวอย่างประเภท Telepath ไม่ได้รับอนุญาตอีกต่อไป บุคลากรทุกคนที่เข้าสู่ Psychotronics จะต้องสวม Psychoscope นอกเหนือจากอุปกรณ์ความปลอดภัยปกติ<br><br><b>บันทึกของ Morgan:</b><br>พลังของมันไม่ได้จำกัดอยู่แค่การควบคุมจิตใจ ระวังลูกบอลนำวิถี สามารถปล่อยคลื่นพลังงานที่ทรงพลังซึ่งทำให้ความสามารถพลังจิตอื่น ๆ รอบตัวมันเป็นโมฆะ การเข้าใกล้เกินไปจะทำให้คุณถูกฉีกเป็นชิ้น ๆ ด้วยการระเบิดอันทรงพลังอีกครั้ง GLOO ดูเหมือนจะใช้ไม่ได้ผลดีนัก ควรอยู่ห่างจากมัน ใช้อาวุธระยะไกลหรืออุปกรณ์ Nullwave</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561238</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;Explosive&lt;br&gt;Fire&lt;br&gt;Nullwave&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;Backlash&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Psychoshock I, II, III&lt;br&gt;Kinetic Blast I, II, III&lt;br&gt;Mind Jack I, II, III&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>ระเบิด<br>ไฟ<br>Nullwave<br><br><b>ภูมิคุ้มกัน:</b><br>Backlash<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Psychoshock I, II, III<br>Kinetic Blast I, II, III<br>Mind Jack I, II, III</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561239</Data></Cell>
+    <Cell><Data ss:Type="String">Weaver</Data></Cell>
+    <Cell><Data ss:Type="String">Weaver</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561240</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Weaver &lt;br&gt;Scientific Name: &lt;i&gt;Typhon geneocratis&lt;/i&gt;&lt;br&gt;&lt;br&gt;Along with Mimics, Weavers were some of the first Typhon encountered near the &lt;i&gt;Vorona I&lt;/i&gt;. As observed in log #0215-051060, in larger Mimic populations, one mimic will be chosen via an as yet unknown mechanism to undergo a specialized metamorphosis. The chosen mimic is stung repeatedly by the others, triggering a rapid change, resulting in a new Typhon geneocratis, or 'Weaver'. &lt;br&gt;&lt;br&gt;Weavers appear to be central to the Typhon ecology, largely as vectors for production for some of the other species as well as the substance known as Coral.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Weaver <br>ชื่อวิทยาศาสตร์: <i>Typhon geneocratis</i><br><br>พร้อมกับ Mimics, Weavers เป็น Typhon กลุ่มแรก ๆ ที่พบใกล้ <i>Vorona I</i> ตามที่สังเกตในบันทึก #0215-051060 ในประชากร Mimic ที่มีขนาดใหญ่ Mimic ตัวหนึ่งจะถูกเลือกด้วยกลไกที่ไม่ทราบแน่ชัด เพื่อเข้าสู่การเปลี่ยนแปลงรูปร่างแบบพิเศษ Mimic ที่ถูกเลือกจะถูกตัวอื่น ๆ ต่อยซ้ำ ๆ กระตุ้นให้เกิดการเปลี่ยนแปลงอย่างรวดเร็ว ส่งผลให้เกิด Typhon geneocratis ตัวใหม่ หรือ &apos;Weaver&apos; <br><br>Weavers ดูเหมือนจะเป็นศูนย์กลางของระบบนิเวศ Typhon ส่วนใหญ่เป็นพาหะในการผลิตสิ่งมีชีวิตชนิดอื่น ๆ รวมถึงสารที่เรียกว่า Coral</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561241</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM PSYCHOTRONICS DATABASE:&lt;/b&gt;&lt;br&gt;Common Name: Weaver &lt;br&gt;Scientific Name: &lt;i&gt;Typhon geneocratis&lt;/i&gt;&lt;br&gt;&lt;br&gt;Along with Mimics, Weavers were some of the first Typhon encountered near the &lt;i&gt;Vorona I&lt;/i&gt;. As observed in log #0215-051060, in larger Mimic populations, one mimic will be chosen via an as-yet-unknown mechanism to undergo a specialized metamorphosis. The chosen mimic is stung repeatedly by the others, triggering a rapid change, resulting in a new Typhon geneocratis, or 'Weaver'. &lt;br&gt;&lt;br&gt;Weavers appear to be central to the Typhon ecology, largely as vectors for production for some of the other species as well as the substance known as Coral.&lt;br&gt;&lt;br&gt;&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;Prefers to avoid direct fights.  Watch out for cystoids. Protected by a shield that floods attackers with a terror effect when struck. GLOO ineffective while shield is up.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากฐานข้อมูล PSYCHOTRONICS:</b><br>ชื่อสามัญ: Weaver <br>ชื่อวิทยาศาสตร์: <i>Typhon geneocratis</i><br><br>พร้อมกับ Mimics, Weavers เป็น Typhon กลุ่มแรก ๆ ที่พบใกล้ <i>Vorona I</i> ตามที่สังเกตในบันทึก #0215-051060 ในประชากร Mimic ที่มีขนาดใหญ่ Mimic ตัวหนึ่งจะถูกเลือกด้วยกลไกที่ไม่ทราบแน่ชัด เพื่อเข้าสู่การเปลี่ยนแปลงรูปร่างแบบพิเศษ Mimic ที่ถูกเลือกจะถูกตัวอื่น ๆ ต่อยซ้ำ ๆ กระตุ้นให้เกิดการเปลี่ยนแปลงอย่างรวดเร็ว ส่งผลให้เกิด Typhon geneocratis ตัวใหม่ หรือ &apos;Weaver&apos; <br><br>Weavers ดูเหมือนจะเป็นศูนย์กลางของระบบนิเวศ Typhon ส่วนใหญ่เป็นพาหะในการผลิตสิ่งมีชีวิตชนิดอื่น ๆ รวมถึงสารที่เรียกว่า Coral<br><br><b>บันทึกของ Morgan:</b><br>ชอบที่จะหลีกเลี่ยงการต่อสู้โดยตรง ระวัง Cystoids ป้องกันด้วยโล่ที่ทำให้ผู้โจมตีเกิดอาการหวาดกลัวเมื่อถูกโจมตี GLOO ไม่มีประสิทธิภาพในขณะที่โล่ทำงานอยู่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561242</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;WEAKNESSES:&lt;/b&gt;&lt;br&gt;Nullwave&lt;br&gt;Psychoshock&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;EMP&lt;br&gt;&lt;br&gt;&lt;b&gt;SCANNABLE POWERS:&lt;/b&gt;&lt;br&gt;&lt;i&gt;Backlash I, II, III&lt;br&gt;Phantom Genesis I, II&lt;/i&gt;</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดอ่อน:</b><br>Nullwave<br>Psychoshock<br><br><b>ภูมิคุ้มกัน:</b><br>EMP<br><br><b>ความสามารถที่สแกนได้:</b><br><i>Backlash I, II, III<br>Phantom Genesis I, II</i></Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515490679797</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;EXCERPT FROM THE PROJECT AXIOM ARCHIVE:&lt;/b&gt;&lt;br&gt;Observation log #1824-122864&lt;br&gt;Researcher: Louis Sullivan&lt;br&gt;&lt;br&gt;It's fortunate the Weaver produces so many of these because keeping Cystoids alive for long outside of those nests has proven to be exceptionally difficult. Despite the lack of any visible sensory organs, each Cystoid seems capable of detecting us through unknown means, detonating on proximity. If we can figure out what it uses to &quot;see,&quot; we may be able find a way to &quot;blind&quot; it long enough to get a closer look.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>ข้อความที่ตัดตอนมาจากเอกสารเก่าของ PROJECT AXIOM:</b><br>บันทึกการสังเกตการณ์ #1824-122864<br>นักวิจัย: Louis Sullivan<br><br>เป็นเรื่องโชคดีที่ Weaver ผลิตสิ่งเหล่านี้ออกมามากมาย เพราะการรักษา Cystoids ให้มีชีวิตรอดนอกรังเหล่านั้นเป็นเรื่องที่ยากอย่างยิ่ง แม้จะไม่มีอวัยวะรับความรู้สึกที่มองเห็นได้ แต่ Cystoid แต่ละตัวดูเหมือนจะสามารถตรวจจับเราได้ด้วยวิธีการที่ไม่รู้จัก และจะระเบิดเมื่อเข้าใกล้ หากเราสามารถหาสิ่งที่มันใช้ในการ &quot;มองเห็น&quot; ได้ เราอาจหาวิธี &quot;ทำให้มันตาบอด&quot; ได้นานพอที่จะเข้าไปดูใกล้ ๆ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_3149325216977828499</Data></Cell>
+    <Cell><Data ss:Type="String">Morgan Yu</Data></Cell>
+    <Cell><Data ss:Type="String">Morgan Yu</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_3149325216977828500</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;I always feel like somebody's watching me.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>บันทึกของ Morgan:</b><br>ผมรู้สึกเหมือนมีใครบางคนกำลังเฝ้าดูผมอยู่เสมอ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_3149325216977828501</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;STRENGTH:&lt;/b&gt;&lt;br&gt;Devastatingly handsome&lt;br&gt;&lt;br&gt;&lt;b&gt;WEAKNESS:&lt;/b&gt;&lt;br&gt;Toxic family&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;I wish&lt;br&gt;&lt;br&gt;&lt;b&gt;RESISTANCE:&lt;/b&gt;&lt;br&gt;Good advice</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดแข็ง:</b><br>หล่อเหลาอย่างร้ายกาจ<br><br><b>จุดอ่อน:</b><br>ครอบครัวที่เป็นพิษ<br><br><b>ภูมิคุ้มกัน:</b><br>ผมหวังว่าจะเป็นอย่างนั้น<br><br><b>ความต้านทาน:</b><br>คำแนะนำที่ดี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_3149325216977828554</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;I always feel like somebody's watching me.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>บันทึกของ Morgan:</b><br>ผมรู้สึกเหมือนมีใครบางคนกำลังเฝ้าดูผมอยู่เสมอ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515496710447</Data></Cell>
+    <Cell><Data ss:Type="String">Morgan Yu</Data></Cell>
+    <Cell><Data ss:Type="String">Morgan Yu</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515496710448</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;I always feel like somebody's watching me.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>บันทึกของ Morgan:</b><br>ผมรู้สึกเหมือนมีใครบางคนกำลังเฝ้าดูผมอยู่เสมอ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515496710449</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;I always feel like somebody's watching me.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>บันทึกของ Morgan:</b><br>ผมรู้สึกเหมือนมีใครบางคนกำลังเฝ้าดูผมอยู่เสมอ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515496710450</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;STRENGTH:&lt;/b&gt;&lt;br&gt;Devastating beauty&lt;br&gt;&lt;br&gt;&lt;b&gt;WEAKNESS:&lt;/b&gt;&lt;br&gt;Toxic family&lt;br&gt;&lt;br&gt;&lt;b&gt;IMMUNITY:&lt;/b&gt;&lt;br&gt;I wish&lt;br&gt;&lt;br&gt;&lt;b&gt;RESISTANCE:&lt;/b&gt;&lt;br&gt;Good advice</Data></Cell>
+    <Cell><Data ss:Type="String"><b>จุดแข็ง:</b><br>สวยงามอย่างร้ายกาจ<br><br><b>จุดอ่อน:</b><br>ครอบครัวที่เป็นพิษ<br><br><b>ภูมิคุ้มกัน:</b><br>ฉันหวังว่าจะเป็นอย่างนั้น<br><br><b>ความต้านทาน:</b><br>คำแนะนำที่ดี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13856881013228071082</Data></Cell>
+    <Cell><Data ss:Type="String">Corrupted Device</Data></Cell>
+    <Cell><Data ss:Type="String">อุปกรณ์ที่เสียหาย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13856881013228071083</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;A few of the Typhon have demonstrated an ability to interfere with technology, but the Technopath can take over a system entirely. I've found screens surrounded by a dark, psychoetheric matter. Displays distorted. Programming incomprehensible. Destroying the Technopath should clear it up. With some systems, like Operators, the changes appear to be permanent.&lt;br&gt;&lt;br&gt;Found more. Looked a little closer - it's remarkable. The tech is completely hijacked, hardware and software. All the way down to the machine code. The Typhon is intuitively sabotaging and repurposing on the fly, remotely. </Data></Cell>
+    <Cell><Data ss:Type="String"><b>บันทึกของ Morgan:</b><br>Typhon บางตัวได้แสดงความสามารถในการรบกวนเทคโนโลยี แต่ Technopath สามารถเข้าควบคุมระบบทั้งหมดได้ ผมพบหน้าจอที่ถูกล้อมรอบด้วยสสาร psychoetheric สีดำ หน้าจอแสดงผลบิดเบี้ยว การตั้งโปรแกรมไม่สามารถเข้าใจได้ การทำลาย Technopath ควรจะแก้ไขปัญหานี้ได้ สำหรับบางระบบ เช่น Operators การเปลี่ยนแปลงดูเหมือนจะเป็นแบบถาวร<br><br>พบเพิ่มอีก ลองดูใกล้ ๆ – มันน่าทึ่งมาก เทคโนโลยีถูกยึดครองโดยสมบูรณ์ ทั้งฮาร์ดแวร์และซอฟต์แวร์ ลงลึกไปถึงระดับรหัสเครื่อง Typhon กำลังก่อวินาศกรรมและปรับเปลี่ยนวัตถุประสงค์อย่างเป็นธรรมชาติแบบเรียลไทม์จากระยะไกล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13856881013228071084</Data></Cell>
+    <Cell><Data ss:Type="String">A device corrupted and controlled by a nearby Technopath.</Data></Cell>
+    <Cell><Data ss:Type="String">อุปกรณ์ที่เสียหายและถูกควบคุมโดย Technopath ที่อยู่ใกล้เคียง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263411781636</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;MORGAN'S NOTES:&lt;/b&gt;&lt;br&gt;A few of the Typhon have demonstrated an ability to interfere with technology, but the Technopath can take over a system entirely. I've found screens surrounded by a dark, psychoetheric matter. Displays distorted. Programming incomprehensible. Destroying the Technopath should clear it up. With some systems, like Operators, the changes appear to be permanent.</Data></Cell>
+    <Cell><Data ss:Type="String"><b>บันทึกของ Morgan:</b><br>Typhon บางตัวได้แสดงความสามารถในการรบกวนเทคโนโลยี แต่ Technopath สามารถเข้าควบคุมระบบทั้งหมดได้ ผมพบหน้าจอที่ถูกล้อมรอบด้วยสสาร psychoetheric สีดำ หน้าจอแสดงผลบิดเบี้ยว การตั้งโปรแกรมไม่สามารถเข้าใจได้ การทำลาย Technopath ควรจะแก้ไขปัญหานี้ได้ สำหรับบางระบบ เช่น Operators การเปลี่ยนแปลงดูเหมือนจะเป็นแบบถาวร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <TopRowVisible>72</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>87</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:ExcelWorkbook/>
+</Workbook>

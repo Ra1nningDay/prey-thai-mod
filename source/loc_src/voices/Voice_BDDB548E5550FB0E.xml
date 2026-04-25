@@ -1,0 +1,2159 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="Sheet1">
+    <Table>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">KEY</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ORIGINAL TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TRANSLATED TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">LOCKED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">CHARACTER LIMIT</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC55773CD4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Whoever you are, run. There is no more food here except you. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่ว่าคุณจะเป็นใคร หนีไป ที่นี่ไม่มีอาหารเหลือแล้วนอกจากคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC5579AFA0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You found something?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณเจออะไรบ้างไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC5581B10A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hnh... what is this? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อืม... นี่มันอะไรกัน?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC5581B131</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I open the door, I'll let you in. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมจะเปิดประตู แล้วจะให้คุณเข้ามา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC559C0D1A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You are safe now, the beasts... they cannot get in.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตอนนี้คุณปลอดภัยแล้ว พวกสัตว์ประหลาด... มันเข้ามาไม่ได้หรอก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC559C0D2B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I cannot pry open freezer vents. Tried already, locked tight. Try if you do not believe me. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมงัดช่องระบายอากาศของ freezer ไม่ได้ ลองแล้ว มันล็อกแน่นเลย ลองดูสิถ้าคุณไม่เชื่อผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC559C0D57</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We have food, but it will not last long, I think.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เรามีอาหาร แต่ผมว่ามันคงอยู่ได้ไม่นาน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC559C4A13</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I know who you are, M. Yu... </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมรู้ว่าคุณเป็นใคร, M. Yu...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC559C4A72</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Son of William Yu. William. TranStar... always playing with lives. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ลูกชายของ William Yu. William. TranStar... ชอบเล่นกับชีวิตคนเสมอ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC559C4AA7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Your father, he put so many of us in prison, then in this prison.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พ่อของคุณ เขาจับพวกเราหลายคนเข้าคุก แล้วก็มาขังไว้ในคุกนี้อีก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465CDD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Running out of bodies, wasting food. Seen you once, you cannot step in again. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ศพเริ่มหมดแล้ว เปลืองอาหาร เคยเห็นคุณครั้งนึงแล้ว คุณเข้ามาอีกไม่ได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465D02</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Where did 84 go, I wonder. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">84 หายไปไหนนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465D0C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Stop making those. There is no "Quinten" here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หยุดสร้างพวกนั้นซะ ที่นี่ไม่มี </Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465D1B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hnh. One prison cell for another.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อืม จากคุกหนึ่งไปอีกคุกหนึ่ง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465D2A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Eating Noises)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงกินอาหาร)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465D36</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Stupid piece of American chunk.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไอ้ก้อนอเมริกันโง่ๆ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465DE7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If you are still ahold of your brain, good. Others here? Are not. Shoot first before they get close - they are puppets. Bombs.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้าคุณยังมีสติอยู่ก็ดี คนอื่นที่นี่น่ะเหรอ? ไม่มีแล้ว ยิงก่อนที่พวกมันจะเข้ามาใกล้ พวกมันเป็นแค่หุ่นเชิด ระเบิดได้ด้วย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465E27</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You still here? Still you?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณยังอยู่ที่นี่เหรอ? ยังเป็นคุณอยู่ไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465E2D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Only safe place is in kitchen. If you are human, I will let you in, then the two of us figure out what to do next.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ที่เดียวที่ปลอดภัยคือใน kitchen ถ้าคุณเป็นมนุษย์ ผมจะให้คุณเข้ามา แล้วเราสองคนค่อยคิดว่าจะทำยังไงต่อไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465F80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No eggs behind your eyes, no black swimming. Others come... try to act human, get me to open the door. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่มีไข่อยู่หลังตาของคุณ ไม่มีอะไรสีดำว่ายอยู่ คนอื่นมา... พยายามทำตัวเป็นมนุษย์ เพื่อให้ผมเปิดประตู</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465F9C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Negative Grunt) Safe in here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงครางไม่พอใจ) ข้างในนี้ปลอดภัย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56465FE5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">When puppets can't get in, explode like bombs. The beast lays eggs in their head, make them explode. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เวลาหุ่นเชิดเข้ามาไม่ได้ มันก็จะระเบิดเหมือนระเบิด สัตว์ประหลาดวางไข่ในหัวพวกมัน ทำให้พวกมันระเบิด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56466013</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Maybe you're one, too... hunh? Come to dig me out.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">บางทีคุณก็เป็นหนึ่งในนั้นด้วย... ฮึ? มาเพื่อขุดผมออกไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56466150</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Your suit - what is on your nametag - "Yu"? "M. Yu"?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ชุดของคุณน่ะ - ป้ายชื่อเขียนว่าอะไรนะ - </Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56466179</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">M. Yu, maybe you are like me, maybe not - but you want to come in, be safe? Bring me something human, something a human can understand. This key... it opens bunk.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">M. Yu, บางทีคุณอาจจะเหมือนผม หรือไม่ก็ไม่เหมือน - แต่คุณอยากเข้ามาข้างใน ปลอดภัยใช่ไหม? เอาอะไรที่เป็นของมนุษย์มาให้ผมหน่อย อะไรที่มนุษย์เข้าใจได้ กุญแจนี้... มันเปิด bunk</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564662C9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Now go. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไปได้แล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56466509</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hnh. No. Something else, I think.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฮึ ไม่ ผมว่าไม่ใช่สิ่งนี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56466517</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What crosses your mind with this? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณคิดอะไรกับสิ่งนี้?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56466523</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I have no use for this.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมไม่มีประโยชน์กับสิ่งนี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5646652B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No. Think harder. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่ คิดให้ดีกว่านี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5646653D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Bring me nothing, you get nothing. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้าไม่เอาอะไรมาให้ ก็ไม่ได้อะไรไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56466579</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What crosses your mind with this? Too alien, I think.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณคิดอะไรกับสิ่งนี้? ผมว่ามันแปลกเกินไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564666EC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Come inside. Quick now.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เข้ามาข้างใน เร็วเข้า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5646675F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Taste like eel... and something else. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">รสชาติเหมือนปลาไหล... แล้วก็มีอย่างอื่นอีก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5646676E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If hungry, eat, but I warn you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้าหิวก็กินซะ แต่ผมเตือนคุณแล้วนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56466AD3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I already hear this name before... where...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมเคยได้ยินชื่อนี้มาก่อนแล้ว... ที่ไหนนะ...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56466AFC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">But... look at this... </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แต่... ดูนี่สิ...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56466B52</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Did you check Greenhouse?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณเช็ก Greenhouse หรือยัง?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56466CC2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Who are you?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณเป็นใคร?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5649FF11</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We have food. But no water. This... pressure regulator... it is broken. System automatic cut off until fixed.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เรามีอาหาร แต่ไม่มีน้ำ นี่... pressure regulator... มันเสีย ระบบตัดการทำงานอัตโนมัติจนกว่าจะซ่อมเสร็จ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A0073</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You can find a replacement part in Greenhouse, I think. With water, we can wait for rescue. No water... (Negative Grunt)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมว่าคุณน่าจะหาอะไหล่ทดแทนได้ใน Greenhouse ถ้ามีน้ำ เราก็รอการช่วยเหลือได้ ไม่มีน้ำ... (เสียงครางไม่พอใจ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A0098</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Do this favor, I let you into freezer. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ช่วยทำสิ่งนี้หน่อย แล้วผมจะให้คุณเข้าไปใน freezer</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A00A9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">That's where I hid all the puppets the beast send first. Maybe they have useful things for you, no?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นั่นคือที่ที่ผมซ่อนหุ่นเชิดทั้งหมดที่สัตว์ประหลาดส่งมาเป็นพวกแรก บางทีพวกมันอาจจะมีของที่มีประโยชน์สำหรับคุณก็ได้นะ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A0248</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You fix? Hmmph. Smart one... </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณซ่อมได้เหรอ? หืม ฉลาดนี่...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A0285</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Here. Key to freezer, like I promised. Lots of dead puppets and supplies.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่ กุญแจสำหรับ freezer อย่างที่ผมสัญญาไว้ มีหุ่นเชิดที่ตายแล้วกับเสบียงเยอะแยะเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A02F4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No water. Need to find another regulator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่มีน้ำ ต้องหา regulator อันอื่น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A0307</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Grunt)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงคราง)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A0333</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Are you frightened of the puppets?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณกลัวหุ่นเชิดเหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A040D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">M. Yu... how do you have this already? You are thinking in front of time?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">M. Yu... คุณมีสิ่งนี้แล้วได้ยังไง? คุณคิดล่วงหน้าไปแล้วเหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A0424</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Grunt) What kind of brain?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงคราง) สมองแบบไหนกัน?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A0531</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Good. Now we safe until rescue comes. Take some food. Drink water.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ดี ตอนนี้เราปลอดภัยแล้วจนกว่าจะมีการช่วยเหลือมาถึง เอาอาหารไปกินบ้าง ดื่มน้ำด้วย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A0635</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If you hungry... eat.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้าคุณหิว... ก็กินซะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A065F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Go in. Take whatever you want. Only leave puppets for me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เข้าไปเลย เอาอะไรก็ได้ที่คุณอยากได้ แค่ทิ้งหุ่นเชิดไว้ให้ผมก็พอ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A0698</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ehn.. M. Yu... M. Yu... Hmm.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เอ่อ.. M. Yu... M. Yu... อืม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A071E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Grunt)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงคราง)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A077E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You don't like the taste?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณไม่ชอบรสชาติเหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A07C3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Can't let them close...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ปล่อยให้พวกมันเข้ามาใกล้ไม่ได้...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A0800</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...is not black eggs.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...ไม่ใช่ไข่สีดำ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A09BA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Keep it closed. We do not need to keep twisting our luck.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ปิดมันไว้ เราไม่จำเป็นต้องเสี่ยงโชคไปมากกว่านี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A09D8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Close door. It is all that is between us and beasts.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ปิดประตู มันคือสิ่งเดียวที่กั้นเรากับพวกสัตว์ประหลาด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A1F55</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Snort)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงหายใจฟืดฟาด)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A1F5A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Now speaking piece of chunk is silent piece of chunk.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไอ้ก้อนที่เคยพูดได้ ตอนนี้ก็เป็นไอ้ก้อนเงียบๆ ไปแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A1F91</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TranStar trashcan. Not even worth the parts.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถังขยะ TranStar ไม่คุ้มค่าแม้แต่ Spare Parts</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A2026</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Chuckle)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(หัวเราะหึๆ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A203C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Quiet now. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เงียบซะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A2047</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Shhhhhhhhh.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ชู่วววววว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A2058</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TranStar trashcan. Not even worth the parts.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถังขยะ TranStar ไม่คุ้มค่าแม้แต่ Spare Parts</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A24D4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You are said to be the smart one. You have a way off station? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เขาว่ากันว่าคุณเป็นคนฉลาด คุณมีทางออกจากสถานีนี้ไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A251C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Now... maybe I watch these beasts eat you. Like you tried to feed me to them. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตอนนี้... บางทีผมอาจจะเฝ้าดูพวกสัตว์ประหลาดกินคุณ เหมือนที่คุณพยายามจะเอาผมไปให้พวกมันกิน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A2556</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Or... cold kills you first. Make you into a frozen puppet.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หรือ... ความหนาวเย็นจะฆ่าคุณก่อน ทำให้คุณกลายเป็นหุ่นเชิดแช่แข็ง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A27BD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Daughter of William Yu. William. TranStar... always playing with lives. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ลูกสาวของ William Yu. William. TranStar... ชอบเล่นกับชีวิตคนเสมอ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A4006</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TranStar piece of chunk... Are you awake, M. Yu? Frozen dead maybe? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไอ้ก้อน TranStar... คุณตื่นแล้วเหรอ, M. Yu? อาจจะตายแข็งไปแล้วก็ได้มั้ง?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A410C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I take puppet's toy screen. I see all the names in a list. Your name too.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมเอาจอของเล่นของหุ่นเชิดมา ผมเห็นชื่อทั้งหมดในรายการ ชื่อคุณก็ด้วย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A4138</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Means you listen from now on.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หมายความว่าคุณต้องฟังจากนี้ไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A55E1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...you go, where you go... M. Yu. Maybe... this setting.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...คุณไปไหน, คุณไปไหน... M. Yu บางที... ที่นี่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A5624</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Stupid chunk. Ah, wait, wait. Are you in station vault? Make it hard to find you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไอ้ก้อนโง่ อ่า, เดี๋ยวก่อน, เดี๋ยวก่อน คุณอยู่ใน station vault เหรอ? ทำให้หายากนะเนี่ย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A56A0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You will not like what is inside. Maybe you feel it in your head, like I do? Like birthing pain, maybe.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณจะไม่ชอบสิ่งที่อยู่ข้างใน บางทีคุณอาจจะรู้สึกมันในหัวเหมือนผมก็ได้? เหมือนความเจ็บปวดจากการคลอดลูกมั้ง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A56A7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">The beasts, I think they make a child just to kill you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พวกสัตว์ประหลาด ผมว่าพวกมันสร้างลูกออกมาเพื่อฆ่าคุณโดยเฉพาะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A57D4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You ripped open an eye in my brain. I see a horizon, filled with teeth. It is coming closer. Maybe it is what you see?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณฉีกเปิดดวงตาในสมองของผม ผมเห็นขอบฟ้าที่เต็มไปด้วยฟัน มันกำลังเข้ามาใกล้ บางทีมันอาจจะเป็นสิ่งที่คุณเห็นก็ได้?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A57DF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I am hungry. I am always hungry.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมหิว ผมหิวอยู่เสมอ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A57F0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I will wait, M. Yu. You will come out. Nowhere to go. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมจะรอ, M. Yu คุณจะต้องออกมา ไม่มีที่ไปหรอก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A580B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Nowhere to go. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่มีที่ไปหรอก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A593E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">M. Yu. I find you outside your prison. Maybe trying to escape. Like me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">M. Yu ผมเจอคุณอยู่นอกคุกของคุณ บางทีอาจจะพยายามหนี เหมือนผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A5973</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Not safe out there. But you know this.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ข้างนอกนั่นไม่ปลอดภัย แต่คุณก็รู้เรื่องนี้อยู่แล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A5979</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You have headaches? See things?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณปวดหัวเหรอ? เห็นอะไรแปลกๆ ไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A59C5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It is not fever, not hallucinations. A horizon is coming, cutting through space. If we are still here when it arrives...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่ไม่ใช่ไข้ ไม่ใช่ภาพหลอน ขอบฟ้ากำลังมา ตัดผ่านอวกาศ ถ้าเรายังอยู่ที่นี่ตอนที่มันมาถึง...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A59E6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It screams so loud, we hear it in our head. It is still far away, but it is coming closer. It will eat your prison, every person on board. And it will still be hungry. Where will it go next, I wonder?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มันกรีดร้องดังมาก จนเราได้ยินในหัว มันยังอยู่ไกล แต่กำลังเข้ามาใกล้ขึ้นเรื่อยๆ มันจะกินคุกของคุณ กินทุกคนบนสถานี แล้วมันก็จะยังหิวอยู่ มันจะไปไหนต่อล่ะทีนี้?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564A59EC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I see you back in your prison soon, M. Yu.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมเห็นคุณกลับไปอยู่ในคุกของคุณเร็วๆ นี้แหละ, M. Yu</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B387A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You came back in from outside. Fixed elevators. Thank you, now I can move free. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณกลับเข้ามาจากข้างนอก ซ่อม Lift แล้ว ขอบคุณ ตอนนี้ผมเคลื่อนไหวได้อิสระแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B3882</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You - not so much. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ส่วนคุณน่ะ - ไม่ค่อยเท่าไหร่หรอก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B3894</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You are... in Life Support. A joke there, I think. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณอยู่... ใน Life Support ผมว่ามันเป็นเรื่องตลกนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B38B9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Eel tanks. Where your TranStar food comes from, chopped up and made new colors. Connected to septic system. A joke there too, I think.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">บ่อปลาไหล ที่มาของอาหาร TranStar ของคุณ ถูกสับและทำเป็นสีใหม่ๆ เชื่อมต่อกับระบบบำบัดน้ำเสีย ผมว่ามันก็เป็นเรื่องตลกเหมือนกัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B3ABB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">M. Yu? You are still alive? Good.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">M. Yu? คุณยังไม่ตายเหรอ? ดี</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B3B54</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We learn to make mines in Ukraine from recycling TranStar chunk, wanted to share knowledge with you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เราเรียนรู้วิธีสร้างทุ่นระเบิดในยูเครนจากการรีไซเคิลเศษ TranStar อยากจะแบ่งปันความรู้นี้กับคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B3B8D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TranStar chunk not go off. M. Yu... maybe you see it, avoid it?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เศษ TranStar ไม่ระเบิด M. Yu... บางทีคุณอาจจะเห็นมันแล้วหลีกเลี่ยงมันได้?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B3CF4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">The Yu family cause much trouble on Earth. Now they play with the stars and expect not to burn.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตระกูล Yu สร้างปัญหามากมายบนโลก ตอนนี้พวกเขากำลังเล่นกับดวงดาวและหวังว่าจะไม่ถูกเผาไหม้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B3D04</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I wondered why you opened us to the chamber, make us see a horizon. Sharp, razored... hungry. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมสงสัยว่าทำไมคุณถึงเปิดห้องนั้นให้เรา ทำให้เราเห็นขอบฟ้า คมกริบ... หิวโหย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B3D20</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You surround yourself with machines, with things. They cannot keep you safe. They will eat you as well. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณล้อมรอบตัวเองด้วยเครื่องจักร ด้วยสิ่งของต่างๆ พวกมันไม่สามารถทำให้คุณปลอดภัยได้ พวกมันจะกินคุณด้วยเช่นกัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B3D2D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">After they eat you, maybe I take your suit, become M. Yu, get shuttle access? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หลังจากที่พวกมันกินคุณแล้ว บางทีผมอาจจะเอาชุดของคุณไป กลายเป็น M. Yu แล้วก็เข้าถึง shuttle ได้?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B3E2D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">These headaches, they are getting worse. Like teeth in the brain, sinking in. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อาการปวดหัวพวกนี้มันแย่ลงเรื่อยๆ เหมือนฟันที่กำลังจมลงไปในสมอง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B3E38</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You feel it, M. Yu? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณรู้สึกมันไหม, M. Yu?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B3E46</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Screaming is louder now, getting close. I think screams are coming from the future, M. Yu. Screams of people on Earth. Screams an animal makes when caught in a hunter's jaw.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เสียงกรีดร้องดังขึ้นแล้ว กำลังเข้ามาใกล้ ผมคิดว่าเสียงกรีดร้องมาจากอนาคต, M. Yu เสียงกรีดร้องของผู้คนบนโลก เสียงกรีดร้องของสัตว์ที่ติดอยู่ในกรามของนักล่า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B413F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">This is for M.Yu. So you don't forget.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่สำหรับ M. Yu คุณจะได้ไม่ลืม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B4145</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TranStar asks for volunteers for experiment in space. Promises to let us go from prison if we come to this one - a life sentence, over in a day. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TranStar ขออาสาสมัครสำหรับการทดลองในอวกาศ สัญญาว่าจะปล่อยเราออกจากคุกถ้าเรามาที่นี่ - โทษจำคุกตลอดชีวิต จบลงในวันเดียว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B4161</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Like all TranStar deals... is false. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เหมือนข้อตกลงทั้งหมดของ TranStar... มันเป็นเรื่องโกหก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B4218</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">They take us up in shuttle, like cattle. Take us to your prison, feed us, run tests.   </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พวกเขาพาเราขึ้น shuttle เหมือนปศุสัตว์ พาเราไปที่คุกของคุณ ให้อาหารเรา ทำการทดสอบ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B4235</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">But something is wrong, I think. They put us back on shuttle, say the tests are over, we are free. They drug us, herd us like cattle... </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แต่ผมว่ามีบางอย่างผิดปกติ พวกเขาพาเรากลับขึ้น shuttle บอกว่าการทดสอบเสร็จแล้ว เราเป็นอิสระ พวกเขาให้ยาเรา ต้อนเราเหมือนปศุสัตว์...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B4287</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...and then they bring us back here. You bring us back here. And kill us one by one, feed us to your beasts while you watch and take notes.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...แล้วพวกเขาก็พาเรากลับมาที่นี่ คุณพาเรากลับมาที่นี่ แล้วก็ฆ่าเราทีละคน เอาเราไปให้สัตว์ประหลาดของคุณกิน ในขณะที่คุณเฝ้าดูและจดบันทึก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B4296</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I see it. There - "M. Yu," on your uniform. You watch as you open my cage, let me see the beast you keep here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมเห็นแล้ว นั่นไง - </Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B42AE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It is not evil, I think. It is an animal. It is hungry, but the hunger... it is everywhere, it is hungry for thought. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมว่ามันไม่ได้ชั่วร้ายหรอก มันเป็นสัตว์ มันหิว แต่ความหิวนั้น... มันอยู่ทุกที่ มันหิวโหยความคิด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B42C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It enters my brain, leaves hunger there, like an egg, it grows, cracks. Its hunger is inside me... it is almost all I can think about.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มันเข้ามาในสมองของผม ทิ้งความหิวโหยไว้ที่นั่น เหมือนไข่ มันเติบโต แตกออก ความหิวโหยของมันอยู่ในตัวผม... มันเกือบจะเป็นทั้งหมดที่ผมคิดได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B42D8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">But it does not eat me, maybe it does not like how I think. Or sees my brain is wrong. Or maybe you decide to stop when I scream?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แต่มันไม่กินผม บางทีมันอาจจะไม่ชอบวิธีคิดของผม หรือเห็นว่าสมองของผมผิดปกติ หรือบางทีคุณอาจจะตัดสินใจหยุดตอนที่ผมกรีดร้อง?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B431E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I go back to my cell, and doctors comes with needles and tests and questions. I bite their fingers, swallow them whole - and they beat me, take me to security.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมกลับไปที่ห้องขังของผม แล้วพวกหมอก็มาพร้อมกับเข็ม การทดสอบ และคำถาม ผมกัดนิ้วพวกมัน กลืนพวกมันลงไปทั้งตัว - แล้วพวกมันก็ตีผม พาผมไปที่ security</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B4368</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Alarms... guards try and move me... and I kill them. But their uniforms do not fit, I am still hungry. Go find crew to blend in. Find the kitchen, find an idiot man who lets me in, and I look at him - his suit is my size. I kill him, and now I am him.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เสียงเตือนภัย... พวกยามพยายามจะย้ายผม... แล้วผมก็ฆ่าพวกมัน แต่เครื่องแบบของพวกมันไม่พอดีตัว ผมยังหิวอยู่ ไปหาลูกเรือเพื่อกลมกลืน หา kitchen หาผู้ชายโง่ๆ ที่ยอมให้ผมเข้าไป แล้วผมก็มองไปที่เขา - ชุดของเขาไซส์เดียวกับผม ผมฆ่าเขา แล้วตอนนี้ผมก็คือเขา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564B4378</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I do this again, and again, help people come to kitchen, see what they have, kill them. They are just TranStar.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมทำแบบนี้ซ้ำแล้วซ้ำเล่า ช่วยให้คนเข้ามาใน kitchen ดูว่าพวกเขามีอะไร แล้วก็ฆ่าพวกมัน พวกมันก็แค่ TranStar</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC56A157C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Go back to your master, puppets. Tell it that you will have to go hungry today.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กลับไปหานายของแกซะ, พวกหุ่นเชิด บอกมันว่าวันนี้แกจะต้องอดอยาก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC56A157FF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I can see what's behind your eyes. You can't fool me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมเห็นสิ่งที่อยู่หลังตาของคุณ คุณหลอกผมไม่ได้หรอก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC56A15895</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">There is no food here for you, puppets! Leave me be.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ที่นี่ไม่มีอาหารให้พวกแกหรอก, พวกหุ่นเชิด! ปล่อยผมไปซะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956BCEF8A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan Yu. This pod will work, but I do not know how to launch it.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan Yu. pod นี้จะใช้ได้ แต่ผมไม่รู้วิธีปล่อยมัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956BCEF99</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Let's resolve our conflict on Earth. In the fresh air. With worms under our feet.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มาแก้ไขความขัดแย้งของเราบนโลกกันเถอะ ในอากาศบริสุทธิ์ กับหนอนใต้เท้าของเรา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956BCEFA9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Join me. I saved you a seat.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มาร่วมกับผมสิ ผมจองที่นั่งไว้ให้คุณแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956BCEFC7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I will die soon. No need to fear me now.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมจะตายในไม่ช้า ไม่ต้องกลัวผมแล้วตอนนี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956BCF086</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We are over now. Hahahahaha...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เราจบกันแล้วตอนนี้ ฮ่าๆๆๆๆๆๆ...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E570C768F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณ...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E570C77D9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I see you. Another puppet.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมเห็นคุณแล้ว หุ่นเชิดอีกตัว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E570C77E9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Looking for me with black eggs behind your eyes. Come closer.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กำลังมองหาผมด้วยไข่สีดำที่อยู่หลังตาของคุณ เข้ามาใกล้ๆ สิ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E570C77EE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yes... a little closer-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ใช่... เข้ามาใกล้อีกหน่อย-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E570C78C0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Grim Chuckle)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(หัวเราะหึๆ อย่างน่ากลัว)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E570C7B20</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Stupid puppets. What? You too? You want to come into kitchen? Good, come!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พวกหุ่นเชิดโง่ๆ อะไรนะ? คุณด้วยเหรอ? คุณอยากเข้ามาใน kitchen เหรอ? ดีเลย เข้ามาสิ!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E570C7BF5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">How many? How many bodies do you have, eh?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เท่าไหร่แล้ว? แกมีกี่ศพแล้ว, หือ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E570C7C46</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Keep sending and sending...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ส่งมาเรื่อยๆ...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E570C7C6A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">When will you stop? Stop!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เมื่อไหร่จะหยุด? หยุดนะ!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E570C7CC8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...can't think with all the puppet bombs.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...คิดอะไรไม่ออกเลยกับพวกระเบิดหุ่นเชิดพวกนี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E570C7DEE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Nnh... why do you obey? You can't fight the beast voice?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อืม... ทำไมคุณถึงเชื่อฟัง? คุณสู้เสียงของสัตว์ประหลาดไม่ได้เหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E570C7E80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">When no more puppets... maybe we talk.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เมื่อไม่มีหุ่นเชิดอีกแล้ว... บางทีเราอาจจะคุยกันได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FDB00</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What is this?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่มันอะไร?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FDB09</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Eh... something.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เอ่อ... อะไรบางอย่าง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FDB91</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Shhh. More beasts coming...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ชู่ววว สัตว์ประหลาดกำลังมาอีกแล้ว...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FDB9B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No. No. Nothing.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่ ไม่ ไม่มีอะไร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FDBD4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It's gone. I did not imagine it. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มันหายไปแล้ว ผมไม่ได้คิดไปเอง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FDC22</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Bah. It will come back later.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">บ้าจริง เดี๋ยวมันก็กลับมาอีก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FDC50</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You should stop that. They will come for you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณควรหยุดทำแบบนั้น พวกมันจะมาหาคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FDCAA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">That is... (Grunt)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นั่นมัน... (เสียงคราง)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FDD06</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hmmn. Your brain is like a beast. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อืมมม สมองของคุณเหมือนสัตว์ประหลาดเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FE025</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อะไรนะ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FE02D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You make joke?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณล้อเล่นเหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FE032</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Stop.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หยุดนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FE044</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FE08D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Now you have woken something terrrible. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตอนนี้คุณได้ปลุกบางสิ่งที่น่ากลัวขึ้นมาแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FE096</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Laugh)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(หัวเราะ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FE0D1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No, no. I won't fight.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่ ไม่ ผมจะไม่สู้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FE0F6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Peace! Don't harm me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">สงบศึก! อย่าทำร้ายผมเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FE133</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Why?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ทำไม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FE15A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please. I'm not a threat to you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โปรดเถอะ ผมไม่เป็นภัยต่อคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E571FE1FE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You tricked me?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณหลอกผมเหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57434345</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Almost. Only a few puppets left.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เกือบแล้ว เหลือหุ่นเชิดอีกไม่กี่ตัว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57434365</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Good. Come to kitchen window. We will talk. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ดี มาที่หน้าต่างห้องครัว เราจะคุยกัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5743440D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Go around. The side entrance.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อ้อมไป ทางเข้าด้านข้าง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E574344D3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Wait.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เดี๋ยว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E574344E1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">A minute...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">สักครู่...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E574344E8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Grunt)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เสียงฮึดฮัด)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57434D13</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Here. I open freezer now, like I promised. Lots of dead puppets and supplies.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่ไง ผมเปิดช่องแช่แข็งแล้วตามที่สัญญาไว้ มีหุ่นเชิดที่ตายแล้วกับเสบียงเยอะแยะเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57434DCF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You can find a replacement part in the Fitness Center. The pool, I think. With water, we can wait for rescue. No water... (Negative Grunt)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณหาอะไหล่ได้ที่ Fitness Center ตรงสระน้ำมั้ง ผมว่านะ ถ้ามีน้ำ เราก็รอการช่วยเหลือได้ ไม่มีน้ำ... (เสียงฮึดฮัดปฏิเสธ)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D52895755E773</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Your cowardice will haunt you for the reminder of your days. But my death is easy. No more nightmares...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ความขี้ขลาดของคุณจะหลอกหลอนคุณไปตลอดชีวิต แต่ความตายของผมมันง่ายดาย ไม่มีฝันร้ายอีกต่อไปแล้ว...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">C9C496365787CB4D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Who's there?!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ใครน่ะ?!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">C9C496365787CB5B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You can't get in here!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณเข้ามาที่นี่ไม่ได้!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">C9C496365787CBD8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Can't get in heerrre.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เข้ามาที่นี่ไม่ด้ายยย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">C9C496365787CC09</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Only get in if I let you in.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">จะเข้ามาได้ก็ต่อเมื่อผมอนุญาตเท่านั้น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">C9C4963657881398</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Regulator first.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตัวควบคุมก่อน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">C9C49636578813BA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Open freezer when have new regulator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เปิดช่องแช่แข็งเมื่อได้ตัวควบคุมใหม่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A24A51</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You are one of them!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แกเป็นหนึ่งในพวกมัน!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A24AB2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Stupid beast! You think you can kill me with them?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">สัตว์โง่! แกคิดว่าจะฆ่าผมด้วยพวกมันได้เหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A24AC2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Can't get me, can you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">จับผมไม่ได้หรอก ใช่ไหมล่ะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A24ADB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You run out of puppets, maybe you starve.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แกไม่มีหุ่นเชิดแล้ว บางทีแกอาจจะอดตาย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A24B31</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Their master is close. Kill beast, or puppets, or both - but do it before they kill you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นายของพวกมันอยู่ใกล้ๆ ฆ่าสัตว์ร้าย หรือหุ่นเชิด หรือทั้งคู่ก็ได้ – แต่ต้องทำก่อนที่พวกมันจะฆ่าแก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A24EDF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Their master... it is running out of bodies.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นายของพวกมัน... ร่างกายกำลังจะหมดแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A24F92</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ha!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฮ่า!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A25346</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Your puppets all dead - now you join them!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หุ่นเชิดของแกตายหมดแล้ว – ตอนนี้แกก็ไปรวมกับพวกมันซะ!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A2535F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You... come to kitchen window. Let me see you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แก... มาที่หน้าต่างห้องครัว ให้ผมเห็นหน้าแกหน่อย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A25381</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Kill a few of your puppets, now you join them.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฆ่าหุ่นเชิดของแกไปไม่กี่ตัว ตอนนี้แกก็ไปรวมกับพวกมันซะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A2539B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Couldn't hide behind your puppets - hnh. Kill you, saves them?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ซ่อนอยู่หลังหุ่นเชิดของแกไม่ได้แล้วสินะ หึ ฆ่าแกแล้วช่วยพวกมันได้เหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A253FE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">M. Yu. You kill beast yourself? Hnh. If you want to come in, be safe... you go... get something of mine, hnh? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">M. Yu. แกฆ่าสัตว์ร้ายเองเหรอ? หึ ถ้าแกอยากเข้ามาอย่างปลอดภัย... แกไป... เอาของของผมมาหน่อยสิ หึ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A25414</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Here - key... it opens my room. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่ – กุญแจ... มันเปิดห้องผมได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A2544C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Go there, get my... award. It's important to me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไปที่นั่น เอา... รางวัลของผมมา มันสำคัญกับผมมาก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A2545A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Then... Maybe we talk.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">งั้น... บางทีเราอาจจะคุยกัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A254AD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Don't worry about power, flickering... station is just hurting. Keep going.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่ต้องห่วงเรื่องไฟกระพริบ... สถานีกำลังเสียหายเท่านั้นเอง ไปต่อเถอะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A2556B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You still there, M. Yu? You still alive? Hnh.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แกยังอยู่ที่นั่นเหรอ M. Yu? แกยังมีชีวิตอยู่ไหม? หึ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A25597</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hnh. What if M. Yu comes back... let M. Yu in? But...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หึ ถ้า M. Yu กลับมา... ให้ M. Yu เข้ามาเหรอ? แต่ว่า...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A255F9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You find it? You back?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แกหามันเจอแล้วเหรอ? แกกลับมาแล้วเหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A25607</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Come to window. Show me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มาที่หน้าต่าง แสดงให้ผมดูสิ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A256B3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hnh. Have to let you in, promised.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หึ ต้องให้แกเข้ามาสินะ สัญญาไว้แล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A25725</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Replacement part in Greenhouse, but... hnh.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อะไหล่อยู่ใน Greenhouse แต่ว่า... หึ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A257CE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hnh. Freezer... it is where I hid puppets beast send first.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หึ ช่องแช่แข็ง... เป็นที่ที่ผมซ่อนหุ่นเชิดที่สัตว์ร้ายส่งมาตัวแรก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57A25819</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Maybe they have useful things for you? Or maybe inside is another way out?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">บางทีพวกมันอาจจะมีของที่มีประโยชน์สำหรับแกก็ได้? หรือบางทีข้างในอาจจะเป็นอีกทางออกหนึ่ง?</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

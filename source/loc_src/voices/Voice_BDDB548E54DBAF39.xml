@@ -1,0 +1,2533 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="Sheet1">
+    <Table>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">KEY</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ORIGINAL TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TRANSLATED TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">LOCKED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">CHARACTER LIMIT</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5549455E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hey, I can't get into the Psychotronics foyer.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เฮ้ ผมเข้า Psychotronics foyer ไม่ได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55494599</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Who's that?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นั่นใครน่ะ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E554945E4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You're supposed to alert security for stuff like that.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณควรแจ้งฝ่ายรักษาความปลอดภัยสำหรับเรื่องแบบนั้นนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55494609</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Do you know what he changed it to?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณรู้ไหมว่าเขาเปลี่ยนเป็นอะไร?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55494632</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I have to make a report now.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมต้องทำรายงานแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55494655</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You know I do.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณก็รู้ว่าผมทำ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55494683</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Screw you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไปตายซะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955887E23</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don't think these PPN pistols are going to do the trick. Not much choice.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมไม่คิดว่าปืน PPN พวกนี้จะได้ผลนะ ไม่มีทางเลือกมากนัก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC559A9A02</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">A critical! There, right there, saving the day once again.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คริติคอล! นั่นไง ตรงนั้นเลย กอบกู้สถานการณ์ได้อีกครั้ง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC559A9FA2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">She said yes?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เธอตอบตกลงเหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E559EF045</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yeah. What's the story on Mikhaila's office?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ใช่ แล้วเรื่องออฟฟิศของ Mikhaila เป็นไงบ้าง?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E559EF099</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'm sure it's a page turner, but I don't have time. I need to get a crew on the other side of that breach.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมแน่ใจว่ามันเป็นเรื่องน่าติดตาม แต่ผมไม่มีเวลา ผมต้องส่งลูกเรือไปอีกฝั่งของรอยแตกนั่น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E559EF0AC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Problem is, it's blacker than my butthole at the bottom of a well in there.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ปัญหาคือข้างในมันมืดตื๋อยิ่งกว่าตูดของผมที่ก้นบ่ออีก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E559EF0C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hey, you sound rattled. What's up?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เฮ้ คุณดูตกใจนะ เกิดอะไรขึ้น?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E559EF0F1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">And?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แล้วไง?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E559EF103</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Shit Lan. That's not in the report is it?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">บ้าเอ๊ย Lan นั่นไม่ได้อยู่ในรายงานใช่ไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55C09D00</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ivy. What is it.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ivy มีอะไร?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55C09FCE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I can't get this damn thing open. Where's Danielle? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมเปิดไอ้บ้านี่ไม่ได้ Danielle อยู่ไหน?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55C0A114</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Danielle's tied the lock to her voice. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Danielle ผูกระบบล็อกไว้กับเสียงของเธอ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55C0A146</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All right, Ivy, but... look, don't do anything stupid. Ivy? Ivy. Shit. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เอาล่ะ Ivy แต่... ฟังนะ อย่าทำอะไรโง่ๆ Ivy? Ivy บ้าจริง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55CA8135</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">This is pretty weird, Quinten.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่มันแปลกมากเลย Quinten</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55CB589D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Where are you?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณอยู่ไหน?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55CC9AE1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Roger that. Receiving now. That's... that's back at the station. Psychotronics airlock. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">รับทราบ กำลังรับสัญญาณ นั่น... นั่นมันกลับไปที่สถานี แอร์ล็อกของ Psychotronics</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55CC9B4D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">May I ask what for?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมขอถามได้ไหมว่าเพื่ออะไร?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55CC9B62</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yes sir.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ครับผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55CC9B83</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Sir?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ครับ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55CC9B98</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Roger that. Changing course.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">รับทราบ เปลี่ยนเส้นทาง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955CE5DE7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Recycler's where you said it would be, Chief, but the Typhon organisms are all over the place... I might be able...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Recycler อยู่ตรงที่คุณบอก หัวหน้า แต่สิ่งมีชีวิต Typhon เต็มไปหมดเลย... ผมอาจจะ...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955CE5EA3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Catch-22. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ภาวะกลืนไม่เข้าคายไม่ออก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955CE5EEE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You know - chicken and the egg? Which came first? Can't have one without the other, so...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณก็รู้—ไก่กับไข่? อะไรเกิดก่อนกัน? ไม่มีอย่างหนึ่งก็ไม่มีอีกอย่าง ฉะนั้น...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955D38ED5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We showed them.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เราแสดงให้พวกเขาเห็นแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955D38EF7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Let's do this! Lock and load, people!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ลุยกันเลย! เตรียมพร้อมยิง ทุกคน!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955D38F1F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dammit, Sarah...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">บ้าเอ๊ย Sarah...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55D5F84D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Seif, this is Captain Hale. Shuttle Exalt. I'm trying to hail the bridge. Getting zip. Can you confirm please.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Seif นี่ Captain Hale จาก Shuttle Exalt ผมพยายามติดต่อ Bridge แต่ไม่มีสัญญาณเลย คุณช่วยยืนยันหน่อยได้ไหม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55D5F888</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I have some system malfunctions. It's uh... across the board, hard to make sense. I need to park ASAP.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมมีระบบขัดข้อง มัน... ทั่วทั้งระบบเลย เข้าใจยาก ผมต้องจอดโดยเร็วที่สุด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55D5F8A1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Shit, what is going on. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">บ้าจริง เกิดอะไรขึ้นเนี่ย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55D5F961</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don't know why I can't reach anyone, but I am dead in the water. Repeat I have zero engines. I'm drifting.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมไม่รู้ว่าทำไมผมติดต่อใครไม่ได้เลย แต่ผมหมดสภาพแล้ว ย้ำว่าเครื่องยนต์ดับสนิท ผมกำลังลอยเคว้ง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55D5F9B1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Godammit, Seif, answer your TranScribe.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ให้ตายสิ Seif รับ TranScribe ของนายหน่อย!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55D5F9EF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Uh, recommend security detail when I come in. Hearing some noise in the cabin.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เอ่อ แนะนำให้มีหน่วยรักษาความปลอดภัยตอนผมเข้าไป ได้ยินเสียงดังในห้องโดยสาร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55D5FA48</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All right. Shit. (Deep Breath) Investigating cabin. I have a sidearm. If all clear I will attempt to EVA to an airlock.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เอาล่ะ บ้าจริง (หายใจลึกๆ) กำลังตรวจสอบห้องโดยสาร ผมมีปืนพก ถ้าทุกอย่างปลอดภัย ผมจะพยายาม EVA ไปที่ airlock</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955DCF93D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Order any what?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">สั่งอะไรนะ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955DCF9BB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">A machine? What does it do?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เครื่องจักรเหรอ? มันทำอะไรได้บ้าง?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955DCFA5A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Is this some kind of joke? I'm busy.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่มันเรื่องตลกอะไรกัน? ผมยุ่งอยู่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955DCFACC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You obviously don't understand what I do. And I didn't order any deployer.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณคงไม่เข้าใจว่าผมทำอะไรอยู่ และผมก็ไม่ได้สั่งเครื่องมือติดตั้งอะไรเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955DCFB0C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ask somebody in engineering.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไปถามใครสักคนในฝ่ายวิศวกรรมสิ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955DCFB5B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Weird. Well... perhaps I can come down this evening and take a look at it.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แปลกจัง... อืม... บางทีผมอาจจะลงไปดูให้เย็นนี้ก็ได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528955DCFB72</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yeah. No problem.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อืม ไม่มีปัญหา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC55E70E73</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yes - if they have the right words. Or if we gathered enough to map her voice to a consonant and vowel list and started running patterns...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ใช่ครับ – ถ้าพวกเขามีคำพูดที่ถูกต้อง หรือถ้าเรารวบรวมข้อมูลได้มากพอที่จะจับคู่เสียงของเธอกับรายการพยัญชนะและสระ แล้วเริ่มรันรูปแบบ...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55FB0301</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yeah? Was it an ass-kissing bird named Krassikoff?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เหรอ? เป็นนกขี้ประจบประแจงชื่อ Krassikoff รึเปล่า?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55FB049D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Not if I'm going to get my pee-pee slapped.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่เอาหรอก ถ้าผมจะต้องโดนตีก้นน่ะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55FB04FA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ouch. Nah, supply was out of parts so I borrowed a GLOO gun from the guys in hardware. Worked out okay. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอ๊ย ไม่หรอก ฝ่ายจัดหาสินค้าอะไหล่หมด ผมเลยยืม GLOO gun จากพวกที่แผนกฮาร์ดแวร์มา ใช้ได้ดีเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55FB0676</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Roger that, boss.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">รับทราบครับ หัวหน้า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5627A4ED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Tell me about the dream.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เล่าเรื่องความฝันให้ผมฟังหน่อย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5627A8BE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Sarai. Come in. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Sarai เข้ามา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A2D5B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You seem... frustrated.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณดูเหมือน... หงุดหงิดนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A2FDA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Do you know how many times we've had this conversation?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณรู้ไหมว่าเราคุยเรื่องนี้กันมากี่ครั้งแล้ว?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A2FF0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">This is the fifth time.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่เป็นครั้งที่ห้าแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A301B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Not always.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่เสมอไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A3037</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What do you think it means?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณคิดว่ามันหมายความว่าอะไร?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A305E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You left yourself a message. Would you like to listen to it?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณทิ้งข้อความไว้ให้ตัวเอง คุณอยากจะฟังมันไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A309B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I think it would help.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมคิดว่ามันน่าจะช่วยได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A30CE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Why do you say that?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ทำไมคุณถึงพูดแบบนั้น?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A30EF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You agreed to this. This was all your idea. Yours and Alex's.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณตกลงเรื่องนี้เองนะ นี่เป็นความคิดของคุณทั้งหมด ของคุณกับ Alex</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A3146</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If I did, I couldn't say. You know that. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้าผมทำ ผมก็พูดไม่ได้หรอก คุณก็รู้ดี</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A317F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Eh we shouldn't talk about them. Not without your brother present.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เอ่อ เราไม่ควรพูดถึงพวกเขาหรอกนะ ถ้าไม่มีพี่ชายของคุณอยู่ด้วย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A32BB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan. Take a deep breath. Here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan หายใจลึกๆ นี่ไง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A32D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A32E6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Okay... I'm gonna call Alex.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอเค... ผมจะโทรหา Alex</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5641F1EB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">A waste of time? Like back on Earth?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เสียเวลาเหรอ? เหมือนตอนอยู่บนโลกงั้นเหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5641F241</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Was it? Anger. Issues with authority? A year of counseling doesn't sound like a trivial matter.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">จริงเหรอ? ความโกรธ ปัญหาเรื่องอำนาจ? การให้คำปรึกษาเป็นปีๆ ไม่ใช่เรื่องเล็กน้อยเลยนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5641F25C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Are you angry? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณโกรธอยู่เหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5641F26F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Any... new relationships?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มี... ความสัมพันธ์ใหม่ๆ บ้างไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5641F295</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I thought you and Miss Foy - the Sanitation Engineer - were seen together. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมคิดว่าคุณกับคุณ Foy – วิศวกรสุขาภิบาล – ถูกพบเห็นด้วยกันนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5641F314</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ah. And this separation, did it involve anger? Issues with author-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อ่า แล้วการแยกทางครั้งนี้ มันเกี่ยวข้องกับความโกรธไหม? ปัญหาเรื่องอำนาจ-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56460B43</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...well, I didn't see it as an override per se.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...อืม ผมไม่ได้มองว่ามันเป็นการเข้าควบคุมโดยตัวมันเองนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56460C7C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It was just the Operator's conversation sequencer. They're usually so grim...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มันก็แค่ตัวจัดลำดับบทสนทนาของ Operator น่ะ พวกมันมักจะเคร่งขรึมมากเลย...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56460D34</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Well, Morgan said it was all right. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อืม Morgan บอกว่ามันไม่เป็นไร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56460D67</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Even helped me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แถมยังช่วยผมด้วย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564612F4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">This is an "A B" conversation, Skillet.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่มันบทสนทนาของคนสองคนนะ Skillet</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564DE637</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I dropped a couple of Nightlights to lure the phantoms away. Put sticky notes on every godamn thing I'm sure isn't a mimic.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมทิ้ง Nightlights ไปสองสามอันเพื่อล่อพวก Phantom ออกไป แล้วก็แปะ sticky notes ไว้บนทุกอย่างที่ผมแน่ใจว่าไม่ใช่ Mimic</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564DE71F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564DE800</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What's our plan?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แผนของเราคืออะไร?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564DE81F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ha. You know - if we make it, Alex is just going to pull our mods.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฮ่า คุณก็รู้ ถ้าเรารอดไปได้ Alex ก็จะถอด Neuromods ของเราออกอยู่ดี</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564DE85A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I think we could get out through the guts. Work our way up to the Arboretum.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมคิดว่าเราน่าจะออกไปทาง G.U.T.S. ได้ แล้วค่อยหาทางขึ้นไปที่ Arboretum</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564E09B0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We need her to speak the key phrase, or we're not getting in here. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เราต้องให้เธอพูดรหัสผ่าน ไม่อย่างนั้นเราจะเข้าไปไม่ได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564E0A7B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dammit, Danielle, where are you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ให้ตายสิ Danielle เธออยู่ไหนเนี่ย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D5289566B5905</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You killed all the aliens that were stalking around out there. No reason we can't open door 01 I suppose. Here is the keycard for it.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณกำจัดเอเลี่ยนที่วนเวียนอยู่ข้างนอกนั่นหมดแล้ว ผมว่าเราเปิดประตู 01 ได้นะ นี่คีย์การ์ดสำหรับประตูนั้น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D5289566B5986</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Check with Elazar, she's running the show since your brother sabotaged the station.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไปคุยกับ Elazar เธอเป็นคนดูแลทุกอย่างตั้งแต่พี่ชายของคุณก่อวินาศกรรมสถานี</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D5289566B5A7B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Yu. Morgan! Up here! Officer Cool. We can't open the main door, or our friends are going to pour through - get up to the catwalk, we'll get you inside.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Yu Morgan! ขึ้นมานี่! Officer Cool เราเปิดประตูหลักไม่ได้ ไม่อย่างนั้นพวกมันจะทะลักเข้ามา - ขึ้นมาบนทางเดินยกระดับสิ เราจะพาคุณเข้าไปข้างใน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D5289569545CD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Yu. Morgan! Up here! Officer Cool. We can't open the main door, or our friends are going to pour through - get up to the catwalk, we'll get you inside.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Yu Morgan! ขึ้นมานี่! Officer Cool เราเปิดประตูหลักไม่ได้ ไม่อย่างนั้นพวกมันจะทะลักเข้ามา - ขึ้นมาบนทางเดินยกระดับสิ เราจะพาคุณเข้าไปข้างใน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC569984CD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oh, please, Goode down in Hardware uses this for driving sims and don't get me started on the RTS matches during Meal Shift B. We'll be fine. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอ๊ย ไม่เอาน่า Goode ที่ Hardware Labs ยังใช้สิ่งนี้เล่นเกมขับรถเลย แล้วอย่าให้พูดถึงเกม RTS ตอนกะอาหาร B เลย เราไม่เป็นไรหรอก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC569984E6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If we got Danielle in the game, she could guarantee anonymity...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้าเราให้ Danielle เข้ามาในเกมได้ เธอจะรับรองการไม่เปิดเผยตัวตนได้...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC569985C3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">She'd do it if Abigail asked.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เธอจะทำถ้า Abigail ขอ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC56999399</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Jesus Christ on a stick, Abigail.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ให้ตายเถอะ Abigail</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC56999472</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Forget that. It just ate our warrior.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ช่างมันเถอะ มันเพิ่งกินนักรบของเราไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC569995DE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">All right, let me light a torch, and- </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เอาล่ะ ให้ผมจุดคบเพลิงหน่อย แล้ว-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC569D8CDA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">To what?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เพื่ออะไร?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC569EA401</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I worry about you sometimes.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">บางทีผมก็เป็นห่วงคุณนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC569EA41F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Where's Danielle? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Danielle อยู่ไหน?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC56A039AD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What - wh-today? Or...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อะไร - วันนี้เหรอ? หรือว่า...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC56A03A47</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Saw that coming.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">รู้อยู่แล้วว่าจะเกิดอะไรขึ้น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC56A03B0B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">She's in Deep Storage. Saw her heading in on my way out. I'll head that way. You two find somewhere to hole up until we get back.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เธออยู่ใน Deep Storage ผมเห็นเธอเดินเข้าไปตอนที่ผมกำลังจะออก ผมจะไปทางนั้น คุณสองคนหาที่ซ่อนตัวจนกว่าเราจะกลับมา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956A93C50</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You have to climb up to the catwalk to get in. I can't open this door as long as Typhon are out there.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณต้องปีนขึ้นไปบนทางเดินยกระดับถึงจะเข้าไปได้ ผมเปิดประตูนี้ไม่ได้ตราบใดที่ Typhon ยังอยู่ข้างนอกนั่น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56B0FC61</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">That's not his daughter, it's his wife.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นั่นไม่ใช่ลูกสาวเขา นั่นคือภรรยาเขา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56B0FC82</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No, she died... well, when Igwe was younger. It's in his records. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่ เธอเสียชีวิตไปแล้ว... ตอนที่ Igwe ยังหนุ่มกว่านี้ มันอยู่ในบันทึกของเขา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56B0FD17</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yeah, during the security checks, looking for those red flag psyches that the brass is up in arms about...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ใช่ ตอนตรวจความปลอดภัย หาพวกจิตเภทที่เป็นธงแดงที่พวกผู้ใหญ่กำลังกังวลกันอยู่...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56B0FD8E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Apparently came home, found her dead on the floor. Aneurysm.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ดูเหมือนจะกลับบ้านมาเจอเธอเสียชีวิตอยู่บนพื้น เส้นเลือดในสมองโป่งพอง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56B0FDA5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Spend your life studying the brain, and the brain takes its toll. With everything else going on at the time with the shaming-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ใช้ชีวิตศึกษาเรื่องสมอง แล้วสมองก็เอาคืน ด้วยทุกอย่างที่เกิดขึ้นในตอนนั้นกับการประจาน-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56B0FDD6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You already said that, but I don't think he heard you. He's not looking at this station, that's for sure.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณพูดไปแล้ว แต่ผมไม่คิดว่าเขาได้ยินนะ เขาไม่ได้สนใจสถานีนี้เลย นั่นแน่ชัด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956B2679F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Grand Piano Concerto)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(เพลงคอนแชร์โตเปียโนแกรนด์)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BA1721</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">C'mon Manny. Just be up front with me. I've seen you checkin' out my caboose in these TranStar uniforms. If you want to ask me out just-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่เอาน่า Manny ตรงไปตรงมากับฉันหน่อย ฉันเห็นนายมองก้นฉันในชุด TranStar พวกนี้ ถ้าอยากชวนฉันออกเดทก็แค่-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BA1795</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Serious and hypothetical? Well, shit, I'm listening now.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">จริงจังและสมมติเหรอ? ให้ตายสิ ฉันฟังอยู่แล้วตอนนี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BA1B5C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don't know, send an email? Call security?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฉันไม่รู้สิ ส่งอีเมลเหรอ? โทรหาฝ่ายรักษาความปลอดภัย?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BA1B81</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Shit, Manny. What'd you do?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ให้ตายสิ Manny นายทำอะไรลงไป?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BA1BB8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Okay, well... as long as we're talking hypothetical, I guess I'd EVA my ass out to that orbiting billboard and flash it big as Vegas on the screen. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โอเค งั้น... ตราบใดที่เรากำลังพูดถึงเรื่องสมมติ ผมเดาว่าผมคงจะ EVA ตัวเองออกไปที่ป้ายโฆษณาที่โคจรอยู่แล้วฉายมันให้ใหญ่เท่า Vegas บนหน้าจอ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BA2128</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Scoffs) Whatever.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(หัวเราะเยาะ) อะไรก็ช่างเถอะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BA8AC7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Forget that. Grab whatever you can, and get to my office. We're evacuating.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ลืมเรื่องนั้นไปซะ คว้าอะไรก็ได้ที่คุณทำได้ แล้วไปที่ออฟฟิศของผม เรากำลังอพยพ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BA8B27</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Neuromods. Exotic material. Just hurry. Meet me in my office. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Neuromods วัสดุแปลกใหม่ รีบหน่อยนะ มาเจอผมที่ออฟฟิศ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BA8B37</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">And bring a GLOO gun.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แล้วก็เอา GLOO gun มาด้วย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BCD9AF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ah-tshh! I don't want to know. I'm doing this as a favor, that's all.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อ๊ะ! ผมไม่อยากรู้หรอก ผมทำนี่ให้เพราะเห็นแก่คุณเท่านั้นแหละ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BCDA65</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">When I was Head Chef at the Space Institute no one asked me to conceal food in a cargo container.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตอนที่ผมเป็นหัวหน้าเชฟที่สถาบันอวกาศ ไม่มีใครขอให้ผมซ่อนอาหารในตู้คอนเทนเนอร์ขนส่ง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C73230</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Are you alone?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณอยู่คนเดียวหรือเปล่า?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C7323C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What do you see in the glass?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณเห็นอะไรในกระจก?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C73277</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What does it look like? The shape in the glass. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มันดูเป็นยังไง? รูปร่างในกระจก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C73282</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Does it look like this image here?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มันดูเหมือนภาพนี้ไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C73292</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Calvino? Does it look like this?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ดร. Calvino? มันดูเหมือนแบบนี้ไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C732AC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Are you sure?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณแน่ใจนะ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56CCFC0E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I thought perhaps today we could speak more about the career choices that were... born of that.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมคิดว่าวันนี้เราน่าจะคุยกันเรื่องทางเลือกอาชีพที่... เกิดขึ้นจากเรื่องนั้นได้มากขึ้น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56CCFC73</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Taking on a losing battle like that, fighting... not enemy troops, but the equivalent of a natural disaster...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">การต่อสู้ที่แพ้แน่ๆ แบบนั้น การต่อสู้... ไม่ใช่กับทหารศัตรู แต่เป็นสิ่งที่เทียบเท่ากับภัยพิบัติทางธรรมชาติ...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D08434</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yes, Chief. Sorry, Chief. It doesn't matter, though, the power's down in here - the class 4 power circuit, the blast in Fuel Storage must have damaged the connection.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ครับ หัวหน้า ขอโทษครับ หัวหน้า แต่มันไม่สำคัญหรอกครับ ไฟที่นี่ดับหมดแล้ว — วงจรไฟฟ้าคลาส 4 การระเบิดในห้องเก็บเชื้อเพลิงคงจะทำให้การเชื่อมต่อเสียหาย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D08527</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan? I thought I felt a chill. Didn't we have an inspection just last week?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan? ผมรู้สึกหนาวๆ นะ อาทิตย์ที่แล้วเราเพิ่งมีการตรวจสอบไปไม่ใช่เหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D086AD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">More where that came from.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ยังมีอีกเยอะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D086FE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We showed them, huh, Morgan?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เราแสดงให้พวกมันเห็นแล้วใช่ไหม Morgan?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D08709</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Wasn't sure these pistols would do the trick, but...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่แน่ใจว่าปืนพกพวกนี้จะใช้ได้ผลหรือเปล่า แต่...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0876D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Safety off - Austin's on.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ปลดเซฟตี้ - Austin พร้อมแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0877A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Watch your asses - they come through that door, don't let them get to cover, or we'll have no idea what they'll be next.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ระวังตัวไว้ให้ดี — ถ้าพวกมันเข้ามาทางประตูนั้น อย่าปล่อยให้พวกมันหาที่กำบังได้ ไม่งั้นเราจะไม่รู้เลยว่าพวกมันจะกลายเป็นอะไรต่อไป</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D08788</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Check the room, study what's here - anything doubles up, know which one to shoot, all right?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตรวจดูห้อง ศึกษาว่ามีอะไรอยู่บ้าง — ถ้ามีอะไรซ้ำกัน ให้รู้ว่าต้องยิงตัวไหน ตกลงไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D087E2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Always thought the Chief was too tough to die. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คิดมาตลอดว่าหัวหน้าแกร่งเกินกว่าจะตาย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D087F0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Elazar, I keep thinking you're just faking. Get up, all right? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Elazar ผมยังคิดว่าคุณแค่แกล้งทำน่ะ ลุกขึ้นสิ ตกลงไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D08940</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Al, you weren't a good officer, but you didn't deserve this.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Al นายไม่ใช่เจ้าหน้าที่ที่ดี แต่ก็ไม่สมควรได้รับแบบนี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0894B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Not the best in a fight, but at least Al got a few of them.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่ใช่คนเก่งที่สุดในการต่อสู้ แต่ Al ก็จัดการพวกมันไปได้บ้าง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D08975</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Darcy, you were a nice gal, and maybe that was the thing. Rest easy.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Darcy เธอเป็นคนดีนะ และนั่นอาจจะเป็นเรื่องสำคัญ พักผ่อนให้สบาย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D08996</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Kev, you shoulda been more careful.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Kev นายควรจะระวังมากกว่านี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0899F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Sam... you big idiot. Went and got yourself killed.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Sam... ไอ้คนโง่เอ๊ย ไปหาเรื่องตายซะได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D089AB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Rest easy, girl. We wouldn't have made it without you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พักผ่อนให้สบายนะสาวน้อย ถ้าไม่มีเธอ เราคงทำไม่สำเร็จ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D08A3F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">These PPN-8s might as well be water pistols for all the good they do.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">PPN-8 พวกนี้ก็เหมือนปืนฉีดน้ำนั่นแหละ ใช้การอะไรไม่ได้เลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D08A52</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Getting sick of waiting for them to come to us.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เบื่อที่จะรอให้พวกมันเข้ามาหาเราแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0B5E5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ha! Yeah! One for the home team! </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฮ่า! ใช่! หนึ่งแต้มให้ทีมเจ้าบ้าน!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0B5EF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We won - and I'm still breathing. We're still breathing. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เราชนะแล้ว — และผมก็ยังหายใจอยู่ เรายังหายใจอยู่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0B5F8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What's next? I'm pumped! </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ต่อไปคืออะไร? ผมพร้อมลุย!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0C81C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">And here I was thinking maybe Lady Luck had her back to us. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">และผมก็คิดว่าบางทีเทพีแห่งโชคอาจจะหันหลังให้เราซะแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0C82B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Well, she did, but only so we could take in the sweet, glorious curves of her ass!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อืม เธอทำแบบนั้นแหละ แต่ก็เพื่อให้เราได้ชื่นชมบั้นท้ายอันงดงามของเธอไงล่ะ!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0C8D8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Easy now. Step away from that door - it's dangerous.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ใจเย็นๆ ถอยห่างจากประตูนั้น — มันอันตราย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0C942</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You've done it now!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณทำสำเร็จแล้ว!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0C94D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Been dying to do this ever since I met you. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมอยากทำแบบนี้มาตลอดตั้งแต่เจอคุณ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0C95B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">This is for Teague and Remmer!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่เพื่อ Teague และ Remmer!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CA0E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Grats on getting the lifts working. Any luck with the escape pods, too? What happened with them?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ยินดีด้วยที่ลิฟต์ใช้งานได้แล้ว กระสวยหลบภัยล่ะ มีข่าวดีไหม? เกิดอะไรขึ้นกับพวกมัน?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CA1B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">With the lifts running, hell, maybe so can we.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ในเมื่อลิฟต์ใช้งานได้แล้ว บางทีเราก็อาจจะทำได้เหมือนกัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CA59</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Way to go, Morgan, good job. Er, sir. Good job, sir.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เยี่ยมมาก Morgan ทำได้ดีมาก เอ่อ ครับ ทำได้ดีมากครับ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CA64</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Way to go, Morgan, good job. Er, ma'am. Good job, ma'am.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เยี่ยมมาก Morgan ทำได้ดีมาก เอ่อ ค่ะ ทำได้ดีมากค่ะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CB27</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Sweet Mother of-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ให้ตายเถอะ-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CBA1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan's infected! Shoot him!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan ติดเชื้อ! ยิงเขาเลย!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CBAB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan's infected! Shoot her! </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan ติดเชื้อ! ยิงเธอเลย!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CE1D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">The plans could help, but even if we had the E.A.T.s set, having real guns would have been better.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แผนการอาจช่วยได้ แต่ถึงแม้เราจะติดตั้ง E.A.T.s แล้ว การมีปืนจริงก็ยังดีกว่า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CE29</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Any luck with the Eradicators? Would be a lot better than these cap guns TranStar assigned us.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มีข่าวดีเรื่อง Eradicators บ้างไหม? มันจะดีกว่าปืนของเล่นที่ TranStar มอบให้เรามากเลยนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CE69</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I thought I had a can-do attitude... but after getting past the Typhon, and recovering the plans... now we have real firepower. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมคิดว่าผมมีทัศนคติที่พร้อมทำทุกอย่าง... แต่หลังจากผ่าน Typhon มาได้ และกู้แผนการกลับมาได้... ตอนนี้เรามีอำนาจการยิงที่แท้จริงแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CE73</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Are you going to let us do anything?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณจะปล่อยให้เราทำอะไรบ้างไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CE8C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I will never complain about TranStar managerial training again after what you did getting those turrets - whatever they teach you definitely works.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมจะไม่บ่นเรื่องการฝึกอบรมผู้บริหารของ TranStar อีกแล้ว หลังจากที่คุณทำเพื่อเอาป้อมปืนพวกนั้นมาได้—ไม่ว่าพวกเขาจะสอนอะไรคุณ มันได้ผลแน่นอน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CE98</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">These turrets are Eradicator class. Hope they live up to the name.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ป้อมปืนพวกนี้เป็นระดับ Eradicator หวังว่ามันจะสมชื่อนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0CFD3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">That was careless, opening the door like that. We locked ourselves in because it wasn't safe.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นั่นมันประมาทมาก ที่เปิดประตูแบบนั้น เราขังตัวเองไว้ข้างในเพราะมันไม่ปลอดภัย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D016</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What were you thinking, sir, opening the main door. All the other deaths not enough for you?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณคิดอะไรอยู่ครับท่าน ที่เปิดประตูหลัก การตายของคนอื่นยังไม่พอสำหรับคุณอีกหรือไง?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D024</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What were you thinking, ma'am, opening the main door. All the other deaths not enough for you?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณคิดอะไรอยู่ครับคุณผู้หญิง ที่เปิดประตูหลัก การตายของคนอื่นยังไม่พอสำหรับคุณอีกหรือไง?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D0FE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Who invited that TranStar commander to the party? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ใครเชิญผู้บัญชาการ TranStar คนนั้นมางานเลี้ยง?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D108</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Didn't realize they were holding an Asshole Convention on Talos, but maybe only Commander Dahl got the invite.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่รู้เลยว่าพวกเขากำลังจัดงานประชุมคนงี่เง่าบน Talos แต่บางทีอาจมีแค่ Commander Dahl ที่ได้รับเชิญ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D14C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Can't wait to do the same thing to Commander Dahl - we'll see how he likes it.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แทบรอไม่ไหวที่จะทำแบบเดียวกันกับ Commander Dahl—เราจะได้เห็นว่าเขาจะชอบมันแค่ไหน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D15C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">When I catch the Commander, my pistol and him are going to have... words.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เมื่อผมจับ Commander ได้ ปืนพกของผมกับเขาจะต้อง... คุยกันหน่อย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D168</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">When I find Dahl, it won't be a question of who shot first, trust me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เมื่อผมเจอ Dahl มันจะไม่ใช่คำถามว่าใครยิงก่อน เชื่อผมเถอะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D199</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Wish you'd let me have a shot at Dahl - but you seem like the type that doesn't leave a job half-finished.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หวังว่าคุณจะให้ผมได้จัดการ Dahl บ้าง—แต่คุณดูเหมือนคนที่ไม่ทิ้งงานค้างคา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D1AE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I hope Dahl was begging for his life at the end. Like a true TranStar officer. Except the Chief, of course.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมหวังว่า Dahl จะอ้อนวอนขอชีวิตตอนจบ เหมือนเจ้าหน้าที่ TranStar แท้ๆ ยกเว้น Chief แน่นอน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D1FF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Heard you got to Mika. Er, Chief Ilyushin. Guess nothing bars the way when it's someone you care about, huh?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ได้ยินว่าคุณไปหา Mika ได้ เอ่อ, Chief Ilyushin คงไม่มีอะไรขวางทางได้เมื่อเป็นคนที่คุณห่วงใยใช่ไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D20D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mika all right? She sounded in trouble there during the last communication.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mika เป็นไงบ้าง? เธอฟังดูมีปัญหาตอนสื่อสารครั้งล่าสุด</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D247</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Going to have a keep a watch on Igwe - he stirred up some of the organisms getting here, might do it again.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ต้องคอยจับตาดู Igwe ไว้—เขาทำให้สิ่งมีชีวิตบางอย่างตื่นตัวตอนมาถึงที่นี่ อาจทำอีกก็ได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D252</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We did a check of all Igwe's equipment - all genuine, no organic matter. He's clean. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เราตรวจสอบอุปกรณ์ทั้งหมดของ Igwe แล้ว—ของแท้ทั้งหมด ไม่มีสารอินทรีย์ เขาบริสุทธิ์</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D298</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Thanks for saving Rani. She's been telling us... well, I can't believe what's she's been telling us. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ขอบคุณที่ช่วย Rani ไว้ เธอเล่าให้เราฟัง... เอ่อ, ผมไม่อยากจะเชื่อเลยว่าเธอเล่าอะไรให้เราฟัง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D2CD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Escape pods are shot, so looks like this is our last stand.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">กระสวยหลบภัยถูกทำลาย ดูเหมือนนี่จะเป็นการต่อสู้ครั้งสุดท้ายของเรา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D2E2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Remmer and Teague gave their lives, the least I can do is the same.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Remmer กับ Teague สละชีวิตของพวกเขา อย่างน้อยที่สุดผมก็ควรทำเช่นเดียวกัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D2ED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If there's no way out of here, then I'm going to make every bullet count.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้าไม่มีทางออกไปจากที่นี่ ผมจะใช้กระสุนทุกนัดให้คุ้มค่า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D2F8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We can't take the chance of these things getting off the station. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เราเสี่ยงไม่ได้ที่จะปล่อยให้พวกมันหลุดออกไปจากสถานี</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D3CF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Wiggy - I mean, Dr. Igwe... was able to make his way through... </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Wiggy—ผมหมายถึง, ดร. Igwe... สามารถผ่านไปได้...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D3F9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...so I guess they're not after our brains... </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...งั้นผมเดาว่าพวกมันไม่ได้ต้องการสมองของเรา...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D409</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">but we've had to seal the main door to protect ourselves. Get up to the catwalk, we'll get you inside.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แต่เราต้องปิดผนึกประตูหลักเพื่อป้องกันตัวเอง ขึ้นไปที่ทางเดินยกระดับ เราจะพาคุณเข้าไปข้างใน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D519</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Holy shit. Remind me never to cross you - you killed them all. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">บ้าจริง เตือนผมด้วยว่าอย่าไปขวางทางคุณ—คุณฆ่าพวกมันทั้งหมดเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D733</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Uh, let me open the door... sir.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เอ่อ, ให้ผมเปิดประตู... ครับท่าน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956D0D73F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Uh, let me open the door... ma'am.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เอ่อ, ให้ผมเปิดประตู... ครับคุณผู้หญิง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956E3291E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please help us! Air is running... out...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ช่วยเราด้วย! อากาศกำลังจะ... หมด...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D528956E32952</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You did it! Let me open this door!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณทำได้แล้ว! ให้ผมเปิดประตูนี้!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57223A2A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Josh? What the hell is this? I got a security request saying to- (Frustrated Sigh) Not funny, asshole.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Josh? นี่มันอะไรกันเนี่ย? ผมได้รับคำขอรักษาความปลอดภัยที่บอกให้—ไม่ตลกเลยนะ ไอ้บ้า</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57223B7B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">That's what this is about? I'm senior on the Blackbox project, Josh. That's how it works here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">นี่คือเรื่องทั้งหมดเหรอ? ผมเป็นหัวหน้าโครงการ Blackbox นะ Josh ที่นี่มันเป็นแบบนี้แหละ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57223BB1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If you weren't such a pisspoor team player you'd understand that.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้าคุณไม่ใช่คนที่ไม่รู้จักทำงานเป็นทีมขนาดนี้ คุณก็จะเข้าใจ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57223BF8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">And by the way, I had to fix a bunch of your calculations so it's not y-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แล้วก็อีกอย่าง ผมต้องแก้ไขการคำนวณของคุณไปเยอะเลย ดังนั้นมันไม่ใช่ย-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57223C19</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Seriously? You're recording this? (Laughs) Is uh... is this a big sting operation, Josh? Are you going to hand me over to the DA?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">จริงจังเหรอ? คุณกำลังบันทึกเรื่องนี้อยู่เหรอ? นี่มัน... นี่คือปฏิบัติการลับครั้งใหญ่เหรอ Josh? คุณจะส่งผมให้ DA เหรอ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57223C40</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You're so pathetic. I'm done here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณมันน่าสมเพชจริงๆ ผมพอแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57223C5E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Josh. What are you doing? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Josh คุณกำลังทำอะไร?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57223CA4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I swear to God, if you don't put that down I will rip it out of your sweaty hands and Josh! (Sounds of Energy Beams Firing)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมสาบานต่อพระเจ้า ถ้าคุณไม่วางมันลง ผมจะกระชากมันออกจากมือที่เหงื่อออกของคุณ และ Josh!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E572765EC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mathias, please. Forgive me, but your name is "Sarai" in the file-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mathias ได้โปรด ขออภัยด้วย แต่ชื่อของคุณในไฟล์คือ &quot;Sarai&quot;-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57276623</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We've discussed your mother.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เราคุยเรื่องแม่ของคุณไปแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57276644</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">And you're better now? Not restless?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แล้วตอนนี้คุณดีขึ้นแล้วใช่ไหม? ไม่กระสับกระส่ายแล้วใช่ไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57276661</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Because your last tour of duty was the Evacuation, and reports from there-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เพราะภารกิจสุดท้ายของคุณคือการอพยพ และรายงานจากที่นั่น-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57276684</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yes... tragic. Still, to lose soldiers under your command...  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ใช่... น่าเศร้า ถึงอย่างนั้น การสูญเสียทหารภายใต้การบังคับบัญชาของคุณ...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A37B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mr. Yu, please make yourself comfortable and we'll be on our way.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณ Yu เชิญนั่งตามสบาย แล้วเราจะออกเดินทางกัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A384</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TranStar facility is just a short hop. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">สถานี TranStar อยู่ใกล้แค่นิดเดียว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A38C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Seventy-eight degrees. Clear skies all the way.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เจ็ดสิบแปดองศา ท้องฟ้าโปร่งตลอดทาง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A3AB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">That's a nice view on the bay there.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">วิวอ่าวตรงนั้นสวยดีนะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A3B1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Your brother, he said not to take the scenic route, but... hell, up here it's all scenic route.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">พี่ชายของคุณบอกว่าอย่าไปทางชมวิว แต่... ให้ตายเถอะ ข้างบนนี้มันก็เป็นทางชมวิวทั้งหมดแหละ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A3BC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Helps keep things in perspective. Seeing the big picture. Know what I mean?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ช่วยให้มองเห็นภาพรวม เห็นภาพใหญ่ เข้าใจที่ผมพูดใช่ไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A3CA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Anyway.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เอาเถอะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A3E5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Here we are, Mr. Yu.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถึงแล้วครับ คุณ Yu</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A3ED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mind the glass on the way out. Good luck to you. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ระวังกระจกตอนออกไปด้วยนะครับ ขอให้โชคดี</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A408</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Here we are, Ms. Yu.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถึงแล้วครับ คุณ Yu</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A458</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hope you don't mind me saying so, but... it's an honor to have you aboard. Your work with Operator AI. It's inspired if you ask me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">หวังว่าคุณจะไม่ว่าอะไรที่ผมพูดแบบนี้นะครับ แต่... เป็นเกียรติมากที่ได้คุณมาร่วมงาน ผลงานของคุณเกี่ยวกับ Operator AI มันเป็นแรงบันดาลใจเลยถ้าคุณถามผม</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A45F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I can't pretend to understand half the neuroscience stuff you do. It's a black box to me. I just appreciate the results. Big fan.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมแกล้งทำเป็นเข้าใจเรื่องประสาทวิทยาที่คุณทำได้ไม่ถึงครึ่งหรอก มันเป็น Black Box สำหรับผมเลย ผมแค่ชื่นชมผลลัพธ์ เป็นแฟนตัวยงเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5744A482</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ms. Yu, please make yourself comfortable and we'll be on our way.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณ Yu เชิญนั่งตามสบาย แล้วเราจะออกเดินทางกัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579AA9F1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Alex! I figured it out. Just... too late.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Alex! ผมคิดออกแล้ว แต่... สายเกินไปแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579AAEEE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">The receptor molecules, exotic neurotransmitters... we didn't synthesize them. And... and there's is no terrestrial source!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โมเลกุลตัวรับ, สารสื่อประสาทแปลกๆ... เราไม่ได้สังเคราะห์มันขึ้นมา และ... และมันไม่มีแหล่งกำเนิดบนโลก!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579AAF45</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We've been... shoving it into our skulls. It all comes from them. But you... you never -</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เราเอาแต่... ยัดมันเข้ากะโหลกของเรา ทั้งหมดมาจากพวกมัน แต่คุณ... คุณไม่เคย-</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E579AAFAF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I need to get this out now... Oh god but - the Neuromods. They can still be fabricated...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ผมต้องเอาเรื่องนี้ออกไปเดี๋ยวนี้... โอ้พระเจ้า แต่—Neuromods พวกมันยังสามารถผลิตได้...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5820B563</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You left yourself a message. Would you like to listen to it?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณทิ้งข้อความไว้ให้ตัวเอง คุณต้องการฟังมันไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5820B5ED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You agreed to this. This was all your idea. Yours and Alex's.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณตกลงเรื่องนี้แล้ว นี่เป็นความคิดของคุณทั้งหมด ของคุณและของ Alex</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

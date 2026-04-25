@@ -1,0 +1,26 @@
+# API key — NEVER commit
+.env
+
+# Translation runtime state / logs (regenerated)
+_translation_state.json
+translate.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+venv/
+.venv/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Backups / scratch
+*.bak
+*.tmp
+*.orig
