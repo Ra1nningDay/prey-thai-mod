@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -24,7 +24,7 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
@@ -49,7 +49,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129891632620</Data></Cell>
     <Cell><Data ss:Type="String">Penny Tennyson's Itinerary.&lt;br&gt;04:00 Crew Quarters. &lt;br&gt;08:00 Lobby. &lt;br&gt;12:00 Deep Storage. &lt;br&gt;18:00 Life Support. &lt;br&gt;22:00 Power Plant.</Data></Cell>
-    <Cell><Data ss:Type="String">กำหนดการของ Penny Tennyson<br>04:00 น. Crew Quarters<br>08:00 น. Lobby<br>12:00 น. Deep Storage<br>18:00 น. Life Support<br>22:00 น. Power Plant</Data></Cell>
+    <Cell><Data ss:Type="String">กำหนดการของ Penny Tennyson&lt;br&gt;04:00 น. Crew Quarters&lt;br&gt;08:00 น. Lobby&lt;br&gt;12:00 น. Deep Storage&lt;br&gt;18:00 น. Life Support&lt;br&gt;22:00 น. Power Plant</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>

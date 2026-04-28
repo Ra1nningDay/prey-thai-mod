@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -33,19 +33,19 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
   </Style>
   <Style ss:ID="s26" ss:Name="Good">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/&gt;
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s62" ss:Name="Normal 2">
    <Alignment ss:Vertical="Bottom"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
@@ -59,7 +59,7 @@
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
   </Style>
   <Style ss:ID="s66">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
@@ -73,7 +73,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s68">
@@ -84,7 +84,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s69">
@@ -94,7 +94,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#666699" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s70">
@@ -105,7 +105,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#666699" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s72">
@@ -126,7 +126,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s75">
@@ -149,7 +149,7 @@
   <Style ss:ID="s81" ss:Parent="s26">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Bold="1"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Bold="1"/&gt;
    <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s83" ss:Parent="s26">
@@ -157,20 +157,20 @@
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Bold="1"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Bold="1"/&gt;
    <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s84">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
   </Style>
   <Style ss:ID="s85">
    <Alignment ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
@@ -180,7 +180,7 @@
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/&gt;
    <Interior ss:Color="#F4B084" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s87">
@@ -193,25 +193,25 @@
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"
-    ss:Bold="1"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"
+    ss:Bold="1"/&gt;
   </Style>
   <Style ss:ID="s89">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/&gt;
   </Style>
   <Style ss:ID="s90" ss:Parent="s26">
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"
-    ss:Bold="1"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"
+    ss:Bold="1"/&gt;
   </Style>
   <Style ss:ID="s91">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/&gt;
   </Style>
   <Style ss:ID="s92">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
@@ -219,21 +219,21 @@
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
   </Style>
   <Style ss:ID="s93">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
   </Style>
   <Style ss:ID="s94">
    <Alignment ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
@@ -241,7 +241,7 @@
   <Style ss:ID="s95">
    <Alignment ss:Vertical="Top"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
@@ -258,13 +258,13 @@
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
      ss:Color="#A5A5A5"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/&gt;
   </Style>
   <Style ss:ID="s97">
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/&gt;
    <Interior ss:Color="#F4B084" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s98">
@@ -273,19 +273,19 @@
   <Style ss:ID="s99">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
   </Style>
   <Style ss:ID="s100">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9" ss:Color="#000000"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Size="9" ss:Color="#000000"/&gt;
   </Style>
   <Style ss:ID="s101">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
@@ -302,7 +302,7 @@
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
      ss:Color="#A5A5A5"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/&gt;
    <Interior/>
   </Style>
   <Style ss:ID="s104" ss:Parent="s62">
@@ -313,7 +313,7 @@
   <Style ss:ID="s105" ss:Parent="s62">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
@@ -321,7 +321,7 @@
   <Style ss:ID="s106" ss:Parent="s62">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
   </Style>
   <Style ss:ID="s108">
@@ -336,7 +336,7 @@
   </Style>
   <Style ss:ID="s110">
    <Alignment ss:Vertical="Center"/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/&gt;
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
@@ -358,7 +358,7 @@
     <Cell ss:StyleID="s69"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">This contains original text meant for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">This contains text for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line.</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">ข้อความนี้มีไว้สำหรับคำบรรยาย ใช้สำนวนบรรยายเช่น <เสียงหัวเราะอย่างบ้าคลั่ง> และ ## สำหรับขึ้นบรรทัดใหม่</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ข้อความนี้มีไว้สำหรับคำบรรยาย ใช้สำนวนบรรยายเช่น &lt;เสียงหัวเราะอย่างบ้าคลั่ง&gt; และ ## สำหรับขึ้นบรรทัดใหม่</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">Character limit for translated text.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s72">
@@ -585,7 +585,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_arkhypopsiDesc</Data></Cell>
     <Cell><Data ss:Type="String">A psychostimulant that increases the psychic potential of an individual when injected.&lt;br&gt;&lt;br&gt;Restores %PSIRestored% Psi points.</Data></Cell>
-    <Cell><Data ss:Type="String">ยากระตุ้นจิตที่เพิ่มศักยภาพทาง Psi ของบุคคลเมื่อฉีดเข้าไป<br><br>ฟื้นฟูค่า Psi %PSIRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">ยากระตุ้นจิตที่เพิ่มศักยภาพทาง Psi ของบุคคลเมื่อฉีดเข้าไป&lt;br&gt;&lt;br&gt;ฟื้นฟูค่า Psi %PSIRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -597,7 +597,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_medkitDesc</Data></Cell>
     <Cell><Data ss:Type="String">An auto-diagnosing first aid kit to recover from minor injuries.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">ชุดปฐมพยาบาลวินิจฉัยอัตโนมัติสำหรับฟื้นตัวจากอาการบาดเจ็บเล็กน้อย<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">ชุดปฐมพยาบาลวินิจฉัยอัตโนมัติสำหรับฟื้นตัวจากอาการบาดเจ็บเล็กน้อย&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -790,7 +790,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodbananaDesc</Data></Cell>
     <Cell><Data ss:Type="String">A pristine specimen engineered to thrive in conditions aboard Talos I and that never develops unsightly brown spots.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">กล้วยที่ได้รับการปรับปรุงสายพันธุ์ให้เติบโตได้ดีในสภาพแวดล้อมบน Talos I และไม่เคยมีจุดสีน้ำตาลที่ไม่น่าดู<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">กล้วยที่ได้รับการปรับปรุงสายพันธุ์ให้เติบโตได้ดีในสภาพแวดล้อมบน Talos I และไม่เคยมีจุดสีน้ำตาลที่ไม่น่าดู&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -802,7 +802,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodBananaBunchDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bunch of Sunburst bananas engineered to thrive in conditions aboard Talos I.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">กล้วย Sunburst หนึ่งหวีที่ได้รับการปรับปรุงสายพันธุ์ให้เติบโตได้ดีในสภาพแวดล้อมบน Talos I<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">กล้วย Sunburst หนึ่งหวีที่ได้รับการปรับปรุงสายพันธุ์ให้เติบโตได้ดีในสภาพแวดล้อมบน Talos I&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -814,19 +814,19 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodappleDesc</Data></Cell>
     <Cell><Data ss:Type="String">A shiny and crisp red apple engineered to thrive in conditions aboard Talos I.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">แอปเปิลสีแดงสดใสและกรอบที่ได้รับการปรับปรุงสายพันธุ์ให้เติบโตได้ดีในสภาพแวดล้อมบน Talos I<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">แอปเปิลสีแดงสดใสและกรอบที่ได้รับการปรับปรุงสายพันธุ์ให้เติบโตได้ดีในสภาพแวดล้อมบน Talos I&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">i_foodchampagne</Data></Cell>
     <Cell><Data ss:Type="String">Kings &amp; Way Sparkling Wine</Data></Cell>
-    <Cell><Data ss:Type="String">สปาร์คกลิ้งไวน์ Kings & Way</Data></Cell>
+    <Cell><Data ss:Type="String">สปาร์คกลิ้งไวน์ Kings &amp; Way</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodchampagneDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bottle of sparkling wine shipped to Talos I from Earthside.&lt;br&gt;&lt;br&gt;Restores health by %HealthRestored%. Cures fear.</Data></Cell>
-    <Cell><Data ss:Type="String">สปาร์คกลิ้งไวน์หนึ่งขวดที่ส่งมายัง Talos I จาก Earthside<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม รักษาอาการกลัว</Data></Cell>
+    <Cell><Data ss:Type="String">สปาร์คกลิ้งไวน์หนึ่งขวดที่ส่งมายัง Talos I จาก Earthside&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม รักษาอาการกลัว</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -838,7 +838,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodBourbonDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bottle of barrel-aged American whiskey shipped to Talos I from Earthside.&lt;br&gt;&lt;br&gt;Restores health by %HealthRestored%. Cures fear.</Data></Cell>
-    <Cell><Data ss:Type="String">วิสกี้อเมริกันบ่มถังหนึ่งขวดที่ส่งมายัง Talos I จาก Earthside<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม รักษาอาการกลัว</Data></Cell>
+    <Cell><Data ss:Type="String">วิสกี้อเมริกันบ่มถังหนึ่งขวดที่ส่งมายัง Talos I จาก Earthside&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม รักษาอาการกลัว</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -850,7 +850,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodDuckBeerDesc</Data></Cell>
     <Cell><Data ss:Type="String">A can of Duck brand beer shipped to Talos I from Earthside.&lt;br&gt;&lt;br&gt;Restores health by %HealthRestored%. Cures fear.</Data></Cell>
-    <Cell><Data ss:Type="String">เบียร์ยี่ห้อ Duck หนึ่งกระป๋องที่ส่งมายัง Talos I จาก Earthside<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม รักษาอาการกลัว</Data></Cell>
+    <Cell><Data ss:Type="String">เบียร์ยี่ห้อ Duck หนึ่งกระป๋องที่ส่งมายัง Talos I จาก Earthside&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม รักษาอาการกลัว</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -862,7 +862,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodGinDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bottle of dry juniper-flavored vodka in disguise.&lt;br&gt;&lt;br&gt;Restores health by %HealthRestored%. Cures fear.</Data></Cell>
-    <Cell><Data ss:Type="String">วอดก้ารสจูนิเปอร์แบบแห้งหนึ่งขวดที่ปลอมตัวมา<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม รักษาอาการกลัว</Data></Cell>
+    <Cell><Data ss:Type="String">วอดก้ารสจูนิเปอร์แบบแห้งหนึ่งขวดที่ปลอมตัวมา&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม รักษาอาการกลัว</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -874,7 +874,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodMoonShineDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bottle of TranStar Pomegrante Moonshine liqueur distilled on Talos I from Skyking pomegranates.&lt;br&gt;&lt;br&gt;Restores health by %HealthRestored%. Cures fear.</Data></Cell>
-    <Cell><Data ss:Type="String">เหล้าหวาน TranStar Pomegranate Moonshine หนึ่งขวดที่กลั่นบน Talos I จากทับทิม Skyking<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม รักษาอาการกลัว</Data></Cell>
+    <Cell><Data ss:Type="String">เหล้าหวาน TranStar Pomegranate Moonshine หนึ่งขวดที่กลั่นบน Talos I จากทับทิม Skyking&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม รักษาอาการกลัว</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -886,7 +886,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodBigBangCandyDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bag of Big Bang Candy.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">ลูกอม Big Bang หนึ่งถุง<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">ลูกอม Big Bang หนึ่งถุง&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -898,7 +898,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodGlucassistDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bag of emergency glucose.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">กลูโคสฉุกเฉินหนึ่งถุง<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">กลูโคสฉุกเฉินหนึ่งถุง&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -910,7 +910,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodSunDriedTomatoJerkyDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bag of vegan jerky made from Jamon Tomatoes.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">เนื้อแดดเดียวมังสวิรัติหนึ่งถุงที่ทำจากมะเขือเทศ Jamon<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">เนื้อแดดเดียวมังสวิรัติหนึ่งถุงที่ทำจากมะเขือเทศ Jamon&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -922,7 +922,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodVeggieBlendDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bag of Veggie Blend instant powdered drink mix.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">เครื่องดื่มผงสำเร็จรูป Veggie Blend หนึ่งถุง<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">เครื่องดื่มผงสำเร็จรูป Veggie Blend หนึ่งถุง&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -946,7 +946,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodBananaPuddingDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bowl of creamy banana pudding made from Sunburst bananas by TranStar Kitchens.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">พุดดิ้งกล้วยเนื้อครีมหนึ่งชามที่ทำจากกล้วย Sunburst โดย TranStar Kitchens<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">พุดดิ้งกล้วยเนื้อครีมหนึ่งชามที่ทำจากกล้วย Sunburst โดย TranStar Kitchens&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:Index="112" ss:AutoFitHeight="0" ss:Height="25.5"/>
@@ -959,7 +959,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodDimSumDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bowl of randomly selected dim sum by TranStar Kitchens. Every bowl is different. &lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">ติ่มซำที่สุ่มเลือกหนึ่งชามโดย TranStar Kitchens ทุกชามไม่ซ้ำกัน<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">ติ่มซำที่สุ่มเลือกหนึ่งชามโดย TranStar Kitchens ทุกชามไม่ซ้ำกัน&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s91">
@@ -981,7 +981,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s84">
     <Cell ss:StyleID="s64"><Data ss:Type="String">i_foodUdonNoodlePackDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bowl of dehydrated udon noodles by TranStar Kitchens. Read your fortune at the bottom of every bowl.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">บะหมี่อุด้งอบแห้งหนึ่งชามโดย TranStar Kitchens อ่านคำทำนายของคุณได้ที่ก้นชามทุกใบ<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">บะหมี่อุด้งอบแห้งหนึ่งชามโดย TranStar Kitchens อ่านคำทำนายของคุณได้ที่ก้นชามทุกใบ&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s84">
@@ -993,7 +993,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s84">
     <Cell ss:StyleID="s64"><Data ss:Type="String">i_foodBliniCakesDesc</Data></Cell>
     <Cell><Data ss:Type="String">A box of traditional Russian Blini Cakes by TranStar Kitchens.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">กล่อง Blini Cakes รัสเซียแบบดั้งเดิมโดย TranStar Kitchens<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">กล่อง Blini Cakes รัสเซียแบบดั้งเดิมโดย TranStar Kitchens&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s84">
@@ -1005,7 +1005,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s84">
     <Cell ss:StyleID="s64"><Data ss:Type="String">i_foodCrispyFritesDesc</Data></Cell>
     <Cell><Data ss:Type="String">A box of crispy freeze-dried frites sprinkled with spicy 'cosmic dust' by TranStar Kitchens.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">กล่อง Crispy Frites อบแห้งกรอบโรยด้วย &apos;ผงคอสมิก&apos; รสเผ็ดโดย TranStar Kitchens<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">กล่อง Crispy Frites อบแห้งกรอบโรยด้วย &apos;ผงคอสมิก&apos; รสเผ็ดโดย TranStar Kitchens&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s84">
@@ -1017,7 +1017,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s84">
     <Cell ss:StyleID="s64"><Data ss:Type="String">i_foodFishSticksDesc</Data></Cell>
     <Cell><Data ss:Type="String">A box of Captain Spree's Fish Sticks by TranStar Kitchens. Made with 100% Skeksis Eel meat. &lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points and %PSIRestored% Psi points.</Data></Cell>
-    <Cell><Data ss:Type="String">กล่อง Fish Sticks ของ Captain Spree โดย TranStar Kitchens ทำจากเนื้อปลาไหล Skeksis 100%<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม และค่า Psi %PSIRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">กล่อง Fish Sticks ของ Captain Spree โดย TranStar Kitchens ทำจากเนื้อปลาไหล Skeksis 100%&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม และค่า Psi %PSIRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s84">
@@ -1029,7 +1029,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s84">
     <Cell ss:StyleID="s64"><Data ss:Type="String">i_foodLemonPieSliceDesc</Data></Cell>
     <Cell><Data ss:Type="String">A slice of Will Mitchell's homemade shaker lemon pie.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">พายมะนาว Shaker โฮมเมดของ Will Mitchell หนึ่งชิ้น<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">พายมะนาว Shaker โฮมเมดของ Will Mitchell หนึ่งชิ้น&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s84">
@@ -1049,7 +1049,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s84">
     <Cell ss:StyleID="s64"><Data ss:Type="String">i_foodSpiraliteCookiesDesc</Data></Cell>
     <Cell><Data ss:Type="String">A box of galaxy-shaped Spiralite cookies by TranStar Kitchens.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">กล่องคุกกี้ Spiralite รูปกาแล็กซีโดย TranStar Kitchens<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">กล่องคุกกี้ Spiralite รูปกาแล็กซีโดย TranStar Kitchens&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s84">
@@ -1061,7 +1061,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s84">
     <Cell ss:StyleID="s64"><Data ss:Type="String">i_foodGreenTeaDesc</Data></Cell>
     <Cell><Data ss:Type="String">A refreshing can of cold-brew green tea by TranStar Kitchens.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">ชาเขียวสกัดเย็นกระป๋องสดชื่นโดย TranStar Kitchens<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">ชาเขียวสกัดเย็นกระป๋องสดชื่นโดย TranStar Kitchens&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s84">
@@ -1073,7 +1073,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s84">
     <Cell ss:StyleID="s64"><Data ss:Type="String">i_foodPopStarDesc</Data></Cell>
     <Cell><Data ss:Type="String">A can of PopStar energy drink by TranStar Kitchens.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">เครื่องดื่มชูกำลัง PopStar หนึ่งกระป๋องโดย TranStar Kitchens<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">เครื่องดื่มชูกำลัง PopStar หนึ่งกระป๋องโดย TranStar Kitchens&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s84">
@@ -1093,7 +1093,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s84">
     <Cell ss:StyleID="s64"><Data ss:Type="String">i_foodLemonDesc</Data></Cell>
     <Cell><Data ss:Type="String">A lemon engineered to thrive in conditions aboard Talos I.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">มะนาวที่ได้รับการปรับปรุงสายพันธุ์ให้เติบโตได้ดีในสภาพแวดล้อมบน Talos I<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">มะนาวที่ได้รับการปรับปรุงสายพันธุ์ให้เติบโตได้ดีในสภาพแวดล้อมบน Talos I&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s84">
@@ -1105,7 +1105,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s84">
     <Cell ss:StyleID="s64"><Data ss:Type="String">i_foodTomatoDesc</Data></Cell>
     <Cell><Data ss:Type="String">A tomato engineered to taste like Iberian cured ham and thrive in conditions aboard Talos I.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">มะเขือเทศที่ได้รับการปรับปรุงสายพันธุ์ให้มีรสชาติเหมือนแฮมบ่มแบบไอบีเรีย และเติบโตได้ดีในสภาพแวดล้อมบน Talos I<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">มะเขือเทศที่ได้รับการปรับปรุงสายพันธุ์ให้มีรสชาติเหมือนแฮมบ่มแบบไอบีเรีย และเติบโตได้ดีในสภาพแวดล้อมบน Talos I&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s84">
@@ -1117,7 +1117,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s84">
     <Cell ss:StyleID="s64"><Data ss:Type="String">i_foodBluePomegranateDesc</Data></Cell>
     <Cell><Data ss:Type="String">A blue pomegranate engineered to thrive in conditions aboard Talos I.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">ทับทิมสีน้ำเงินที่ได้รับการปรับปรุงสายพันธุ์ให้เติบโตได้ดีในสภาพแวดล้อมบน Talos I<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">ทับทิมสีน้ำเงินที่ได้รับการปรับปรุงสายพันธุ์ให้เติบโตได้ดีในสภาพแวดล้อมบน Talos I&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s84">
@@ -1129,7 +1129,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s84">
     <Cell ss:StyleID="s64"><Data ss:Type="String">i_foodCaviarDesc</Data></Cell>
     <Cell><Data ss:Type="String">A tin of fine Caspian caviar shipped from Earthside.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">ไข่ปลาคาเวียร์แคสเปียนชั้นดีหนึ่งกระป๋องที่ส่งมาจาก Earthside<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">ไข่ปลาคาเวียร์แคสเปียนชั้นดีหนึ่งกระป๋องที่ส่งมาจาก Earthside&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s84">
@@ -1141,7 +1141,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s91">
     <Cell ss:StyleID="s92"><Data ss:Type="String">i_foodJelliedEelsDesc</Data></Cell>
     <Cell ss:StyleID="s93"><Data ss:Type="String">A tin of jellied Siskak Eels.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points and %PSIRestored% Psi points.</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">ปลาไหล Siskak ในเยลลี่หนึ่งกระป๋อง<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม และค่า Psi %PSIRestored% แต้ม</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">ปลาไหล Siskak ในเยลลี่หนึ่งกระป๋อง&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม และค่า Psi %PSIRestored% แต้ม</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s91">
@@ -1165,7 +1165,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodSkeksisUnagiRollzDesc</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">A box of frozen unagi rolls by TranStar Kitchens. Made with 100% Siskak Eel meat.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points and %PSIRestored% Psi points.</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">กล่อง Unagi Rollz แช่แข็งโดย TranStar Kitchens ทำจากเนื้อปลาไหล Siskak 100%<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม และค่า Psi %PSIRestored% แต้ม</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">กล่อง Unagi Rollz แช่แข็งโดย TranStar Kitchens ทำจากเนื้อปลาไหล Siskak 100%&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม และค่า Psi %PSIRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -1177,7 +1177,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodKafeKarskDesc</Data></Cell>
     <Cell><Data ss:Type="String">A can of Kafe Karsk by TranStar Kitchens.&lt;br&gt;&lt;br&gt;Restores %HealthRestored% health points.</Data></Cell>
-    <Cell><Data ss:Type="String">Kafe Karsk หนึ่งกระป๋องโดย TranStar Kitchens<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
+    <Cell><Data ss:Type="String">Kafe Karsk หนึ่งกระป๋องโดย TranStar Kitchens&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -1189,7 +1189,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_foodVodkaDesc</Data></Cell>
     <Cell><Data ss:Type="String">A bottle of vodka triple-distilled from potatoes grown in lunar soil and shipped to Talos I.&lt;br&gt;&lt;br&gt;Restores health by %HealthRestored%. Cures fear.</Data></Cell>
-    <Cell><Data ss:Type="String">วอดก้าหนึ่งขวดที่กลั่นสามครั้งจากมันฝรั่งที่ปลูกในดินดวงจันทร์และส่งมายัง Talos I<br><br>ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม รักษาอาการกลัว</Data></Cell>
+    <Cell><Data ss:Type="String">วอดก้าหนึ่งขวดที่กลั่นสามครั้งจากมันฝรั่งที่ปลูกในดินดวงจันทร์และส่งมายัง Talos I&lt;br&gt;&lt;br&gt;ฟื้นฟูพลังชีวิต %HealthRestored% แต้ม รักษาอาการกลัว</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
@@ -1841,7 +1841,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="51">
     <Cell ss:StyleID="s85"><Data ss:Type="String">i_weaponshotgunDesc</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">Throne S4 Tactical Pump Shotgun is designed to be used by security forces for maximum efficacy in close quarters.&lt;br&gt;&lt;br&gt;Firepower: %finaldamage% (Unmodified: %basedamage%)</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String">ปืนลูกซอง Throne S4 Tactical Pump Shotgun ได้รับการออกแบบมาเพื่อใช้โดยเจ้าหน้าที่รักษาความปลอดภัย เพื่อประสิทธิภาพสูงสุดในการต่อสู้ระยะประชิด<br><br>อำนาจการยิง: %finaldamage% (ไม่ปรับแต่ง: %basedamage%)</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">ปืนลูกซอง Throne S4 Tactical Pump Shotgun ได้รับการออกแบบมาเพื่อใช้โดยเจ้าหน้าที่รักษาความปลอดภัย เพื่อประสิทธิภาพสูงสุดในการต่อสู้ระยะประชิด&lt;br&gt;&lt;br&gt;อำนาจการยิง: %finaldamage% (ไม่ปรับแต่ง: %basedamage%)</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -1866,7 +1866,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell><Data ss:Type="String">i_weaponinstalaserDesc</Data></Cell>
     <Cell><Data ss:Type="String">The TS-QPB-S11 Quasiparticle Beam is a prototype directed energy weapon. A stream of volatile quasiparticles causes rapidly cascading excitations in energetic systems of matter to the point of rupture.&lt;br&gt;&lt;br&gt;Kilowatts: %finaldamage% (Unmodified: %basedamage%)&lt;br&gt;&lt;br&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">TS-QPB-S11 Quasiparticle Beam เป็นอาวุธพลังงานนำวิถีต้นแบบ กระแสของอนุภาคกึ่งเสถียรที่ระเหยง่าย ทำให้เกิดการกระตุ้นที่เพิ่มขึ้นอย่างรวดเร็วในระบบพลังงานของสสารจนถึงจุดแตกหัก<br><br>กิโลวัตต์: %finaldamage% (ไม่ปรับแต่ง: %basedamage%)<br><br></Data></Cell>
+    <Cell><Data ss:Type="String">TS-QPB-S11 Quasiparticle Beam เป็นอาวุธพลังงานนำวิถีต้นแบบ กระแสของอนุภาคกึ่งเสถียรที่ระเหยง่าย ทำให้เกิดการกระตุ้นที่เพิ่มขึ้นอย่างรวดเร็วในระบบพลังงานของสสารจนถึงจุดแตกหัก&lt;br&gt;&lt;br&gt;กิโลวัตต์: %finaldamage% (ไม่ปรับแต่ง: %basedamage%)&lt;br&gt;&lt;br&gt;</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -1878,7 +1878,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="36">
     <Cell><Data ss:Type="String">i_weaponwrenchDesc</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Hephaestus &quot;Heffy&quot; Twist and Loop Handle Industrial Wrench. A flexible and indispensable tool for various engineering jobs. Also an effective improvised bludgeon. &lt;br&gt;&lt;br&gt;Damage: %quickhitfinal%-%chargedhitfinal% (Unmodified: %quickhitbase%-%chargedhitbase%)</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">ประแจอุตสาหกรรม Hephaestus &quot;Heffy&quot; Twist and Loop Handle เครื่องมือที่ยืดหยุ่นและขาดไม่ได้สำหรับงานวิศวกรรมต่างๆ ยังเป็นกระบองชั่วคราวที่มีประสิทธิภาพอีกด้วย<br><br>ความเสียหาย: %quickhitfinal%-%chargedhitfinal% (ไม่ปรับแต่ง: %quickhitbase%-%chargedhitbase%)</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">ประแจอุตสาหกรรม Hephaestus &quot;Heffy&quot; Twist and Loop Handle เครื่องมือที่ยืดหยุ่นและขาดไม่ได้สำหรับงานวิศวกรรมต่างๆ ยังเป็นกระบองชั่วคราวที่มีประสิทธิภาพอีกด้วย&lt;br&gt;&lt;br&gt;ความเสียหาย: %quickhitfinal%-%chargedhitfinal% (ไม่ปรับแต่ง: %quickhitbase%-%chargedhitbase%)</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="51">
@@ -1936,7 +1936,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell><Data ss:Type="String">i_weaponpistoldesc</Data></Cell>
     <Cell ss:StyleID="s101"><Data ss:Type="String">Throne PPN light duty pistol fires 9mm rounds and features an integrated noise suppressor.&lt;br&gt;&lt;br&gt;Firepower: %finaldamage% (Unmodified: %basedamage%)&lt;br&gt;&lt;br&gt;</Data></Cell>
-    <Cell ss:StyleID="s101"><Data ss:Type="String">ปืนพก Throne PPN สำหรับงานเบา ใช้กระสุน 9 มม. และมีตัวเก็บเสียงในตัว<br><br>อำนาจการยิง: %finaldamage% (ไม่ปรับแต่ง: %basedamage%)<br><br></Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">ปืนพก Throne PPN สำหรับงานเบา ใช้กระสุน 9 มม. และมีตัวเก็บเสียงในตัว&lt;br&gt;&lt;br&gt;อำนาจการยิง: %finaldamage% (ไม่ปรับแต่ง: %basedamage%)&lt;br&gt;&lt;br&gt;</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -1948,7 +1948,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="51">
     <Cell><Data ss:Type="String">i_pistol_goldendesc</Data></Cell>
     <Cell><Data ss:Type="String">A gold-plated trophy pistol once belonging to the four-time world champion sport shooter, Seleth Rain. The champion visited Talos I to capture a connectome of his brain in the Neuromod Division. During his visit he was moved to present the pistol as a gift to Captain Jada Marks.&lt;br&gt;&lt;br&gt;Firepower: %finaldamage% (Unmodified: %basedamage%)&lt;br&gt;&lt;br&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">ปืนพกทองคำชุบทองที่เคยเป็นของ Seleth Rain แชมป์โลกยิงปืนกีฬา 4 สมัย แชมป์ผู้นี้ได้มาเยือน Talos I เพื่อบันทึกคอนเนกโตมในสมองของเขาที่ Neuromod Division ระหว่างการเยือน เขาได้มอบปืนพกนี้เป็นของขวัญให้แก่ Captain Jada Marks<br><br>อำนาจการยิง: %finaldamage% (ไม่ปรับแต่ง: %basedamage%)<br><br></Data></Cell>
+    <Cell><Data ss:Type="String">ปืนพกทองคำชุบทองที่เคยเป็นของ Seleth Rain แชมป์โลกยิงปืนกีฬา 4 สมัย แชมป์ผู้นี้ได้มาเยือน Talos I เพื่อบันทึกคอนเนกโตมในสมองของเขาที่ Neuromod Division ระหว่างการเยือน เขาได้มอบปืนพกนี้เป็นของขวัญให้แก่ Captain Jada Marks&lt;br&gt;&lt;br&gt;อำนาจการยิง: %finaldamage% (ไม่ปรับแต่ง: %basedamage%)&lt;br&gt;&lt;br&gt;</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:Index="292" ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s89">
@@ -3234,13 +3234,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_ChipsetRecyclerLootBonusDesc</Data></Cell>
     <Cell><Data ss:Type="String">Your Game Master is proud of you! As a reward, you get the following:&lt;br&gt;Increased recycler yield&lt;br&gt;Increased wrench critical hit chance&lt;br&gt;A more efficient flashlight&lt;br&gt;Crawl through tight spaces more quickly&lt;br&gt;&lt;br&gt;Everything you need for a successful dungeon excursion.&lt;br&gt;- A. Foy</Data></Cell>
-    <Cell><Data ss:Type="String">เกมมาสเตอร์ของคุณภูมิใจในตัวคุณ! และนี่คือรางวัลที่คุณจะได้รับ:<br>ผลผลิตจาก Recycler เพิ่มขึ้น<br>โอกาสคริติคอลของประแจเพิ่มขึ้น<br>ไฟฉายมีประสิทธิภาพมากขึ้น<br>คลานผ่านช่องแคบได้เร็วขึ้น<br><br>ทุกสิ่งที่คุณต้องการสำหรับการสำรวจดันเจี้ยนที่ประสบความสำเร็จ<br>- A. Foy</Data></Cell>
+    <Cell><Data ss:Type="String">เกมมาสเตอร์ของคุณภูมิใจในตัวคุณ! และนี่คือรางวัลที่คุณจะได้รับ:&lt;br&gt;ผลผลิตจาก Recycler เพิ่มขึ้น&lt;br&gt;โอกาสคริติคอลของประแจเพิ่มขึ้น&lt;br&gt;ไฟฉายมีประสิทธิภาพมากขึ้น&lt;br&gt;คลานผ่านช่องแคบได้เร็วขึ้น&lt;br&gt;&lt;br&gt;ทุกสิ่งที่คุณต้องการสำหรับการสำรวจดันเจี้ยนที่ประสบความสำเร็จ&lt;br&gt;- A. Foy</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">i_ChipsetRecyclerLootLimiterDesc</Data></Cell>
     <Cell><Data ss:Type="String">For shame, adventurer. Your reward for taking shortcuts in the treasure hunt is as follows:&lt;br&gt;Reduced recycler yield&lt;br&gt;Diminished flashlight capability&lt;br&gt;Reduced speed while crawling through tight spaces&lt;br&gt;&lt;br&gt;Install this as your penance and remember valor above all else.&lt;br&gt;- A. Foy</Data></Cell>
-    <Cell><Data ss:Type="String">น่าละอายใจนักผจญภัยเอ๋ย รางวัลของคุณสำหรับการใช้ทางลัดในการล่าสมบัติมีดังนี้:<br>ผลผลิตจาก Recycler ลดลง<br>ความสามารถของไฟฉายลดลง<br>ความเร็วในการคลานผ่านช่องแคบลดลง<br><br>ติดตั้งสิ่งนี้เพื่อเป็นการชดใช้ และจงจำไว้ว่าความกล้าหาญสำคัญเหนือสิ่งอื่นใด<br>- A. Foy</Data></Cell>
+    <Cell><Data ss:Type="String">น่าละอายใจนักผจญภัยเอ๋ย รางวัลของคุณสำหรับการใช้ทางลัดในการล่าสมบัติมีดังนี้:&lt;br&gt;ผลผลิตจาก Recycler ลดลง&lt;br&gt;ความสามารถของไฟฉายลดลง&lt;br&gt;ความเร็วในการคลานผ่านช่องแคบลดลง&lt;br&gt;&lt;br&gt;ติดตั้งสิ่งนี้เพื่อเป็นการชดใช้ และจงจำไว้ว่าความกล้าหาญสำคัญเหนือสิ่งอื่นใด&lt;br&gt;- A. Foy</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -3513,7 +3513,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">i_ChipsetPSIAttackReflect</Data></Cell>
     <Cell><Data ss:Type="String">[O] Psi Reflect &gt;(*)&lt; rev609-1</Data></Cell>
-    <Cell><Data ss:Type="String">[O] Psi Reflect >(*)< rev609-1</Data></Cell>
+    <Cell><Data ss:Type="String">[O] Psi Reflect &gt;(*)&lt; rev609-1</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">

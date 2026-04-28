@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
@@ -22,7 +22,7 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders />
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/&gt;
    <Interior />
    <NumberFormat />
    <Protection />
@@ -105,7 +105,7 @@
      <Data ss:Type="String">Apparently Bellamy&apos;s corpse is in the Trauma Center and might still have the keycard to his cabin. &lt;br&gt;&lt;br&gt;After some digging around, I found that Bellamy&apos;s corpse is actually located in Psychotronics.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ดูเหมือนว่าศพของ Bellamy อยู่ใน Trauma Center และอาจจะยังคงมีคีย์การ์ดสำหรับห้องพักของเขาอยู่ <br><br>หลังจากที่ผมค้นหาดู ผมพบว่าศพของ Bellamy จริงๆ แล้วอยู่ใน Psychotronics</Data>
+     <Data ss:Type="String">ดูเหมือนว่าศพของ Bellamy อยู่ใน Trauma Center และอาจจะยังคงมีคีย์การ์ดสำหรับห้องพักของเขาอยู่ &lt;br&gt;&lt;br&gt;หลังจากที่ผมค้นหาดู ผมพบว่าศพของ Bellamy จริงๆ แล้วอยู่ใน Psychotronics</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>

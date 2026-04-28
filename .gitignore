@@ -24,3 +24,6 @@ Thumbs.db
 *.bak
 *.tmp
 *.orig
+
+# Other game pipelines live in their own repositories
+/dishonored/

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
@@ -20,7 +20,7 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders />
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/&gt;
    <Interior />
    <NumberFormat />
    <Protection />
@@ -106,7 +106,7 @@
      <Data ss:Type="String">The Psychotronics lab was built around the Russian &lt;i&gt;Vorona I&lt;/i&gt; satellite that first encountered the Typhon ecology in 1959.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ห้องแล็บ Psychotronics ถูกสร้างขึ้นรอบดาวเทียม <i>Vorona I</i> ของรัสเซีย ซึ่งเป็นครั้งแรกที่ได้พบกับระบบนิเวศของ Typhon ในปี 1959</Data>
+     <Data ss:Type="String">ห้องแล็บ Psychotronics ถูกสร้างขึ้นรอบดาวเทียม &lt;i&gt;Vorona I&lt;/i&gt; ของรัสเซีย ซึ่งเป็นครั้งแรกที่ได้พบกับระบบนิเวศของ Typhon ในปี 1959</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -123,7 +123,7 @@
      <Data ss:Type="String">The Gravity Utility Tunnel System, or G.U.T.S., is a microgravity environment used for maintenance and transporting cargo throughout the length of &lt;i&gt;Talos I&lt;/i&gt;.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ระบบท่อ Gravity Utility Tunnel System หรือ G.U.T.S. คือสภาพแวดล้อมไร้แรงโน้มถ่วงที่ใช้สำหรับการบำรุงรักษาและการขนส่งสินค้าตลอดความยาวของ <i>Talos I</i></Data>
+     <Data ss:Type="String">ระบบท่อ Gravity Utility Tunnel System หรือ G.U.T.S. คือสภาพแวดล้อมไร้แรงโน้มถ่วงที่ใช้สำหรับการบำรุงรักษาและการขนส่งสินค้าตลอดความยาวของ &lt;i&gt;Talos I&lt;/i&gt;</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -140,7 +140,7 @@
      <Data ss:Type="String">The Arboretum is a testament to both the technological and financial wealth of the TranStar corporation, providing an Earth-like environment for relaxation and reflection to &lt;i&gt;Talos I&lt;/i&gt; crew members.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">Arboretum เป็นเครื่องพิสูจน์ถึงความมั่งคั่งทั้งทางเทคโนโลยีและการเงินของบริษัท TranStar โดยมอบสภาพแวดล้อมคล้ายโลกสำหรับการพักผ่อนและใคร่ครวญแก่ลูกเรือ <i>Talos I</i></Data>
+     <Data ss:Type="String">Arboretum เป็นเครื่องพิสูจน์ถึงความมั่งคั่งทั้งทางเทคโนโลยีและการเงินของบริษัท TranStar โดยมอบสภาพแวดล้อมคล้ายโลกสำหรับการพักผ่อนและใคร่ครวญแก่ลูกเรือ &lt;i&gt;Talos I&lt;/i&gt;</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -174,7 +174,7 @@
      <Data ss:Type="String">Every bit of sensitive data generated aboard &lt;i&gt;Talos I&lt;/i&gt; is captured and backed up in Deep Storage.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ข้อมูลที่ละเอียดอ่อนทุกบิตที่สร้างขึ้นบน <i>Talos I</i> จะถูกบันทึกและสำรองไว้ใน Deep Storage</Data>
+     <Data ss:Type="String">ข้อมูลที่ละเอียดอ่อนทุกบิตที่สร้างขึ้นบน &lt;i&gt;Talos I&lt;/i&gt; จะถูกบันทึกและสำรองไว้ใน Deep Storage</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -191,7 +191,7 @@
      <Data ss:Type="String">&lt;i&gt;Talos I&lt;/i&gt; orbits the moon some 385,000 kilometers away from Earth. At 832 meters long, the &lt;i&gt;Talos I&lt;/i&gt; research facility is the largest known structure in space built by humankind.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><i>Talos I</i> โคจรรอบดวงจันทร์ห่างจากโลกประมาณ 385,000 กิโลเมตร ด้วยความยาว 832 เมตร สถานีวิจัย <i>Talos I</i> จึงเป็นโครงสร้างที่ใหญ่ที่สุดเท่าที่มนุษย์สร้างขึ้นในอวกาศ</Data>
+     <Data ss:Type="String">&lt;i&gt;Talos I&lt;/i&gt; โคจรรอบดวงจันทร์ห่างจากโลกประมาณ 385,000 กิโลเมตร ด้วยความยาว 832 เมตร สถานีวิจัย &lt;i&gt;Talos I&lt;/i&gt; จึงเป็นโครงสร้างที่ใหญ่ที่สุดเท่าที่มนุษย์สร้างขึ้นในอวกาศ</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -208,7 +208,7 @@
      <Data ss:Type="String">All supply shipments entering or leaving &lt;i&gt;Talos I&lt;/i&gt; must be processed through the Cargo Bay.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">การขนส่งเสบียงทั้งหมดที่เข้าหรือออกจาก <i>Talos I</i> จะต้องผ่าน Cargo Bay</Data>
+     <Data ss:Type="String">การขนส่งเสบียงทั้งหมดที่เข้าหรือออกจาก &lt;i&gt;Talos I&lt;/i&gt; จะต้องผ่าน Cargo Bay</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -225,7 +225,7 @@
      <Data ss:Type="String">The Life Support deck provides most of &lt;i&gt;Talos I&lt;/i&gt;&apos;s critical functions: power, air, and water treatment facilities. A failure of any one of these would prove catastrophic.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ดาดฟ้า Life Support ทำหน้าที่สำคัญส่วนใหญ่ของ <i>Talos I</i>: พลังงาน อากาศ และระบบบำบัดน้ำ หากระบบใดระบบหนึ่งล้มเหลว อาจนำไปสู่หายนะได้</Data>
+     <Data ss:Type="String">ดาดฟ้า Life Support ทำหน้าที่สำคัญส่วนใหญ่ของ &lt;i&gt;Talos I&lt;/i&gt;: พลังงาน อากาศ และระบบบำบัดน้ำ หากระบบใดระบบหนึ่งล้มเหลว อาจนำไปสู่หายนะได้</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -242,7 +242,7 @@
      <Data ss:Type="String">The Power Plant provides a clean and reliable source of fusion energy to &lt;i&gt;Talos I&lt;/i&gt;. Early models of the Superforge reactor experienced problems with stability and output, but are mostly resolved by careful maintenance and upkeep. Exterior solar panels provide auxiliary power.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">Power Plant เป็นแหล่งพลังงานฟิวชันที่สะอาดและเชื่อถือได้สำหรับ <i>Talos I</i> เตาปฏิกรณ์ Superforge รุ่นแรก ๆ มีปัญหาเรื่องความเสถียรและผลผลิต แต่ส่วนใหญ่ได้รับการแก้ไขแล้วด้วยการบำรุงรักษาอย่างระมัดระวัง แผงโซลาร์เซลล์ภายนอกให้พลังงานเสริม</Data>
+     <Data ss:Type="String">Power Plant เป็นแหล่งพลังงานฟิวชันที่สะอาดและเชื่อถือได้สำหรับ &lt;i&gt;Talos I&lt;/i&gt; เตาปฏิกรณ์ Superforge รุ่นแรก ๆ มีปัญหาเรื่องความเสถียรและผลผลิต แต่ส่วนใหญ่ได้รับการแก้ไขแล้วด้วยการบำรุงรักษาอย่างระมัดระวัง แผงโซลาร์เซลล์ภายนอกให้พลังงานเสริม</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -973,7 +973,7 @@
      <Data ss:Type="String">Friendly Operators can be summoned from the Operator Dispensers distributed throughout &lt;i&gt;Talos I&lt;/i&gt;.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">Operators ที่เป็นมิตรสามารถเรียกได้จาก Operator Dispensers ที่กระจายอยู่ทั่ว <i>Talos I</i></Data>
+     <Data ss:Type="String">Operators ที่เป็นมิตรสามารถเรียกได้จาก Operator Dispensers ที่กระจายอยู่ทั่ว &lt;i&gt;Talos I&lt;/i&gt;</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1279,7 +1279,7 @@
      <Data ss:Type="String">N-CN9 &lt;i&gt;Blackbox&lt;/i&gt; Operators employ powerful military-grade lasers. Disabling the Operators before they can fire or taking cover is your best bet. </Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">N-CN9 <i>Blackbox</i> Operators ใช้เลเซอร์เกรดทหารที่ทรงพลัง การปิดใช้งาน Operators ก่อนที่พวกมันจะยิง หรือการหาที่กำบังเป็นทางเลือกที่ดีที่สุดของคุณ</Data>
+     <Data ss:Type="String">N-CN9 &lt;i&gt;Blackbox&lt;/i&gt; Operators ใช้เลเซอร์เกรดทหารที่ทรงพลัง การปิดใช้งาน Operators ก่อนที่พวกมันจะยิง หรือการหาที่กำบังเป็นทางเลือกที่ดีที่สุดของคุณ</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1313,7 +1313,7 @@
      <Data ss:Type="String">The &lt;i&gt;Talos I&lt;/i&gt; Space Station generates a magnetic field which shields personnel from dangerous cosmic rays and solar winds.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">สถานีอวกาศ <i>Talos I</i> สร้างสนามแม่เหล็กที่ป้องกันบุคลากรจากรังสีคอสมิกที่เป็นอันตรายและลมสุริยะ</Data>
+     <Data ss:Type="String">สถานีอวกาศ &lt;i&gt;Talos I&lt;/i&gt; สร้างสนามแม่เหล็กที่ป้องกันบุคลากรจากรังสีคอสมิกที่เป็นอันตรายและลมสุริยะ</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1449,7 +1449,7 @@
      <Data ss:Type="String">&lt;i&gt;Talos I&lt;/i&gt; was designed to rival the wonders of the world and stand as a monument to TranStar&apos;s wealth and technological innovation.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><i>Talos I</i> ได้รับการออกแบบมาเพื่อทัดเทียมสิ่งมหัศจรรย์ของโลก และเป็นอนุสรณ์แห่งความมั่งคั่งและนวัตกรรมทางเทคโนโลยีของ TranStar</Data>
+     <Data ss:Type="String">&lt;i&gt;Talos I&lt;/i&gt; ได้รับการออกแบบมาเพื่อทัดเทียมสิ่งมหัศจรรย์ของโลก และเป็นอนุสรณ์แห่งความมั่งคั่งและนวัตกรรมทางเทคโนโลยีของ TranStar</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1466,7 +1466,7 @@
      <Data ss:Type="String">The &lt;i&gt;Kletka&lt;/i&gt; was the result of a joint U.S./Soviet effort during the Space Race and went on to form the dark core of &lt;i&gt;Talos I&lt;/i&gt;.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><i>Kletka</i> เป็นผลมาจากความพยายามร่วมกันของสหรัฐฯ/โซเวียตในช่วง Space Race และได้กลายเป็นแกนกลางอันมืดมิดของ <i>Talos I</i></Data>
+     <Data ss:Type="String">&lt;i&gt;Kletka&lt;/i&gt; เป็นผลมาจากความพยายามร่วมกันของสหรัฐฯ/โซเวียตในช่วง Space Race และได้กลายเป็นแกนกลางอันมืดมิดของ &lt;i&gt;Talos I&lt;/i&gt;</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1568,7 +1568,7 @@
      <Data ss:Type="String">&lt;i&gt;Talos I&lt;/i&gt; is home to hundreds of the world&apos;s best scientists and innovators.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><i>Talos I</i> เป็นที่ตั้งของนักวิทยาศาสตร์และนักนวัตกรรมที่ดีที่สุดในโลกหลายร้อยคน</Data>
+     <Data ss:Type="String">&lt;i&gt;Talos I&lt;/i&gt; เป็นที่ตั้งของนักวิทยาศาสตร์และนักนวัตกรรมที่ดีที่สุดในโลกหลายร้อยคน</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1602,7 +1602,7 @@
      <Data ss:Type="String">Many of &lt;i&gt;Talos I&lt;/i&gt;&apos;s resources are manufactured and shipped from the moon.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ทรัพยากรจำนวนมากของ <i>Talos I</i> ผลิตและจัดส่งมาจากดวงจันทร์</Data>
+     <Data ss:Type="String">ทรัพยากรจำนวนมากของ &lt;i&gt;Talos I&lt;/i&gt; ผลิตและจัดส่งมาจากดวงจันทร์</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1619,7 +1619,7 @@
      <Data ss:Type="String">The Typhon were first discovered when mimics damaged the Soviet satellite, &lt;i&gt;Vorona I&lt;/i&gt;.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">Typhon ถูกค้นพบครั้งแรกเมื่อ Mimics สร้างความเสียหายให้กับดาวเทียม <i>Vorona I</i> ของโซเวียต</Data>
+     <Data ss:Type="String">Typhon ถูกค้นพบครั้งแรกเมื่อ Mimics สร้างความเสียหายให้กับดาวเทียม &lt;i&gt;Vorona I&lt;/i&gt; ของโซเวียต</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1636,7 +1636,7 @@
      <Data ss:Type="String">The majority of the crew aboard &lt;i&gt;Talos I&lt;/i&gt; have no idea what goes on inside Psychotronics or what is contained within the &lt;i&gt;Kletka&lt;/i&gt;.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ลูกเรือส่วนใหญ่บน <i>Talos I</i> ไม่รู้ว่าเกิดอะไรขึ้นภายใน Psychotronics หรือมีอะไรอยู่ภายใน <i>Kletka</i></Data>
+     <Data ss:Type="String">ลูกเรือส่วนใหญ่บน &lt;i&gt;Talos I&lt;/i&gt; ไม่รู้ว่าเกิดอะไรขึ้นภายใน Psychotronics หรือมีอะไรอยู่ภายใน &lt;i&gt;Kletka&lt;/i&gt;</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1653,7 +1653,7 @@
      <Data ss:Type="String">&lt;b&gt;1955&lt;/b&gt; - The Space Race begins when both the U.S. and Soviet Union make rival announcements about their intent to launch the first satellite.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>1955</b> - Space Race เริ่มต้นขึ้นเมื่อทั้งสหรัฐฯ และสหภาพโซเวียตประกาศคู่แข่งเกี่ยวกับความตั้งใจที่จะปล่อยดาวเทียมดวงแรก</Data>
+     <Data ss:Type="String">&lt;b&gt;1955&lt;/b&gt; - Space Race เริ่มต้นขึ้นเมื่อทั้งสหรัฐฯ และสหภาพโซเวียตประกาศคู่แข่งเกี่ยวกับความตั้งใจที่จะปล่อยดาวเทียมดวงแรก</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1670,7 +1670,7 @@
      <Data ss:Type="String">&lt;b&gt;1957&lt;/b&gt; - The Soviet Union launches &lt;i&gt;Sputnik 1&lt;/i&gt;, the world&apos;s first satellite.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>1957</b> - สหภาพโซเวียตปล่อย <i>Sputnik 1</i> ซึ่งเป็นดาวเทียมดวงแรกของโลก</Data>
+     <Data ss:Type="String">&lt;b&gt;1957&lt;/b&gt; - สหภาพโซเวียตปล่อย &lt;i&gt;Sputnik 1&lt;/i&gt; ซึ่งเป็นดาวเทียมดวงแรกของโลก</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1687,7 +1687,7 @@
      <Data ss:Type="String">&lt;b&gt;1958&lt;/b&gt; - The U.S. launches &lt;i&gt;Explorer 1&lt;/i&gt;, the first American satellite. Later that year, the Soviets secretly launch a deep space probe named &lt;i&gt;Vorona I&lt;/i&gt;.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>1958</b> - สหรัฐฯ ปล่อย <i>Explorer 1</i> ซึ่งเป็นดาวเทียมอเมริกันดวงแรก ในปีเดียวกันนั้น โซเวียตได้ปล่อยยานสำรวจอวกาศลึกชื่อ <i>Vorona I</i> อย่างลับๆ</Data>
+     <Data ss:Type="String">&lt;b&gt;1958&lt;/b&gt; - สหรัฐฯ ปล่อย &lt;i&gt;Explorer 1&lt;/i&gt; ซึ่งเป็นดาวเทียมอเมริกันดวงแรก ในปีเดียวกันนั้น โซเวียตได้ปล่อยยานสำรวจอวกาศลึกชื่อ &lt;i&gt;Vorona I&lt;/i&gt; อย่างลับๆ</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1704,7 +1704,7 @@
      <Data ss:Type="String">&lt;b&gt;1960&lt;/b&gt; - The Soviet Union makes first contact with non-terrestrial organisms during what became known as the &lt;i&gt;Vorona I&lt;/i&gt; incident.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>1960</b> - สหภาพโซเวียตได้ติดต่อกับสิ่งมีชีวิตนอกโลกเป็นครั้งแรกในเหตุการณ์ที่รู้จักกันในชื่อ <i>Vorona I</i></Data>
+     <Data ss:Type="String">&lt;b&gt;1960&lt;/b&gt; - สหภาพโซเวียตได้ติดต่อกับสิ่งมีชีวิตนอกโลกเป็นครั้งแรกในเหตุการณ์ที่รู้จักกันในชื่อ &lt;i&gt;Vorona I&lt;/i&gt;</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1721,7 +1721,7 @@
      <Data ss:Type="String">&lt;b&gt;1962&lt;/b&gt; - The Soviet Union secretly approaches the United States for assistance with the Typhon threat. Publicly, the two countries announce a joint mission to the moon.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>1962</b> - สหภาพโซเวียตเข้าหาสหรัฐอเมริกาอย่างลับๆ เพื่อขอความช่วยเหลือเกี่ยวกับภัยคุกคามจาก Typhon ต่อสาธารณะ ทั้งสองประเทศประกาศภารกิจร่วมกันไปยังดวงจันทร์</Data>
+     <Data ss:Type="String">&lt;b&gt;1962&lt;/b&gt; - สหภาพโซเวียตเข้าหาสหรัฐอเมริกาอย่างลับๆ เพื่อขอความช่วยเหลือเกี่ยวกับภัยคุกคามจาก Typhon ต่อสาธารณะ ทั้งสองประเทศประกาศภารกิจร่วมกันไปยังดวงจันทร์</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1738,7 +1738,7 @@
      <Data ss:Type="String">&lt;b&gt;1963&lt;/b&gt; - The Americans and the Soviets launch the &lt;i&gt;Kletka&lt;/i&gt; program to study the Typhon, laying down the foundation for what would later become &lt;i&gt;Talos I&lt;/i&gt;.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>1963</b> - ชาวอเมริกันและโซเวียตเปิดตัวโครงการ <i>Kletka</i> เพื่อศึกษา Typhon ซึ่งเป็นการวางรากฐานสำหรับสิ่งที่จะกลายเป็น <i>Talos I</i> ในภายหลัง</Data>
+     <Data ss:Type="String">&lt;b&gt;1963&lt;/b&gt; - ชาวอเมริกันและโซเวียตเปิดตัวโครงการ &lt;i&gt;Kletka&lt;/i&gt; เพื่อศึกษา Typhon ซึ่งเป็นการวางรากฐานสำหรับสิ่งที่จะกลายเป็น &lt;i&gt;Talos I&lt;/i&gt; ในภายหลัง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1755,7 +1755,7 @@
      <Data ss:Type="String">&lt;b&gt;1963&lt;/b&gt; - Wavering relationships lead to a failed assassination attempt on President John F. Kennedy and put a halt to the U.S./Soviet joint space program.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>1963</b> - ความสัมพันธ์ที่สั่นคลอนนำไปสู่ความพยายามลอบสังหารประธานาธิบดี John F. Kennedy ที่ล้มเหลว และทำให้โครงการอวกาศร่วมของสหรัฐฯ/โซเวียตต้องหยุดชะงัก</Data>
+     <Data ss:Type="String">&lt;b&gt;1963&lt;/b&gt; - ความสัมพันธ์ที่สั่นคลอนนำไปสู่ความพยายามลอบสังหารประธานาธิบดี John F. Kennedy ที่ล้มเหลว และทำให้โครงการอวกาศร่วมของสหรัฐฯ/โซเวียตต้องหยุดชะงัก</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1772,7 +1772,7 @@
      <Data ss:Type="String">&lt;b&gt;1964&lt;/b&gt; - After wresting control of the &lt;i&gt;Kletka&lt;/i&gt; from the Soviets, the U.S. initiates Project Axiom in an attempt to generate new technology based on researching the Typhon organisms.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>1964</b> - หลังจากแย่งชิงการควบคุม <i>Kletka</i> จากโซเวียต สหรัฐฯ ได้ริเริ่ม Project Axiom เพื่อพยายามสร้างเทคโนโลยีใหม่จากการวิจัยสิ่งมีชีวิต Typhon</Data>
+     <Data ss:Type="String">&lt;b&gt;1964&lt;/b&gt; - หลังจากแย่งชิงการควบคุม &lt;i&gt;Kletka&lt;/i&gt; จากโซเวียต สหรัฐฯ ได้ริเริ่ม Project Axiom เพื่อพยายามสร้างเทคโนโลยีใหม่จากการวิจัยสิ่งมีชีวิต Typhon</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1789,7 +1789,7 @@
      <Data ss:Type="String">&lt;b&gt;1980&lt;/b&gt; - Faulty containment procedures result in the &lt;i&gt;Pobeg&lt;/i&gt; Incident, which leaves numerous scientists dead.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>1980</b> - ขั้นตอนการกักกันที่ผิดพลาดส่งผลให้เกิดเหตุการณ์ <i>Pobeg</i> ซึ่งทำให้มีนักวิทยาศาสตร์เสียชีวิตจำนวนมาก</Data>
+     <Data ss:Type="String">&lt;b&gt;1980&lt;/b&gt; - ขั้นตอนการกักกันที่ผิดพลาดส่งผลให้เกิดเหตุการณ์ &lt;i&gt;Pobeg&lt;/i&gt; ซึ่งทำให้มีนักวิทยาศาสตร์เสียชีวิตจำนวนมาก</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1806,7 +1806,7 @@
      <Data ss:Type="String">&lt;b&gt;1984&lt;/b&gt; - Shifting national priorities, staff fatalities, and a lack of concrete applications lead to the shuttering of Project Axiom. The &lt;i&gt;Kletka&lt;/i&gt; goes dormant.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>1984</b> - การเปลี่ยนแปลงลำดับความสำคัญของชาติ การเสียชีวิตของบุคลากร และการขาดแอปพลิเคชันที่เป็นรูปธรรมนำไปสู่การปิด Project Axiom <i>Kletka</i> เข้าสู่ภาวะสงบนิ่ง</Data>
+     <Data ss:Type="String">&lt;b&gt;1984&lt;/b&gt; - การเปลี่ยนแปลงลำดับความสำคัญของชาติ การเสียชีวิตของบุคลากร และการขาดแอปพลิเคชันที่เป็นรูปธรรมนำไปสู่การปิด Project Axiom &lt;i&gt;Kletka&lt;/i&gt; เข้าสู่ภาวะสงบนิ่ง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1823,7 +1823,7 @@
      <Data ss:Type="String">&lt;b&gt;2005&lt;/b&gt; - Morgan Yu is born, child of a German tech entrepreneur and distinguished Chinese neuroscientist.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>2005</b> - Morgan Yu ถือกำเนิดขึ้น เป็นบุตรของนักธุรกิจเทคโนโลยีชาวเยอรมันและนักประสาทวิทยาชาวจีนผู้มีชื่อเสียง</Data>
+     <Data ss:Type="String">&lt;b&gt;2005&lt;/b&gt; - Morgan Yu ถือกำเนิดขึ้น เป็นบุตรของนักธุรกิจเทคโนโลยีชาวเยอรมันและนักประสาทวิทยาชาวจีนผู้มีชื่อเสียง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1840,7 +1840,7 @@
      <Data ss:Type="String">&lt;b&gt;2025&lt;/b&gt; - The &lt;i&gt;Kletka&lt;/i&gt; is privatized, shifting from government control to the hands of a cabal of international investors. TranStar and &lt;i&gt;Talos I&lt;/i&gt; are born. </Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>2025</b> - <i>Kletka</i> ถูกแปรรูป เปลี่ยนจากการควบคุมของรัฐบาลไปอยู่ในมือของกลุ่มนักลงทุนระหว่างประเทศ TranStar และ <i>Talos I</i> ถือกำเนิดขึ้น</Data>
+     <Data ss:Type="String">&lt;b&gt;2025&lt;/b&gt; - &lt;i&gt;Kletka&lt;/i&gt; ถูกแปรรูป เปลี่ยนจากการควบคุมของรัฐบาลไปอยู่ในมือของกลุ่มนักลงทุนระหว่างประเทศ TranStar และ &lt;i&gt;Talos I&lt;/i&gt; ถือกำเนิดขึ้น</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1857,7 +1857,7 @@
      <Data ss:Type="String">&lt;b&gt;2025&lt;/b&gt; - Alex Yu is appointed CEO of TranStar and Director of Research aboard the new &lt;i&gt;Talos I&lt;/i&gt; space station.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>2025</b> - Alex Yu ได้รับการแต่งตั้งให้เป็น CEO ของ TranStar และผู้อำนวยการฝ่ายวิจัยบนสถานีอวกาศ <i>Talos I</i> แห่งใหม่</Data>
+     <Data ss:Type="String">&lt;b&gt;2025&lt;/b&gt; - Alex Yu ได้รับการแต่งตั้งให้เป็น CEO ของ TranStar และผู้อำนวยการฝ่ายวิจัยบนสถานีอวกาศ &lt;i&gt;Talos I&lt;/i&gt; แห่งใหม่</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1874,7 +1874,7 @@
      <Data ss:Type="String">&lt;b&gt;2030&lt;/b&gt; - The first successful Neuromod technology is derived from research aboard &lt;i&gt;Talos I&lt;/i&gt;. Human learning is revolutionized.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>2030</b> - เทคโนโลยี Neuromod ที่ประสบความสำเร็จครั้งแรกได้มาจากงานวิจัยบน <i>Talos I</i> การเรียนรู้ของมนุษย์ได้รับการปฏิวัติ</Data>
+     <Data ss:Type="String">&lt;b&gt;2030&lt;/b&gt; - เทคโนโลยี Neuromod ที่ประสบความสำเร็จครั้งแรกได้มาจากงานวิจัยบน &lt;i&gt;Talos I&lt;/i&gt; การเรียนรู้ของมนุษย์ได้รับการปฏิวัติ</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1891,7 +1891,7 @@
      <Data ss:Type="String">&lt;b&gt;2032&lt;/b&gt; - Morgan Yu is recruited as co-director of research and development aboard &lt;i&gt;Talos I&lt;/i&gt;.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>2032</b> - Morgan Yu ได้รับการคัดเลือกให้เป็นผู้อำนวยการร่วมฝ่ายวิจัยและพัฒนาบน <i>Talos I</i></Data>
+     <Data ss:Type="String">&lt;b&gt;2032&lt;/b&gt; - Morgan Yu ได้รับการคัดเลือกให้เป็นผู้อำนวยการร่วมฝ่ายวิจัยและพัฒนาบน &lt;i&gt;Talos I&lt;/i&gt;</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1908,7 +1908,7 @@
      <Data ss:Type="String">&lt;b&gt;2034&lt;/b&gt; - Morgan Yu volunteers to be the subject of his own experiments to test new Typhon-based Neuromods.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>2034</b> - Morgan Yu อาสาเป็นผู้ทดลองในโครงการของตัวเองเพื่อทดสอบ Neuromods ที่ใช้ Typhon เป็นพื้นฐาน</Data>
+     <Data ss:Type="String">&lt;b&gt;2034&lt;/b&gt; - Morgan Yu อาสาเป็นผู้ทดลองในโครงการของตัวเองเพื่อทดสอบ Neuromods ที่ใช้ Typhon เป็นพื้นฐาน</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>

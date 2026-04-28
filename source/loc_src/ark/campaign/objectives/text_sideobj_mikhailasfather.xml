@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -24,7 +24,7 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
@@ -65,14 +65,14 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129891632456</Data></Cell>
     <Cell><Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage has an archive of audiolog - recordings of experiments that took place in Psychotronics. I dug up an entry that matched her father's volunteer number and listened to the recording. Mikhaila's father died in an experiment conducted by TranStar scientists. One of the scientists was me. &lt;br&gt;&lt;br&gt;I decided to listen to the recoding with Mikhaila, even though it sounds like I'm an accessory to her father's death. I can't change the past, but I don't even remember being that person. She's upset, but maybe she'll be willing to give me some grace. I'm sure she'll be watching to see what I do from here on out.  </Data></Cell>
-    <Cell><Data ss:Type="String">Mikhaila อยากรู้ว่าเกิดอะไรขึ้นกับพ่อของเธอ Deep Storage มีคลัง บันทึกเสียง—บันทึกการทดลองที่เกิดขึ้นใน Psychotronics ผมค้นพบบันทึกที่ตรงกับหมายเลขอาสาสมัครของพ่อเธอและฟังบันทึกนั้น พ่อของ Mikhaila เสียชีวิตในการทดลองที่ดำเนินการโดยนักวิทยาศาสตร์ของ TranStar หนึ่งในนักวิทยาศาสตร์เหล่านั้นคือผม <br><br>ผมตัดสินใจฟังบันทึกเสียงกับ Mikhaila แม้ว่ามันจะฟังดูเหมือนผมเป็นผู้สมรู้ร่วมคิดในการตายของพ่อเธอ ผมไม่สามารถเปลี่ยนแปลงอดีตได้ แต่ผมจำไม่ได้ด้วยซ้ำว่าเคยเป็นคนแบบนั้น เธอเสียใจ แต่บางทีเธออาจจะยอมให้อภัยผมบ้าง ผมแน่ใจว่าเธอจะจับตาดูว่าผมจะทำอะไรต่อไปจากนี้</Data></Cell>
+    <Cell><Data ss:Type="String">Mikhaila อยากรู้ว่าเกิดอะไรขึ้นกับพ่อของเธอ Deep Storage มีคลัง บันทึกเสียง—บันทึกการทดลองที่เกิดขึ้นใน Psychotronics ผมค้นพบบันทึกที่ตรงกับหมายเลขอาสาสมัครของพ่อเธอและฟังบันทึกนั้น พ่อของ Mikhaila เสียชีวิตในการทดลองที่ดำเนินการโดยนักวิทยาศาสตร์ของ TranStar หนึ่งในนักวิทยาศาสตร์เหล่านั้นคือผม &lt;br&gt;&lt;br&gt;ผมตัดสินใจฟังบันทึกเสียงกับ Mikhaila แม้ว่ามันจะฟังดูเหมือนผมเป็นผู้สมรู้ร่วมคิดในการตายของพ่อเธอ ผมไม่สามารถเปลี่ยนแปลงอดีตได้ แต่ผมจำไม่ได้ด้วยซ้ำว่าเคยเป็นคนแบบนั้น เธอเสียใจ แต่บางทีเธออาจจะยอมให้อภัยผมบ้าง ผมแน่ใจว่าเธอจะจับตาดูว่าผมจะทำอะไรต่อไปจากนี้</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129891632457</Data></Cell>
     <Cell><Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage has an archive of audiolog - recordings of experiments that took place in Psychotronics. I dug up an entry that matched her father's volunteer number and listened to the recording. Mikhaila's father died in an experiment conducted by TranStar scientists. One of the scientists was me. &lt;br&gt;&lt;br&gt;I decided to erase the audiolog of her father's last moments. It sounded like I was an accessory to her father's death, but I don't even remember being that person. She's upset. I'm sure she'll be watching to see what I do from here on out. </Data></Cell>
-    <Cell><Data ss:Type="String">Mikhaila อยากรู้ว่าเกิดอะไรขึ้นกับพ่อของเธอ Deep Storage มีคลัง บันทึกเสียง—บันทึกการทดลองที่เกิดขึ้นใน Psychotronics ผมค้นพบบันทึกที่ตรงกับหมายเลขอาสาสมัครของพ่อเธอและฟังบันทึกนั้น พ่อของ Mikhaila เสียชีวิตในการทดลองที่ดำเนินการโดยนักวิทยาศาสตร์ของ TranStar หนึ่งในนักวิทยาศาสตร์เหล่านั้นคือผม <br><br>ผมตัดสินใจลบ บันทึกเสียง ช่วงเวลาสุดท้ายของพ่อเธอ มันฟังดูเหมือนผมเป็นผู้สมรู้ร่วมคิดในการตายของพ่อเธอ แต่ผมจำไม่ได้ด้วยซ้ำว่าเคยเป็นคนแบบนั้น เธอเสียใจ ผมแน่ใจว่าเธอจะจับตาดูว่าผมจะทำอะไรต่อไปจากนี้</Data></Cell>
+    <Cell><Data ss:Type="String">Mikhaila อยากรู้ว่าเกิดอะไรขึ้นกับพ่อของเธอ Deep Storage มีคลัง บันทึกเสียง—บันทึกการทดลองที่เกิดขึ้นใน Psychotronics ผมค้นพบบันทึกที่ตรงกับหมายเลขอาสาสมัครของพ่อเธอและฟังบันทึกนั้น พ่อของ Mikhaila เสียชีวิตในการทดลองที่ดำเนินการโดยนักวิทยาศาสตร์ของ TranStar หนึ่งในนักวิทยาศาสตร์เหล่านั้นคือผม &lt;br&gt;&lt;br&gt;ผมตัดสินใจลบ บันทึกเสียง ช่วงเวลาสุดท้ายของพ่อเธอ มันฟังดูเหมือนผมเป็นผู้สมรู้ร่วมคิดในการตายของพ่อเธอ แต่ผมจำไม่ได้ด้วยซ้ำว่าเคยเป็นคนแบบนั้น เธอเสียใจ ผมแน่ใจว่าเธอจะจับตาดูว่าผมจะทำอะไรต่อไปจากนี้</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>

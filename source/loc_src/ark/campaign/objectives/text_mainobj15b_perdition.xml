@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
@@ -20,7 +20,7 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders />
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/&gt;
    <Interior />
    <NumberFormat />
    <Protection />
@@ -102,7 +102,7 @@
      <Data ss:Type="String">I left myself instructions to destroy the Talos I space station if the Typhon broke out. That&apos;s the current situation I find myself in. I&apos;ve activated the station&apos;s self destruct mechanism. Within minutes everything within a few clicks will be engulfed in a ball of plasma. &lt;br&gt;&lt;br&gt;January was programmed to keep me on the station if I had too much Typhon material inside my head. Former me intended that I sacrifice myself and go down with the station.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองให้ทำลายสถานีอวกาศ Talos I หาก Typhon หลุดออกมา นี่คือสถานการณ์ปัจจุบันที่ผมกำลังเผชิญอยู่ ผมได้เปิดใช้งานกลไกทำลายตัวเองของสถานีแล้ว ภายในไม่กี่นาที ทุกสิ่งในระยะไม่กี่คลิกจะถูกกลืนกินด้วยลูกบอลพลาสมา <br><br>January ถูกตั้งโปรแกรมไว้ให้ผมอยู่บนสถานี หากผมมีสาร Typhon มากเกินไปในหัว ตัวผมคนก่อนตั้งใจให้ผมเสียสละตัวเองและจมไปพร้อมกับสถานี</Data>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองให้ทำลายสถานีอวกาศ Talos I หาก Typhon หลุดออกมา นี่คือสถานการณ์ปัจจุบันที่ผมกำลังเผชิญอยู่ ผมได้เปิดใช้งานกลไกทำลายตัวเองของสถานีแล้ว ภายในไม่กี่นาที ทุกสิ่งในระยะไม่กี่คลิกจะถูกกลืนกินด้วยลูกบอลพลาสมา &lt;br&gt;&lt;br&gt;January ถูกตั้งโปรแกรมไว้ให้ผมอยู่บนสถานี หากผมมีสาร Typhon มากเกินไปในหัว ตัวผมคนก่อนตั้งใจให้ผมเสียสละตัวเองและจมไปพร้อมกับสถานี</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -136,7 +136,7 @@
      <Data ss:Type="String">I left myself instructions to destroy the Talos I space station if the Typhon broke out. That&apos;s the current situation I find myself in. I&apos;ve activated the station&apos;s self destruct mechanism. Within minutes everything within a few clicks will be engulfed in a ball of plasma. &lt;br&gt;&lt;br&gt;January was programmed to keep me on the station if I had too much Typhon material in my head. There was a shuttle waiting for me, but January impersonated my voice to send it away.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองให้ทำลายสถานีอวกาศ Talos I หาก Typhon หลุดออกมา นี่คือสถานการณ์ปัจจุบันที่ผมกำลังเผชิญอยู่ ผมได้เปิดใช้งานกลไกทำลายตัวเองของสถานีแล้ว ภายในไม่กี่นาที ทุกสิ่งในระยะไม่กี่คลิกจะถูกกลืนกินด้วยลูกบอลพลาสมา <br><br>January ถูกตั้งโปรแกรมไว้ให้ผมอยู่บนสถานี หากผมมีสาร Typhon มากเกินไปในหัว มี Shuttle รอผมอยู่ แต่ January ปลอมเสียงผมเพื่อส่งมันออกไป</Data>
+     <Data ss:Type="String">ผมทิ้งคำสั่งไว้ให้ตัวเองให้ทำลายสถานีอวกาศ Talos I หาก Typhon หลุดออกมา นี่คือสถานการณ์ปัจจุบันที่ผมกำลังเผชิญอยู่ ผมได้เปิดใช้งานกลไกทำลายตัวเองของสถานีแล้ว ภายในไม่กี่นาที ทุกสิ่งในระยะไม่กี่คลิกจะถูกกลืนกินด้วยลูกบอลพลาสมา &lt;br&gt;&lt;br&gt;January ถูกตั้งโปรแกรมไว้ให้ผมอยู่บนสถานี หากผมมีสาร Typhon มากเกินไปในหัว มี Shuttle รอผมอยู่ แต่ January ปลอมเสียงผมเพื่อส่งมันออกไป</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -32,7 +32,7 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
@@ -44,7 +44,7 @@
   <Style ss:ID="s63">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
   </Style>
   <Style ss:ID="s65">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
@@ -58,7 +58,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s67">
@@ -69,7 +69,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s68">
@@ -78,7 +78,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#666699" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s69">
@@ -89,7 +89,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#666699" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s71">
@@ -109,7 +109,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s74">
@@ -124,7 +124,7 @@
   </Style>
   <Style ss:ID="s77">
    <Alignment ss:Vertical="Center"/>
-   <Font ss:FontName="Segoe UI" x:Family="Swiss" ss:Color="#000000"/>
+   &lt;font ss:FontName="Segoe UI" x:Family="Swiss" ss:Color="#000000"/&gt;
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
@@ -146,7 +146,7 @@
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s69"><Data ss:Type="String">This contains original text meant for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">This contains text for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">นี่คือข้อความสำหรับคำบรรยาย ใช้สำนวนบรรยายเช่น <frantic laughter> และ ## สำหรับขึ้นบรรทัดใหม่</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">นี่คือข้อความสำหรับคำบรรยาย ใช้สำนวนบรรยายเช่น &lt;frantic laughter&gt; และ ## สำหรับขึ้นบรรทัดใหม่</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Character limit for translated text.</Data></Cell>
    </Row>
    <Row ss:StyleID="s71">
@@ -425,7 +425,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">input_keyboardFormatting</Data></Cell>
     <Cell><Data ss:Type="String">&lt;font color='#f0c869'&gt;&lt;b&gt;[%key%]&lt;/b&gt;&lt;/font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String"><font color=&apos;#f0c869&apos;><b>[%key%]</b></font></Data></Cell>
+    <Cell><Data ss:Type="String">&lt;font color=&apos;#f0c869&apos;&gt;&lt;b&gt;[%key%]&lt;/b&gt;&lt;/font&gt;</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>

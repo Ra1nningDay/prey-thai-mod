@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
@@ -20,7 +20,7 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders />
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/&gt;
    <Interior />
    <NumberFormat />
    <Protection />
@@ -908,7 +908,7 @@
      <Data ss:Type="String">CLASSIFIED&gt;&gt;&lt;br&gt;&lt;br&gt;Pursuant to A. Yu&apos;s orders I have compiled a report concerning Annalise Gallegos and associates. Enclosed is also a suspicious conversation between Will Mitchell and Quinten Purvis. To be reviewed by A. Yu ASAP. </Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">CLASSIFIED>><br><br>ตามคำสั่งของ A. Yu ผมได้รวบรวมรายงานเกี่ยวกับ Annalise Gallegos และผู้เกี่ยวข้อง นอกจากนี้ยังแนบการสนทนาที่น่าสงสัยระหว่าง Will Mitchell และ Quinten Purvis มาด้วย เพื่อให้ A. Yu ตรวจสอบโดยเร็วที่สุด</Data>
+     <Data ss:Type="String">CLASSIFIED&gt;&gt;&lt;br&gt;&lt;br&gt;ตามคำสั่งของ A. Yu ผมได้รวบรวมรายงานเกี่ยวกับ Annalise Gallegos และผู้เกี่ยวข้อง นอกจากนี้ยังแนบการสนทนาที่น่าสงสัยระหว่าง Will Mitchell และ Quinten Purvis มาด้วย เพื่อให้ A. Yu ตรวจสอบโดยเร็วที่สุด</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>

@@ -8,9 +8,7 @@
 
 1. ไปโฟลเดอร์เกม: `<Steam>\steamapps\common\Prey\Localization`
 2. **Backup ของเดิม** — copy `English_xml_patch.pak` เก็บไว้ก่อน เผื่อต้องการกลับ
-3. Copy 2 ไฟล์ใน `release/` ไปทับ:
-   - `release/English_xml_patch.pak` → `Localization/English_xml_patch.pak`
-   - `release/patch_thai_font_actual.zip` → แตกไฟล์ลง `Localization/` (จะได้โฟลเดอร์ `Libs/UI/`)
+3. Copy `release/English_xml_patch.pak` ไปทับ `Localization/English_xml_patch.pak`
 4. เปิดเกม → ภาษาเลือก English (เกมยังไม่รองรับ Thai มาเอง — mod แทนที่ภาษาอังกฤษด้วยไทย)
 
 ## Build / Re-translate (สำหรับนักพัฒนา)
@@ -23,17 +21,16 @@ echo "GEMINI_API_KEY=YOUR_KEY" > .env   # ขอ key ฟรีที่ aistudio
 # แปล (resume ได้ — รัน Ctrl-C แล้วรันใหม่ก็ต่อจากเดิม)
 python translate_all.py --batch-size 150 --concurrency 10 --rpm 600
 
-# pack เป็น .pak
+# pack เป็น .pak ไฟล์เดียวพร้อม XML + font Thai
 python pack_xml.py
-mv English_xml_patch.zip ../release/English_xml_patch.pak
 ```
 
 ## Files
 
 ```
 release/
-  English_xml_patch.pak        — ไฟล์แปล (ทับของเดิม)
-  patch_thai_font_actual.zip   — font Thai (Noto Sans Thai)
+  English_xml_patch.pak        — ไฟล์แปล + font Thai ในไฟล์เดียว (ทับของเดิม)
+  patch_thai_font_actual.zip   — font Thai source package สำหรับ rebuild .pak
 source/
   loc_src/                     — XML 171 ไฟล์ที่แปลแล้ว
   translate_all.py             — สคริปต์แปลด้วย Gemini API

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -26,7 +26,7 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
@@ -34,7 +34,7 @@
   <Style ss:ID="s62">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/&gt;
    <NumberFormat ss:Format="@"/>
   </Style>
   <Style ss:ID="s63">
@@ -44,16 +44,16 @@
   <Style ss:ID="s64">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/&gt;
   </Style>
   <Style ss:ID="s65">
    <Alignment ss:Vertical="Center"/>
-   <Font ss:FontName="Segoe UI" x:Family="Swiss" ss:Color="#000000"/>
+   &lt;font ss:FontName="Segoe UI" x:Family="Swiss" ss:Color="#000000"/&gt;
   </Style>
   <Style ss:ID="s66">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/&gt;
    <Interior/>
    <NumberFormat ss:Format="@"/>
   </Style>
@@ -1454,26 +1454,26 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902594795</Data></Cell>
     <Cell><Data ss:Type="String">Turn a Human corpse into a Phantom that will fight for you. &lt;br&gt;&lt;br&gt;Hold %focusmode:mouse_execute_power_type1% to enter psi targeting mode and use %focusmode:mouse_menu_rotate_yaw% to select a nearby Human corpse. Release %focusmode:mouse_execute_power_type1% to turn the corpse into a Phantom.  Phantoms you create will fight to defend you as long as they live. </Data></Cell>
-    <Cell><Data ss:Type="String">เปลี่ยนศพมนุษย์ให้กลายเป็น Phantom ที่จะต่อสู้เพื่อคุณ <br><br>กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเลือกศพมนุษย์ที่อยู่ใกล้เคียง ปล่อย %focusmode:mouse_execute_power_type1% เพื่อเปลี่ยนศพให้กลายเป็น Phantom Phantom ที่คุณสร้างขึ้นจะต่อสู้เพื่อปกป้องคุณตราบเท่าที่พวกมันยังมีชีวิตอยู่</Data></Cell>
+    <Cell><Data ss:Type="String">เปลี่ยนศพมนุษย์ให้กลายเป็น Phantom ที่จะต่อสู้เพื่อคุณ &lt;br&gt;&lt;br&gt;กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเลือกศพมนุษย์ที่อยู่ใกล้เคียง ปล่อย %focusmode:mouse_execute_power_type1% เพื่อเปลี่ยนศพให้กลายเป็น Phantom Phantom ที่คุณสร้างขึ้นจะต่อสู้เพื่อปกป้องคุณตราบเท่าที่พวกมันยังมีชีวิตอยู่</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902594849</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Turn a Human corpse into a Phantom that will fight for you. &lt;br&gt;&lt;br&gt;Hold %focusmode:controller_execute_power%  to enter psi targeting mode and use %focusmode:controller_right_menu_rotate_yaw% to select a nearby Human corpse. Release  %focusmode:controller_execute_power% to turn the corpse into a Phantom. Phantoms you create will fight to defend you as long as they live. </Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">เปลี่ยนศพมนุษย์ให้กลายเป็น Phantom ที่จะต่อสู้เพื่อคุณ <br><br>กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเลือกศพมนุษย์ที่อยู่ใกล้เคียง ปล่อย %focusmode:controller_execute_power% เพื่อเปลี่ยนศพให้กลายเป็น Phantom Phantom ที่คุณสร้างขึ้นจะต่อสู้เพื่อปกป้องคุณตราบเท่าที่พวกมันยังมีชีวิตอยู่</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">เปลี่ยนศพมนุษย์ให้กลายเป็น Phantom ที่จะต่อสู้เพื่อคุณ &lt;br&gt;&lt;br&gt;กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเลือกศพมนุษย์ที่อยู่ใกล้เคียง ปล่อย %focusmode:controller_execute_power% เพื่อเปลี่ยนศพให้กลายเป็น Phantom Phantom ที่คุณสร้างขึ้นจะต่อสู้เพื่อปกป้องคุณตราบเท่าที่พวกมันยังมีชีวิตอยู่</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902594872</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Force robotic enemies to fight for you. &lt;br&gt;&lt;br&gt;Hold %focusmode:controller_execute_power%  to enter psi targeting mode and use %focusmode:controller_right_menu_rotate_yaw% to select a target. Release %focusmode:controller_execute_power% to execute. Affected enemies will fight for you for the duration of the power and then revert to their previous state. &lt;br&gt;&lt;br&gt;This power may now be available for installation. Press %player:togglepda% to open your TranScribe and navigate to the Neuromods section.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">บังคับศัตรูหุ่นยนต์ให้ต่อสู้เพื่อคุณ <br><br>กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเลือกเป้าหมาย ปล่อย %focusmode:controller_execute_power% เพื่อใช้งาน ศัตรูที่ได้รับผลกระทบจะต่อสู้เพื่อคุณตลอดระยะเวลาของพลัง และจะกลับสู่สภาพเดิมหลังจากนั้น <br><br>พลังนี้อาจพร้อมสำหรับการติดตั้งแล้ว กด %player:togglepda% เพื่อเปิด TranScribe ของคุณและไปยังส่วน Neuromods</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">บังคับศัตรูหุ่นยนต์ให้ต่อสู้เพื่อคุณ &lt;br&gt;&lt;br&gt;กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเลือกเป้าหมาย ปล่อย %focusmode:controller_execute_power% เพื่อใช้งาน ศัตรูที่ได้รับผลกระทบจะต่อสู้เพื่อคุณตลอดระยะเวลาของพลัง และจะกลับสู่สภาพเดิมหลังจากนั้น &lt;br&gt;&lt;br&gt;พลังนี้อาจพร้อมสำหรับการติดตั้งแล้ว กด %player:togglepda% เพื่อเปิด TranScribe ของคุณและไปยังส่วน Neuromods</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902594879</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Force robotic enemies to fight for you.&lt;br&gt;&lt;br&gt;Hold %focusmode:mouse_execute_power_type1% to enter psi targeting mode and use %focusmode:mouse_menu_rotate_yaw% to select a target. Release %focusmode:mouse_execute_power_type1% to execute. Affected enemies will fight for you for the duration of the power and then revert to their previous state. &lt;br&gt;&lt;br&gt;This power may now be available for installation. Press %player:toggleabilities% to open your TranScribe and navigate to the Neuromods section.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">บังคับศัตรูหุ่นยนต์ให้ต่อสู้เพื่อคุณ<br><br>กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเลือกเป้าหมาย ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้งาน ศัตรูที่ได้รับผลกระทบจะต่อสู้เพื่อคุณตลอดระยะเวลาของพลัง และจะกลับสู่สภาพเดิมหลังจากนั้น <br><br>พลังนี้อาจพร้อมสำหรับการติดตั้งแล้ว กด %player:toggleabilities% เพื่อเปิด TranScribe ของคุณและไปยังส่วน Neuromods</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">บังคับศัตรูหุ่นยนต์ให้ต่อสู้เพื่อคุณ&lt;br&gt;&lt;br&gt;กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเลือกเป้าหมาย ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้งาน ศัตรูที่ได้รับผลกระทบจะต่อสู้เพื่อคุณตลอดระยะเวลาของพลัง และจะกลับสู่สภาพเดิมหลังจากนั้น &lt;br&gt;&lt;br&gt;พลังนี้อาจพร้อมสำหรับการติดตั้งแล้ว กด %player:toggleabilities% เพื่อเปิด TranScribe ของคุณและไปยังส่วน Neuromods</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -1493,95 +1493,95 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902594987</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Force organic enemies to fight for you. &lt;br&gt;&lt;br&gt;Hold %focusmode:controller_execute_power%  to enter psi targeting mode and use %focusmode:controller_right_menu_rotate_yaw% to select a target. Release %focusmode:controller_execute_power% to execute. Affected enemies will fight for you for the duration of the power and then revert to their previous state. </Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">บังคับศัตรูสิ่งมีชีวิตให้ต่อสู้เพื่อคุณ <br><br>กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเลือกเป้าหมาย ปล่อย %focusmode:controller_execute_power% เพื่อใช้งาน ศัตรูที่ได้รับผลกระทบจะต่อสู้เพื่อคุณตลอดระยะเวลาของพลัง และจะกลับสู่สภาพเดิมหลังจากนั้น</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">บังคับศัตรูสิ่งมีชีวิตให้ต่อสู้เพื่อคุณ &lt;br&gt;&lt;br&gt;กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเลือกเป้าหมาย ปล่อย %focusmode:controller_execute_power% เพื่อใช้งาน ศัตรูที่ได้รับผลกระทบจะต่อสู้เพื่อคุณตลอดระยะเวลาของพลัง และจะกลับสู่สภาพเดิมหลังจากนั้น</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902594995</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Force organic enemies to fight for you.&lt;br&gt;&lt;br&gt;Hold %focusmode:mouse_execute_power_type1% to enter psi targeting mode and use %focusmode:mouse_menu_rotate_yaw% to select a target. Release %focusmode:mouse_execute_power_type1% to execute. Affected enemies will fight for you for the duration of the power and then revert to their previous state. </Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">บังคับศัตรูสิ่งมีชีวิตให้ต่อสู้เพื่อคุณ<br><br>กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเลือกเป้าหมาย ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้งาน ศัตรูที่ได้รับผลกระทบจะต่อสู้เพื่อคุณตลอดระยะเวลาของพลัง และจะกลับสู่สภาพเดิมหลังจากนั้น</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">บังคับศัตรูสิ่งมีชีวิตให้ต่อสู้เพื่อคุณ&lt;br&gt;&lt;br&gt;กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเลือกเป้าหมาย ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้งาน ศัตรูที่ได้รับผลกระทบจะต่อสู้เพื่อคุณตลอดระยะเวลาของพลัง และจะกลับสู่สภาพเดิมหลังจากนั้น</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902595024</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Use Lift Field to trap enemies, move heavy objects out of the way, or climb to great heights. &lt;br&gt;&lt;br&gt;Hold %focusmode:controller_execute_power%  to enter psi targeting mode and use %focusmode:controller_right_menu_rotate_yaw% to aim Lift Field. Release %focusmode:controller_execute_power% to execute. Targets caught in the field will be lifted up and trapped in the field for the duration of the power.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">ใช้ Lift Field เพื่อดักจับศัตรู, เคลื่อนย้ายวัตถุหนักให้พ้นทาง หรือปีนขึ้นสู่ที่สูง <br><br>กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเล็ง Lift Field ปล่อย %focusmode:controller_execute_power% เพื่อใช้งาน เป้าหมายที่ติดอยู่ในสนามพลังจะถูกยกขึ้นและติดอยู่ในสนามพลังตลอดระยะเวลาของพลัง</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ใช้ Lift Field เพื่อดักจับศัตรู, เคลื่อนย้ายวัตถุหนักให้พ้นทาง หรือปีนขึ้นสู่ที่สูง &lt;br&gt;&lt;br&gt;กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเล็ง Lift Field ปล่อย %focusmode:controller_execute_power% เพื่อใช้งาน เป้าหมายที่ติดอยู่ในสนามพลังจะถูกยกขึ้นและติดอยู่ในสนามพลังตลอดระยะเวลาของพลัง</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902595032</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Use Lift Field to trap enemies, move heavy objects out of the way, or climb to great heights. &lt;br&gt;&lt;br&gt;Hold %focusmode:mouse_execute_power_type1% to enter psi targeting mode and use %focusmode:mouse_menu_rotate_yaw% to aim Lift Field. Release %focusmode:mouse_execute_power_type1% to execute. Targets caught in the field will be lifted up and trapped in the field for the duration of the power.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">ใช้ Lift Field เพื่อดักจับศัตรู, เคลื่อนย้ายวัตถุหนักให้พ้นทาง หรือปีนขึ้นสู่ที่สูง <br><br>กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเล็ง Lift Field ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้งาน เป้าหมายที่ติดอยู่ในสนามพลังจะถูกยกขึ้นและติดอยู่ในสนามพลังตลอดระยะเวลาของพลัง</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ใช้ Lift Field เพื่อดักจับศัตรู, เคลื่อนย้ายวัตถุหนักให้พ้นทาง หรือปีนขึ้นสู่ที่สูง &lt;br&gt;&lt;br&gt;กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเล็ง Lift Field ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้งาน เป้าหมายที่ติดอยู่ในสนามพลังจะถูกยกขึ้นและติดอยู่ในสนามพลังตลอดระยะเวลาของพลัง</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902595045</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Sneak past enemies or slip into small spaces by taking on the shape of everyday objects. &lt;br&gt;&lt;br&gt;Hold %focusmode:controller_execute_power%  to enter psi targeting mode and use %focusmode:controller_right_menu_rotate_yaw% to select an object to Mimic. Release %focusmode:controller_execute_power% to execute. You will appear as the object where you were standing. Use %default:xi_movey% to move. Enemies will become suspicious if they spot you moving too much.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">ย่องผ่านศัตรูหรือแทรกตัวเข้าไปในพื้นที่แคบๆ โดยการแปลงกายเป็นวัตถุทั่วไป <br><br>กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเลือกวัตถุที่จะ Mimic ปล่อย %focusmode:controller_execute_power% เพื่อใช้งาน คุณจะปรากฏเป็นวัตถุนั้นในตำแหน่งที่คุณยืนอยู่ ใช้ %default:xi_movey% เพื่อเคลื่อนที่ ศัตรูจะสงสัยหากพวกเขาสังเกตเห็นคุณเคลื่อนไหวมากเกินไป</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ย่องผ่านศัตรูหรือแทรกตัวเข้าไปในพื้นที่แคบๆ โดยการแปลงกายเป็นวัตถุทั่วไป &lt;br&gt;&lt;br&gt;กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเลือกวัตถุที่จะ Mimic ปล่อย %focusmode:controller_execute_power% เพื่อใช้งาน คุณจะปรากฏเป็นวัตถุนั้นในตำแหน่งที่คุณยืนอยู่ ใช้ %default:xi_movey% เพื่อเคลื่อนที่ ศัตรูจะสงสัยหากพวกเขาสังเกตเห็นคุณเคลื่อนไหวมากเกินไป</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902595051</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Sneak past enemies or slip into small spaces by taking on the shape of everyday objects. &lt;br&gt;&lt;br&gt;Hold %focusmode:mouse_execute_power_type1% to enter psi targeting mode and use %focusmode:mouse_menu_rotate_yaw% to select an object to Mimic. Release %focusmode:mouse_execute_power_type1% to execute. You will appear as the object where you were standing. Use %default:moveforward%, %default:moveleft%, %default:moveback%, and %default:moveright% to move. Enemies will become suspicious if they spot you moving too much.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">ย่องผ่านศัตรูหรือแทรกตัวเข้าไปในพื้นที่แคบๆ โดยการแปลงกายเป็นวัตถุทั่วไป <br><br>กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเลือกวัตถุที่จะ Mimic ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้งาน คุณจะปรากฏเป็นวัตถุนั้นในตำแหน่งที่คุณยืนอยู่ ใช้ %default:moveforward%, %default:moveleft%, %default:moveback% และ %default:moveright% เพื่อเคลื่อนที่ ศัตรูจะสงสัยหากพวกเขาสังเกตเห็นคุณเคลื่อนไหวมากเกินไป</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ย่องผ่านศัตรูหรือแทรกตัวเข้าไปในพื้นที่แคบๆ โดยการแปลงกายเป็นวัตถุทั่วไป &lt;br&gt;&lt;br&gt;กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเลือกวัตถุที่จะ Mimic ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้งาน คุณจะปรากฏเป็นวัตถุนั้นในตำแหน่งที่คุณยืนอยู่ ใช้ %default:moveforward%, %default:moveleft%, %default:moveback% และ %default:moveright% เพื่อเคลื่อนที่ ศัตรูจะสงสัยหากพวกเขาสังเกตเห็นคุณเคลื่อนไหวมากเกินไป</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902595080</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Block Typhon enemies from using psi abilities as you attack their minds. &lt;br&gt;&lt;br&gt;Hold %focusmode:controller_execute_power%  to enter psi targeting mode and use %focusmode:controller_right_menu_rotate_yaw% to select a target. Release %focusmode:controller_execute_power% to execute. Psychoshocked enemies take a moderate amount of direct damage and will be temporarily unable to use psi abilities. Enemies also take bonus damage from other sources while psychoshocked.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">ขัดขวางศัตรู Typhon ไม่ให้ใช้ความสามารถ Psi ขณะที่คุณโจมตีจิตใจของพวกมัน <br><br>กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเลือกเป้าหมาย ปล่อย %focusmode:controller_execute_power% เพื่อใช้งาน ศัตรูที่ถูก Psychoshocked จะได้รับความเสียหายโดยตรงปานกลางและจะไม่สามารถใช้ความสามารถ Psi ได้ชั่วคราว ศัตรูยังได้รับความเสียหายโบนัสจากแหล่งอื่นขณะถูก Psychoshocked</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ขัดขวางศัตรู Typhon ไม่ให้ใช้ความสามารถ Psi ขณะที่คุณโจมตีจิตใจของพวกมัน &lt;br&gt;&lt;br&gt;กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเลือกเป้าหมาย ปล่อย %focusmode:controller_execute_power% เพื่อใช้งาน ศัตรูที่ถูก Psychoshocked จะได้รับความเสียหายโดยตรงปานกลางและจะไม่สามารถใช้ความสามารถ Psi ได้ชั่วคราว ศัตรูยังได้รับความเสียหายโบนัสจากแหล่งอื่นขณะถูก Psychoshocked</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902595087</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Block Typhon enemies from using psi abilities as you attack their minds. &lt;br&gt;&lt;br&gt;Hold %focusmode:mouse_execute_power_type1% to enter psi targeting mode and use  %focusmode:mouse_menu_rotate_yaw% to select a target. Release %focusmode:mouse_execute_power_type1% to execute. Psychoshocked enemies take a moderate amount of direct damage and will be temporarily unable to use psi abilities. Enemies also take bonus damage from other sources while psychoshocked.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">ขัดขวางศัตรู Typhon ไม่ให้ใช้ความสามารถ Psi ขณะที่คุณโจมตีจิตใจของพวกมัน <br><br>กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเลือกเป้าหมาย ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้งาน ศัตรูที่ถูก Psychoshocked จะได้รับความเสียหายโดยตรงปานกลางและจะไม่สามารถใช้ความสามารถ Psi ได้ชั่วคราว ศัตรูยังได้รับความเสียหายโบนัสจากแหล่งอื่นขณะถูก Psychoshocked</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ขัดขวางศัตรู Typhon ไม่ให้ใช้ความสามารถ Psi ขณะที่คุณโจมตีจิตใจของพวกมัน &lt;br&gt;&lt;br&gt;กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเลือกเป้าหมาย ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้งาน ศัตรูที่ถูก Psychoshocked จะได้รับความเสียหายโดยตรงปานกลางและจะไม่สามารถใช้ความสามารถ Psi ได้ชั่วคราว ศัตรูยังได้รับความเสียหายโบนัสจากแหล่งอื่นขณะถูก Psychoshocked</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902595110</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Spooky action at a distance. Retrieve objects, throw switches, manipulate computer screens, and loot containers.&lt;br&gt;&lt;br&gt;Hold %focusmode:controller_execute_power%  to enter psi targeting mode and use %focusmode:controller_right_menu_rotate_yaw% to select an object. Release %focusmode:controller_execute_power% to execute. With the Leverage ability, you can retrieve even heavier objects.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">การกระทำระยะไกลที่น่าพิศวง เรียกคืนวัตถุ, โยนสวิตช์, จัดการหน้าจอคอมพิวเตอร์ และปล้นคอนเทนเนอร์<br><br>กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเลือกวัตถุ ปล่อย %focusmode:controller_execute_power% เพื่อใช้งาน ด้วยความสามารถ Leverage คุณสามารถเรียกคืนวัตถุที่หนักกว่าได้</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">การกระทำระยะไกลที่น่าพิศวง เรียกคืนวัตถุ, โยนสวิตช์, จัดการหน้าจอคอมพิวเตอร์ และปล้นคอนเทนเนอร์&lt;br&gt;&lt;br&gt;กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเลือกวัตถุ ปล่อย %focusmode:controller_execute_power% เพื่อใช้งาน ด้วยความสามารถ Leverage คุณสามารถเรียกคืนวัตถุที่หนักกว่าได้</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902595112</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Spooky action at a distance. Retrieve objects, throw switches, manipulate computer screens, and loot containers.&lt;br&gt;&lt;br&gt;Hold %focusmode:mouse_execute_power_type1% to enter psi targeting mode and use %focusmode:mouse_menu_rotate_yaw% to select an object. Release %focusmode:mouse_execute_power_type1% to execute. With the Leverage ability, you can retrieve even heavier objects.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">การกระทำระยะไกลที่น่าพิศวง เรียกคืนวัตถุ, โยนสวิตช์, จัดการหน้าจอคอมพิวเตอร์ และปล้นคอนเทนเนอร์<br><br>กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเลือกวัตถุ ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้งาน ด้วยความสามารถ Leverage คุณสามารถเรียกคืนวัตถุที่หนักกว่าได้</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">การกระทำระยะไกลที่น่าพิศวง เรียกคืนวัตถุ, โยนสวิตช์, จัดการหน้าจอคอมพิวเตอร์ และปล้นคอนเทนเนอร์&lt;br&gt;&lt;br&gt;กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเลือกวัตถุ ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้งาน ด้วยความสามารถ Leverage คุณสามารถเรียกคืนวัตถุที่หนักกว่าได้</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902595163</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Set fiery traps for your enemies. &lt;br&gt;&lt;br&gt;Hold %focusmode:controller_execute_power%  to enter psi targeting mode and use %focusmode:controller_right_menu_rotate_yaw% to aim Superthermal. Release %focusmode:controller_execute_power% to place a trap. Enemies who approach the trap will trigger a fiery explosion that causes damage and ignites anything flammable.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">วางกับดักไฟสำหรับศัตรูของคุณ <br><br>กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเล็ง Superthermal ปล่อย %focusmode:controller_execute_power% เพื่อวางกับดัก ศัตรูที่เข้าใกล้กับดักจะกระตุ้นการระเบิดของไฟที่สร้างความเสียหายและจุดไฟเผาสิ่งที่ติดไฟได้</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">วางกับดักไฟสำหรับศัตรูของคุณ &lt;br&gt;&lt;br&gt;กด %focusmode:controller_execute_power% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเล็ง Superthermal ปล่อย %focusmode:controller_execute_power% เพื่อวางกับดัก ศัตรูที่เข้าใกล้กับดักจะกระตุ้นการระเบิดของไฟที่สร้างความเสียหายและจุดไฟเผาสิ่งที่ติดไฟได้</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902595167</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Set fiery traps for your enemies. &lt;br&gt;&lt;br&gt;Hold  %focusmode:mouse_execute_power_type1% to enter psi targeting mode and use %focusmode:mouse_menu_rotate_yaw% to aim Superthermal. Release %focusmode:mouse_execute_power_type1% to place a trap. Enemies who approach the trap will trigger a fiery explosion that causes damage and ignites anything flammable.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">วางกับดักไฟสำหรับศัตรูของคุณ <br><br>กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเล็ง Superthermal ปล่อย %focusmode:mouse_execute_power_type1% เพื่อวางกับดัก ศัตรูที่เข้าใกล้กับดักจะกระตุ้นการระเบิดของไฟที่สร้างความเสียหายและจุดไฟเผาสิ่งที่ติดไฟได้</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">วางกับดักไฟสำหรับศัตรูของคุณ &lt;br&gt;&lt;br&gt;กด %focusmode:mouse_execute_power_type1% ค้างไว้เพื่อเข้าสู่โหมดเล็ง Psi และใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเล็ง Superthermal ปล่อย %focusmode:mouse_execute_power_type1% เพื่อวางกับดัก ศัตรูที่เข้าใกล้กับดักจะกระตุ้นการระเบิดของไฟที่สร้างความเสียหายและจุดไฟเผาสิ่งที่ติดไฟได้</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902595197</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Dash across a space while leaving a Phantom duplicate behind. &lt;br&gt;&lt;br&gt;With Phantom Shift equipped, press %focusmode:controller_execute_power% to shift. Press %default:xi_movey% to adjust the direction of your shift before executing. Phantom Shift leaves a shadowy duplicate where you started that will distract your enemies.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">พุ่งข้ามพื้นที่พร้อมทิ้งร่างปลอม Phantom ไว้เบื้องหลัง <br><br>เมื่อสวมใส่ Phantom Shift กด %focusmode:controller_execute_power% เพื่อเคลื่อนย้าย กด %default:xi_movey% เพื่อปรับทิศทางการเคลื่อนย้ายของคุณก่อนใช้งาน Phantom Shift จะทิ้งร่างปลอมเงาไว้ในตำแหน่งที่คุณเริ่มต้น ซึ่งจะเบี่ยงเบนความสนใจของศัตรู</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">พุ่งข้ามพื้นที่พร้อมทิ้งร่างปลอม Phantom ไว้เบื้องหลัง &lt;br&gt;&lt;br&gt;เมื่อสวมใส่ Phantom Shift กด %focusmode:controller_execute_power% เพื่อเคลื่อนย้าย กด %default:xi_movey% เพื่อปรับทิศทางการเคลื่อนย้ายของคุณก่อนใช้งาน Phantom Shift จะทิ้งร่างปลอมเงาไว้ในตำแหน่งที่คุณเริ่มต้น ซึ่งจะเบี่ยงเบนความสนใจของศัตรู</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">loc_15373294129902595204</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Dash across a space while leaving a Phantom duplicate behind. &lt;br&gt;&lt;br&gt;With Phantom Shift equipped, press %focusmode:mouse_execute_power_type1% to shift. Press %default:moveforward%, %default:moveleft%, %default:moveback%, and %default:moveright% to adjust the direction of your shift before executing. Phantom Shift leaves a shadowy duplicate where you started that will distract your enemies.</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">พุ่งข้ามพื้นที่พร้อมทิ้งร่างปลอม Phantom ไว้เบื้องหลัง <br><br>เมื่อสวมใส่ Phantom Shift กด %focusmode:mouse_execute_power_type1% เพื่อเคลื่อนย้าย กด %default:moveforward%, %default:moveleft%, %default:moveback% และ %default:moveright% เพื่อปรับทิศทางการเคลื่อนย้ายของคุณก่อนใช้งาน Phantom Shift จะทิ้งร่างปลอมเงาไว้ในตำแหน่งที่คุณเริ่มต้น ซึ่งจะเบี่ยงเบนความสนใจของศัตรู</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">พุ่งข้ามพื้นที่พร้อมทิ้งร่างปลอม Phantom ไว้เบื้องหลัง &lt;br&gt;&lt;br&gt;เมื่อสวมใส่ Phantom Shift กด %focusmode:mouse_execute_power_type1% เพื่อเคลื่อนย้าย กด %default:moveforward%, %default:moveleft%, %default:moveback% และ %default:moveright% เพื่อปรับทิศทางการเคลื่อนย้ายของคุณก่อนใช้งาน Phantom Shift จะทิ้งร่างปลอมเงาไว้ในตำแหน่งที่คุณเริ่มต้น ซึ่งจะเบี่ยงเบนความสนใจของศัตรู</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
    </Row>

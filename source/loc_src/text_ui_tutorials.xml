@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -32,7 +32,7 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
@@ -44,7 +44,7 @@
   <Style ss:ID="s63">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
   </Style>
   <Style ss:ID="s65">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
@@ -58,7 +58,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s67">
@@ -69,7 +69,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s68">
@@ -78,7 +78,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#666699" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s69">
@@ -89,7 +89,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#666699" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s71">
@@ -109,7 +109,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s74">
@@ -125,7 +125,7 @@
   <Style ss:ID="s76">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/&gt;
    <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s77">
@@ -136,7 +136,7 @@
   <Style ss:ID="s78">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
   </Style>
   <Style ss:ID="s79">
@@ -147,7 +147,7 @@
   <Style ss:ID="s80">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior ss:Color="#D0CECE" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s81">
@@ -167,12 +167,12 @@
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
      ss:Color="#A5A5A5"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/&gt;
   </Style>
   <Style ss:ID="s83">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
   </Style>
  </Styles>
@@ -226,7 +226,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_CombatCard</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Take advantage of your environment and tools in combat. You do not have to fight every enemy head on. Use alternate routes to sneak past tough enemies, or to get the drop on them. &lt;br&gt;&lt;br&gt;If you intend to fight, disabling enemies first with tools like the GLOO cannon can increase your odds of surviving.</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ใช้ประโยชน์จากสภาพแวดล้อมและเครื่องมือของคุณในการต่อสู้ คุณไม่จำเป็นต้องต่อสู้กับศัตรูทุกตัวแบบตัวต่อตัว ใช้เส้นทางอื่นเพื่อลอบผ่านศัตรูที่แข็งแกร่ง หรือเพื่อโจมตีพวกมันก่อน <br><br>หากคุณตั้งใจจะต่อสู้ การทำให้ศัตรูไร้ความสามารถก่อนด้วยเครื่องมืออย่าง GLOO cannon จะช่วยเพิ่มโอกาสรอดของคุณได้</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ใช้ประโยชน์จากสภาพแวดล้อมและเครื่องมือของคุณในการต่อสู้ คุณไม่จำเป็นต้องต่อสู้กับศัตรูทุกตัวแบบตัวต่อตัว ใช้เส้นทางอื่นเพื่อลอบผ่านศัตรูที่แข็งแกร่ง หรือเพื่อโจมตีพวกมันก่อน &lt;br&gt;&lt;br&gt;หากคุณตั้งใจจะต่อสู้ การทำให้ศัตรูไร้ความสามารถก่อนด้วยเครื่องมืออย่าง GLOO cannon จะช่วยเพิ่มโอกาสรอดของคุณได้</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="11.25">
@@ -249,7 +249,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_CombatCard2</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Press %player:sneak% to sneak if you wish to avoid direct confrontation. While sneaking you move silently and can hide behind cover to avoid being spotted. As enemies detect you, a meter will appear over them. White means they are suspicious. Red means you’re busted.&lt;br&gt;&lt;br&gt;Unaware enemies take more damage from your attacks. </Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">กด %player:sneak% เพื่อย่อง หากคุณต้องการหลีกเลี่ยงการเผชิญหน้าโดยตรง ขณะย่อง คุณจะเคลื่อนไหวอย่างเงียบเชียบและสามารถซ่อนตัวหลังที่กำบังเพื่อหลีกเลี่ยงการถูกพบเห็น เมื่อศัตรูตรวจจับคุณได้ จะมีแถบมิเตอร์ปรากฏขึ้นเหนือพวกมัน สีขาวหมายถึงพวกมันกำลังสงสัย สีแดงหมายถึงคุณถูกจับได้แล้ว<br><br>ศัตรูที่ไม่รู้ตัวจะได้รับความเสียหายจากการโจมตีของคุณมากขึ้น</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">กด %player:sneak% เพื่อย่อง หากคุณต้องการหลีกเลี่ยงการเผชิญหน้าโดยตรง ขณะย่อง คุณจะเคลื่อนไหวอย่างเงียบเชียบและสามารถซ่อนตัวหลังที่กำบังเพื่อหลีกเลี่ยงการถูกพบเห็น เมื่อศัตรูตรวจจับคุณได้ จะมีแถบมิเตอร์ปรากฏขึ้นเหนือพวกมัน สีขาวหมายถึงพวกมันกำลังสงสัย สีแดงหมายถึงคุณถูกจับได้แล้ว&lt;br&gt;&lt;br&gt;ศัตรูที่ไม่รู้ตัวจะได้รับความเสียหายจากการโจมตีของคุณมากขึ้น</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="9.75">
@@ -272,13 +272,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell><Data ss:Type="String">ui_ExteriorTutorialCard</Data></Cell>
     <Cell><Data ss:Type="String">Your TranStar suit is equipped with a propulsion system to navigate the harsh environment of space.  To navigate in Zero-G, use %default:xi_movex% to thrust and %player:sprint% to boost thrust. Press %player:leanleft% + %player:leanright% to brake.  &lt;br&gt;&lt;br&gt;You can press %player:jump% to ascend and %player:sneak% to descend.  Hold %player:leanleft% or %player:leanright% to roll.</Data></Cell>
-    <Cell><Data ss:Type="String">ชุด TranStar ของคุณติดตั้งระบบขับเคลื่อนเพื่อนำทางในสภาพแวดล้อมที่รุนแรงของอวกาศ ในการนำทางใน Zero-G ให้ใช้ %default:xi_movex% เพื่อขับเคลื่อน และ %player:sprint% เพื่อเร่งการขับเคลื่อน กด %player:leanleft% + %player:leanright% เพื่อเบรก <br><br>คุณสามารถกด %player:jump% เพื่อขึ้น และ %player:sneak% เพื่อลง กดค้าง %player:leanleft% หรือ %player:leanright% เพื่อหมุนตัว</Data></Cell>
+    <Cell><Data ss:Type="String">ชุด TranStar ของคุณติดตั้งระบบขับเคลื่อนเพื่อนำทางในสภาพแวดล้อมที่รุนแรงของอวกาศ ในการนำทางใน Zero-G ให้ใช้ %default:xi_movex% เพื่อขับเคลื่อน และ %player:sprint% เพื่อเร่งการขับเคลื่อน กด %player:leanleft% + %player:leanright% เพื่อเบรก &lt;br&gt;&lt;br&gt;คุณสามารถกด %player:jump% เพื่อขึ้น และ %player:sneak% เพื่อลง กดค้าง %player:leanleft% หรือ %player:leanright% เพื่อหมุนตัว</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell><Data ss:Type="String">ui_ExteriorTutorialCardPC</Data></Cell>
     <Cell><Data ss:Type="String">Your TranStar suit is equipped with a propulsion system to navigate the harsh environment of space.  To navigate in Zero-G, use &lt;b&gt;%default:moveforward%&lt;/b&gt;, &lt;b&gt;%default:moveleft%&lt;/b&gt;, &lt;b&gt;%default:moveback%&lt;/b&gt;, or &lt;b&gt;%default:moveright%&lt;/b&gt; to thrust and &lt;b&gt;%player:sprint%&lt;/b&gt; to boost thrust.  Press &lt;b&gt;%player:leanleft%&lt;/b&gt; + &lt;b&gt;%player:leanright%&lt;/b&gt; to brake.  &lt;br&gt;&lt;br&gt;You can press &lt;b&gt;%player:jump%&lt;/b&gt; to ascend and &lt;b&gt;%player:sneak%&lt;/b&gt; to descend.  Hold &lt;b&gt;%player:leanright%&lt;/b&gt; or &lt;b&gt;%player:leanleft%&lt;/b&gt; to roll.</Data></Cell>
-    <Cell><Data ss:Type="String">ชุด TranStar ของคุณติดตั้งระบบขับเคลื่อนเพื่อนำทางในสภาพแวดล้อมที่รุนแรงของอวกาศ ในการนำทางใน Zero-G ให้ใช้ <b>%default:moveforward%</b>, <b>%default:moveleft%</b>, <b>%default:moveback%</b>, หรือ <b>%default:moveright%</b> เพื่อขับเคลื่อน และ <b>%player:sprint%</b> เพื่อเร่งการขับเคลื่อน กด <b>%player:leanleft%</b> + <b>%player:leanright%</b> เพื่อเบรก <br><br>คุณสามารถกด <b>%player:jump%</b> เพื่อขึ้น และ <b>%player:sneak%</b> เพื่อลง กดค้าง <b>%player:leanright%</b> หรือ <b>%player:leanleft%</b> เพื่อหมุนตัว</Data></Cell>
+    <Cell><Data ss:Type="String">ชุด TranStar ของคุณติดตั้งระบบขับเคลื่อนเพื่อนำทางในสภาพแวดล้อมที่รุนแรงของอวกาศ ในการนำทางใน Zero-G ให้ใช้ &lt;b&gt;%default:moveforward%&lt;/b&gt;, &lt;b&gt;%default:moveleft%&lt;/b&gt;, &lt;b&gt;%default:moveback%&lt;/b&gt;, หรือ &lt;b&gt;%default:moveright%&lt;/b&gt; เพื่อขับเคลื่อน และ &lt;b&gt;%player:sprint%&lt;/b&gt; เพื่อเร่งการขับเคลื่อน กด &lt;b&gt;%player:leanleft%&lt;/b&gt; + &lt;b&gt;%player:leanright%&lt;/b&gt; เพื่อเบรก &lt;br&gt;&lt;br&gt;คุณสามารถกด &lt;b&gt;%player:jump%&lt;/b&gt; เพื่อขึ้น และ &lt;b&gt;%player:sneak%&lt;/b&gt; เพื่อลง กดค้าง &lt;b&gt;%player:leanright%&lt;/b&gt; หรือ &lt;b&gt;%player:leanleft%&lt;/b&gt; เพื่อหมุนตัว</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
@@ -301,7 +301,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="51">
     <Cell><Data ss:Type="String">ui_PsychoscopeTutorialCard</Data></Cell>
     <Cell><Data ss:Type="String">&lt;br&gt;Toggle your Psychoscope with %player:toggle_scope% to mark and scan nearby enemies. Scanning Typhon reveals new abilities you can acquire by installing Neuromods. </Data></Cell>
-    <Cell><Data ss:Type="String"><br>สลับ Psychoscope ของคุณด้วย %player:toggle_scope% เพื่อทำเครื่องหมายและสแกนศัตรูที่อยู่ใกล้เคียง การสแกน Typhon จะเปิดเผยความสามารถใหม่ๆ ที่คุณสามารถได้รับจากการติดตั้ง Neuromods</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;สลับ Psychoscope ของคุณด้วย %player:toggle_scope% เพื่อทำเครื่องหมายและสแกนศัตรูที่อยู่ใกล้เคียง การสแกน Typhon จะเปิดเผยความสามารถใหม่ๆ ที่คุณสามารถได้รับจากการติดตั้ง Neuromods</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
@@ -347,7 +347,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell><Data ss:Type="String">ui_FabricatorTutorialCard</Data></Cell>
     <Cell><Data ss:Type="String">Fabricators use Fabrication Plans to create dozens of useful items aboard Talos I. &lt;br&gt;&lt;br&gt;Each item fabricated consumes some combination of Organic, Mineral, Synthetic, and Exotic materials. Search Talos I to find plans and materials.</Data></Cell>
-    <Cell><Data ss:Type="String">Fabricators ใช้แผนการผลิตเพื่อสร้างไอเทมที่มีประโยชน์มากมายบน Talos I <br><br>ไอเทมแต่ละชิ้นที่ผลิตจะใช้ส่วนผสมของวัสดุอินทรีย์, แร่, สังเคราะห์ และแปลกใหม่ ค้นหา Talos I เพื่อค้นหาแผนและวัสดุ</Data></Cell>
+    <Cell><Data ss:Type="String">Fabricators ใช้แผนการผลิตเพื่อสร้างไอเทมที่มีประโยชน์มากมายบน Talos I &lt;br&gt;&lt;br&gt;ไอเทมแต่ละชิ้นที่ผลิตจะใช้ส่วนผสมของวัสดุอินทรีย์, แร่, สังเคราะห์ และแปลกใหม่ ค้นหา Talos I เพื่อค้นหาแผนและวัสดุ</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -364,13 +364,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell><Data ss:Type="String">ui_HackingTutorialCard</Data></Cell>
     <Cell><Data ss:Type="String">The Hacking skill allows you to bypass security systems protecting keypads, workstations, and security stations. At higher skill levels, you can hack into robotic systems such as turrets and Operators. &lt;br&gt;&lt;br&gt;To hack, use %hacking:hack_moveprompt_y% to quickly navigate the bitstream to reach the target. Once inside the target, press the prompted button to complete the hack.</Data></Cell>
-    <Cell><Data ss:Type="String">ทักษะการแฮกช่วยให้คุณสามารถข้ามระบบรักษาความปลอดภัยที่ป้องกันแป้นพิมพ์, เวิร์กสเตชัน และสถานีรักษาความปลอดภัยได้ ในระดับทักษะที่สูงขึ้น คุณสามารถแฮกระบบหุ่นยนต์ เช่น ป้อมปืน และ Operators ได้ <br><br>ในการแฮก ให้ใช้ %hacking:hack_moveprompt_y% เพื่อนำทางบิตสตรีมอย่างรวดเร็วไปยังเป้าหมาย เมื่อเข้าสู่เป้าหมายแล้ว ให้กดปุ่มที่แจ้งเพื่อทำการแฮกให้เสร็จสมบูรณ์</Data></Cell>
+    <Cell><Data ss:Type="String">ทักษะการแฮกช่วยให้คุณสามารถข้ามระบบรักษาความปลอดภัยที่ป้องกันแป้นพิมพ์, เวิร์กสเตชัน และสถานีรักษาความปลอดภัยได้ ในระดับทักษะที่สูงขึ้น คุณสามารถแฮกระบบหุ่นยนต์ เช่น ป้อมปืน และ Operators ได้ &lt;br&gt;&lt;br&gt;ในการแฮก ให้ใช้ %hacking:hack_moveprompt_y% เพื่อนำทางบิตสตรีมอย่างรวดเร็วไปยังเป้าหมาย เมื่อเข้าสู่เป้าหมายแล้ว ให้กดปุ่มที่แจ้งเพื่อทำการแฮกให้เสร็จสมบูรณ์</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell><Data ss:Type="String">ui_HackingTutorialCardPC</Data></Cell>
     <Cell><Data ss:Type="String">The Hacking skill allows you to bypass security systems protecting keypads, workstations, and security stations. At higher skill levels, you can hack into robotic systems such as turrets and Operators. &lt;br&gt;&lt;br&gt;To hack, use %hacking:hack_moveup%, %hacking:hack_movedown%, %hacking:hack_moveright%, and %hacking:hack_moveleft% to quickly navigate the bitstream to reach the target. Once inside the target, press the prompted button to complete the hack.</Data></Cell>
-    <Cell><Data ss:Type="String">ทักษะการแฮกช่วยให้คุณสามารถข้ามระบบรักษาความปลอดภัยที่ป้องกันแป้นพิมพ์, เวิร์กสเตชัน และสถานีรักษาความปลอดภัยได้ ในระดับทักษะที่สูงขึ้น คุณสามารถแฮกระบบหุ่นยนต์ เช่น ป้อมปืน และ Operators ได้ <br><br>ในการแฮก ให้ใช้ %hacking:hack_moveup%, %hacking:hack_movedown%, %hacking:hack_moveright%, และ %hacking:hack_moveleft% เพื่อนำทางบิตสตรีมอย่างรวดเร็วไปยังเป้าหมาย เมื่อเข้าสู่เป้าหมายแล้ว ให้กดปุ่มที่แจ้งเพื่อทำการแฮกให้เสร็จสมบูรณ์</Data></Cell>
+    <Cell><Data ss:Type="String">ทักษะการแฮกช่วยให้คุณสามารถข้ามระบบรักษาความปลอดภัยที่ป้องกันแป้นพิมพ์, เวิร์กสเตชัน และสถานีรักษาความปลอดภัยได้ ในระดับทักษะที่สูงขึ้น คุณสามารถแฮกระบบหุ่นยนต์ เช่น ป้อมปืน และ Operators ได้ &lt;br&gt;&lt;br&gt;ในการแฮก ให้ใช้ %hacking:hack_moveup%, %hacking:hack_movedown%, %hacking:hack_moveright%, และ %hacking:hack_moveleft% เพื่อนำทางบิตสตรีมอย่างรวดเร็วไปยังเป้าหมาย เมื่อเข้าสู่เป้าหมายแล้ว ให้กดปุ่มที่แจ้งเพื่อทำการแฮกให้เสร็จสมบูรณ์</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -387,7 +387,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">ui_MovementCard</Data></Cell>
     <Cell><Data ss:Type="String">Use %default:xi_movey% to move around in the world. &lt;br&gt;&lt;br&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">ใช้ %default:xi_movey% เพื่อเคลื่อนที่ไปรอบๆ ในโลก <br><br></Data></Cell>
+    <Cell><Data ss:Type="String">ใช้ %default:xi_movey% เพื่อเคลื่อนที่ไปรอบๆ ในโลก &lt;br&gt;&lt;br&gt;</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="48.75">
@@ -451,7 +451,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="51">
     <Cell><Data ss:Type="String">ui_PlayYourWayTutorialCard</Data></Cell>
     <Cell><Data ss:Type="String">&lt;br&gt;Experiment with different approaches to overcome challenges and enemies. You can get past the locked door by: &lt;br&gt;&lt;br&gt;&lt;b&gt;»&lt;/b&gt;Searching for the keycard&lt;br&gt;&lt;b&gt;»&lt;/b&gt;Finding an alternate path. &lt;br&gt;&lt;br&gt;As you learn new abilities, more options will become available to you.</Data></Cell>
-    <Cell><Data ss:Type="String"><br>ทดลองใช้วิธีการที่แตกต่างกันเพื่อเอาชนะความท้าทายและศัตรู คุณสามารถผ่านประตูที่ล็อกอยู่ได้โดย: <br><br><b>»</b>ค้นหา Keycard<br><b>»</b>ค้นหาเส้นทางอื่น <br><br>เมื่อคุณเรียนรู้ความสามารถใหม่ๆ ตัวเลือกเพิ่มเติมจะพร้อมใช้งานสำหรับคุณ</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;ทดลองใช้วิธีการที่แตกต่างกันเพื่อเอาชนะความท้าทายและศัตรู คุณสามารถผ่านประตูที่ล็อกอยู่ได้โดย: &lt;br&gt;&lt;br&gt;&lt;b&gt;»&lt;/b&gt;ค้นหา Keycard&lt;br&gt;&lt;b&gt;»&lt;/b&gt;ค้นหาเส้นทางอื่น &lt;br&gt;&lt;br&gt;เมื่อคุณเรียนรู้ความสามารถใหม่ๆ ตัวเลือกเพิ่มเติมจะพร้อมใช้งานสำหรับคุณ</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="11.25">
@@ -474,13 +474,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="59.25">
     <Cell><Data ss:Type="String">ui_PsiModeTutorialCardPC</Data></Cell>
     <Cell><Data ss:Type="String">The favorites wheel allows you to quickly select and use weapons and, eventually, psi powers.  Press %player:mouse_enter_focusmode% to open the favorites wheel and select a weapon or item using %player:mouse_enter_focusmode%. Press %focusmode:mouse_select_item% to equip a weapon.&lt;br&gt;&lt;br&gt;You can also consume medkits and psi hypos from the favorites wheel.</Data></Cell>
-    <Cell><Data ss:Type="String">วงล้อรายการโปรดช่วยให้คุณสามารถเลือกและใช้อาวุธ และในที่สุดก็คือพลัง Psi ได้อย่างรวดเร็ว กด %player:mouse_enter_focusmode% เพื่อเปิดวงล้อรายการโปรดและเลือกอาวุธหรือไอเทมโดยใช้ %player:mouse_enter_focusmode% กด %focusmode:mouse_select_item% เพื่อสวมใส่อาวุธ<br><br>คุณยังสามารถบริโภคชุดปฐมพยาบาลและ Psi hypos ได้จากวงล้อรายการโปรด</Data></Cell>
+    <Cell><Data ss:Type="String">วงล้อรายการโปรดช่วยให้คุณสามารถเลือกและใช้อาวุธ และในที่สุดก็คือพลัง Psi ได้อย่างรวดเร็ว กด %player:mouse_enter_focusmode% เพื่อเปิดวงล้อรายการโปรดและเลือกอาวุธหรือไอเทมโดยใช้ %player:mouse_enter_focusmode% กด %focusmode:mouse_select_item% เพื่อสวมใส่อาวุธ&lt;br&gt;&lt;br&gt;คุณยังสามารถบริโภคชุดปฐมพยาบาลและ Psi hypos ได้จากวงล้อรายการโปรด</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="54">
     <Cell><Data ss:Type="String">ui_PsiModeTutorialCard</Data></Cell>
     <Cell><Data ss:Type="String">The favorites wheel allows you to quickly select and equip weapons and, eventually, psi powers.  Hold %player:enter_focusmode% to open the favorites wheel and use %focusmode:controller_left_menu_rotate_yaw% to select a weapon. Release %focusmode:controller_select_item% to equip a weapon.&lt;br&gt;&lt;br&gt;You can also consume medkits and psi hypos from the favorites wheel.</Data></Cell>
-    <Cell><Data ss:Type="String">วงล้อรายการโปรดช่วยให้คุณสามารถเลือกและสวมใส่อาวุธ และในที่สุดก็คือพลัง Psi ได้อย่างรวดเร็ว กดค้าง %player:enter_focusmode% เพื่อเปิดวงล้อรายการโปรดและใช้ %focusmode:controller_left_menu_rotate_yaw% เพื่อเลือกอาวุธ ปล่อย %focusmode:controller_select_item% เพื่อสวมใส่อาวุธ<br><br>คุณยังสามารถบริโภคชุดปฐมพยาบาลและ Psi hypos ได้จากวงล้อรายการโปรด</Data></Cell>
+    <Cell><Data ss:Type="String">วงล้อรายการโปรดช่วยให้คุณสามารถเลือกและสวมใส่อาวุธ และในที่สุดก็คือพลัง Psi ได้อย่างรวดเร็ว กดค้าง %player:enter_focusmode% เพื่อเปิดวงล้อรายการโปรดและใช้ %focusmode:controller_left_menu_rotate_yaw% เพื่อเลือกอาวุธ ปล่อย %focusmode:controller_select_item% เพื่อสวมใส่อาวุธ&lt;br&gt;&lt;br&gt;คุณยังสามารถบริโภคชุดปฐมพยาบาลและ Psi hypos ได้จากวงล้อรายการโปรด</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="16.5">
@@ -503,13 +503,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="65.25">
     <Cell><Data ss:Type="String">ui_FocusPowersCardPC</Data></Cell>
     <Cell><Data ss:Type="String">Some powers are triggered instantly by pressing  %focusmode:mouse_execute_power_type1%. Some powers are targeted. To stop time and enter psi targeting mode, press and hold %focusmode:mouse_execute_power_type1%. Use  %focusmode:mouse_menu_rotate_yaw% to aim. Release %focusmode:mouse_execute_power_type1% to execute power on the targeted location or press %focusmode:mouse_cancel_focusmode_type1% to cancel. &lt;br&gt;&lt;br&gt;Powers can be equipped from the favorites wheel.</Data></Cell>
-    <Cell><Data ss:Type="String">พลังบางอย่างจะถูกเรียกใช้ทันทีโดยการกด %focusmode:mouse_execute_power_type1% พลังบางอย่างต้องเล็งเป้าหมาย หากต้องการหยุดเวลาและเข้าสู่โหมดการเล็ง Psi ให้กดค้าง %focusmode:mouse_execute_power_type1% ใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเล็ง ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้พลังในตำแหน่งที่เล็งไว้ หรือกด %focusmode:mouse_cancel_focusmode_type1% เพื่อยกเลิก <br><br>พลังสามารถสวมใส่ได้จากวงล้อรายการโปรด</Data></Cell>
+    <Cell><Data ss:Type="String">พลังบางอย่างจะถูกเรียกใช้ทันทีโดยการกด %focusmode:mouse_execute_power_type1% พลังบางอย่างต้องเล็งเป้าหมาย หากต้องการหยุดเวลาและเข้าสู่โหมดการเล็ง Psi ให้กดค้าง %focusmode:mouse_execute_power_type1% ใช้ %focusmode:mouse_menu_rotate_yaw% เพื่อเล็ง ปล่อย %focusmode:mouse_execute_power_type1% เพื่อใช้พลังในตำแหน่งที่เล็งไว้ หรือกด %focusmode:mouse_cancel_focusmode_type1% เพื่อยกเลิก &lt;br&gt;&lt;br&gt;พลังสามารถสวมใส่ได้จากวงล้อรายการโปรด</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="66">
     <Cell><Data ss:Type="String">ui_FocusPowersCard</Data></Cell>
     <Cell><Data ss:Type="String">Some powers are triggered instantly by pressing %focusmode:controller_execute_power% . Some powers are targeted. To stop time and enter psi targeting mode, press and hold %focusmode:controller_execute_power%. Use %focusmode:controller_right_menu_rotate_yaw% to aim.  Release %focusmode:controller_execute_power% to execute a psi power on the targeted location or %focusmode:controller_cancel_psitargeting% to cancel.  &lt;br&gt;&lt;br&gt;Powers can be equipped from the favorites.</Data></Cell>
-    <Cell><Data ss:Type="String">พลังบางอย่างจะถูกเรียกใช้ทันทีโดยการกด %focusmode:controller_execute_power% พลังบางอย่างต้องเล็งเป้าหมาย หากต้องการหยุดเวลาและเข้าสู่โหมดการเล็ง Psi ให้กดค้าง %focusmode:controller_execute_power% ใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเล็ง ปล่อย %focusmode:controller_execute_power% เพื่อใช้พลัง Psi ในตำแหน่งที่เล็งไว้ หรือ %focusmode:controller_cancel_psitargeting% เพื่อยกเลิก <br><br>พลังสามารถสวมใส่ได้จากรายการโปรด</Data></Cell>
+    <Cell><Data ss:Type="String">พลังบางอย่างจะถูกเรียกใช้ทันทีโดยการกด %focusmode:controller_execute_power% พลังบางอย่างต้องเล็งเป้าหมาย หากต้องการหยุดเวลาและเข้าสู่โหมดการเล็ง Psi ให้กดค้าง %focusmode:controller_execute_power% ใช้ %focusmode:controller_right_menu_rotate_yaw% เพื่อเล็ง ปล่อย %focusmode:controller_execute_power% เพื่อใช้พลัง Psi ในตำแหน่งที่เล็งไว้ หรือ %focusmode:controller_cancel_psitargeting% เพื่อยกเลิก &lt;br&gt;&lt;br&gt;พลังสามารถสวมใส่ได้จากรายการโปรด</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -526,7 +526,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="49.5">
     <Cell><Data ss:Type="String">ui_RepairTutorialCard</Data></Cell>
     <Cell><Data ss:Type="String">Many objects on Talos I can be repaired if you have the Repair skill and enough spare parts. &lt;br&gt;&lt;br&gt;To repair an object, hold down the %player:specialUse% button until the repair is completed. </Data></Cell>
-    <Cell><Data ss:Type="String">วัตถุหลายชิ้นบน Talos I สามารถซ่อมแซมได้หากคุณมีทักษะการซ่อมแซมและอะไหล่เพียงพอ <br><br>ในการซ่อมแซมวัตถุ ให้กดปุ่ม %player:specialUse% ค้างไว้จนกว่าการซ่อมแซมจะเสร็จสมบูรณ์</Data></Cell>
+    <Cell><Data ss:Type="String">วัตถุหลายชิ้นบน Talos I สามารถซ่อมแซมได้หากคุณมีทักษะการซ่อมแซมและอะไหล่เพียงพอ &lt;br&gt;&lt;br&gt;ในการซ่อมแซมวัตถุ ให้กดปุ่ม %player:specialUse% ค้างไว้จนกว่าการซ่อมแซมจะเสร็จสมบูรณ์</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="11.25">
@@ -543,7 +543,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="57">
     <Cell><Data ss:Type="String">ui_WeaponKitCard</Data></Cell>
     <Cell><Data ss:Type="String">Weapon Kits allow you to upgrade your weapons. To use a Weapon Kit, select the weapon you wish to upgrade in your inventory and press %menu:menu_examine%. &lt;br&gt;&lt;br&gt;Then choose &lt;i&gt;upgrade&lt;/i&gt; to select from any available upgrades. Note: some upgrades require advanced skills.</Data></Cell>
-    <Cell><Data ss:Type="String">ชุดอุปกรณ์อาวุธช่วยให้คุณอัปเกรดอาวุธของคุณได้ ในการใช้ชุดอุปกรณ์อาวุธ ให้เลือกอาวุธที่คุณต้องการอัปเกรดในช่องเก็บของของคุณ แล้วกด %menu:menu_examine% <br><br>จากนั้นเลือก <i>อัปเกรด</i> เพื่อเลือกจากการอัปเกรดที่มีอยู่ หมายเหตุ: การอัปเกรดบางอย่างต้องใช้ทักษะขั้นสูง</Data></Cell>
+    <Cell><Data ss:Type="String">ชุดอุปกรณ์อาวุธช่วยให้คุณอัปเกรดอาวุธของคุณได้ ในการใช้ชุดอุปกรณ์อาวุธ ให้เลือกอาวุธที่คุณต้องการอัปเกรดในช่องเก็บของของคุณ แล้วกด %menu:menu_examine% &lt;br&gt;&lt;br&gt;จากนั้นเลือก &lt;i&gt;อัปเกรด&lt;/i&gt; เพื่อเลือกจากการอัปเกรดที่มีอยู่ หมายเหตุ: การอัปเกรดบางอย่างต้องใช้ทักษะขั้นสูง</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -566,7 +566,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="59.25">
     <Cell><Data ss:Type="String">ui_GlooGunCard</Data></Cell>
     <Cell><Data ss:Type="String">The TranStar GLOO Cannon (Gelifoam Lattice Organism Obstructor) disables and/or immobilizes targets without harming them. GLOO can extinguish flames and temporarily stop electric arcs. When hardened, GLOO can also be used as a climbable platform.&lt;br&gt;&lt;br&gt;Press %player:attack1% to fire your GLOO Cannon.  Press and hold %player:attack1% to fire a continuous stream.</Data></Cell>
-    <Cell><Data ss:Type="String">TranStar GLOO Cannon (Gelifoam Lattice Organism Obstructor) ทำให้เป้าหมายไร้ความสามารถและ/หรือเคลื่อนที่ไม่ได้โดยไม่ทำอันตรายพวกมัน GLOO สามารถดับเปลวไฟและหยุดประกายไฟฟ้าได้ชั่วคราว เมื่อแข็งตัว GLOO ยังสามารถใช้เป็นแพลตฟอร์มที่ปีนได้<br><br>กด %player:attack1% เพื่อยิง GLOO Cannon ของคุณ กดค้าง %player:attack1% เพื่อยิงกระแสต่อเนื่อง</Data></Cell>
+    <Cell><Data ss:Type="String">TranStar GLOO Cannon (Gelifoam Lattice Organism Obstructor) ทำให้เป้าหมายไร้ความสามารถและ/หรือเคลื่อนที่ไม่ได้โดยไม่ทำอันตรายพวกมัน GLOO สามารถดับเปลวไฟและหยุดประกายไฟฟ้าได้ชั่วคราว เมื่อแข็งตัว GLOO ยังสามารถใช้เป็นแพลตฟอร์มที่ปีนได้&lt;br&gt;&lt;br&gt;กด %player:attack1% เพื่อยิง GLOO Cannon ของคุณ กดค้าง %player:attack1% เพื่อยิงกระแสต่อเนื่อง</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
@@ -589,7 +589,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="64.5">
     <Cell><Data ss:Type="String">ui_RecycleChargeCard</Data></Cell>
     <Cell><Data ss:Type="String">When detonated, the Recycler Charge breaks down the molecular structure of nearby objects into recyclable material. &lt;br&gt;&lt;br&gt;Your uniform offers some degree of protection, but is not failsafe. Standing too close can prove hazardous. &lt;br&gt;&lt;br&gt;Recycler Charges can be thrown, or affixed to stationary objects using %player:attack1%.</Data></Cell>
-    <Cell><Data ss:Type="String">เมื่อระเบิด Recycler Charge จะสลายโครงสร้างโมเลกุลของวัตถุใกล้เคียงให้กลายเป็นวัสดุที่รีไซเคิลได้ <br><br>เครื่องแบบของคุณมีการป้องกันในระดับหนึ่ง แต่ก็ไม่ปลอดภัยสมบูรณ์ การยืนใกล้เกินไปอาจเป็นอันตรายได้ <br><br>Recycler Charges สามารถขว้าง หรือติดเข้ากับวัตถุที่อยู่กับที่โดยใช้ %player:attack1%</Data></Cell>
+    <Cell><Data ss:Type="String">เมื่อระเบิด Recycler Charge จะสลายโครงสร้างโมเลกุลของวัตถุใกล้เคียงให้กลายเป็นวัสดุที่รีไซเคิลได้ &lt;br&gt;&lt;br&gt;เครื่องแบบของคุณมีการป้องกันในระดับหนึ่ง แต่ก็ไม่ปลอดภัยสมบูรณ์ การยืนใกล้เกินไปอาจเป็นอันตรายได้ &lt;br&gt;&lt;br&gt;Recycler Charges สามารถขว้าง หรือติดเข้ากับวัตถุที่อยู่กับที่โดยใช้ %player:attack1%</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="16.5">
@@ -612,7 +612,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="48.75">
     <Cell><Data ss:Type="String">ui_LaserRifleCard</Data></Cell>
     <Cell><Data ss:Type="String">The Q-Beam fires a concentrated beam of unstable particles that will eventually cause a target to explode.&lt;br&gt;&lt;br&gt; Use %player:attack1% to fire your rifle and %player:reload% to reload. </Data></Cell>
-    <Cell><Data ss:Type="String">Q-Beam ยิงลำแสงอนุภาคที่ไม่เสถียรที่เข้มข้น ซึ่งในที่สุดจะทำให้เป้าหมายระเบิด<br><br> ใช้ %player:attack1% เพื่อยิงปืนไรเฟิลของคุณ และ %player:reload% เพื่อรีโหลด</Data></Cell>
+    <Cell><Data ss:Type="String">Q-Beam ยิงลำแสงอนุภาคที่ไม่เสถียรที่เข้มข้น ซึ่งในที่สุดจะทำให้เป้าหมายระเบิด&lt;br&gt;&lt;br&gt; ใช้ %player:attack1% เพื่อยิงปืนไรเฟิลของคุณ และ %player:reload% เพื่อรีโหลด</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -635,7 +635,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="70.5">
     <Cell><Data ss:Type="String">ui_PistolCard</Data></Cell>
     <Cell><Data ss:Type="String">The TranStar PPN-8 Pistol is the standard issue weapon for all TranStar security personnel. Small, fast, and quiet, this pistol provides satisfactory damage while maintaining a degree of stealth.&lt;br&gt;&lt;br&gt; Use %player:attack1% to fire your pistol and %player:reload% to reload. </Data></Cell>
-    <Cell><Data ss:Type="String">ปืนพก TranStar PPN-8 เป็นอาวุธมาตรฐานสำหรับเจ้าหน้าที่รักษาความปลอดภัย TranStar ทุกคน ปืนพกนี้มีขนาดเล็ก, รวดเร็ว และเงียบ ให้ความเสียหายที่น่าพอใจในขณะที่ยังคงรักษาความสามารถในการลอบเร้นได้ในระดับหนึ่ง<br><br> ใช้ %player:attack1% เพื่อยิงปืนพกของคุณ และ %player:reload% เพื่อรีโหลด</Data></Cell>
+    <Cell><Data ss:Type="String">ปืนพก TranStar PPN-8 เป็นอาวุธมาตรฐานสำหรับเจ้าหน้าที่รักษาความปลอดภัย TranStar ทุกคน ปืนพกนี้มีขนาดเล็ก, รวดเร็ว และเงียบ ให้ความเสียหายที่น่าพอใจในขณะที่ยังคงรักษาความสามารถในการลอบเร้นได้ในระดับหนึ่ง&lt;br&gt;&lt;br&gt; ใช้ %player:attack1% เพื่อยิงปืนพกของคุณ และ %player:reload% เพื่อรีโหลด</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="18.75">
@@ -658,7 +658,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="56.25">
     <Cell><Data ss:Type="String">ui_ShotgunCard</Data></Cell>
     <Cell><Data ss:Type="String">The Throne Tactical Shotgun provides maximum damage at close range. Effectiveness falls off significantly at longer range.&lt;br&gt;&lt;br&gt; Use %player:attack1% to fire your shotgun and %player:reload% to reload. </Data></Cell>
-    <Cell><Data ss:Type="String">ปืนลูกซอง Throne Tactical ให้ความเสียหายสูงสุดในระยะใกล้ ประสิทธิภาพจะลดลงอย่างมากในระยะไกล<br><br> ใช้ %player:attack1% เพื่อยิงปืนลูกซองของคุณ และ %player:reload% เพื่อรีโหลด</Data></Cell>
+    <Cell><Data ss:Type="String">ปืนลูกซอง Throne Tactical ให้ความเสียหายสูงสุดในระยะใกล้ ประสิทธิภาพจะลดลงอย่างมากในระยะไกล&lt;br&gt;&lt;br&gt; ใช้ %player:attack1% เพื่อยิงปืนลูกซองของคุณ และ %player:reload% เพื่อรีโหลด</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -687,7 +687,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="57.75">
     <Cell><Data ss:Type="String">ui_StungunCard</Data></Cell>
     <Cell><Data ss:Type="String">The Disruptor Stun Gun will knock out human targets. Typhon are more resistant but can still be temporarily stunned. Robotic devices can also be temporarily disabled, and ultimately destroyed by the Disruptor.&lt;br&gt;&lt;br&gt;Hold %player:attack1% to charge your stun gun and release to fire. Use %player:reload% to reload.</Data></Cell>
-    <Cell><Data ss:Type="String">Disruptor Stun Gun จะทำให้เป้าหมายที่เป็นมนุษย์หมดสติ Typhon มีความต้านทานมากกว่า แต่ก็ยังสามารถถูกสตันได้ชั่วคราว อุปกรณ์หุ่นยนต์ยังสามารถถูกปิดใช้งานชั่วคราว และในที่สุดก็ถูกทำลายโดย Disruptor ได้<br><br>กดค้าง %player:attack1% เพื่อชาร์จปืนสตันของคุณแล้วปล่อยเพื่อยิง ใช้ %player:reload% เพื่อรีโหลด</Data></Cell>
+    <Cell><Data ss:Type="String">Disruptor Stun Gun จะทำให้เป้าหมายที่เป็นมนุษย์หมดสติ Typhon มีความต้านทานมากกว่า แต่ก็ยังสามารถถูกสตันได้ชั่วคราว อุปกรณ์หุ่นยนต์ยังสามารถถูกปิดใช้งานชั่วคราว และในที่สุดก็ถูกทำลายโดย Disruptor ได้&lt;br&gt;&lt;br&gt;กดค้าง %player:attack1% เพื่อชาร์จปืนสตันของคุณแล้วปล่อยเพื่อยิง ใช้ %player:reload% เพื่อรีโหลด</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="16.5">
@@ -710,7 +710,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="49.5">
     <Cell><Data ss:Type="String">ui_NullwaveCard</Data></Cell>
     <Cell><Data ss:Type="String">Developed in Psychotronics, the Nullwave Transmitter emits a burst of signals which suppress the psionic abilities of anyone caught in the blast for a short period of time. &lt;br&gt;&lt;br&gt;It can be thrown, or affixed to stationary objects using %player:attack1%.</Data></Cell>
-    <Cell><Data ss:Type="String">Nullwave Transmitter พัฒนาขึ้นใน Psychotronics ปล่อยสัญญาณที่ระงับความสามารถทางจิตของทุกคนที่อยู่ในรัศมีการระเบิดชั่วขณะ <br><br>มันสามารถขว้าง หรือติดเข้ากับวัตถุที่อยู่กับที่โดยใช้ %player:attack1%</Data></Cell>
+    <Cell><Data ss:Type="String">Nullwave Transmitter พัฒนาขึ้นใน Psychotronics ปล่อยสัญญาณที่ระงับความสามารถทางจิตของทุกคนที่อยู่ในรัศมีการระเบิดชั่วขณะ &lt;br&gt;&lt;br&gt;มันสามารถขว้าง หรือติดเข้ากับวัตถุที่อยู่กับที่โดยใช้ %player:attack1%</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -733,7 +733,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="76.5">
     <Cell><Data ss:Type="String">ui_WrenchCard</Data></Cell>
     <Cell><Data ss:Type="String">The Hephaestus &quot;Heffy&quot; Twist and Loop Handle Wrench is standard issue for all maintenance personnel employed in TranStar facilities. Good for liberal application of percussive maintenance and mechanical agitation.&lt;br&gt;&lt;br&gt; Use %player:attack1% to swing your wrench. Important: Press and hold %player:attack1% to charge your attack for maximum damage. &lt;br&gt;&lt;br&gt; All wrench attacks will drain your stamina.</Data></Cell>
-    <Cell><Data ss:Type="String">Hephaestus &quot;Heffy&quot; Twist and Loop Handle Wrench เป็นอุปกรณ์มาตรฐานสำหรับเจ้าหน้าที่ซ่อมบำรุงทุกคนที่ทำงานในศูนย์ของ TranStar เหมาะสำหรับการบำรุงรักษาด้วยการกระแทกและการกระตุ้นทางกลไก<br><br> ใช้ %player:attack1% เพื่อเหวี่ยงประแจของคุณ สำคัญ: กดค้าง %player:attack1% เพื่อชาร์จการโจมตีให้สร้างความเสียหายสูงสุด <br><br> การโจมตีด้วยประแจทุกครั้งจะใช้ค่าความแข็งแกร่งของคุณ</Data></Cell>
+    <Cell><Data ss:Type="String">Hephaestus &quot;Heffy&quot; Twist and Loop Handle Wrench เป็นอุปกรณ์มาตรฐานสำหรับเจ้าหน้าที่ซ่อมบำรุงทุกคนที่ทำงานในศูนย์ของ TranStar เหมาะสำหรับการบำรุงรักษาด้วยการกระแทกและการกระตุ้นทางกลไก&lt;br&gt;&lt;br&gt; ใช้ %player:attack1% เพื่อเหวี่ยงประแจของคุณ สำคัญ: กดค้าง %player:attack1% เพื่อชาร์จการโจมตีให้สร้างความเสียหายสูงสุด &lt;br&gt;&lt;br&gt; การโจมตีด้วยประแจทุกครั้งจะใช้ค่าความแข็งแกร่งของคุณ</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
@@ -756,7 +756,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="43.5">
     <Cell><Data ss:Type="String">ui_EMPGrenadeCard</Data></Cell>
     <Cell><Data ss:Type="String">The EMP Charge emits a large burst of electromagnetic energy. Highly effective against robots, turrets, and other electrical-based entities. &lt;br&gt;&lt;br&gt;It can be thrown, or affixed to stationary objects using %player:attack1%.</Data></Cell>
-    <Cell><Data ss:Type="String">EMP Charge ปล่อยพลังงานแม่เหล็กไฟฟ้าขนาดใหญ่ มีประสิทธิภาพสูงต่อหุ่นยนต์, ป้อมปืน และสิ่งมีชีวิตอื่นๆ ที่ใช้ไฟฟ้าเป็นหลัก <br><br>มันสามารถขว้าง หรือติดเข้ากับวัตถุที่อยู่กับที่โดยใช้ %player:attack1%</Data></Cell>
+    <Cell><Data ss:Type="String">EMP Charge ปล่อยพลังงานแม่เหล็กไฟฟ้าขนาดใหญ่ มีประสิทธิภาพสูงต่อหุ่นยนต์, ป้อมปืน และสิ่งมีชีวิตอื่นๆ ที่ใช้ไฟฟ้าเป็นหลัก &lt;br&gt;&lt;br&gt;มันสามารถขว้าง หรือติดเข้ากับวัตถุที่อยู่กับที่โดยใช้ %player:attack1%</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -779,7 +779,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="60.75">
     <Cell><Data ss:Type="String">ui_LureCard</Data></Cell>
     <Cell><Data ss:Type="String">A Typhon Lure (a.k.a. Nightlight) emits a psycholuminescent signal that entices Typhon to move toward the lure for a short period of time. Combine with other weapons or tactics to escape, ambush, or observe Typhon from a safe distance. &lt;br&gt;&lt;br&gt;It can be thrown, or affixed to stationary objects using %player:attack1% </Data></Cell>
-    <Cell><Data ss:Type="String">Typhon Lure (หรือที่รู้จักกันในชื่อ Nightlight) ปล่อยสัญญาณจิตเรืองแสงที่ล่อลวง Typhon ให้เคลื่อนที่เข้าหาเหยื่อเป็นระยะเวลาสั้นๆ รวมกับอาวุธหรือกลยุทธ์อื่นๆ เพื่อหลบหนี, ซุ่มโจมตี หรือสังเกต Typhon จากระยะปลอดภัย <br><br>มันสามารถขว้าง หรือติดเข้ากับวัตถุที่อยู่กับที่โดยใช้ %player:attack1%</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Lure (หรือที่รู้จักกันในชื่อ Nightlight) ปล่อยสัญญาณจิตเรืองแสงที่ล่อลวง Typhon ให้เคลื่อนที่เข้าหาเหยื่อเป็นระยะเวลาสั้นๆ รวมกับอาวุธหรือกลยุทธ์อื่นๆ เพื่อหลบหนี, ซุ่มโจมตี หรือสังเกต Typhon จากระยะปลอดภัย &lt;br&gt;&lt;br&gt;มันสามารถขว้าง หรือติดเข้ากับวัตถุที่อยู่กับที่โดยใช้ %player:attack1%</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="17.25">
@@ -819,7 +819,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">ui_RecyclerTutorialCard</Data></Cell>
     <Cell><Data ss:Type="String">&lt;br&gt;Recyclers convert unwanted items into Synthetic, Mineral, Organic, and Exotic material which can be used by Fabricators to construct new items. </Data></Cell>
-    <Cell><Data ss:Type="String"><br>Recyclers จะแปลงไอเทมที่ไม่ต้องการให้เป็นวัสดุสังเคราะห์, แร่, อินทรีย์ และแปลกใหม่ ซึ่ง Fabricators สามารถนำไปใช้สร้างไอเทมใหม่ได้</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;Recyclers จะแปลงไอเทมที่ไม่ต้องการให้เป็นวัสดุสังเคราะห์, แร่, อินทรีย์ และแปลกใหม่ ซึ่ง Fabricators สามารถนำไปใช้สร้างไอเทมใหม่ได้</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -836,7 +836,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell><Data ss:Type="String">ui_SecurityStationsTutorialCard</Data></Cell>
     <Cell><Data ss:Type="String">&lt;br&gt;Security stations monitor all Talos I personnel assigned to an area. Selecting an employee's name will unlock an objective with tracking information, assuming their tracking bracelet is still transmitting.</Data></Cell>
-    <Cell><Data ss:Type="String"><br>สถานีรักษาความปลอดภัยจะตรวจสอบบุคลากร Talos I ทั้งหมดที่ได้รับมอบหมายในพื้นที่ การเลือกชื่อพนักงานจะปลดล็อกภารกิจพร้อมข้อมูลการติดตาม โดยสมมติว่าสายรัดข้อมือติดตามของพวกเขายังคงส่งสัญญาณอยู่</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;สถานีรักษาความปลอดภัยจะตรวจสอบบุคลากร Talos I ทั้งหมดที่ได้รับมอบหมายในพื้นที่ การเลือกชื่อพนักงานจะปลดล็อกภารกิจพร้อมข้อมูลการติดตาม โดยสมมติว่าสายรัดข้อมือติดตามของพวกเขายังคงส่งสัญญาณอยู่</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="12">
@@ -853,7 +853,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="51">
     <Cell><Data ss:Type="String">ui_WorkstationsTutorialCard</Data></Cell>
     <Cell><Data ss:Type="String">&lt;br&gt;Many TranStar employees have private workstations. Locked stations require a password. Search the environment for clues, or use the hacking ability to bypass the login. Workstations may contain email, files to download, or special utilities. </Data></Cell>
-    <Cell><Data ss:Type="String"><br>พนักงาน TranStar หลายคนมีเวิร์กสเตชันส่วนตัว สถานีที่ล็อกอยู่ต้องใช้รหัสผ่าน ค้นหาสภาพแวดล้อมเพื่อหาเบาะแส หรือใช้ความสามารถการแฮกเพื่อข้ามการเข้าสู่ระบบ เวิร์กสเตชันอาจมีอีเมล, ไฟล์สำหรับดาวน์โหลด หรือยูทิลิตี้พิเศษ</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;พนักงาน TranStar หลายคนมีเวิร์กสเตชันส่วนตัว สถานีที่ล็อกอยู่ต้องใช้รหัสผ่าน ค้นหาสภาพแวดล้อมเพื่อหาเบาะแส หรือใช้ความสามารถการแฮกเพื่อข้ามการเข้าสู่ระบบ เวิร์กสเตชันอาจมีอีเมล, ไฟล์สำหรับดาวน์โหลด หรือยูทิลิตี้พิเศษ</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="11.25">
@@ -893,13 +893,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell><Data ss:Type="String">ui_TraumaTutorialCard</Data></Cell>
     <Cell><Data ss:Type="String">Some types of damage you sustain will result in serious trauma. To remove a trauma visit, a Medical Operator or use the appropriate pharmaceutical.&lt;br&gt;&lt;br&gt; Press  %player:togglepda% to open your TranScribe and view your current status.</Data></Cell>
-    <Cell><Data ss:Type="String">ความเสียหายบางประเภทที่คุณได้รับจะส่งผลให้เกิดอาการบาดเจ็บร้ายแรง ในการรักษาอาการบาดเจ็บ ให้ไปหา Medical Operator หรือใช้ยาที่เหมาะสม<br><br> กด %player:togglepda% เพื่อเปิด TranScribe ของคุณและดูสถานะปัจจุบันของคุณ</Data></Cell>
+    <Cell><Data ss:Type="String">ความเสียหายบางประเภทที่คุณได้รับจะส่งผลให้เกิดอาการบาดเจ็บร้ายแรง ในการรักษาอาการบาดเจ็บ ให้ไปหา Medical Operator หรือใช้ยาที่เหมาะสม&lt;br&gt;&lt;br&gt; กด %player:togglepda% เพื่อเปิด TranScribe ของคุณและดูสถานะปัจจุบันของคุณ</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell><Data ss:Type="String">ui_TraumaTutorialCardPC</Data></Cell>
     <Cell><Data ss:Type="String">Some types of damage you sustain will result in serious trauma. To remove a trauma, visit a Medical Operator or use the appropriate pharmaceutical.&lt;br&gt;&lt;br&gt; Press  %player:togglestatus% to open your TranScribe and view your current status.</Data></Cell>
-    <Cell><Data ss:Type="String">ความเสียหายบางประเภทที่คุณได้รับจะส่งผลให้เกิดอาการบาดเจ็บร้ายแรง ในการรักษาอาการบาดเจ็บ ให้ไปหา Medical Operator หรือใช้ยาที่เหมาะสม<br><br> กด %player:togglestatus% เพื่อเปิด TranScribe ของคุณและดูสถานะปัจจุบันของคุณ</Data></Cell>
+    <Cell><Data ss:Type="String">ความเสียหายบางประเภทที่คุณได้รับจะส่งผลให้เกิดอาการบาดเจ็บร้ายแรง ในการรักษาอาการบาดเจ็บ ให้ไปหา Medical Operator หรือใช้ยาที่เหมาะสม&lt;br&gt;&lt;br&gt; กด %player:togglestatus% เพื่อเปิด TranScribe ของคุณและดูสถานะปัจจุบันของคุณ</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="11.25">
@@ -986,7 +986,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_CombosCard</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Most enemies aboard Talos I are stronger than you - at least initially. Before attacking head on, try gaining an advantage by disabling them first. Freeze your enemies in place with &lt;font color ='#f0c869'&gt;GLOO&lt;/font&gt; or the &lt;font color ='#f0c869'&gt;Disruptor Stun Gun&lt;/font&gt;. Block them from using powers with &lt;font color ='#f0c869'&gt;Nullwave Transmitters&lt;/font&gt; or the &lt;font color ='#f0c869'&gt;Psychoshock&lt;/font&gt; ability. Drop &lt;font color ='#f0c869'&gt;EMP Charges&lt;/font&gt; to stun robotic opponents.&lt;br&gt;&lt;br&gt;Enemies always take &lt;font color ='#f0c869'&gt;bonus damage&lt;/font&gt; when they are disabled. Experiment to create your own deadly combos.</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ศัตรูส่วนใหญ่บน Talos I แข็งแกร่งกว่าคุณ – อย่างน้อยก็ในช่วงแรก ก่อนที่จะโจมตีแบบตัวต่อตัว ลองหาข้อได้เปรียบโดยการทำให้พวกมันไร้ความสามารถก่อน ตรึงศัตรูให้อยู่กับที่ด้วย <font color =&apos;#f0c869&apos;>GLOO</font> หรือ <font color =&apos;#f0c869&apos;>Disruptor Stun Gun</font> ป้องกันพวกมันจากการใช้พลังด้วย <font color =&apos;#f0c869&apos;>Nullwave Transmitters</font> หรือความสามารถ <font color =&apos;#f0c869&apos;>Psychoshock</font> ทิ้ง <font color =&apos;#f0c869&apos;>EMP Charges</font> เพื่อสตันคู่ต่อสู้หุ่นยนต์<br><br>ศัตรูจะได้รับ <font color =&apos;#f0c869&apos;>ความเสียหายเพิ่มเติม</font> เสมอเมื่อพวกมันไร้ความสามารถ ทดลองเพื่อสร้างคอมโบมรณะของคุณเอง</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ศัตรูส่วนใหญ่บน Talos I แข็งแกร่งกว่าคุณ – อย่างน้อยก็ในช่วงแรก ก่อนที่จะโจมตีแบบตัวต่อตัว ลองหาข้อได้เปรียบโดยการทำให้พวกมันไร้ความสามารถก่อน ตรึงศัตรูให้อยู่กับที่ด้วย &lt;font color =&apos;#f0c869&apos;&gt;GLOO&lt;/font&gt; หรือ &lt;font color =&apos;#f0c869&apos;&gt;Disruptor Stun Gun&lt;/font&gt; ป้องกันพวกมันจากการใช้พลังด้วย &lt;font color =&apos;#f0c869&apos;&gt;Nullwave Transmitters&lt;/font&gt; หรือความสามารถ &lt;font color =&apos;#f0c869&apos;&gt;Psychoshock&lt;/font&gt; ทิ้ง &lt;font color =&apos;#f0c869&apos;&gt;EMP Charges&lt;/font&gt; เพื่อสตันคู่ต่อสู้หุ่นยนต์&lt;br&gt;&lt;br&gt;ศัตรูจะได้รับ &lt;font color =&apos;#f0c869&apos;&gt;ความเสียหายเพิ่มเติม&lt;/font&gt; เสมอเมื่อพวกมันไร้ความสามารถ ทดลองเพื่อสร้างคอมโบมรณะของคุณเอง</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
@@ -1028,7 +1028,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_ElectricJunctionTutorialCard</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">You've been hit by an arc of electricity from a broken Electric Junction. GLOO temporarily stops the arcing electricity long enough for you to use Repair II or bypass the hazard entirely.&lt;br&gt;&lt;br&gt;Broken Electric Junctions will damage your enemies as well. </Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">คุณถูกกระแสไฟฟ้าจากจุดเชื่อมต่อไฟฟ้าที่ชำรุดโจมตี GLOO จะหยุดกระแสไฟฟ้าชั่วคราวได้นานพอให้คุณใช้ Repair II หรือหลีกเลี่ยงอันตรายนั้นไปเลย<br><br>จุดเชื่อมต่อไฟฟ้าที่ชำรุดจะสร้างความเสียหายให้กับศัตรูของคุณด้วย</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">คุณถูกกระแสไฟฟ้าจากจุดเชื่อมต่อไฟฟ้าที่ชำรุดโจมตี GLOO จะหยุดกระแสไฟฟ้าชั่วคราวได้นานพอให้คุณใช้ Repair II หรือหลีกเลี่ยงอันตรายนั้นไปเลย&lt;br&gt;&lt;br&gt;จุดเชื่อมต่อไฟฟ้าที่ชำรุดจะสร้างความเสียหายให้กับศัตรูของคุณด้วย</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
@@ -1177,19 +1177,19 @@
    <Row ss:Index="176" ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">ui_PromptNeuromod</Data></Cell>
     <Cell><Data ss:Type="String">You've acquired a Neuromod.&lt;br&gt;Press %contextaction% to install new abilities.</Data></Cell>
-    <Cell><Data ss:Type="String">คุณได้รับ Neuromod แล้ว<br>กด %contextaction% เพื่อติดตั้งความสามารถใหม่ๆ</Data></Cell>
+    <Cell><Data ss:Type="String">คุณได้รับ Neuromod แล้ว&lt;br&gt;กด %contextaction% เพื่อติดตั้งความสามารถใหม่ๆ</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">ui_PromptChipsetsTip</Data></Cell>
     <Cell><Data ss:Type="String">You've acquired a Chipset.&lt;br&gt;Press %contextaction% to install the chipset in your suit or scope.</Data></Cell>
-    <Cell><Data ss:Type="String">คุณได้รับชิปเซ็ตแล้ว<br>กด %contextaction% เพื่อติดตั้งชิปเซ็ตในชุดหรือกล้องส่องทางไกลของคุณ</Data></Cell>
+    <Cell><Data ss:Type="String">คุณได้รับชิปเซ็ตแล้ว&lt;br&gt;กด %contextaction% เพื่อติดตั้งชิปเซ็ตในชุดหรือกล้องส่องทางไกลของคุณ</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_PromptFabricationPlan</Data></Cell>
     <Cell><Data ss:Type="String">You've acquired a Fabrication Plan.&lt;br&gt;Press %contextaction% to view.</Data></Cell>
-    <Cell><Data ss:Type="String">คุณได้รับแผนการผลิตแล้ว<br>กด %contextaction% เพื่อดู</Data></Cell>
+    <Cell><Data ss:Type="String">คุณได้รับแผนการผลิตแล้ว&lt;br&gt;กด %contextaction% เพื่อดู</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -1198,19 +1198,19 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">ui_PromptResearchCompleteDesc</Data></Cell>
     <Cell><Data ss:Type="String">Typhon ability researched: %1%&lt;br&gt;Press %contextaction% to view available abilities.</Data></Cell>
-    <Cell><Data ss:Type="String">ความสามารถ Typhon ที่วิจัยแล้ว: %1%<br>กด %contextaction% เพื่อดูความสามารถที่มีอยู่</Data></Cell>
+    <Cell><Data ss:Type="String">ความสามารถ Typhon ที่วิจัยแล้ว: %1%&lt;br&gt;กด %contextaction% เพื่อดูความสามารถที่มีอยู่</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">ui_PromptObjectivesDesc</Data></Cell>
     <Cell><Data ss:Type="String">You've been given an objective.&lt;br&gt;Press %contextaction% to open your TranScribe.</Data></Cell>
-    <Cell><Data ss:Type="String">คุณได้รับภารกิจแล้ว<br>กด %contextaction% เพื่อเปิด TranScribe ของคุณ</Data></Cell>
+    <Cell><Data ss:Type="String">คุณได้รับภารกิจแล้ว&lt;br&gt;กด %contextaction% เพื่อเปิด TranScribe ของคุณ</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="21.75">
     <Cell><Data ss:Type="String">ui_PromptOpenInventory</Data></Cell>
     <Cell><Data ss:Type="String">You've acquired an item.&lt;br&gt;Press %contextaction% to view your Inventory. </Data></Cell>
-    <Cell><Data ss:Type="String">คุณได้รับไอเทมแล้ว<br>กด %contextaction% เพื่อดูช่องเก็บของของคุณ</Data></Cell>
+    <Cell><Data ss:Type="String">คุณได้รับไอเทมแล้ว&lt;br&gt;กด %contextaction% เพื่อดูช่องเก็บของของคุณ</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
@@ -1460,7 +1460,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="51">
     <Cell><Data ss:Type="String">ui_DemoCard</Data></Cell>
     <Cell><Data ss:Type="String">Thank you for completing the Prey demo. Are you ready to unravel the mysteries of Talos I? Your Mind. The Station. Earth Itself. Nothing is Safe from the Alien Threat.&lt;br&gt;&lt;br&gt;Fight the Invasion on Friday, May 5th 2017.&lt;br&gt;&lt;br&gt;Preorder now to get the Exclusive Cosmonaut Shotgun Starter Pack, consisting of Morgan Yu’s family heirloom Margrave shotgun and tools to fight threats aboard Talos I including: three Neuromods players can spend to acquire new abilities, two Medkits, a Fabrication plan to create the Shotgun and Ammo, a starter kit for building tools and weapons, and a unique upgrade to help players preserve their limited resources.</Data></Cell>
-    <Cell><Data ss:Type="String">ขอบคุณที่เล่น Prey เดโมจนจบ คุณพร้อมที่จะไขปริศนาของ Talos I แล้วหรือยัง? จิตใจของคุณ สถานีแห่งนี้ แม้แต่โลกเอง ก็ไม่มีสิ่งใดปลอดภัยจากภัยคุกคามจากเอเลี่ยน<br><br>ต่อสู้กับการรุกรานในวันศุกร์ที่ 5 พฤษภาคม 2017<br><br>สั่งซื้อล่วงหน้าตอนนี้เพื่อรับชุดเริ่มต้น Cosmonaut Shotgun สุดพิเศษ ซึ่งประกอบด้วยปืนลูกซอง Margrave มรดกประจำตระกูลของ Morgan Yu และเครื่องมือสำหรับต่อสู้กับภัยคุกคามบน Talos I รวมถึง: Neuromods สามชิ้นที่ผู้เล่นสามารถใช้เพื่อรับความสามารถใหม่, Medkits สองชิ้น, แผนการสร้างปืนลูกซองและกระสุน, ชุดเริ่มต้นสำหรับสร้างเครื่องมือและอาวุธ, และการอัปเกรดพิเศษที่จะช่วยให้ผู้เล่นรักษาสทรัพยากรที่จำกัดของตนไว้ได้</Data></Cell>
+    <Cell><Data ss:Type="String">ขอบคุณที่เล่น Prey เดโมจนจบ คุณพร้อมที่จะไขปริศนาของ Talos I แล้วหรือยัง? จิตใจของคุณ สถานีแห่งนี้ แม้แต่โลกเอง ก็ไม่มีสิ่งใดปลอดภัยจากภัยคุกคามจากเอเลี่ยน&lt;br&gt;&lt;br&gt;ต่อสู้กับการรุกรานในวันศุกร์ที่ 5 พฤษภาคม 2017&lt;br&gt;&lt;br&gt;สั่งซื้อล่วงหน้าตอนนี้เพื่อรับชุดเริ่มต้น Cosmonaut Shotgun สุดพิเศษ ซึ่งประกอบด้วยปืนลูกซอง Margrave มรดกประจำตระกูลของ Morgan Yu และเครื่องมือสำหรับต่อสู้กับภัยคุกคามบน Talos I รวมถึง: Neuromods สามชิ้นที่ผู้เล่นสามารถใช้เพื่อรับความสามารถใหม่, Medkits สองชิ้น, แผนการสร้างปืนลูกซองและกระสุน, ชุดเริ่มต้นสำหรับสร้างเครื่องมือและอาวุธ, และการอัปเกรดพิเศษที่จะช่วยให้ผู้เล่นรักษาสทรัพยากรที่จำกัดของตนไว้ได้</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
   </Table>

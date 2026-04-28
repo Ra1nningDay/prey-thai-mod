@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -32,7 +32,7 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
    <NumberFormat/>
    <Protection/>
@@ -50,7 +50,7 @@
   <Style ss:ID="s64">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
   </Style>
   <Style ss:ID="s65">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
@@ -64,7 +64,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s68">
@@ -75,7 +75,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s69">
@@ -90,7 +90,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#666699" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s71">
@@ -101,7 +101,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   &lt;font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/&gt;
    <Interior ss:Color="#666699" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s72">
@@ -130,7 +130,7 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s76">
@@ -175,7 +175,7 @@
   <Style ss:ID="s82">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
   </Style>
   <Style ss:ID="s83">
@@ -186,16 +186,16 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   &lt;font ss:FontName="Arial" x:Family="Swiss"/&gt;
    <Interior/>
   </Style>
   <Style ss:ID="s84">
    <Alignment ss:Vertical="Center"/>
-   <Font ss:FontName="Segoe UI" x:Family="Swiss" ss:Color="#000000"/>
+   &lt;font ss:FontName="Segoe UI" x:Family="Swiss" ss:Color="#000000"/&gt;
   </Style>
   <Style ss:ID="s86">
    <Alignment ss:Vertical="Center"/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/&gt;
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
@@ -329,49 +329,49 @@
     <Cell ss:StyleID="s62"/>
     <Cell ss:StyleID="s62"><Data ss:Type="String">FG_LOC_CQ_ML_Sho</Data></Cell>
     <Cell><Data ss:Type="String">&lt;b&gt;Memory Log:&lt;/b&gt; Danielle Sho</Data></Cell>
-    <Cell><Data ss:Type="String"><b>บันทึกความทรงจำ:</b> Danielle Sho</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;บันทึกความทรงจำ:&lt;/b&gt; Danielle Sho</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s62"/>
     <Cell ss:StyleID="s62"><Data ss:Type="String">FG_LOC_CQ_ML_Calvino1</Data></Cell>
     <Cell><Data ss:Type="String">&lt;b&gt;Memory Log:&lt;/b&gt; Lorenzo Calvino 1</Data></Cell>
-    <Cell><Data ss:Type="String"><b>บันทึกความทรงจำ:</b> Lorenzo Calvino 1</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;บันทึกความทรงจำ:&lt;/b&gt; Lorenzo Calvino 1</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s62"/>
     <Cell ss:StyleID="s62"><Data ss:Type="String">FG_LOC_CQ_ML_Calvino2</Data></Cell>
     <Cell><Data ss:Type="String">&lt;b&gt;Memory Log:&lt;/b&gt; Lorenzo Calvino 2</Data></Cell>
-    <Cell><Data ss:Type="String"><b>บันทึกความทรงจำ:</b> Lorenzo Calvino 2</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;บันทึกความทรงจำ:&lt;/b&gt; Lorenzo Calvino 2</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s62"/>
     <Cell ss:StyleID="s62"><Data ss:Type="String">FG_LOC_CQ_ML_Igwe</Data></Cell>
     <Cell><Data ss:Type="String">&lt;b&gt;Memory Log:&lt;/b&gt; Dayo Igwe</Data></Cell>
-    <Cell><Data ss:Type="String"><b>บันทึกความทรงจำ:</b> Dayo Igwe</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;บันทึกความทรงจำ:&lt;/b&gt; Dayo Igwe</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s62"/>
     <Cell ss:StyleID="s62"><Data ss:Type="String">FG_LOC_CQ_ML_Ilyuskin</Data></Cell>
     <Cell><Data ss:Type="String">&lt;b&gt;Memory Log:&lt;/b&gt; Mikhaila Ilyushin</Data></Cell>
-    <Cell><Data ss:Type="String"><b>บันทึกความทรงจำ:</b> Mikhaila Ilyushin</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;บันทึกความทรงจำ:&lt;/b&gt; Mikhaila Ilyushin</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s62"/>
     <Cell ss:StyleID="s62"><Data ss:Type="String">FG_LOC_CQ_ML_Paraplexis</Data></Cell>
     <Cell><Data ss:Type="String">&lt;b&gt;Memory Log:&lt;/b&gt; Paraplexis</Data></Cell>
-    <Cell><Data ss:Type="String"><b>บันทึกความทรงจำ:</b> Paraplexis</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;บันทึกความทรงจำ:&lt;/b&gt; Paraplexis</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s62"/>
     <Cell ss:StyleID="s62"><Data ss:Type="String">FG_LOC_CQ_ML_Elazar</Data></Cell>
     <Cell><Data ss:Type="String">&lt;b&gt;Memory Log:&lt;/b&gt; Sarah Elazar</Data></Cell>
-    <Cell><Data ss:Type="String"><b>บันทึกความทรงจำ:</b> Sarah Elazar</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;บันทึกความทรงจำ:&lt;/b&gt; Sarah Elazar</Data></Cell>
     <Cell><Data ss:Type="String">LOCKED</Data></Cell>
    </Row>
    <Row ss:StyleID="s81">

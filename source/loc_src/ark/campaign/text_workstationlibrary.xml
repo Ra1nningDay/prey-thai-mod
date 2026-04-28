@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
@@ -22,7 +22,7 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders />
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   &lt;font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/&gt;
    <Interior />
    <NumberFormat />
    <Protection />
@@ -185,7 +185,7 @@
      <Data ss:Type="String">Enter the ID number of the desired shipping container. &lt;br&gt;When the docking confirmation window appears, select Dock Container. &lt;br&gt;The container will pilot itself to the first open docking gate. &lt;br&gt;To undock a container, select the &quot;Undock Shipping Container&quot; option on the menu. &lt;br&gt;Select the Gate you wish to clear from the list at the bottom of the screen. &lt;br&gt;The docked container will autopilot to its stowed location.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ป้อนหมายเลข ID ของตู้คอนเทนเนอร์ขนส่งที่ต้องการ <br>เมื่อหน้าต่างยืนยันการเทียบท่าปรากฏขึ้น ให้เลือก เทียบท่าตู้คอนเทนเนอร์ <br>ตู้คอนเทนเนอร์จะขับเคลื่อนตัวเองไปยังเกตเทียบท่าแรกที่ว่างอยู่ <br>หากต้องการถอนเทียบท่าตู้คอนเทนเนอร์ ให้เลือกตัวเลือก &quot;ถอนเทียบท่าตู้คอนเทนเนอร์ขนส่ง&quot; ในเมนู <br>เลือกเกตที่คุณต้องการเคลียร์จากรายการที่ด้านล่างของหน้าจอ <br>ตู้คอนเทนเนอร์ที่เทียบท่าอยู่จะขับเคลื่อนอัตโนมัติไปยังตำแหน่งจัดเก็บ</Data>
+     <Data ss:Type="String">ป้อนหมายเลข ID ของตู้คอนเทนเนอร์ขนส่งที่ต้องการ &lt;br&gt;เมื่อหน้าต่างยืนยันการเทียบท่าปรากฏขึ้น ให้เลือก เทียบท่าตู้คอนเทนเนอร์ &lt;br&gt;ตู้คอนเทนเนอร์จะขับเคลื่อนตัวเองไปยังเกตเทียบท่าแรกที่ว่างอยู่ &lt;br&gt;หากต้องการถอนเทียบท่าตู้คอนเทนเนอร์ ให้เลือกตัวเลือก &quot;ถอนเทียบท่าตู้คอนเทนเนอร์ขนส่ง&quot; ในเมนู &lt;br&gt;เลือกเกตที่คุณต้องการเคลียร์จากรายการที่ด้านล่างของหน้าจอ &lt;br&gt;ตู้คอนเทนเนอร์ที่เทียบท่าอยู่จะขับเคลื่อนอัตโนมัติไปยังตำแหน่งจัดเก็บ</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -369,7 +369,7 @@
      <Data ss:Type="String">LOAD: //Locales/Earthside.EchelonToTranStar.lgv, 8, 1&lt;br&gt;&lt;br&gt;LG SERVER STATUS&lt;br&gt;1. ARX-SR4BN-715: OK&lt;br&gt;2. ARX-SR4BN-864: OK&lt;br&gt;3. ARX-SR4BN-988: OK&lt;br&gt;&lt;br&gt;Note: For technical issues contact Dr. Lorenzo Calvino or Miyu Okabe.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">LOAD: //Locales/Earthside.EchelonToTranStar.lgv, 8, 1<br><br>LG SERVER STATUS<br>1. ARX-SR4BN-715: OK<br>2. ARX-SR4BN-864: OK<br>3. ARX-SR4BN-988: OK<br><br>หมายเหตุ: สำหรับปัญหาทางเทคนิค โปรดติดต่อ Dr. Lorenzo Calvino หรือ Miyu Okabe</Data>
+     <Data ss:Type="String">LOAD: //Locales/Earthside.EchelonToTranStar.lgv, 8, 1&lt;br&gt;&lt;br&gt;LG SERVER STATUS&lt;br&gt;1. ARX-SR4BN-715: OK&lt;br&gt;2. ARX-SR4BN-864: OK&lt;br&gt;3. ARX-SR4BN-988: OK&lt;br&gt;&lt;br&gt;หมายเหตุ: สำหรับปัญหาทางเทคนิค โปรดติดต่อ Dr. Lorenzo Calvino หรือ Miyu Okabe</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -437,7 +437,7 @@
      <Data ss:Type="String">LOAD: //Locales/Earthside.EchelonToTranStar.lgv, 8, 1&lt;br&gt;&lt;br&gt;LG SERVER STATUS&lt;br&gt;1. ARX-SR4BN-715: OK&lt;br&gt;2. ARX-SR4BN-864: OK&lt;br&gt;3. ARX-SR4BN-988: OK&lt;br&gt;&lt;br&gt;Note: For technical issues contact Dr. Lorenzo Calvino or Miyu Okabe.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">LOAD: //Locales/Earthside.EchelonToTranStar.lgv, 8, 1<br><br>LG SERVER STATUS<br>1. ARX-SR4BN-715: OK<br>2. ARX-SR4BN-864: OK<br>3. ARX-SR4BN-988: OK<br><br>หมายเหตุ: สำหรับปัญหาทางเทคนิค โปรดติดต่อ Dr. Lorenzo Calvino หรือ Miyu Okabe</Data>
+     <Data ss:Type="String">LOAD: //Locales/Earthside.EchelonToTranStar.lgv, 8, 1&lt;br&gt;&lt;br&gt;LG SERVER STATUS&lt;br&gt;1. ARX-SR4BN-715: OK&lt;br&gt;2. ARX-SR4BN-864: OK&lt;br&gt;3. ARX-SR4BN-988: OK&lt;br&gt;&lt;br&gt;หมายเหตุ: สำหรับปัญหาทางเทคนิค โปรดติดต่อ Dr. Lorenzo Calvino หรือ Miyu Okabe</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -1656,7 +1656,7 @@
      <Data ss:Type="String">Software Version: 1.43.986&lt;br&gt;Diagnostic Remote Host Status: Ready&lt;br&gt;LGDDiag Mode: Verbose&lt;br&gt;Channel: 9v=205</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">เวอร์ชันซอฟต์แวร์: 1.43.986<br>สถานะโฮสต์ระยะไกลสำหรับการวินิจฉัย: พร้อมใช้งาน<br>โหมด LGDDiag: ละเอียด<br>ช่องสัญญาณ: 9v=205</Data>
+     <Data ss:Type="String">เวอร์ชันซอฟต์แวร์: 1.43.986&lt;br&gt;สถานะโฮสต์ระยะไกลสำหรับการวินิจฉัย: พร้อมใช้งาน&lt;br&gt;โหมด LGDDiag: ละเอียด&lt;br&gt;ช่องสัญญาณ: 9v=205</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -3038,7 +3038,7 @@
      <Data ss:Type="String">Adult Siskak Eel length: Approx 1m. &lt;br&gt;Weight: Approx 9kg. &lt;br&gt;Diet: Detritivore.  &lt;br&gt;&lt;br&gt;Note: the containment tank automatically monitors eel growth and will filter out juvenile eels during extraction.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ความยาวปลาไหล Siskak โตเต็มวัย: ประมาณ 1 ม. <br>น้ำหนัก: ประมาณ 9 กก. <br>อาหาร: กินซากพืชซากสัตว์ <br><br>หมายเหตุ: ถังกักกันจะตรวจสอบการเติบโตของปลาไหลโดยอัตโนมัติ และจะกรองปลาไหลวัยอ่อนออกระหว่างการสกัด</Data>
+     <Data ss:Type="String">ความยาวปลาไหล Siskak โตเต็มวัย: ประมาณ 1 ม. &lt;br&gt;น้ำหนัก: ประมาณ 9 กก. &lt;br&gt;อาหาร: กินซากพืชซากสัตว์ &lt;br&gt;&lt;br&gt;หมายเหตุ: ถังกักกันจะตรวจสอบการเติบโตของปลาไหลโดยอัตโนมัติ และจะกรองปลาไหลวัยอ่อนออกระหว่างการสกัด</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -3205,7 +3205,7 @@
      <Data ss:Type="String">Atmosphere Control is a class 100 clean room. Pursuant to TranStar Standard 309F, concentration of airborne particulates must be controlled to within specified limits. &lt;br&gt;&lt;br&gt;When particulates rise above acceptable levels, initiate Decontamination Procedure. &lt;br&gt;&lt;br&gt;Warning! All personnel inside Atmosphere Control should have proper suits to handle temporary loss of oxygen.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ส่วนควบคุมบรรยากาศเป็นห้องปลอดเชื้อระดับ 100 ตามมาตรฐาน TranStar 309F ความเข้มข้นของอนุภาคในอากาศจะต้องถูกควบคุมให้อยู่ในขีดจำกัดที่กำหนด <br><br>เมื่ออนุภาคสูงเกินระดับที่ยอมรับได้ ให้เริ่มขั้นตอนการขจัดสิ่งปนเปื้อน <br><br>คำเตือน! บุคลากรทุกคนภายในส่วนควบคุมบรรยากาศควรสวมชุดที่เหมาะสมเพื่อรับมือกับการขาดออกซิเจนชั่วคราว</Data>
+     <Data ss:Type="String">ส่วนควบคุมบรรยากาศเป็นห้องปลอดเชื้อระดับ 100 ตามมาตรฐาน TranStar 309F ความเข้มข้นของอนุภาคในอากาศจะต้องถูกควบคุมให้อยู่ในขีดจำกัดที่กำหนด &lt;br&gt;&lt;br&gt;เมื่ออนุภาคสูงเกินระดับที่ยอมรับได้ ให้เริ่มขั้นตอนการขจัดสิ่งปนเปื้อน &lt;br&gt;&lt;br&gt;คำเตือน! บุคลากรทุกคนภายในส่วนควบคุมบรรยากาศควรสวมชุดที่เหมาะสมเพื่อรับมือกับการขาดออกซิเจนชั่วคราว</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -3575,7 +3575,7 @@
      <Data ss:Type="String">CRITICAL ERROR*&lt;br&gt;&lt;br&gt;A critical error has occured with Access Control. The system will schedule an engineer to diagnose the problem. In the meantime, Central Repository Access Control is unavailable. </Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ข้อผิดพลาดร้ายแรง*<br><br>เกิดข้อผิดพลาดร้ายแรงกับการควบคุมการเข้าถึง ระบบจะจัดตารางให้วิศวกรมาวินิจฉัยปัญหา ในระหว่างนี้ การควบคุมการเข้าถึง Central Repository ไม่สามารถใช้งานได้</Data>
+     <Data ss:Type="String">ข้อผิดพลาดร้ายแรง*&lt;br&gt;&lt;br&gt;เกิดข้อผิดพลาดร้ายแรงกับการควบคุมการเข้าถึง ระบบจะจัดตารางให้วิศวกรมาวินิจฉัยปัญหา ในระหว่างนี้ การควบคุมการเข้าถึง Central Repository ไม่สามารถใช้งานได้</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -3620,7 +3620,7 @@
      <Data ss:Type="String">WARNING* &lt;br&gt;Central Repository is a secured data facility. All data transfers are monitored by the system. Please obtain proper authorization before transfering any files.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">คำเตือน* <br>Central Repository เป็นศูนย์ข้อมูลที่ปลอดภัย การถ่ายโอนข้อมูลทั้งหมดถูกตรวจสอบโดยระบบ โปรดขออนุญาตที่ถูกต้องก่อนถ่ายโอนไฟล์ใดๆ</Data>
+     <Data ss:Type="String">คำเตือน* &lt;br&gt;Central Repository เป็นศูนย์ข้อมูลที่ปลอดภัย การถ่ายโอนข้อมูลทั้งหมดถูกตรวจสอบโดยระบบ โปรดขออนุญาตที่ถูกต้องก่อนถ่ายโอนไฟล์ใดๆ</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -3654,7 +3654,7 @@
      <Data ss:Type="String">WARNING* &lt;br&gt;Central Repository is a secured data facility. All data transfers are monitored by the system. Please obtain proper authorization before transfering any files.&lt;br&gt;&lt;br&gt;This download has been approved by the system for all users. Enjoy!</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">คำเตือน* <br>Central Repository เป็นศูนย์ข้อมูลที่ปลอดภัย การถ่ายโอนข้อมูลทั้งหมดถูกตรวจสอบโดยระบบ โปรดขออนุญาตที่ถูกต้องก่อนถ่ายโอนไฟล์ใดๆ<br><br>การดาวน์โหลดนี้ได้รับการอนุมัติจากระบบสำหรับผู้ใช้ทุกคน ขอให้สนุก!</Data>
+     <Data ss:Type="String">คำเตือน* &lt;br&gt;Central Repository เป็นศูนย์ข้อมูลที่ปลอดภัย การถ่ายโอนข้อมูลทั้งหมดถูกตรวจสอบโดยระบบ โปรดขออนุญาตที่ถูกต้องก่อนถ่ายโอนไฟล์ใดๆ&lt;br&gt;&lt;br&gt;การดาวน์โหลดนี้ได้รับการอนุมัติจากระบบสำหรับผู้ใช้ทุกคน ขอให้สนุก!</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -3705,7 +3705,7 @@
      <Data ss:Type="String">WARNING!&lt;br&gt;&lt;br&gt;Sending a kill signal to a tracking bracelet is a violation of TranStar Policy. Do not deactivate a tracking bracelet for any reason without proper authorization! Tracking bracelets ensure all TranStar personnel can be located in the event of an emergency. Modifying a tracking bracelet must have written approval and may only be deactivated by those with Director level clearance. </Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">คำเตือน!<br><br>การส่งสัญญาณทำลายไปยังสายรัดข้อมือติดตามตัวเป็นการละเมิดนโยบาย TranStar ห้ามปิดใช้งานสายรัดข้อมือติดตามตัวไม่ว่าด้วยเหตุผลใดๆ โดยไม่ได้รับอนุญาตที่ถูกต้อง! สายรัดข้อมือติดตามตัวช่วยให้บุคลากร TranStar ทุกคนสามารถระบุตำแหน่งได้ในกรณีฉุกเฉิน การแก้ไขสายรัดข้อมือติดตามตัวต้องได้รับการอนุมัติเป็นลายลักษณ์อักษร และสามารถปิดใช้งานได้โดยผู้ที่มีสิทธิ์ระดับ Director เท่านั้น</Data>
+     <Data ss:Type="String">คำเตือน!&lt;br&gt;&lt;br&gt;การส่งสัญญาณทำลายไปยังสายรัดข้อมือติดตามตัวเป็นการละเมิดนโยบาย TranStar ห้ามปิดใช้งานสายรัดข้อมือติดตามตัวไม่ว่าด้วยเหตุผลใดๆ โดยไม่ได้รับอนุญาตที่ถูกต้อง! สายรัดข้อมือติดตามตัวช่วยให้บุคลากร TranStar ทุกคนสามารถระบุตำแหน่งได้ในกรณีฉุกเฉิน การแก้ไขสายรัดข้อมือติดตามตัวต้องได้รับการอนุมัติเป็นลายลักษณ์อักษร และสามารถปิดใช้งานได้โดยผู้ที่มีสิทธิ์ระดับ Director เท่านั้น</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -3781,7 +3781,7 @@
      <Data ss:Type="String">You selected: Test Subject Volunteer V-010655-32&lt;br&gt;Volunteer Status: Deceased&lt;br&gt;There is [1] audio file available: HS_AudioLog1129-0913&lt;br&gt;&lt;br&gt;Transferring this file is a violation of Transtar&apos;s Information Protection Policy. This file can only be transferred to a Director Workstation (M. Yu) TSP0810</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">คุณเลือก: อาสาสมัครทดลอง V-010655-32<br>สถานะอาสาสมัคร: เสียชีวิต<br>มีไฟล์บันทึกเสียง [1] ไฟล์: HS_AudioLog1129-0913<br><br>การถ่ายโอนไฟล์นี้เป็นการละเมิดนโยบายการคุ้มครองข้อมูลของ Transtar ไฟล์นี้สามารถถ่ายโอนไปยัง Director Workstation (M. Yu) TSP0810 เท่านั้น</Data>
+     <Data ss:Type="String">คุณเลือก: อาสาสมัครทดลอง V-010655-32&lt;br&gt;สถานะอาสาสมัคร: เสียชีวิต&lt;br&gt;มีไฟล์บันทึกเสียง [1] ไฟล์: HS_AudioLog1129-0913&lt;br&gt;&lt;br&gt;การถ่ายโอนไฟล์นี้เป็นการละเมิดนโยบายการคุ้มครองข้อมูลของ Transtar ไฟล์นี้สามารถถ่ายโอนไปยัง Director Workstation (M. Yu) TSP0810 เท่านั้น</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -4650,7 +4650,7 @@
      <Data ss:Type="String">Humans &amp; Operators</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">มนุษย์ & Operators</Data>
+     <Data ss:Type="String">มนุษย์ &amp; Operators</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">TEMP</Data>
@@ -5374,7 +5374,7 @@
      <Data ss:Type="String">Requirements:&lt;br&gt;-Chamber Sealed&lt;br&gt;-Recycler or EMP Charge in Grenade Container</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ข้อกำหนด:<br>-ห้องปิดผนึก<br>-Recycler หรือ EMP Charge ในคอนเทนเนอร์ระเบิด</Data>
+     <Data ss:Type="String">ข้อกำหนด:&lt;br&gt;-ห้องปิดผนึก&lt;br&gt;-Recycler หรือ EMP Charge ในคอนเทนเนอร์ระเบิด</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -5503,7 +5503,7 @@
      <Data ss:Type="String">Blackbox Q3 Update &lt;i&gt;backup file&lt;/i&gt;</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">อัปเดต Blackbox Q3 <i>ไฟล์สำรอง</i></Data>
+     <Data ss:Type="String">อัปเดต Blackbox Q3 &lt;i&gt;ไฟล์สำรอง&lt;/i&gt;</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -5672,7 +5672,7 @@
      <Data ss:Type="String">Fabrication Plan for the Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;- Noise reduction on trigger action. Still a bit too clacky for my tastes.&lt;br&gt;-Decreased weight while retaining structural stability. No more barrel splintering.&lt;br&gt;- Finalized name to the Huntress Boltcaster. Rejected Clive&apos;s suggestion of &quot;Painthrower&quot; and Franklin&apos;s &quot;Excruciator&quot;.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิต Huntress Boltcaster v. 1.3<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- ลดเสียงรบกวนจากการเหนี่ยวไก ยังคงมีเสียงดังเกินไปสำหรับผม<br>- ลดน้ำหนักลงในขณะที่ยังคงความเสถียรของโครงสร้าง ไม่มีการแตกของลำกล้องอีกต่อไป<br>- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่จะใช้ชื่อ &quot;Painthrower&quot; และ Franklin ที่จะใช้ชื่อ &quot;Excruciator&quot;<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิต Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- ลดเสียงรบกวนจากการเหนี่ยวไก ยังคงมีเสียงดังเกินไปสำหรับผม&lt;br&gt;- ลดน้ำหนักลงในขณะที่ยังคงความเสถียรของโครงสร้าง ไม่มีการแตกของลำกล้องอีกต่อไป&lt;br&gt;- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่จะใช้ชื่อ &quot;Painthrower&quot; และ Franklin ที่จะใช้ชื่อ &quot;Excruciator&quot;&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -5689,7 +5689,7 @@
      <Data ss:Type="String">Fabrication Plan for Ammunition for the Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;-Increased accuracy of the bolts&lt;br&gt;-Reworked lattice structure of the foam so it&apos;s less likely to crumble in your hands&lt;br&gt;-Attempts at reducing impact noise are still fruitless.&lt;br&gt;-Integrated Clive&apos;s changes to Flexifoam formula.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิตกระสุนสำหรับ Huntress Boltcaster, v. 3.2<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- เพิ่มความแม่นยำของลูกดอก<br>- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อลดโอกาสที่จะแตกสลายในมือคุณ<br>- ความพยายามในการลดเสียงกระทบยังคงไร้ผล<br>- รวมการเปลี่ยนแปลงสูตร Flexifoam ของ Clive<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิตกระสุนสำหรับ Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- เพิ่มความแม่นยำของลูกดอก&lt;br&gt;- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อลดโอกาสที่จะแตกสลายในมือคุณ&lt;br&gt;- ความพยายามในการลดเสียงกระทบยังคงไร้ผล&lt;br&gt;- รวมการเปลี่ยนแปลงสูตร Flexifoam ของ Clive&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6028,7 +6028,7 @@
      <Data ss:Type="String">Audio Output: &lt;b&gt;OCTOBER&lt;/B&gt;</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">เอาต์พุตเสียง: <b>OCTOBER</B></Data>
+     <Data ss:Type="String">เอาต์พุตเสียง: &lt;b&gt;OCTOBER&lt;/B&gt;</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6093,7 +6093,7 @@
      <Data ss:Type="String">Grants access to the emergency supply compartment within the Magnetosphere chamber.&lt;br&gt;&lt;b&gt;Warning:&lt;/b&gt; Entering the Magnetosphere chamber could lead to dangerous levels of exposure.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">อนุญาตการเข้าถึงช่องเก็บเสบียงฉุกเฉินภายในห้อง Magnetosphere<br><b>คำเตือน:</b> การเข้าสู่ห้อง Magnetosphere อาจนำไปสู่ระดับการสัมผัสที่เป็นอันตราย</Data>
+     <Data ss:Type="String">อนุญาตการเข้าถึงช่องเก็บเสบียงฉุกเฉินภายในห้อง Magnetosphere&lt;br&gt;&lt;b&gt;คำเตือน:&lt;/b&gt; การเข้าสู่ห้อง Magnetosphere อาจนำไปสู่ระดับการสัมผัสที่เป็นอันตราย</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6469,7 +6469,7 @@
      <Data ss:Type="String">Insert a chipset you wish to reconfigure.&lt;br&gt;&lt;br&gt;1 use remaining.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่ง<br><br>เหลือ 1 ครั้ง</Data>
+     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่ง&lt;br&gt;&lt;br&gt;เหลือ 1 ครั้ง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6497,7 +6497,7 @@
      <Data ss:Type="String">Insert a chipset you wish to reconfigure in the loading module on the right.&lt;br&gt;&lt;br&gt;2 uses remaining.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา<br><br>เหลือ 2 ครั้ง</Data>
+     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา&lt;br&gt;&lt;br&gt;เหลือ 2 ครั้ง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6539,7 +6539,7 @@
      <Data ss:Type="String">Insert a chipset you wish to reconfigure in the loading module on the right.&lt;br&gt;&lt;br&gt;3 uses remaining.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา<br><br>เหลือ 3 ครั้ง</Data>
+     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา&lt;br&gt;&lt;br&gt;เหลือ 3 ครั้ง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6581,7 +6581,7 @@
      <Data ss:Type="String">Insert a chipset you wish to reconfigure in the loading module on the right.&lt;br&gt;&lt;br&gt;4 uses remaining.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา<br><br>เหลือ 4 ครั้ง</Data>
+     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา&lt;br&gt;&lt;br&gt;เหลือ 4 ครั้ง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6623,7 +6623,7 @@
      <Data ss:Type="String">Insert a chipset you wish to reconfigure in the loading module on the right.&lt;br&gt;&lt;br&gt;5 uses remaining.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา<br><br>เหลือ 5 ครั้ง</Data>
+     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา&lt;br&gt;&lt;br&gt;เหลือ 5 ครั้ง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6665,7 +6665,7 @@
      <Data ss:Type="String">Insert a chipset you wish to reconfigure in the loading module on the right.&lt;br&gt;&lt;br&gt;6 uses remaining.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา<br><br>เหลือ 6 ครั้ง</Data>
+     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา&lt;br&gt;&lt;br&gt;เหลือ 6 ครั้ง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6707,7 +6707,7 @@
      <Data ss:Type="String">Insert a chipset you wish to reconfigure in the loading module on the right.&lt;br&gt;&lt;br&gt;7 uses remaining.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา<br><br>เหลือ 7 ครั้ง</Data>
+     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา&lt;br&gt;&lt;br&gt;เหลือ 7 ครั้ง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6749,7 +6749,7 @@
      <Data ss:Type="String">Insert a chipset you wish to reconfigure in the loading module on the right.&lt;br&gt;&lt;br&gt;8 uses remaining.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา<br><br>เหลือ 8 ครั้ง</Data>
+     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา&lt;br&gt;&lt;br&gt;เหลือ 8 ครั้ง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6791,7 +6791,7 @@
      <Data ss:Type="String">Insert a chipset you wish to reconfigure in the loading module on the right.&lt;br&gt;&lt;br&gt;9 uses remaining.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา<br><br>เหลือ 9 ครั้ง</Data>
+     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา&lt;br&gt;&lt;br&gt;เหลือ 9 ครั้ง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6833,7 +6833,7 @@
      <Data ss:Type="String">Insert a chipset you wish to reconfigure in the loading module on the right.&lt;br&gt;&lt;br&gt;10 uses remaining.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา<br><br>เหลือ 10 ครั้ง</Data>
+     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา&lt;br&gt;&lt;br&gt;เหลือ 10 ครั้ง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -6875,7 +6875,7 @@
      <Data ss:Type="String">Insert a chipset you wish to reconfigure in the loading module on the right.&lt;br&gt;&lt;br&gt;0 uses remaining.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา<br><br>เหลือ 0 ครั้ง</Data>
+     <Data ss:Type="String">ใส่ Chipset ที่คุณต้องการปรับแต่งในโมดูลโหลดทางขวา&lt;br&gt;&lt;br&gt;เหลือ 0 ครั้ง</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -7044,7 +7044,7 @@
      <Data ss:Type="String">R &amp; D Level</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ชั้น R & D</Data>
+     <Data ss:Type="String">ชั้น R &amp; D</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -7249,7 +7249,7 @@
      <Data ss:Type="String">Fabrication Plan for the Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;- Noise reduction on trigger action. Still a bit too clacky for my tastes.&lt;br&gt;-Decreased weight while retaining structural stability. No more barrel splintering.&lt;br&gt;- Finalized name to the Huntress Boltcaster. Rejected Clive&apos;s suggestion of &quot;Painthrower&quot; and Franklin&apos;s &quot;Excruciator&quot;.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิตสำหรับ Huntress Boltcaster v. 1.3<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- ลดเสียงรบกวนจากการเหนี่ยวไก แต่ก็ยังเสียงดังเกินไปสำหรับผม<br>- ลดน้ำหนักลงในขณะที่ยังคงความเสถียรของโครงสร้าง ไม่มีการแตกของลำกล้องอีกต่อไป<br>- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่ให้ใช้ชื่อ &quot;Painthrower&quot; และของ Franklin ที่ให้ใช้ชื่อ &quot;Excruciator&quot;<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิตสำหรับ Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- ลดเสียงรบกวนจากการเหนี่ยวไก แต่ก็ยังเสียงดังเกินไปสำหรับผม&lt;br&gt;- ลดน้ำหนักลงในขณะที่ยังคงความเสถียรของโครงสร้าง ไม่มีการแตกของลำกล้องอีกต่อไป&lt;br&gt;- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่ให้ใช้ชื่อ &quot;Painthrower&quot; และของ Franklin ที่ให้ใช้ชื่อ &quot;Excruciator&quot;&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -7266,7 +7266,7 @@
      <Data ss:Type="String">Fabrication Plan for Ammunition for the Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;-Increased accuracy of the bolts&lt;br&gt;-Reworked lattice structure of the foam so it&apos;s less likely to crumble in your hands&lt;br&gt;-Attempts at reducing impact noise are still fruitless. &lt;br&gt;-Integrated Clive&apos;s changes to Flexifoam formula.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิตสำหรับกระสุนของ Huntress Boltcaster, v. 3.2<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- เพิ่มความแม่นยำของกระสุน<br>- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อลดโอกาสการแตกสลายในมือคุณ<br>- ความพยายามในการลดเสียงกระทบยังคงไม่เป็นผล<br>- รวมการเปลี่ยนแปลงของ Clive ในสูตร Flexifoam<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิตสำหรับกระสุนของ Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- เพิ่มความแม่นยำของกระสุน&lt;br&gt;- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อลดโอกาสการแตกสลายในมือคุณ&lt;br&gt;- ความพยายามในการลดเสียงกระทบยังคงไม่เป็นผล&lt;br&gt;- รวมการเปลี่ยนแปลงของ Clive ในสูตร Flexifoam&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -7526,7 +7526,7 @@
      <Data ss:Type="String">This sequence is designed to stres test the Artax Propulsion System. &lt;br&gt;&lt;br&gt;Press all of the buttons in order within time specified.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ลำดับนี้ออกแบบมาเพื่อทดสอบความทนทานของ Artax Propulsion System<br><br>กดปุ่มทั้งหมดตามลำดับภายในเวลาที่กำหนด</Data>
+     <Data ss:Type="String">ลำดับนี้ออกแบบมาเพื่อทดสอบความทนทานของ Artax Propulsion System&lt;br&gt;&lt;br&gt;กดปุ่มทั้งหมดตามลำดับภายในเวลาที่กำหนด</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -7608,7 +7608,7 @@
      <Data ss:Type="String">This sequence is designed to stres test the Artax Propulsion System. &lt;br&gt;&lt;br&gt;Press all of the buttons in order within time specified.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ลำดับนี้ออกแบบมาเพื่อทดสอบความทนทานของ Artax Propulsion System<br><br>กดปุ่มทั้งหมดตามลำดับภายในเวลาที่กำหนด</Data>
+     <Data ss:Type="String">ลำดับนี้ออกแบบมาเพื่อทดสอบความทนทานของ Artax Propulsion System&lt;br&gt;&lt;br&gt;กดปุ่มทั้งหมดตามลำดับภายในเวลาที่กำหนด</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -7687,7 +7687,7 @@
      <Data ss:Type="String">This sequence is designed to stres test the Artax Propulsion System. &lt;br&gt;&lt;br&gt;Press all of the buttons in order within time specified.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ลำดับนี้ออกแบบมาเพื่อทดสอบความทนทานของ Artax Propulsion System<br><br>กดปุ่มทั้งหมดตามลำดับภายในเวลาที่กำหนด</Data>
+     <Data ss:Type="String">ลำดับนี้ออกแบบมาเพื่อทดสอบความทนทานของ Artax Propulsion System&lt;br&gt;&lt;br&gt;กดปุ่มทั้งหมดตามลำดับภายในเวลาที่กำหนด</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -7885,7 +7885,7 @@
      <Data ss:Type="String">&lt;i&gt;TS Neural Surgical System v1.8&lt;/i&gt;&lt;br&gt;&lt;br&gt;This procedure will extract a designated Neuromod from the subject, returning the subject&apos;s memory to a period before the extracted Neuromod was installed.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><i>ระบบผ่าตัดประสาท TS v1.8</i><br><br>ขั้นตอนนี้จะสกัด Neuromod ที่กำหนดออกจากตัวผู้ป่วย โดยจะคืนความทรงจำของผู้ป่วยกลับไปยังช่วงเวลาก่อนที่จะติดตั้ง Neuromod ที่สกัดออกไป</Data>
+     <Data ss:Type="String">&lt;i&gt;ระบบผ่าตัดประสาท TS v1.8&lt;/i&gt;&lt;br&gt;&lt;br&gt;ขั้นตอนนี้จะสกัด Neuromod ที่กำหนดออกจากตัวผู้ป่วย โดยจะคืนความทรงจำของผู้ป่วยกลับไปยังช่วงเวลาก่อนที่จะติดตั้ง Neuromod ที่สกัดออกไป</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -7936,7 +7936,7 @@
      <Data ss:Type="String">Patient: Walther Dahl&lt;br&gt;Procedure: Apto-Regressive Neurotomy&lt;br&gt;Cortical Area: Obitofrontal, Brodmann 10, 11, 47&lt;br&gt;Neuromod SKU: [UNLISTED]&lt;br&gt;&lt;br&gt;Patient Connectome &lt;b&gt;must&lt;/b&gt; be updated with a recent neural scan in order to perform a successful apto-regressive neurotomy. </Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ผู้ป่วย: Walther Dahl<br>ขั้นตอน: Apto-Regressive Neurotomy<br>บริเวณคอร์เทกซ์: Obitofrontal, Brodmann 10, 11, 47<br>Neuromod SKU: [UNLISTED]<br><br>Patient Connectome <b>ต้อง</b>ได้รับการอัปเดตด้วยการสแกนประสาทล่าสุดเพื่อทำการผ่าตัดประสาทแบบ Apto-Regressive Neurotomy ให้สำเร็จ</Data>
+     <Data ss:Type="String">ผู้ป่วย: Walther Dahl&lt;br&gt;ขั้นตอน: Apto-Regressive Neurotomy&lt;br&gt;บริเวณคอร์เทกซ์: Obitofrontal, Brodmann 10, 11, 47&lt;br&gt;Neuromod SKU: [UNLISTED]&lt;br&gt;&lt;br&gt;Patient Connectome &lt;b&gt;ต้อง&lt;/b&gt;ได้รับการอัปเดตด้วยการสแกนประสาทล่าสุดเพื่อทำการผ่าตัดประสาทแบบ Apto-Regressive Neurotomy ให้สำเร็จ</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -8679,7 +8679,7 @@
      <Data ss:Type="String">Fabrication Plan for the Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;- Noise reduction on trigger action. Still a bit too clacky for my tastes.&lt;br&gt;-Decreased weight while retaining structural stability. No more barrel splintering.&lt;br&gt;- Finalized name to the Huntress Boltcaster. Rejected Clive&apos;s suggestion of &quot;Painthrower&quot; and Franklin&apos;s &quot;Excruciator&quot;.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิตสำหรับ Huntress Boltcaster v. 1.3<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- ลดเสียงรบกวนจากการเหนี่ยวไก แต่ก็ยังเสียงดังเกินไปสำหรับผม<br>- ลดน้ำหนักลงในขณะที่ยังคงความเสถียรของโครงสร้าง ไม่มีการแตกของลำกล้องอีกต่อไป<br>- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่ให้ใช้ชื่อ &quot;Painthrower&quot; และของ Franklin ที่ให้ใช้ชื่อ &quot;Excruciator&quot;<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิตสำหรับ Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- ลดเสียงรบกวนจากการเหนี่ยวไก แต่ก็ยังเสียงดังเกินไปสำหรับผม&lt;br&gt;- ลดน้ำหนักลงในขณะที่ยังคงความเสถียรของโครงสร้าง ไม่มีการแตกของลำกล้องอีกต่อไป&lt;br&gt;- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่ให้ใช้ชื่อ &quot;Painthrower&quot; และของ Franklin ที่ให้ใช้ชื่อ &quot;Excruciator&quot;&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -8696,7 +8696,7 @@
      <Data ss:Type="String">Fabrication Plan for the Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;- Noise reduction on trigger action. Still a bit too clacky for my tastes.&lt;br&gt;-Decreased weight while retaining structural stability. No more barrel splintering.&lt;br&gt;- Finalized name to the Huntress Boltcaster. Rejected Clive&apos;s suggestion of &quot;Painthrower&quot; and Franklin&apos;s &quot;Excruciator&quot;.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิตสำหรับ Huntress Boltcaster v. 1.3<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- ลดเสียงรบกวนจากการเหนี่ยวไก แต่ก็ยังเสียงดังเกินไปสำหรับผม<br>- ลดน้ำหนักลงในขณะที่ยังคงความเสถียรของโครงสร้าง ไม่มีการแตกของลำกล้องอีกต่อไป<br>- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่ให้ใช้ชื่อ &quot;Painthrower&quot; และของ Franklin ที่ให้ใช้ชื่อ &quot;Excruciator&quot;<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิตสำหรับ Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- ลดเสียงรบกวนจากการเหนี่ยวไก แต่ก็ยังเสียงดังเกินไปสำหรับผม&lt;br&gt;- ลดน้ำหนักลงในขณะที่ยังคงความเสถียรของโครงสร้าง ไม่มีการแตกของลำกล้องอีกต่อไป&lt;br&gt;- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่ให้ใช้ชื่อ &quot;Painthrower&quot; และของ Franklin ที่ให้ใช้ชื่อ &quot;Excruciator&quot;&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -8710,7 +8710,7 @@
      <Data ss:Type="String">Fabrication Plan for Ammunition for the Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;-Increased accuracy of the bolts&lt;br&gt;-Reworked lattice structure of the foam so it&apos;s less likely to crumble in your hands&lt;br&gt;-Attempts at reducing impact noise are still fruitless.&lt;br&gt;-Integrated Clive&apos;s changes to Flexifoam formula.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิตสำหรับกระสุนของ Huntress Boltcaster, v. 3.2<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- เพิ่มความแม่นยำของกระสุน<br>- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อลดโอกาสการแตกสลายในมือคุณ<br>- ความพยายามในการลดเสียงกระทบยังคงไม่เป็นผล<br>- รวมการเปลี่ยนแปลงของ Clive ในสูตร Flexifoam<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิตสำหรับกระสุนของ Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- เพิ่มความแม่นยำของกระสุน&lt;br&gt;- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อลดโอกาสการแตกสลายในมือคุณ&lt;br&gt;- ความพยายามในการลดเสียงกระทบยังคงไม่เป็นผล&lt;br&gt;- รวมการเปลี่ยนแปลงของ Clive ในสูตร Flexifoam&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -8727,7 +8727,7 @@
      <Data ss:Type="String">Fabrication Plan for Ammunition for the Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;-Increased accuracy of the bolts&lt;br&gt;-Reworked lattice structure of the foam so it&apos;s less likely to crumble in your hands&lt;br&gt;-Attempts at reducing impact noise are still fruitless. Admin will be less likely to crack down on these things when they aren&apos;t quite so startling.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิตสำหรับกระสุนของ Huntress Boltcaster, v. 3.2<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- เพิ่มความแม่นยำของกระสุน<br>- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อลดโอกาสการแตกสลายในมือคุณ<br>- ความพยายามในการลดเสียงกระทบยังคงไม่เป็นผล ผู้บริหารจะไม่ค่อยเข้มงวดกับเรื่องเหล่านี้เมื่อมันไม่น่าตกใจมากนัก<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิตสำหรับกระสุนของ Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- เพิ่มความแม่นยำของกระสุน&lt;br&gt;- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อลดโอกาสการแตกสลายในมือคุณ&lt;br&gt;- ความพยายามในการลดเสียงกระทบยังคงไม่เป็นผล ผู้บริหารจะไม่ค่อยเข้มงวดกับเรื่องเหล่านี้เมื่อมันไม่น่าตกใจมากนัก&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -8741,7 +8741,7 @@
      <Data ss:Type="String">Fabrication Plan for Ammunition for the Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;-Increased accuracy of the bolts&lt;br&gt;-Reworked lattice structure of the foam so it&apos;s less likely to crumble in your hands&lt;br&gt;-Attempts at reducing impact noise are still fruitless. Admin will be less likely to crack down on these things when they aren&apos;t quite so startling.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิตสำหรับกระสุนของ Huntress Boltcaster, v. 3.2<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- เพิ่มความแม่นยำของกระสุน<br>- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อลดโอกาสการแตกสลายในมือคุณ<br>- ความพยายามในการลดเสียงกระทบยังคงไม่เป็นผล ผู้บริหารจะไม่ค่อยเข้มงวดกับเรื่องเหล่านี้เมื่อมันไม่น่าตกใจมากนัก<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิตสำหรับกระสุนของ Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- เพิ่มความแม่นยำของกระสุน&lt;br&gt;- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อลดโอกาสการแตกสลายในมือคุณ&lt;br&gt;- ความพยายามในการลดเสียงกระทบยังคงไม่เป็นผล ผู้บริหารจะไม่ค่อยเข้มงวดกับเรื่องเหล่านี้เมื่อมันไม่น่าตกใจมากนัก&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -8786,7 +8786,7 @@
      <Data ss:Type="String">Fabrication Plan for Ammunition for the Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;-Increased accuracy of the bolts&lt;br&gt;-Reworked lattice structure of the foam so it&apos;s less likely to crumble in your hands&lt;br&gt;-Attempts at reducing impact noise are still fruitless. Admin will be less likely to crack down on these things when they aren&apos;t quite so startling.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิตสำหรับกระสุนของ Huntress Boltcaster, v. 3.2<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- เพิ่มความแม่นยำของกระสุน<br>- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อลดโอกาสการแตกสลายในมือคุณ<br>- ความพยายามในการลดเสียงกระทบยังคงไม่เป็นผล ผู้บริหารจะไม่ค่อยเข้มงวดกับเรื่องเหล่านี้เมื่อมันไม่น่าตกใจมากนัก<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิตสำหรับกระสุนของ Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- เพิ่มความแม่นยำของกระสุน&lt;br&gt;- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อลดโอกาสการแตกสลายในมือคุณ&lt;br&gt;- ความพยายามในการลดเสียงกระทบยังคงไม่เป็นผล ผู้บริหารจะไม่ค่อยเข้มงวดกับเรื่องเหล่านี้เมื่อมันไม่น่าตกใจมากนัก&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -8800,7 +8800,7 @@
      <Data ss:Type="String">Fabrication Plan for the Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;- Noise reduction on trigger action. Still a bit too clacky for my tastes.&lt;br&gt;-Decreased weight while retaining structural stability. No more barrel splintering.&lt;br&gt;- Finalized name to the Huntress Boltcaster. Rejected Clive&apos;s suggestion of &quot;Painthrower&quot; and Franklin&apos;s &quot;Excruciator&quot;.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิต Huntress Boltcaster v. 1.3<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- ลดเสียงรบกวนจากการเหนี่ยวไก แต่ก็ยังดังเกินไปสำหรับผม<br>-ลดน้ำหนักลงแต่ยังคงความเสถียรของโครงสร้าง ไม่มีลำกล้องแตกอีกต่อไป<br>- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่ให้ใช้ชื่อ &quot;Painthrower&quot; และของ Franklin ที่ให้ใช้ชื่อ &quot;Excruciator&quot;<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิต Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- ลดเสียงรบกวนจากการเหนี่ยวไก แต่ก็ยังดังเกินไปสำหรับผม&lt;br&gt;-ลดน้ำหนักลงแต่ยังคงความเสถียรของโครงสร้าง ไม่มีลำกล้องแตกอีกต่อไป&lt;br&gt;- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่ให้ใช้ชื่อ &quot;Painthrower&quot; และของ Franklin ที่ให้ใช้ชื่อ &quot;Excruciator&quot;&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -8899,7 +8899,7 @@
      <Data ss:Type="String">&lt;b&gt;WARNING.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Emergency Evacuation Message cannot be triggered without authorization from Alex Yu.&lt;br&gt;&lt;br&gt;&lt;b&gt;WARNING.&lt;/b&gt;</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>คำเตือน.</b><br><br>ข้อความอพยพฉุกเฉินไม่สามารถเปิดใช้งานได้หากไม่ได้รับอนุญาตจาก Alex Yu<br><br><b>คำเตือน.</b></Data>
+     <Data ss:Type="String">&lt;b&gt;คำเตือน.&lt;/b&gt;&lt;br&gt;&lt;br&gt;ข้อความอพยพฉุกเฉินไม่สามารถเปิดใช้งานได้หากไม่ได้รับอนุญาตจาก Alex Yu&lt;br&gt;&lt;br&gt;&lt;b&gt;คำเตือน.&lt;/b&gt;</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -8913,7 +8913,7 @@
      <Data ss:Type="String">&lt;b&gt;STATUS&lt;/b&gt;&lt;br&gt;Ext. Plenoptic Camera Array 01: OK&lt;br&gt;Ext. Plenoptic Camera Array 02: OK&lt;br&gt;Ext. Plenoptic Camera Array 03: OK&lt;br&gt;&lt;br&gt;Note: For technical issues with screens contact Dr. Lorenzo Calvino or Miyu Okabe.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>สถานะ</b><br>Ext. Plenoptic Camera Array 01: ปกติ<br>Ext. Plenoptic Camera Array 02: ปกติ<br>Ext. Plenoptic Camera Array 03: ปกติ<br><br>หมายเหตุ: สำหรับปัญหาทางเทคนิคเกี่ยวกับหน้าจอ โปรดติดต่อ Dr. Lorenzo Calvino หรือ Miyu Okabe</Data>
+     <Data ss:Type="String">&lt;b&gt;สถานะ&lt;/b&gt;&lt;br&gt;Ext. Plenoptic Camera Array 01: ปกติ&lt;br&gt;Ext. Plenoptic Camera Array 02: ปกติ&lt;br&gt;Ext. Plenoptic Camera Array 03: ปกติ&lt;br&gt;&lt;br&gt;หมายเหตุ: สำหรับปัญหาทางเทคนิคเกี่ยวกับหน้าจอ โปรดติดต่อ Dr. Lorenzo Calvino หรือ Miyu Okabe</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -8930,7 +8930,7 @@
      <Data ss:Type="String">&lt;b&gt;STATUS&lt;/b&gt;&lt;br&gt;Ext. Plenoptic Camera Array 01: OK&lt;br&gt;Ext. Plenoptic Camera Array 02: OK&lt;br&gt;Ext. Plenoptic Camera Array 03: OK&lt;br&gt;&lt;br&gt;Note: For technical issues with screens contact Dr. Lorenzo Calvino or Miyu Okabe.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>สถานะ</b><br>Ext. Plenoptic Camera Array 01: ปกติ<br>Ext. Plenoptic Camera Array 02: ปกติ<br>Ext. Plenoptic Camera Array 03: ปกติ<br><br>หมายเหตุ: สำหรับปัญหาทางเทคนิคเกี่ยวกับหน้าจอ โปรดติดต่อ Dr. Lorenzo Calvino หรือ Miyu Okabe</Data>
+     <Data ss:Type="String">&lt;b&gt;สถานะ&lt;/b&gt;&lt;br&gt;Ext. Plenoptic Camera Array 01: ปกติ&lt;br&gt;Ext. Plenoptic Camera Array 02: ปกติ&lt;br&gt;Ext. Plenoptic Camera Array 03: ปกติ&lt;br&gt;&lt;br&gt;หมายเหตุ: สำหรับปัญหาทางเทคนิคเกี่ยวกับหน้าจอ โปรดติดต่อ Dr. Lorenzo Calvino หรือ Miyu Okabe</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -8947,7 +8947,7 @@
      <Data ss:Type="String">&lt;b&gt;STATUS&lt;/b&gt;&lt;br&gt;Ext. Plenoptic Camera Array 01: OK&lt;br&gt;Ext. Plenoptic Camera Array 02: OK&lt;br&gt;Ext. Plenoptic Camera Array 03: OK&lt;br&gt;&lt;br&gt;Note: For technical issues with screens contact Dr. Lorenzo Calvino or Miyu Okabe.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>สถานะ</b><br>Ext. Plenoptic Camera Array 01: ปกติ<br>Ext. Plenoptic Camera Array 02: ปกติ<br>Ext. Plenoptic Camera Array 03: ปกติ<br><br>หมายเหตุ: สำหรับปัญหาทางเทคนิคเกี่ยวกับหน้าจอ โปรดติดต่อ Dr. Lorenzo Calvino หรือ Miyu Okabe</Data>
+     <Data ss:Type="String">&lt;b&gt;สถานะ&lt;/b&gt;&lt;br&gt;Ext. Plenoptic Camera Array 01: ปกติ&lt;br&gt;Ext. Plenoptic Camera Array 02: ปกติ&lt;br&gt;Ext. Plenoptic Camera Array 03: ปกติ&lt;br&gt;&lt;br&gt;หมายเหตุ: สำหรับปัญหาทางเทคนิคเกี่ยวกับหน้าจอ โปรดติดต่อ Dr. Lorenzo Calvino หรือ Miyu Okabe</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -9063,7 +9063,7 @@
      <Data ss:Type="String">&lt;b&gt;Note: authorized scene transition times include:&lt;/b&gt;&lt;br&gt;- When subject M.Yu is inside the elevator.&lt;br&gt;- During maintenance operations between test runs.&lt;br&gt;&lt;br&gt;Report any technical issues immediately to Dr. Sylvain Bellamy. </Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>หมายเหตุ: เวลาเปลี่ยนฉากที่ได้รับอนุญาต ได้แก่:</b><br>- เมื่อผู้ถูกทดลอง M.Yu อยู่ในลิฟต์<br>- ระหว่างการบำรุงรักษาในระหว่างการทดสอบ<br><br>รายงานปัญหาทางเทคนิคใด ๆ ทันทีต่อ Dr. Sylvain Bellamy</Data>
+     <Data ss:Type="String">&lt;b&gt;หมายเหตุ: เวลาเปลี่ยนฉากที่ได้รับอนุญาต ได้แก่:&lt;/b&gt;&lt;br&gt;- เมื่อผู้ถูกทดลอง M.Yu อยู่ในลิฟต์&lt;br&gt;- ระหว่างการบำรุงรักษาในระหว่างการทดสอบ&lt;br&gt;&lt;br&gt;รายงานปัญหาทางเทคนิคใด ๆ ทันทีต่อ Dr. Sylvain Bellamy</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -9131,7 +9131,7 @@
      <Data ss:Type="String">Refer to test run program for timing of audio events.&lt;br&gt;&lt;br&gt;** Note: &apos;Pigeon&apos; visuals have been disabled due to a glitch in the render data.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">โปรดดูโปรแกรมการทดสอบสำหรับกำหนดเวลาของเหตุการณ์เสียง<br><br>** หมายเหตุ: ภาพ &apos;Pigeon&apos; ถูกปิดใช้งานเนื่องจากข้อผิดพลาดในข้อมูลเรนเดอร์</Data>
+     <Data ss:Type="String">โปรดดูโปรแกรมการทดสอบสำหรับกำหนดเวลาของเหตุการณ์เสียง&lt;br&gt;&lt;br&gt;** หมายเหตุ: ภาพ &apos;Pigeon&apos; ถูกปิดใช้งานเนื่องจากข้อผิดพลาดในข้อมูลเรนเดอร์</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -9213,7 +9213,7 @@
      <Data ss:Type="String">Each Neuromod SKU requires a new license and must be propagated across fabricator network severs. Do not issue new licences without director authorization.&lt;br&gt;&lt;br&gt;//ARX-FAB-01</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">Neuromod SKU แต่ละรายการต้องมีใบอนุญาตใหม่และต้องเผยแพร่ไปยังเซิร์ฟเวอร์เครือข่าย Fabricator ห้ามออกใบอนุญาตใหม่โดยไม่ได้รับอนุญาตจากผู้อำนวยการ<br><br>//ARX-FAB-01</Data>
+     <Data ss:Type="String">Neuromod SKU แต่ละรายการต้องมีใบอนุญาตใหม่และต้องเผยแพร่ไปยังเซิร์ฟเวอร์เครือข่าย Fabricator ห้ามออกใบอนุญาตใหม่โดยไม่ได้รับอนุญาตจากผู้อำนวยการ&lt;br&gt;&lt;br&gt;//ARX-FAB-01</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -9332,7 +9332,7 @@
      <Data ss:Type="String">&lt;i&gt;TS Neural Surgical System v1.8&lt;/i&gt;&lt;br&gt;&lt;br&gt;Subject may be confused upon awakening from their apto-regressive neurotomy (neuromod extraction) and could show erratic behavior. The following audio will assist patients in understanding what has happened and ease their shock. </Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><i>TS Neural Surgical System v1.8</i><br><br>ผู้ถูกทดลองอาจสับสนเมื่อตื่นจากการผ่าตัดระบบประสาทแบบย้อนกลับ (การสกัด Neuromod) และอาจแสดงพฤติกรรมที่ผิดปกติ เสียงต่อไปนี้จะช่วยให้ผู้ป่วยเข้าใจสิ่งที่เกิดขึ้นและบรรเทาอาการตกใจของพวกเขา</Data>
+     <Data ss:Type="String">&lt;i&gt;TS Neural Surgical System v1.8&lt;/i&gt;&lt;br&gt;&lt;br&gt;ผู้ถูกทดลองอาจสับสนเมื่อตื่นจากการผ่าตัดระบบประสาทแบบย้อนกลับ (การสกัด Neuromod) และอาจแสดงพฤติกรรมที่ผิดปกติ เสียงต่อไปนี้จะช่วยให้ผู้ป่วยเข้าใจสิ่งที่เกิดขึ้นและบรรเทาอาการตกใจของพวกเขา</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -9479,7 +9479,7 @@
      <Data ss:Type="String">Lab Procedure: Phantom Genesis&lt;br&gt;Experiment ID: Live Exam Series TG5-013&lt;br&gt;&lt;br&gt;Please ensure there is a cadaver in the enclosure, and activate psychoscopes prior to opening containment cylinder.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ขั้นตอนในห้องปฏิบัติการ: Phantom Genesis<br>รหัสการทดลอง: Live Exam Series TG5-013<br><br>โปรดตรวจสอบให้แน่ใจว่ามีศพอยู่ในกรง และเปิดใช้งาน Psychoscopes ก่อนเปิดกระบอกบรรจุ</Data>
+     <Data ss:Type="String">ขั้นตอนในห้องปฏิบัติการ: Phantom Genesis&lt;br&gt;รหัสการทดลอง: Live Exam Series TG5-013&lt;br&gt;&lt;br&gt;โปรดตรวจสอบให้แน่ใจว่ามีศพอยู่ในกรง และเปิดใช้งาน Psychoscopes ก่อนเปิดกระบอกบรรจุ</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -9496,7 +9496,7 @@
      <Data ss:Type="String">&lt;b&gt;**WARNING**&lt;/b&gt;&lt;br&gt;&lt;br&gt;Activate Psychoscopes before initiating experimental procedures.&lt;br&gt;&lt;br&gt;&lt;b&gt;**WARNING**&lt;/b&gt;</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>**คำเตือน**</b><br><br>เปิดใช้งาน Psychoscopes ก่อนเริ่มขั้นตอนการทดลอง<br><br><b>**คำเตือน**</b></Data>
+     <Data ss:Type="String">&lt;b&gt;**คำเตือน**&lt;/b&gt;&lt;br&gt;&lt;br&gt;เปิดใช้งาน Psychoscopes ก่อนเริ่มขั้นตอนการทดลอง&lt;br&gt;&lt;br&gt;&lt;b&gt;**คำเตือน**&lt;/b&gt;</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -9572,7 +9572,7 @@
      <Data ss:Type="String">WARNING. DO NOT INITIATE WITHOUT PROPER AUTHORIZATION&lt;br&gt;&lt;br&gt;Refer to &apos;Reactor Emergency Procedures&apos; manual for instructions and safety considerations.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">คำเตือน. ห้ามเริ่มดำเนินการโดยไม่ได้รับอนุญาตที่ถูกต้อง<br><br>โปรดดูคู่มือ &apos;ขั้นตอนฉุกเฉินของ Reactor&apos; สำหรับคำแนะนำและข้อควรพิจารณาด้านความปลอดภัย</Data>
+     <Data ss:Type="String">คำเตือน. ห้ามเริ่มดำเนินการโดยไม่ได้รับอนุญาตที่ถูกต้อง&lt;br&gt;&lt;br&gt;โปรดดูคู่มือ &apos;ขั้นตอนฉุกเฉินของ Reactor&apos; สำหรับคำแนะนำและข้อควรพิจารณาด้านความปลอดภัย</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -9603,7 +9603,7 @@
      <Data ss:Type="String">1. Ensure pod doors are sealed and all personnel are on board.  &lt;br&gt;2. Take a seat and make sure safety harnesses are secured. &lt;br&gt;3. Initialize onboard systems for launch. &lt;br&gt;4. Remain seated while the guidance systems pilot the vessel to its designated rendezvous point. &lt;br&gt;5. Wait until the vessel has come to a complete stop and the door has opened before removing your safety restraints.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">1. ตรวจสอบให้แน่ใจว่าประตูพ็อดปิดสนิทและบุคลากรทุกคนอยู่บนเรือ<br>2. นั่งลงและตรวจสอบให้แน่ใจว่าสายรัดนิรภัยแน่นหนา<br>3. เริ่มต้นระบบบนยานเพื่อการปล่อย<br>4. นั่งอยู่กับที่ในขณะที่ระบบนำทางนำยานไปยังจุดนัดพบที่กำหนด<br>5. รอจนกว่ายานจะหยุดสนิทและประตูเปิดออกก่อนที่จะปลดสายรัดนิรภัย</Data>
+     <Data ss:Type="String">1. ตรวจสอบให้แน่ใจว่าประตูพ็อดปิดสนิทและบุคลากรทุกคนอยู่บนเรือ&lt;br&gt;2. นั่งลงและตรวจสอบให้แน่ใจว่าสายรัดนิรภัยแน่นหนา&lt;br&gt;3. เริ่มต้นระบบบนยานเพื่อการปล่อย&lt;br&gt;4. นั่งอยู่กับที่ในขณะที่ระบบนำทางนำยานไปยังจุดนัดพบที่กำหนด&lt;br&gt;5. รอจนกว่ายานจะหยุดสนิทและประตูเปิดออกก่อนที่จะปลดสายรัดนิรภัย</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -9857,7 +9857,7 @@
      <Data ss:Type="String">LOAD: //Locales/Earthside.Clorinda.lgv, 8, 1&lt;br&gt;&lt;br&gt;LG SERVER STATUS&lt;br&gt;1. ARX-SR4BN-715: OK&lt;br&gt;2. ARX-SR4BN-864: OK&lt;br&gt;3. ARX-SR4BN-988: OK</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">LOAD: //Locales/Earthside.Clorinda.lgv, 8, 1<br><br>สถานะเซิร์ฟเวอร์ LG<br>1. ARX-SR4BN-715: ปกติ<br>2. ARX-SR4BN-864: ปกติ<br>3. ARX-SR4BN-988: ปกติ</Data>
+     <Data ss:Type="String">LOAD: //Locales/Earthside.Clorinda.lgv, 8, 1&lt;br&gt;&lt;br&gt;สถานะเซิร์ฟเวอร์ LG&lt;br&gt;1. ARX-SR4BN-715: ปกติ&lt;br&gt;2. ARX-SR4BN-864: ปกติ&lt;br&gt;3. ARX-SR4BN-988: ปกติ</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -9874,7 +9874,7 @@
      <Data ss:Type="String">TS Owl M13 Escape Pods &lt;br&gt;&lt;br&gt;STATUS &lt;br&gt;Pod 1: OK &lt;br&gt;Pod 2: MALFUNCTION  &lt;br&gt;Pod 3: OK &lt;br&gt;Pod 4: OK &lt;br&gt;Pod 5: OK &lt;br&gt;Pod 6: OK</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">กระสวยหลบภัย TS Owl M13<br><br>สถานะ<br>พ็อด 1: ปกติ<br>พ็อด 2: ทำงานผิดปกติ<br>พ็อด 3: ปกติ<br>พ็อด 4: ปกติ<br>พ็อด 5: ปกติ<br>พ็อด 6: ปกติ</Data>
+     <Data ss:Type="String">กระสวยหลบภัย TS Owl M13&lt;br&gt;&lt;br&gt;สถานะ&lt;br&gt;พ็อด 1: ปกติ&lt;br&gt;พ็อด 2: ทำงานผิดปกติ&lt;br&gt;พ็อด 3: ปกติ&lt;br&gt;พ็อด 4: ปกติ&lt;br&gt;พ็อด 5: ปกติ&lt;br&gt;พ็อด 6: ปกติ</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -10004,7 +10004,7 @@
      <Data ss:Type="String">Patient: Not Available&lt;br&gt;Procedure: Not Available&lt;br&gt;Cortical Area: Not Available&lt;br&gt;Neuromod SKU: Not Available&lt;br&gt;&lt;br&gt;Patient Connectome &lt;b&gt;must&lt;/b&gt; be updated with a recent neural scan in order to perform a successful apto-regressive neurotomy. </Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">ผู้ป่วย: ไม่พร้อมใช้งาน<br>ขั้นตอน: ไม่พร้อมใช้งาน<br>พื้นที่สมองส่วนนอก: ไม่พร้อมใช้งาน<br>Neuromod SKU: ไม่พร้อมใช้งาน<br><br>Connectome ของผู้ป่วย<b>ต้อง</b>ได้รับการอัปเดตด้วยการสแกนระบบประสาทล่าสุด เพื่อให้สามารถทำการผ่าตัดระบบประสาทแบบย้อนกลับได้อย่างสำเร็จ</Data>
+     <Data ss:Type="String">ผู้ป่วย: ไม่พร้อมใช้งาน&lt;br&gt;ขั้นตอน: ไม่พร้อมใช้งาน&lt;br&gt;พื้นที่สมองส่วนนอก: ไม่พร้อมใช้งาน&lt;br&gt;Neuromod SKU: ไม่พร้อมใช้งาน&lt;br&gt;&lt;br&gt;Connectome ของผู้ป่วย&lt;b&gt;ต้อง&lt;/b&gt;ได้รับการอัปเดตด้วยการสแกนระบบประสาทล่าสุด เพื่อให้สามารถทำการผ่าตัดระบบประสาทแบบย้อนกลับได้อย่างสำเร็จ</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -10049,7 +10049,7 @@
      <Data ss:Type="String">2/22/2035 6:00:00 AM     Connecting to Satellite TSCOMM-4...&lt;br&gt;2/22/2035 6:00:02 AM     Connection established. Checking for new messages... &lt;br&gt;2/22/2035 6:00:02 AM     (1) New message found. Retrieving.&lt;br&gt;...&lt;br&gt;2/23/2035 6:00:00 AM     Connecting to Satellite TSCOMM-4... &lt;br&gt;2/23/2035 6:00:02 AM     ERROR. Satellite TSCOMM-4 not responding.&lt;br&gt;...</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">2/22/2035 6:00:00 AM     กำลังเชื่อมต่อกับดาวเทียม TSCOMM-4...<br>2/22/2035 6:00:02 AM     เชื่อมต่อแล้ว กำลังตรวจสอบข้อความใหม่... <br>2/22/2035 6:00:02 AM     (1) พบข้อความใหม่ กำลังดึงข้อมูล<br>...<br>2/23/2035 6:00:00 AM     กำลังเชื่อมต่อกับดาวเทียม TSCOMM-4... <br>2/23/2035 6:00:02 AM     ข้อผิดพลาด ดาวเทียม TSCOMM-4 ไม่ตอบสนอง<br>...</Data>
+     <Data ss:Type="String">2/22/2035 6:00:00 AM     กำลังเชื่อมต่อกับดาวเทียม TSCOMM-4...&lt;br&gt;2/22/2035 6:00:02 AM     เชื่อมต่อแล้ว กำลังตรวจสอบข้อความใหม่... &lt;br&gt;2/22/2035 6:00:02 AM     (1) พบข้อความใหม่ กำลังดึงข้อมูล&lt;br&gt;...&lt;br&gt;2/23/2035 6:00:00 AM     กำลังเชื่อมต่อกับดาวเทียม TSCOMM-4... &lt;br&gt;2/23/2035 6:00:02 AM     ข้อผิดพลาด ดาวเทียม TSCOMM-4 ไม่ตอบสนอง&lt;br&gt;...</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -11059,7 +11059,7 @@
      <Data ss:Type="String">Fabrication Plan for Ammunition for the Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;-Increased accuracy of the bolts&lt;br&gt;-Reworked lattice structure of the foam so it&apos;s less likely to crumble in your hands&lt;br&gt;-Attempts at reducing impact noise are still fruitless. Admin will be less likely to crack down on these things when they aren&apos;t quite so startling.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิตกระสุนสำหรับ Huntress Boltcaster, v. 3.2<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- เพิ่มความแม่นยำของกระสุน<br>- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อให้ไม่แตกหักง่ายในมือคุณ<br>- ความพยายามในการลดเสียงกระแทกยังคงไร้ผล ผู้ดูแลระบบจะเข้มงวดกับเรื่องพวกนี้น้อยลงหากมันไม่น่าตกใจเท่านี้<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิตกระสุนสำหรับ Huntress Boltcaster, v. 3.2&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- เพิ่มความแม่นยำของกระสุน&lt;br&gt;- ปรับโครงสร้างตาข่ายของโฟมใหม่เพื่อให้ไม่แตกหักง่ายในมือคุณ&lt;br&gt;- ความพยายามในการลดเสียงกระแทกยังคงไร้ผล ผู้ดูแลระบบจะเข้มงวดกับเรื่องพวกนี้น้อยลงหากมันไม่น่าตกใจเท่านี้&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -11073,7 +11073,7 @@
      <Data ss:Type="String">Fabrication Plan for the Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;- Noise reduction on trigger action. Still a bit too clacky for my tastes.&lt;br&gt;-Decreased weight while retaining structural stability. No more barrel splintering.&lt;br&gt;- Finalized name to the Huntress Boltcaster. Rejected Clive&apos;s suggestion of &quot;Painthrower&quot; and Franklin&apos;s &quot;Excruciator&quot;.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิต Huntress Boltcaster v. 1.3<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- ลดเสียงรบกวนจากการเหนี่ยวไก แต่ก็ยังดังเกินไปสำหรับผม<br>-ลดน้ำหนักลงแต่ยังคงความเสถียรของโครงสร้าง ไม่มีลำกล้องแตกอีกต่อไป<br>- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่ให้ใช้ชื่อ &quot;Painthrower&quot; และของ Franklin ที่ให้ใช้ชื่อ &quot;Excruciator&quot;<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิต Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- ลดเสียงรบกวนจากการเหนี่ยวไก แต่ก็ยังดังเกินไปสำหรับผม&lt;br&gt;-ลดน้ำหนักลงแต่ยังคงความเสถียรของโครงสร้าง ไม่มีลำกล้องแตกอีกต่อไป&lt;br&gt;- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่ให้ใช้ชื่อ &quot;Painthrower&quot; และของ Franklin ที่ให้ใช้ชื่อ &quot;Excruciator&quot;&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -11087,7 +11087,7 @@
      <Data ss:Type="String">Fabrication Plan for the Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;- Noise reduction on trigger action. Still a bit too clacky for my tastes.&lt;br&gt;-Decreased weight while retaining structural stability. No more barrel splintering.&lt;br&gt;- Finalized name to the Huntress Boltcaster. Rejected Clive&apos;s suggestion of &quot;Painthrower&quot; and Franklin&apos;s &quot;Excruciator&quot;.&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String">แผนการผลิต Huntress Boltcaster v. 1.3<br><br><b>บันทึกการเปลี่ยนแปลง:</b><br>- ลดเสียงรบกวนจากการเหนี่ยวไก แต่ก็ยังดังเกินไปสำหรับผม<br>-ลดน้ำหนักลงแต่ยังคงความเสถียรของโครงสร้าง ไม่มีลำกล้องแตกอีกต่อไป<br>- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่ให้ใช้ชื่อ &quot;Painthrower&quot; และของ Franklin ที่ให้ใช้ชื่อ &quot;Excruciator&quot;<br><br>-MM</Data>
+     <Data ss:Type="String">แผนการผลิต Huntress Boltcaster v. 1.3&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึกการเปลี่ยนแปลง:&lt;/b&gt;&lt;br&gt;- ลดเสียงรบกวนจากการเหนี่ยวไก แต่ก็ยังดังเกินไปสำหรับผม&lt;br&gt;-ลดน้ำหนักลงแต่ยังคงความเสถียรของโครงสร้าง ไม่มีลำกล้องแตกอีกต่อไป&lt;br&gt;- สรุปชื่อเป็น Huntress Boltcaster ปฏิเสธข้อเสนอของ Clive ที่ให้ใช้ชื่อ &quot;Painthrower&quot; และของ Franklin ที่ให้ใช้ชื่อ &quot;Excruciator&quot;&lt;br&gt;&lt;br&gt;-MM</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -11101,7 +11101,7 @@
      <Data ss:Type="String">&lt;b&gt;Subject:&lt;/b&gt; Lorenzo Calvino&lt;br&gt;&lt;b&gt;Session #:&lt;/b&gt; 253&lt;br&gt;&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt; My concern with Dr. Calvino is increasing. His symptoms have escalated from memory loss and occasional disorientation to delusions and paranoia. His increased agitation in this session has given me cause to take his issues up with Alex during our next debriefing session.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>หัวข้อ:</b> Lorenzo Calvino<br><b>เซสชัน #:</b> 253<br><br><b>บันทึก:</b> ความกังวลของผมเกี่ยวกับ Dr. Calvino เพิ่มขึ้นเรื่อย ๆ อาการของเขาแย่ลงจากอาการความจำเสื่อมและการสับสนเป็นครั้งคราวไปจนถึงอาการหลงผิดและหวาดระแวง ความกระสับกระส่ายที่เพิ่มขึ้นของเขาในเซสชันนี้ทำให้ผมต้องนำปัญหาของเขาไปหารือกับ Alex ในการสรุปผลครั้งต่อไป</Data>
+     <Data ss:Type="String">&lt;b&gt;หัวข้อ:&lt;/b&gt; Lorenzo Calvino&lt;br&gt;&lt;b&gt;เซสชัน #:&lt;/b&gt; 253&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึก:&lt;/b&gt; ความกังวลของผมเกี่ยวกับ Dr. Calvino เพิ่มขึ้นเรื่อย ๆ อาการของเขาแย่ลงจากอาการความจำเสื่อมและการสับสนเป็นครั้งคราวไปจนถึงอาการหลงผิดและหวาดระแวง ความกระสับกระส่ายที่เพิ่มขึ้นของเขาในเซสชันนี้ทำให้ผมต้องนำปัญหาของเขาไปหารือกับ Alex ในการสรุปผลครั้งต่อไป</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -11118,7 +11118,7 @@
      <Data ss:Type="String">&lt;b&gt;Subject:&lt;/b&gt; Sarah Elazar&lt;br&gt;&lt;b&gt;Session #:&lt;/b&gt; 56&lt;br&gt;&lt;br&gt;&lt;b&gt;Notes: &lt;/b&gt;Sarah&apos;s hostilities toward me continue unabated. This distance she creates makes it difficult for me to address her issues of anxiety and distrust. Some of her answers today did lend me a bit of insight I might be able to use in future sessions to hopefully get her to open up more.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>หัวข้อ:</b> Sarah Elazar<br><b>เซสชัน #:</b> 56<br><br><b>บันทึก: </b>ความเป็นปรปักษ์ของ Sarah ที่มีต่อผมยังคงไม่ลดลง ระยะห่างที่เธอสร้างขึ้นทำให้ผมยากที่จะจัดการกับปัญหาความวิตกกังวลและความไม่ไว้วางใจของเธอ คำตอบบางส่วนของเธอในวันนี้ทำให้ผมได้ข้อมูลเชิงลึกเล็กน้อยที่ผมอาจนำไปใช้ในเซสชันถัดไปเพื่อหวังว่าจะทำให้เธอเปิดใจมากขึ้น</Data>
+     <Data ss:Type="String">&lt;b&gt;หัวข้อ:&lt;/b&gt; Sarah Elazar&lt;br&gt;&lt;b&gt;เซสชัน #:&lt;/b&gt; 56&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึก: &lt;/b&gt;ความเป็นปรปักษ์ของ Sarah ที่มีต่อผมยังคงไม่ลดลง ระยะห่างที่เธอสร้างขึ้นทำให้ผมยากที่จะจัดการกับปัญหาความวิตกกังวลและความไม่ไว้วางใจของเธอ คำตอบบางส่วนของเธอในวันนี้ทำให้ผมได้ข้อมูลเชิงลึกเล็กน้อยที่ผมอาจนำไปใช้ในเซสชันถัดไปเพื่อหวังว่าจะทำให้เธอเปิดใจมากขึ้น</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -11132,7 +11132,7 @@
      <Data ss:Type="String">&lt;b&gt;Subject: &lt;/b&gt;Danielle Sho&lt;br&gt;&lt;b&gt;Session #:&lt;/b&gt; 5&lt;br&gt;&lt;br&gt;&lt;b&gt;Notes: &lt;/b&gt;Danielle exhibits relentless anger toward authority generally and the Yus specifically. A few gentle questions sent her on a tirade that ended with her storming out of the office. I wouldn&apos;t be surprised if she decided to skip these meetings for the rest of her tenure here on Talos I.</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>หัวข้อ: </b>Danielle Sho<br><b>เซสชัน #:</b> 5<br><br><b>บันทึก: </b>Danielle แสดงความโกรธอย่างไม่ลดละต่อผู้มีอำนาจโดยทั่วไปและตระกูล Yu โดยเฉพาะ คำถามอ่อนโยนเพียงไม่กี่คำถามทำให้เธอระเบิดอารมณ์และเดินออกจากสำนักงานไป ผมจะไม่แปลกใจเลยถ้าเธอตัดสินใจที่จะไม่เข้าร่วมการประชุมเหล่านี้ตลอดระยะเวลาที่เหลือของเธอที่ Talos I</Data>
+     <Data ss:Type="String">&lt;b&gt;หัวข้อ: &lt;/b&gt;Danielle Sho&lt;br&gt;&lt;b&gt;เซสชัน #:&lt;/b&gt; 5&lt;br&gt;&lt;br&gt;&lt;b&gt;บันทึก: &lt;/b&gt;Danielle แสดงความโกรธอย่างไม่ลดละต่อผู้มีอำนาจโดยทั่วไปและตระกูล Yu โดยเฉพาะ คำถามอ่อนโยนเพียงไม่กี่คำถามทำให้เธอระเบิดอารมณ์และเดินออกจากสำนักงานไป ผมจะไม่แปลกใจเลยถ้าเธอตัดสินใจที่จะไม่เข้าร่วมการประชุมเหล่านี้ตลอดระยะเวลาที่เหลือของเธอที่ Talos I</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
@@ -11356,7 +11356,7 @@
      <Data ss:Type="String">&lt;b&gt;Reset the test rooms to current configuration.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Test Rooms Affected: A, B, C</Data>
     </Cell>
     <Cell>
-     <Data ss:Type="String"><b>รีเซ็ตห้องทดสอบเป็นการกำหนดค่าปัจจุบัน</b><br><br>ห้องทดสอบที่ได้รับผลกระทบ: A, B, C</Data>
+     <Data ss:Type="String">&lt;b&gt;รีเซ็ตห้องทดสอบเป็นการกำหนดค่าปัจจุบัน&lt;/b&gt;&lt;br&gt;&lt;br&gt;ห้องทดสอบที่ได้รับผลกระทบ: A, B, C</Data>
     </Cell>
     <Cell>
      <Data ss:Type="String">LOCKED</Data>
